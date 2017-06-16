@@ -1,0 +1,82 @@
+# Sentence delimiter
+DELIMITERS = "<།>";
+
+# Shorthand classes
+LIST n.xxx = /^n[.](?!v[.]).*$/r;
+LIST v.xxx = v.aux v.cop v.cop.neg v.fut v.imp v.neg v.past v.pres v.invar v.fut.v.past v.fut.v.pres v.past.v.pres;
+LIST n.v.xxx = n.v.aux n.v.cop n.v.cop.neg n.v.fut n.v.imp n.v.neg n.v.past n.v.pres n.v.invar n.v.fut.n.v.past n.v.fut.n.v.pres n.v.past.n.v.pres;
+
+# 1. CLEANING UP
+
+# Remove auxiliaries unless they are the only reading
+REMOVE (".*√x"r);
+
+# Correct invariant nyan, which should not be an auxiliary
+APPEND ("ཉན་" v.invar) TARGET ("ཉན་√x" v.invar);
+APPEND ("ཉན་" n.v.invar) TARGET ("ཉན་√x" n.v.invar);
+REMOVE ("ཉན་√x" v.invar);
+REMOVE ("ཉན་√x" n.v.invar);
+
+
+# 2. ADDING UNIVERSAL POS TAGS
+
+# Universal POS lists
+LIST ADJ_list = adj num.ord;
+LIST ADP_list = /^case[.].*$/r;
+LIST ADV_list = adv.dir adv.intense adv.mim adv.proclausal adv.temp;
+LIST AUX_list = n.v.cop v.cop v.cop.neg;
+LIST DET_list = d.dem d.det d.emph d.indef d.plural d.tsam;
+LIST INTJ_list = interj;
+LIST NOUN_list = n.count n.mass n.rel;
+LIST NUM_list = num.card numeral;
+LIST PART_list = cl.focus cv.fin cv.imp cv.ques neg;
+LIST PRON_list = p.indef p.interrog p.pers p.refl;
+LIST PROPN_list = n.prop;
+LIST PUNCT_list = punc;
+LIST SCONJ_list = cv.abl cv.agn cv.all cv.are cv.ass cv.cont cv.ela cv.gen cv.impf cv.loc cv.odd cv.rung cv.sem cv.term;
+LIST VERB_list = cl.quot n.v.aux n.v.fut n.v.fut.n.v.past n.v.fut.n.v.pres n.v.imp n.v.invar n.v.neg n.v.past n.v.past.n.v.pres n.v.pres v.aux v.fut v.fut.v.past v.fut.v.pres v.imp v.invar v.neg v.past v.past.v.pres v.pres;
+LIST X_list = skt;
+
+# Insert Universal POS tags
+ADD (ADJ) ADJ_list;
+ADD (ADP) ADP_list;
+ADD (ADV) ADV_list;
+ADD (AUX) AUX_list;
+ADD (DET) DET_list;
+ADD (INTJ) INTJ_list;
+ADD (NOUN) NOUN_list;
+ADD (NUM) NUM_list;
+ADD (PART) PART_list;
+ADD (PRON) PRON_list;
+ADD (PROPN) PROPN_list;
+ADD (PUNCT) PUNCT_list;
+ADD (SCONJ) SCONJ_list;
+ADD (VERB) VERB_list;
+ADD (X) X_list;
+
+# Secure heads
+SET SecureHead_NOUN = (NOUN) - (n.rel) OR (PRON) - (p.refl);
+SET SecureHead_ADV = (ADV);
+
+# Secure dependents
+SET SecureDependent_NOUN = (DET) - (d.dem);
+
+# 3. DEPENDENCIES
+
+# Negation
+SETPARENT (PART neg) TO (1 v.xxx OR n.v.xxx);
+
+# Punctuation
+SETPARENT (PUNCT) TO (-1 (VERB));
+SETPARENT (PUNCT) (-1 (PART) - (cl.focus) OR (SCONJ)) TO (-2 (VERB));
+
+# Nominals
+SETPARENT SecureDependent_NOUN TO (-1 SecureHead_NOUN);
+SETPARENT (ADP) TO (-1 SecureHead_NOUN);
+SETPARENT (ADP) (-1 SecureDependent_NOUN) TO (-2 SecureHead_NOUN);
+
+# Verbs
+SETPARENT (PART) - (cl.focus) OR (SCONJ) TO (-1 (VERB));
+
+# Adverbs
+SETPARENT (ADP) OR (SCONJ) TO (-1 SecureHead_ADV);
