@@ -55,4 +55,4 @@ To apply the grammar to the input yourself, first install VISL CG3 and then comp
 
 Then, apply the grammar to the input, specifying an output file:
 
-`vislcg3 -g minimal-dependencies.cg -I volume-74-vislcg-with-lemmas.txt -O output-74.txt`
+`vislcg3 -g minimal-dependencies.cg -I volume-74-vislcg.txt -O output-74.txt`
