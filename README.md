@@ -39,7 +39,7 @@ The file `minimal-dependencies.txt` is a script that uses the
 [Constraint Grammar](http://visl.sdu.dk/constraint_grammar.html) formalism to add
 universal POS tags and universal features to our text corpus. 
 Note that CG3 does not directly implement feature-value tags, 
-so the universal feature tags are just complex tags, for example
+so the universal features just come out as complex tags, for example
 `NumType=Card|NumForm=Digit`.
 
 In addition, the script adds minimal syntactic dependencies to the texts. 
