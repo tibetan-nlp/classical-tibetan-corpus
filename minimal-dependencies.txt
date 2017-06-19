@@ -37,7 +37,7 @@ LIST SCONJ_list = cv.abl cv.agn cv.all cv.are cv.ass cv.cont cv.ela cv.gen cv.im
 LIST VERB_list = cl.quot n.v.aux n.v.fut n.v.fut.n.v.past n.v.fut.n.v.pres n.v.imp n.v.invar n.v.neg n.v.past n.v.past.n.v.pres n.v.pres v.aux v.fut v.fut.v.past v.fut.v.pres v.imp v.invar v.neg v.past v.past.v.pres v.pres;
 LIST X_list = skt;
 
-# Insert Universal POS tags
+# Insert universal POS tags
 ADD (ADJ) ADJ_list;
 ADD (ADP) ADP_list;
 ADD (ADV) ADV_list;
@@ -53,6 +53,70 @@ ADD (PUNCT) PUNCT_list;
 ADD (SCONJ) SCONJ_list;
 ADD (VERB) VERB_list;
 ADD (X) X_list;
+
+# Insert universal features
+ADD (AdvType=Dir) (adv.dir);
+ADD (AdvType=Intens) (adv.intense);
+ADD (AdvType=Mim) (adv.mim);
+ADD (PronType=Dem) (adv.proclausal);
+ADD (AdvType=Tim) (adv.temp);
+ADD (Case=Abl) (case.abl cv.abl);
+ADD (Case=Agn) (case.agn cv.agn);
+ADD (Case=All) (case.all cv.all);
+ADD (Case=Com) (case.ass cv.ass);
+ADD (Case=Cmp) (case.comp);
+ADD (Case=Ela) (case.ela cv.ela);
+ADD (Case=Gen) (case.gen cv.gen);
+ADD (Case=Loc) (case.loc cv.loc);
+ADD (Case=Qot) (case.nare);
+ADD (Case=Ter) (case.term cv.term);
+ADD (Mood=Qot) (cl.quot);
+ADD (Case=Are) (cv.are);
+ADD (Case=Cont) (cv.cont);
+ADD (Mood=Ind) (cv.fin);
+ADD (Mood=Imp) (cv.imp);
+ADD (Case=Impf) (cv.impf);
+ADD (Case=Odd) (cv.odd);
+ADD (Polarity=Xor) (cv.ques);
+ADD (Case=Rung) (cv.rung);
+ADD (Case=Sem) (cv.sem);
+ADD (PronType=Dem) (d.dem);
+ADD (PronType=Emp) (d.emph);
+ADD (PronType=Ind) (d.indef);
+ADD (Number=Plur) (d.plural);
+ADD (PronType=Tsam) (d.tsam);
+ADD (Number=Sing) (n.count);
+ADD (Number=Coll) (n.mass);
+ADD (NounType=Rel) (n.rel);
+ADD (VerbForm=Vnoun|VerbType=Aux) (n.v.aux);
+ADD (VerbForm=Vnoun) (n.v.cop);
+ADD (Tense=Fut|VerbForm=Vnoun) (n.v.fut);
+ADD (Tense=Fut,Past|VerbForm=Vnoun) (n.v.fut.n.v.past);
+ADD (Tense=Fut,Pres|VerbForm=Vnoun) (n.v.fut.n.v.pres);
+ADD (Mood=Imp|VerbForm=Vnoun) (n.v.imp);
+ADD (VerbForm=Vnoun) (n.v.invar);
+ADD (Polarity=Neg|VerbForm=Vnoun) (n.v.neg);
+ADD (Tense=Past|VerbForm=Vnoun) (n.v.past);
+ADD (Tense=Past,Pres|VerbForm=Vnoun) (n.v.past.n.v.pres);
+ADD (Tense=Pres|VerbForm=Vnoun) (n.v.pres);
+ADD (Polarity=Neg) (neg);
+ADD (NumType=Card|NumForm=Word) (num.card);
+ADD (NumType=Ord) (num.ord);
+ADD (NumType=Card|NumForm=Digit) (numeral);
+ADD (PronType=Ind) (p.indef);
+ADD (PronType=Int) (p.interrog);
+ADD (PronType=Prs) (p.pers);
+ADD (Reflex=Yes) (p.refl)
+ADD (VerbType=Aux) (v.aux);
+ADD (Polarity=Neg) (v.cop.neg);
+ADD (Tense=Fut) (v.fut);
+ADD (Tense=Fut,Past) (v.fut.v.past);
+ADD (Tense=Fut,Pres) (v.fut.v.pres);
+ADD (Mood=Imp) (v.imp);
+ADD (Polarity=Neg) (v.neg);
+ADD (Tense=Past) (v.past);
+ADD (Tense=Past,Pres) (v.past.v.pres);
+ADD (Tense=Pres) (v.pres);
 
 # Secure heads
 SET SecureHead_NOUN = (NOUN) - (n.rel) OR (PRON) - (p.refl);

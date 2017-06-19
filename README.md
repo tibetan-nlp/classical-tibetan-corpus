@@ -36,10 +36,11 @@ universal part-of-speech tags and universal features following the guidelines of
 [Universal Dependency](http://universaldependencies.org/) project.
 
 The file `minimal-dependencies.txt` is a script that uses the
-[Constraint Grammar](http://visl.sdu.dk/constraint_grammar.html) formalism to add these
-universal POS tags to our text corpus. CG3 does not directly implement feature-value tags, 
-so we just leave the SOAS POS tags in the file, alongside the Universal POS tags,
-rather than adding universal feature tags.
+[Constraint Grammar](http://visl.sdu.dk/constraint_grammar.html) formalism to add
+universal POS tags and universal features to our text corpus. 
+Note that CG3 does not directly implement feature-value tags, 
+so the universal feature tags are just complex tags, for example
+`NumType=Card|NumForm=Digit`.
 
 In addition, the script adds minimal syntactic dependencies to the texts. 
 We add only those dependencies that can be inferred from the
