@@ -12,7 +12,7 @@ tagged as part of the project
 It exploits a further processed version of Nathan Hill's
 [Lexicon of Tibetan Verb Stems](https://github.com/tibetan-nlp/lexicon-of-tibetan-verb-stems).
 
-# VISLCG Conversion
+# VISL CG Conversion
 
 The raw vertical texts downloaded from http://larkpie.net/tibetancorpus/ (for example `volume-74.txt`)
 have been converted to [VISL CG format](http://beta.visl.sdu.dk/cg3/single/#stream-vislcg) using a simple
