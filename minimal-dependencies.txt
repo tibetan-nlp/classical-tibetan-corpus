@@ -1,12 +1,7 @@
-# Sentence delimiter
-DELIMITERS = "<།>";
+# 1. GETTING STARTED 
 
-# Shorthand classes
-LIST n.xxx = /^n[.](?!v[.]).*$/r;
-LIST v.xxx = v.aux v.cop v.cop.neg v.fut v.imp v.neg v.past v.pres v.invar v.fut.v.past v.fut.v.pres v.past.v.pres;
-LIST n.v.xxx = n.v.aux n.v.cop n.v.cop.neg n.v.fut n.v.imp n.v.neg n.v.past n.v.pres n.v.invar n.v.fut.n.v.past n.v.fut.n.v.pres n.v.past.n.v.pres;
-
-# 1. CLEANING UP
+# Sentence delimiters
+DELIMITERS = "<།>"; 
 
 # Remove auxiliaries unless they are the only reading
 REMOVE (".*√x"r);
@@ -118,29 +113,37 @@ ADD (Tense=Past) (v.past);
 ADD (Tense=Past,Pres) (v.past.v.pres);
 ADD (Tense=Pres) (v.pres);
 
-# Secure heads
-SET SecureHead_NOUN = (NOUN) - (n.rel) OR (PRON) - (p.refl);
-SET SecureHead_ADV = (ADV);
+# Helpers
+LIST n.xxx = /^n[.](?!v[.]).*$/r;
+LIST v.xxx = v.aux v.cop v.cop.neg v.fut v.imp v.neg v.past v.pres v.invar v.fut.v.past v.fut.v.pres v.past.v.pres;
+LIST n.v.xxx = n.v.aux n.v.cop n.v.cop.neg n.v.fut n.v.imp n.v.neg n.v.past n.v.pres n.v.invar n.v.fut.n.v.past n.v.fut.n.v.pres n.v.past.n.v.pres;
+LIST PostVerbal_PART = cv.fin cv.imp cv.ques;
+SET Head_NOUN = (NOUN) - (n.rel) OR (PRON) - (p.refl) OR (PROPN);
+SET Dependent_DET = (DET) - (d.dem); 
 
-# Secure dependents
-SET SecureDependent_NOUN = (DET) - (d.dem);
 
-# 3. DEPENDENCIES
-
-# Negation
-SETPARENT (PART neg) TO (1 v.xxx OR n.v.xxx);
-
-# Punctuation
-SETPARENT (PUNCT) TO (-1 (VERB));
-SETPARENT (PUNCT) (-1 (PART) - (cl.focus) OR (SCONJ)) TO (-2 (VERB));
-
-# Nominals
-SETPARENT SecureDependent_NOUN TO (-1 SecureHead_NOUN);
-SETPARENT (ADP) TO (-1 SecureHead_NOUN);
-SETPARENT (ADP) (-1 SecureDependent_NOUN) TO (-2 SecureHead_NOUN);
+# 3. DEPENDENCIES - PARENTS 
 
 # Verbs
-SETPARENT (PART) - (cl.focus) OR (SCONJ) TO (-1 (VERB));
+SETPARENT (PART neg) TO (1 v.xxx OR n.v.xxx);
+SETPARENT (PUNCT) OR (SCONJ) OR PostVerbal_PART TO (-1 (VERB));
+SETPARENT (PUNCT) (-1 (SCONJ) OR PostVerbal_PART) TO (-2 (VERB));
 
 # Adverbs
-SETPARENT (ADP) OR (SCONJ) TO (-1 SecureHead_ADV);
+SETPARENT (ADP) OR (SCONJ) TO (-1 (ADV));
+
+# Nouns 
+SETPARENT (ADP) OR Dependent_DET TO (-1 Head_NOUN);
+SETPARENT (ADP) (-1 Dependent_DET) TO (-2 Head_NOUN);
+
+
+# 4. DEPENDENCIES - RELATIONS
+
+ADD (@advmod) (PART neg) (p (*));
+ADD (@punct) (PUNCT) (p (*));
+ADD (@mark) (SCONJ) (-1 (VERB)) (p (*));
+ADD (@discourse) PostVerbal_PART (p (*));
+ADD (@case) (SCONJ) (-1 (ADV)) (p (*));
+ADD (@case) (ADP) (p (*)); 
+ADD (@det) Dependent_DET (p (*));
+
