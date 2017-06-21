@@ -73,5 +73,3 @@ unspecified using the underscore. The candidate lemmas are then copied into the 
 
 Again, only sure dependency relations are included.
 
-
-CoNNL-U format does not support the annotation of multiple hypothesis lemmas 
