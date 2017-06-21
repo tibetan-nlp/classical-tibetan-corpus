@@ -12,7 +12,11 @@ tagged as part of the project
 It exploits a further processed version of Nathan Hill's
 [Lexicon of Tibetan Verb Stems](https://github.com/tibetan-nlp/lexicon-of-tibetan-verb-stems).
 
-# VISL CG Conversion
+# Formats
+
+The corpus files are made available in various formats.
+
+## VISL CG 
 
 The raw vertical texts downloaded from http://larkpie.net/tibetancorpus/ (for example `volume-74.txt`)
 have been converted to [VISL CG format](http://beta.visl.sdu.dk/cg3/single/#stream-vislcg) using a simple
@@ -28,9 +32,9 @@ to the output. Finally, if the word + part-of-speech isn't found in either file,
 or not it ends in a tsheg. If it does, then use the word itself as the lemma. If not, then add tsheg and
 use that variant as the lemma.
 
-# Universal Dependencies
+## VISL CG with Universal Dependencies
 
-The new SOAS project Lexicography in Motion (LIM) has mapped the
+The SOAS project Lexicography in Motion (LIM) has mapped the
 [TIDC part-of-speech tags](http://larkpie.net/tibetancorpus/tags) to 
 universal part-of-speech tags and universal features following the guidelines of the 
 [Universal Dependency](http://universaldependencies.org/) project.
@@ -57,3 +61,17 @@ To apply the grammar to the input yourself, first install VISL CG3 and then comp
 Then, apply the grammar to the input, specifying an output file:
 
 `vislcg3 -g minimal-dependencies.cg -I volume-74-vislcg.txt -O output-74.txt`
+
+## CoNNL-U 
+
+The [CoNNL-U](http://universaldependencies.org/format.html) is used by the UD project to
+represent annotated texts. We have also converted our texts to this format.
+
+CoNNL-U format requires a sure analysis; therefore it is not possible to list multiple
+candidate lemmas in the lemma column. Instead, in that case, we show the column as
+unspecified using the underscore. The candidate lemmas are then copied into the MISC column.
+
+Again, only sure dependency relations are included.
+
+
+CoNNL-U format does not support the annotation of multiple hypothesis lemmas 
