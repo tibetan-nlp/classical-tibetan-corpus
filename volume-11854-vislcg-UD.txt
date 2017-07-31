@@ -1,4 +1,4 @@
-<p id="11a">
+# page_id = 11a
 "<ཞིང་སྐལ་>"
 	"ཞིང་སྐལ་" n.count NOUN Number=Sing #1->1
 "<བྲེ་པེ་སྟན་ཆུང་>"
@@ -636,7 +636,6 @@
 	"འང་√cl" cl.focus PART #2->2
 "<གནའ་མ>"
 	"གནའ་མ་" n.count NOUN Number=Sing #3->3
-<p id="11b">
 "<ར་>"
 	"ར་" n.count NOUN Number=Sing #4->4
 "<བསུ་>"
@@ -675,6 +674,7 @@
 	"གྱིས་√case" case.agn ADP #20->20
 "<།>"
 	"།" punc PUNCT #21->21
+# page_id = 11b
 
 "<ཨ་ཁུ་>"
 	"ཨ་ཁུ་" n.count NOUN Number=Sing #1->1
@@ -1336,7 +1336,6 @@
 
 "<ཡུལ་མི་ཁྱིམ་མཚེས་>"
 	"ཡུལ་མི་ཁྱིམ་མཚེས་" n.count NOUN Number=Sing #1->1
-<p id="12a">
 "<ལ་>"
 	"ལ་√case" case.all ADP @case #2->1
 "<ཤ་ཆང་>"
@@ -1355,6 +1354,7 @@
 	"འདུག་" n.v.invar VERB VerbForm=Vnoun #9->9
 "<།>"
 	"།" punc PUNCT @punct #10->9
+# page_id = 12a
 
 "<ཁྱེད་>"
 	"ཁྱེད་√p" p.pers PRON PronType=Prs #1->1
@@ -2066,7 +2066,6 @@
 	"གྱི་√case" case.gen ADP #12->12
 "<དུས་>"
 	"དུས་" n.count NOUN Number=Sing #13->13
-<p id="12b">
 "<ཀྱི་>"
 	"གྱི་√case" case.gen ADP @case #14->13
 "<ལྟོ་>"
@@ -2075,6 +2074,7 @@
 	"སྦྱིན་" v.past VERB Tense=Past #16->16
 "<།>"
 	"།" punc PUNCT @punct #17->16
+# page_id = 12b
 
 "<ཨ་མ་>"
 	"ཨ་མ་" n.count NOUN Number=Sing #1->1
@@ -2781,12 +2781,12 @@
 	"གཡས་" n.count NOUN Number=Sing #2->2
 "<སུ་>"
 	"དུ་√case" case.term ADP @case #3->2
-<p id="13a">
 "<བོར>"
 	"བོར་" v.past VERB Tense=Past #4->4
 	"འབོར་" v.past VERB Tense=Past #4->4
 "<།>"
 	"།" punc PUNCT @punct #5->4
+# page_id = 13a
 
 "<ཡོས་དཀྲུགས་>"
 	"ཡོས་དཀྲུགས་" n.count NOUN Number=Sing #1->1
@@ -3504,7 +3504,6 @@
 	"གྱིས་√case" case.agn ADP #22->22
 "<།>"
 	"།" punc PUNCT #23->23
-<p id="13b">
 
 "<ཨ་མ>"
 	"ཨ་མ་" n.count NOUN Number=Sing #1->1
@@ -3548,6 +3547,7 @@
 	"དང་√case" case.ass ADP #20->20
 "<།>"
 	"།" punc PUNCT #21->21
+# page_id = 13b
 
 "<རྟ་>"
 	"རྟ་" n.count NOUN Number=Sing #1->1
@@ -4185,7 +4185,6 @@
 	"གལ་" adv.proclausal ADV PronType=Dem #25->25
 "<ཏེ་>"
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @case #26->25
-<p id="14a">
 "<བུ་>"
 	"བུ་" n.count NOUN Number=Sing #27->27
 "<ཁྱོད་>"
@@ -4217,6 +4216,7 @@
 	"ན་√cv" cv.loc SCONJ @mark #40->39
 "<།>"
 	"།" punc PUNCT @punct #41->39
+# page_id = 14a
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -4854,13 +4854,13 @@
 	"ཕངས་" n.v.invar VERB VerbForm=Vnoun #6->6
 "<འགའ་>"
 	"འགའ་√d" d.plural DET Number=Plur #7->7
-<p id="14b">
 "<བདོག་པ>"
 	"བདོག་" n.v.invar VERB VerbForm=Vnoun #8->8
 "<ས>"
 	"གྱིས་√case" case.agn ADP #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 14b
 
 "<ཡུལ་>"
 	"ཡུལ་" n.count NOUN Number=Sing #1->1
@@ -5593,7 +5593,6 @@
 	"པས་√case" case.comp ADP Case=Cmp #2->2
 "<ཤ་>"
 	"ཤ་" n.mass NOUN Number=Coll #3->3
-<p id="15a">
 "<ཚ་བ་>"
 	"ཚ་" n.v.invar VERB VerbForm=Vnoun #4->4
 "<མ་>"
@@ -5610,6 +5609,7 @@
 	"ཡོང་" v.fut.v.pres VERB Tense=Fut,Pres #10->10
 "<།>"
 	"།" punc PUNCT @punct #11->10
+# page_id = 15a
 
 "<ཁོ་>"
 	"ཁོ་√p" p.pers PRON PronType=Prs #1->1
@@ -6296,7 +6296,6 @@
 	"དང་√case" case.ass ADP @case #5->4
 "<གོས་དར་>"
 	"གོས་དར་" n.mass NOUN Number=Coll #6->6
-<p id="15b">
 "<བརྒྱ་>"
 	"བརྒྱ་" num.card NUM NumType=Card|NumForm=Word #7->7
 "<འབུལ་>"
@@ -6307,6 +6306,7 @@
 	"འབུལ་" v.pres VERB Tense=Pres #10->10
 "<།>"
 	"།" punc PUNCT @punct #11->10
+# page_id = 15b
 
 "<བར་>"
 	"བར་√d" d.dem DET PronType=Dem #1->1
@@ -6999,7 +6999,6 @@
 
 "<བླ་མ>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
-<p id="16a">
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
 "<ཞལ་>"
@@ -7008,6 +7007,7 @@
 	"ནས་√case" case.ela quote.B ADP @case #4->3
 "<།>"
 	"།" punc PUNCT #5->5
+# page_id = 16a
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -7701,7 +7701,6 @@
 	"འདྲེན་" v.past VERB Tense=Past #4->4
 "<ངེད་>"
 	"ངེད་√p" p.pers PRON PronType=Prs #5->5
-<p id="16b">
 "<མ་སྨད་>"
 	"མ་སྨད་" n.count NOUN Number=Sing #6->6
 "<ལ་>"
@@ -7732,6 +7731,7 @@
 	"འཛོམ་" v.invar VERB #19->19
 "<།>"
 	"།" punc PUNCT @punct #20->19
+# page_id = 16b
 
 "<འགྲོན་པོ་>"
 	"འགྲོན་པོ་" n.count NOUN Number=Sing #1->1
@@ -8443,11 +8443,11 @@
 	"ཅིག་√cv" cv.imp PART Mood=Imp @discourse #7->6
 "<ལྷ་བླ་མ་དཀོན་མཆོག་>"
 	"ལྷ་བླ་མ་དཀོན་མཆོག་" n.count NOUN Number=Sing #8->8
-<p id="17a">
 "<གསུམ>"
 	"གསུམ་" num.card NUM NumType=Card|NumForm=Word #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 17a
 
 "<ཁོ་>"
 	"ཁོ་√p" p.pers PRON PronType=Prs #1->1
@@ -9179,7 +9179,6 @@
 	"ང་√p" p.pers PRON PronType=Prs #6->6
 "<གསོད་>"
 	"གསོད་" v.pres VERB Tense=Pres #7->7
-<p id="17b">
 "<དུ་>"
 	"དུ་√cv" cv.term SCONJ @mark #8->7
 "<གཏོངས་བ>"
@@ -9194,6 +9193,7 @@
 	"གྱིས་√case" case.agn ADP #13->13
 "<།>"
 	"།" punc PUNCT #14->14
+# page_id = 17b
 
 "<ཞང་པོ་>"
 	"ཞང་པོ་" n.count NOUN Number=Sing #1->1
@@ -9927,7 +9927,6 @@
 	"འཕྲིན་ལས་" n.count NOUN Number=Sing #8->8
 "<ཐོས་པ་དག>"
 	"ཐོས་པ་དགའ་" n.prop PROPN #9->9
-<p id="18a">
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #10->9
 "<བླ་མ་>"
@@ -9954,6 +9953,7 @@
 	"གྱིས་√case" case.agn ADP #21->21
 "<།>"
 	"།" punc PUNCT #22->22
+# page_id = 18a
 
 "<མར་མེ>"
 	"མར་མེ་" n.count NOUN Number=Sing #1->1
@@ -10575,13 +10575,13 @@
 	"དཀར་མི་" n.count NOUN Number=Sing #8->8
 "<རྣམས་>"
 	"རྣམས་√d" d.plural DET Number=Plur @det #9->8
-<p id="18b">
 "<ལ་>"
 	"ལ་√case" case.all ADP @case #10->8
 "<བསྟན>"
 	"སྟོན་" v.fut.v.past VERB Tense=Fut,Past #11->11
 "<།>"
 	"།" punc PUNCT @punct #12->11
+# page_id = 18b
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -11255,7 +11255,6 @@
 
 "<མངའ་རིས་གུང་ཐང་>"
 	"མངའ་རིས་གུང་ཐང་" n.count NOUN Number=Sing #1->1
-<p id="19a">
 "<ཡིན་>"
 	"ཡིན་" v.cop AUX #2->2
 "<ཟེར>"
@@ -11263,6 +11262,7 @@
 	"ཟེར་√2" v.invar VERB #3->3
 "<།>"
 	"།" punc PUNCT @punct #4->3
+# page_id = 19a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -11968,7 +11968,6 @@
 	"ནག་པོ་" adj ADJ #2->2
 "<ལྡིང་བ་>"
 	"ལྡིང་" n.v.invar VERB VerbForm=Vnoun #3->3
-<p id="19b">
 "<ལྷན་པ་>"
 	"ལྷན་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #4->4
 "<ནག་པོ་>"
@@ -11988,6 +11987,7 @@
 	"གདའ་" v.invar VERB #11->11
 "<།>"
 	"།" punc PUNCT @punct #12->11
+# page_id = 19b
 
 "<སྐར་མ་>"
 	"སྐར་མ་" n.count NOUN Number=Sing #1->1
@@ -12635,7 +12635,6 @@
 	"དང་√case" case.ass ADP #6->6
 "<ལྗང་བ་>"
 	"ལྗང་བ་" n.count NOUN Number=Sing #7->7
-<p id="20a">
 "<ཕུག་རོན་>"
 	"ཕུག་རོན་" n.count NOUN Number=Sing #8->8
 "<ནུབ་པ་>"
@@ -12657,6 +12656,7 @@
 	"གྱིས་√case" case.agn ADP #16->16
 "<།>"
 	"།" punc PUNCT #17->17
+# page_id = 20a
 
 "<ཅུང་>"
 	"ཅུང་" dunno #1->1
@@ -13342,7 +13342,6 @@
 	"ན་√case" case.loc ADP #9->9
 "<དུད་པ་>"
 	"དུད་པ་" n.count NOUN Number=Sing #10->10
-<p id="20b">
 "<ཅིག་>"
 	"ཅིག་√d" d.indef DET PronType=Ind @det #11->10
 "<འདུག་>"
@@ -13362,6 +13361,7 @@
 	"ལ་√case" case.all ADP #18->18
 "<།>"
 	"།" punc PUNCT #19->19
+# page_id = 20b
 
 "<གཞོན་པ་>"
 	"གཞོན་པ་" n.count NOUN Number=Sing #1->1
@@ -14083,7 +14083,6 @@
 	"ན་√case" case.loc ADP #3->3
 "<ཆང་སྟོན་>"
 	"ཆང་སྟོན་" n.count NOUN Number=Sing #4->4
-<p id="21a">
 "<ཡོད་>"
 	"ཡོད་" v.invar VERB #5->5
 "<དེ>"
@@ -14114,6 +14113,7 @@
 	"ཟེར་√2" v.invar VERB #17->17
 "<།>"
 	"།" punc PUNCT @punct #18->17
+# page_id = 21a
 
 "<ཕོར་བ་>"
 	"ཕོར་བ་" n.count NOUN Number=Sing #1->1
@@ -14703,7 +14703,6 @@
 	"གསལ་" v.fut.v.pres VERB Tense=Fut,Pres #11->11
 "<ཐོབས་པ>"
 	"ཐོབས་པ་" n.v.past VERB Tense=Past|VerbForm=Vnoun #12->12
-<p id="21b">
 "<ས་>"
 	"གྱིས་√case" case.agn ADP #13->13
 "<སྒྲུབ་པ་>"
@@ -14720,6 +14719,7 @@
 	"མཛད་" n.v.invar VERB VerbForm=Vnoun #19->19
 "<།>"
 	"།" punc PUNCT @punct #20->19
+# page_id = 21b
 
 "<བླ་མ>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -15362,7 +15362,6 @@
 	"བུ་" n.count NOUN Number=Sing #1->1
 "<ཁྱོད་>"
 	"ཁྱོད་√p" p.pers PRON PronType=Prs #2->2
-<p id="22a">
 "<ཀྱིས་>"
 	"གྱིས་√case" case.agn ADP @case #3->2
 "<ཀྱང་>"
@@ -15388,6 +15387,7 @@
 	"གསོག་√3" v.past VERB Tense=Past #13->13
 "<།>"
 	"།" punc PUNCT @punct #14->13
+# page_id = 22a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -16020,7 +16020,6 @@
 	"གྱིས་√case" case.agn ADP #26->26
 "<།>"
 	"།" punc PUNCT #27->27
-<p id="22b">
 
 "<ཇོ་མོ>"
 	"ཇོ་མོ་" n.count NOUN Number=Sing #1->1
@@ -16045,6 +16044,7 @@
 	"གྱིས་√case" case.agn ADP #10->10
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 22b
 
 "<མྱང་སྟོད་རི་ནང་>"
 	"མྱང་སྟོད་རི་ནང་" n.prop PROPN #1->1
@@ -16675,7 +16675,6 @@
 	"མར་པ་" n.prop PROPN #6->6
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #7->6
-<p id="23a">
 "<མཚན་>"
 	"མཚན་" n.count NOUN Number=Sing #8->8
 "<ཐོས་པ་>"
@@ -16702,6 +16701,7 @@
 	"དང་√case" case.ass ADP #19->19
 "<།>"
 	"།" punc PUNCT #20->20
+# page_id = 23a
 
 "<ལུས་>"
 	"ལུས་" n.count NOUN Number=Sing #1->1
@@ -17309,7 +17309,6 @@
 	"འདི་√d" d.dem DET PronType=Dem #2->2
 "<ལ་>"
 	"ལ་√case" case.all ADP #3->3
-<p id="23b">
 "<རབ་གནས་>"
 	"རབ་གནས་" n.count NOUN Number=Sing #4->4
 "<གྱིས་>"
@@ -17334,6 +17333,7 @@
 	"ལ་√case" case.all ADP #13->13
 "<།>"
 	"།" punc PUNCT #14->14
+# page_id = 23b
 
 "<ཡབ་>"
 	"ཡབ་" n.count NOUN Number=Sing #1->1
@@ -18012,7 +18012,6 @@
 	"ལ་√case" case.all ADP #2->2
 "<གཞན་>"
 	"གཞན་√d" d.det DET #3->3
-<p id="24a">
 "<མཚན་>"
 	"མཚན་" n.count NOUN Number=Sing #4->4
 "<མེད་>"
@@ -18025,6 +18024,7 @@
 	"གྱིས་√case" case.agn ADP #8->8
 "<།>"
 	"།" punc PUNCT #9->9
+# page_id = 24a
 
 "<ལ་ལ>"
 	"ལ་ལ་√p" p.indef PRON PronType=Ind #1->1
@@ -18703,7 +18703,6 @@
 	"གྱིས་√case" case.agn ADP #18->18
 "<།>"
 	"།" punc PUNCT #19->19
-<p id="24b">
 
 "<འོ་>"
 	"འོ་" adv.proclausal ADV PronType=Dem #1->1
@@ -18723,6 +18722,7 @@
 	"གྱི་√cv" cv.gen SCONJ @mark #8->7
 "<།>"
 	"།" punc PUNCT @punct #9->7
+# page_id = 24b
 
 "<ཁྱོད་>"
 	"ཁྱོད་√p" p.pers PRON PronType=Prs #1->1
@@ -19397,7 +19397,6 @@
 	"དུ་√case" case.term ADP #12->12
 "<སྡིག་པ་>"
 	"སྡིག་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #13->13
-<p id="25a">
 "<སོག་>"
 	"གསོག་√1" v.pres VERB Tense=Pres #14->14
 "<ཏུ་>"
@@ -19411,6 +19410,7 @@
 	"མིན་" v.cop.neg AUX Polarity=Neg #18->18
 "<།>"
 	"།" punc PUNCT #19->19
+# page_id = 25a
 
 "<ཁྱོད་>"
 	"ཁྱོད་√p" p.pers PRON PronType=Prs #1->1
@@ -20071,7 +20071,6 @@
 	"གྱིས་√case" case.agn ADP #5->5
 "<།>"
 	"།" punc PUNCT #6->6
-<p id="25b">
 
 "<ནས་>"
 	"ནས་" n.mass NOUN Number=Coll #1->1
@@ -20088,6 +20087,7 @@
 	"གསུང་" v.invar VERB #6->6
 "<།>"
 	"།" punc PUNCT @punct #7->6
+# page_id = 25b
 
 "<ཞབས་>"
 	"ཞབས་" n.count NOUN Number=Sing #1->1
@@ -20785,7 +20785,6 @@
 	"བསྙུང་བ་" n.v.invar VERB VerbForm=Vnoun #2->2
 "<འི་>"
 	"གྱི་√case" case.gen ADP #3->3
-<p id="26a">
 "<མི་>"
 	"མི་" n.count NOUN Number=Sing #4->4
 "<མང་པོ་>"
@@ -20804,6 +20803,7 @@
 	"ནས་√cv" cv.ela SCONJ @mark #10->9
 "<།>"
 	"།" punc PUNCT @punct #11->9
+# page_id = 26a
 
 "<ཁྱོད་>"
 	"ཁྱོད་√p" p.pers PRON PronType=Prs #1->1
@@ -21467,11 +21467,11 @@
 "<ཞུས་པ>"
 	"འཇུ་√3" n.v.past VERB Tense=Past|VerbForm=Vnoun #9->9
 	"ཞུ་√1" n.v.past VERB Tense=Past|VerbForm=Vnoun #9->9
-<p id="26b">
 "<ར>"
 	"དུ་√case" case.term ADP #10->10
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 26b
 
 "<མཁར་>"
 	"མཁར་" n.count NOUN Number=Sing #1->1
@@ -22140,7 +22140,6 @@
 	"ཁྱོད་√p" p.pers PRON PronType=Prs #1->1
 "<ཀྱི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
-<p id="27a">
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #3->3
 "<བདེན་པ་>"
@@ -22180,6 +22179,7 @@
 	"གསུང་" v.invar VERB #20->20
 "<།>"
 	"།" punc PUNCT @punct #21->20
+# page_id = 27a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -22822,7 +22822,6 @@
 	"ཀུན་√d" d.plural DET Number=Plur #2->2
 "<ཐུན་མོང་>"
 	"ཐུན་མོང་" adj ADJ #3->3
-<p id="27b">
 "<གི་>"
 	"གྱི་√case" case.gen ADP #4->4
 "<ཆོས་>"
@@ -22833,6 +22832,7 @@
 	"ཡིན་" v.cop AUX #7->7
 "<།>"
 	"།" punc PUNCT #8->8
+# page_id = 27b
 
 "<ཐུན་མོང་>"
 	"ཐུན་མོང་" adj ADJ #1->1
@@ -23466,11 +23466,11 @@
 "<གསུང་བ་>"
 	"གསུང་√1" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #7->7
 	"གསུང་√2" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #7->7
-<p id="28a">
 "<ལ>"
 	"ལ་√case" case.all ADP #8->8
 "<།>"
 	"།" punc PUNCT #9->9
+# page_id = 28a
 
 "<བླ་མ>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -24168,7 +24168,6 @@
 	"རང་གནས་" n.count NOUN Number=Sing #14->14
 "<སུ་>"
 	"དུ་√case" case.term ADP @case #15->14
-<p id="28b">
 "<སྐྱེལ་>"
 	"སྐྱེལ་√1" v.pres VERB Tense=Pres #16->16
 	"སྐྱེལ་√2" v.pres VERB Tense=Pres #16->16
@@ -24191,6 +24190,7 @@
 	"ཡོང་" v.fut.v.pres VERB Tense=Fut,Pres #24->24
 "<།>"
 	"།" punc PUNCT @punct #25->24
+# page_id = 28b
 
 "<མི་>"
 	"མི་√neg" neg PART Polarity=Neg @advmod #1->2
@@ -24856,7 +24856,6 @@
 	"འཆི་" v.past VERB Tense=Past #4->4
 "<ན་>"
 	"ན་√cv" cv.loc SCONJ @mark #5->4
-<p id="29a">
 "<དགའ་བ་>"
 	"དགའ་" n.v.invar VERB VerbForm=Vnoun #6->6
 "<ལ་>"
@@ -24873,6 +24872,7 @@
 	"བསྡད་" v.fut.v.past VERB Tense=Fut,Past #12->12
 "<།>"
 	"།" punc PUNCT @punct #13->12
+# page_id = 29a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -25516,7 +25516,6 @@
 	"གཏོང་√2" v.past VERB Tense=Past #4->4
 "<ནས་>"
 	"ནས་√cv" cv.ela SCONJ @mark #5->4
-<p id="29b">
 "<མི་>"
 	"མི་" n.count NOUN Number=Sing #6->6
 "<མང་པོ་>"
@@ -25525,6 +25524,7 @@
 	"གསོད་" v.past VERB Tense=Past #8->8
 "<།>"
 	"།" punc PUNCT @punct #9->8
+# page_id = 29b
 
 "<སེར་བ>"
 	"སེར་བ་" n.mass NOUN Number=Coll #1->1
@@ -26214,7 +26214,6 @@
 	"མཛད་" n.v.invar VERB VerbForm=Vnoun #8->8
 "<ལགས་>"
 	"ལགས་" v.cop AUX #9->9
-<p id="30a">
 "<མོད་>"
 	"མོད་" v.aux VERB VerbType=Aux #10->10
 "<ཞུས་པ>"
@@ -26241,6 +26240,7 @@
 	"ཟེར་√2" v.invar VERB #20->20
 "<།>"
 	"།" punc PUNCT @punct #21->20
+# page_id = 30a
 
 "<མཁར་>"
 	"མཁར་" n.count NOUN Number=Sing #1->1
@@ -26943,13 +26943,13 @@
 	"ལས་√case" case.abl ADP #5->5
 "<འོས་>"
 	"འོས་" v.invar VERB #6->6
-<p id="30b">
 "<མེད་>"
 	"མེད་" v.neg VERB Polarity=Neg #7->7
 "<གསུང་>"
 	"གསུང་" v.invar VERB #8->8
 "<།>"
 	"།" punc PUNCT @punct #9->8
+# page_id = 30b
 
 "<ཡུམ་>"
 	"ཡུམ་" n.count NOUN Number=Sing #1->1
@@ -27672,7 +27672,6 @@
 	"གྱི་√case" case.gen ADP #9->9
 "<མ་>"
 	"མ་" n.count NOUN Number=Sing #10->10
-<p id="31a">
 "<ལྟ་བུ་>"
 	"ལྟ་བུ་" n.rel NOUN NounType=Rel #11->11
 "<བྱུང་>"
@@ -27681,6 +27680,7 @@
 	"རུང་√cv" cv.rung SCONJ Case=Rung @mark #13->12
 "<།>"
 	"།" punc PUNCT @punct #14->12
+# page_id = 31a
 
 "<ཡུམ་>"
 	"ཡུམ་" n.count NOUN Number=Sing #1->1
@@ -28358,7 +28358,6 @@
 	"ནས་√case" case.ela ADP #15->15
 "<།>"
 	"།" punc PUNCT #16->16
-<p id="31b">
 
 "<ད་>"
 	"ད་" adv.temp ADV AdvType=Tim #1->1
@@ -28396,6 +28395,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #16->15
 "<།>"
 	"།" punc PUNCT @punct #17->15
+# page_id = 31b
 
 "<དབང་གྲལ་>"
 	"དབང་གྲལ་" n.count NOUN Number=Sing #1->1
@@ -29055,7 +29055,6 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #8->7
 "<།>"
 	"།" punc PUNCT @punct #9->7
-<p id="32a">
 
 "<ཐོན་>"
 	"འཐོན་√2" v.imp VERB Mood=Imp #1->1
@@ -29084,6 +29083,7 @@
 	"གསུང་" v.invar VERB #12->12
 "<།>"
 	"།" punc PUNCT @punct #13->12
+# page_id = 32a
 
 "<ཁ་>"
 	"ཁ་" n.count NOUN Number=Sing #1->1
@@ -29733,7 +29733,6 @@
 	"མི་√neg" neg PART Polarity=Neg @advmod #19->20
 "<དགོས་པ་>"
 	"དགོས་པ་" n.v.aux VERB VerbForm=Vnoun|VerbType=Aux #20->20
-<p id="32b">
 "<ནི་>"
 	"ནི་√cl" cl.focus PART #21->21
 "<མི་>"
@@ -29742,6 +29741,7 @@
 	"ཡོང་" v.fut.v.pres VERB Tense=Fut,Pres #23->23
 "<།>"
 	"།" punc PUNCT @punct #24->23
+# page_id = 32b
 
 "<ནོར་>"
 	"ནོར་" n.mass NOUN Number=Coll #1->1
@@ -30471,13 +30471,13 @@
 	"ཟེར་√2" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #12->12
 "<ས་>"
 	"གྱིས་√case" case.agn ADP #13->13
-<p id="33a">
 "<དགའ་>"
 	"དགའ་" v.invar VERB #14->14
 "<སྟེ>"
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #15->14
 "<།>"
 	"།" punc PUNCT @punct #16->14
+# page_id = 33a
 
 "<རུང་>"
 	"རུང་" v.invar VERB #1->1
@@ -31201,7 +31201,6 @@
 
 "<འོ་ཅག་>"
 	"འོ་ཅག་√p" p.pers PRON PronType=Prs #1->1
-<p id="33b">
 "<བློ>"
 	"བློ་" n.count NOUN Number=Sing #2->2
 "<ས་>"
@@ -31214,6 +31213,7 @@
 	"མིན་" v.cop.neg AUX Polarity=Neg #6->6
 "<།>"
 	"།" punc PUNCT #7->7
+# page_id = 33b
 
 "<ཁོ་>"
 	"ཁོ་√p" p.pers PRON PronType=Prs #1->1
@@ -31934,7 +31934,6 @@
 
 "<གྲྭ་པ་>"
 	"གྲྭ་པ་" n.count NOUN Number=Sing #1->1
-<p id="34a">
 "<རྣམས་>"
 	"རྣམས་√d" d.plural DET Number=Plur @det #2->1
 "<ཀྱང་>"
@@ -31955,6 +31954,7 @@
 	"དང་√case" case.ass ADP #10->10
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 34a
 
 "<ཞུ་མཁན་>"
 	"ཞུ་མཁན་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #1->1
@@ -32639,7 +32639,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="34b">
 
 "<ལྷན་>"
 	"ལྷན་" n.count NOUN Number=Sing #1->1
@@ -32655,6 +32654,7 @@
 	"ང་√p" p.pers PRON PronType=Prs #6->6
 "<།>"
 	"།" punc PUNCT #7->7
+# page_id = 34b
 
 "<ཞེས་>"
 	"ཅེས་√cl" cl.quot quote.E VERB Mood=Qot #1->1
@@ -33327,7 +33327,6 @@
 	"བསྒྲུབ་བྱ་" n.v.fut VERB Tense=Fut|VerbForm=Vnoun #3->3
 "<ལ་>"
 	"ལ་√case" case.all ADP #4->4
-<p id="35a">
 "<འདི>"
 	"འདི་√d" d.dem DET PronType=Dem #5->5
 "<ར་>"
@@ -33360,6 +33359,7 @@
 	"འདུག་" n.v.invar VERB VerbForm=Vnoun #19->19
 "<།>"
 	"།" punc PUNCT @punct #20->19
+# page_id = 35a
 
 "<ཁོ་>"
 	"ཁོ་√p" p.pers PRON PronType=Prs #1->1
@@ -34010,12 +34010,12 @@
 	"གྱིས་√case" case.agn ADP @case #16->14
 "<སུབས་>"
 	"སུབ་" v.past VERB Tense=Past #17->17
-<p id="35b">
 "<སོང་>"
 	"འགྲོ་" v.past VERB Tense=Past #18->18
 	"སོང་" v.past VERB Tense=Past #18->18
 "<།>"
 	"།" punc PUNCT @punct #19->18
+# page_id = 35b
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -34740,11 +34740,11 @@
 "<གཏོགས་པ>"
 	"གཏོག་√1" n.v.past VERB Tense=Past|VerbForm=Vnoun #11->11
 	"གཏོགས་" n.v.past VERB Tense=Past|VerbForm=Vnoun #11->11
-<p id="36a">
 "<ས>"
 	"གྱིས་√case" case.agn ADP #12->12
 "<།>"
 	"།" punc PUNCT #13->13
+# page_id = 36a
 
 "<རོ་>"
 	"རོ་" n.count NOUN Number=Sing #1->1
@@ -35475,7 +35475,6 @@
 	"དེ་√d" d.dem DET PronType=Dem #3->3
 "<དུས་>"
 	"དུས་" n.rel NOUN NounType=Rel #4->4
-<p id="36b">
 "<ཁྲིད་>"
 	"འཁྲིད་√1" v.imp VERB Mood=Imp #5->5
 	"འཁྲིད་√2" v.imp VERB Mood=Imp #5->5
@@ -35494,6 +35493,7 @@
 	"གྱིས་√case" case.agn ADP #10->10
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 36b
 
 "<བླ་མ་>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -36223,11 +36223,11 @@
 	"འབྱུང་" n.v.past VERB Tense=Past|VerbForm=Vnoun #7->7
 "<བཀླགས་པ>"
 	"ཀློག་" n.v.past VERB Tense=Past|VerbForm=Vnoun #8->8
-<p id="37a">
 "<ས>"
 	"གྱིས་√case" case.agn ADP #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 37a
 
 "<ད་>"
 	"ད་" adv.temp ADV AdvType=Tim #1->1
@@ -36917,7 +36917,6 @@
 "<བཙལ་བ>"
 	"འཚལ་√1" n.v.fut VERB Tense=Fut|VerbForm=Vnoun #3->3
 	"འཚོལ་" n.v.fut VERB Tense=Fut|VerbForm=Vnoun #3->3
-<p id="37b">
 "<ས་>"
 	"གྱིས་√case" case.agn ADP #4->4
 "<ལྷོ>"
@@ -36935,6 +36934,7 @@
 	"ལ་√case" case.all ADP #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 37b
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -37578,7 +37578,6 @@
 
 "<བཀྲ་ཤིས་>"
 	"བཀྲ་ཤིས་" n.count NOUN Number=Sing #1->1
-<p id="38a">
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #2->2
 "<ས་>"
@@ -37600,6 +37599,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 38a
 
 "<བྱིན་བརླབས་དངོས་གྲུབ་>"
 	"བྱིན་བརླབས་དངོས་གྲུབ་" n.count NOUN Number=Sing #1->1
@@ -38227,7 +38227,6 @@
 	"གྱི་√case" case.gen ADP #3->3
 "<གདམས་ངག་>"
 	"གདམས་ངག་" n.count NOUN Number=Sing #4->4
-<p id="38b">
 "<གཞན་>"
 	"གཞན་√d" d.det DET @det #5->4
 "<རྣམས་>"
@@ -38251,6 +38250,7 @@
 	"གྱིས་√case" case.agn ADP #14->14
 "<།>"
 	"།" punc PUNCT #15->15
+# page_id = 38b
 
 "<གྲལ་པ་>"
 	"གྲལ་པ་" n.count NOUN Number=Sing #1->1
@@ -38887,7 +38887,6 @@
 	"མི་√neg" neg PART Polarity=Neg @advmod #4->5
 "<ཐོན་བ་>"
 	"འཐོན་√1" n.v.fut VERB Tense=Fut|VerbForm=Vnoun #5->5
-<p id="39a">
 "<ལྟ་བུ་>"
 	"ལྟ་བུ་" n.rel NOUN NounType=Rel #6->6
 "<བྱུང་>"
@@ -38896,6 +38895,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #8->7
 "<།>"
 	"།" punc PUNCT @punct #9->7
+# page_id = 39a
 
 "<འདར་བ>"
 	"འདར་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #1->1
@@ -39603,7 +39603,6 @@
 	"ཡོད་" v.invar VERB #8->8
 "<།>"
 	"།" punc PUNCT @punct #9->8
-<p id="39b">
 
 "<མདོ་ལུགས་>"
 	"མདོ་ལུགས་" n.count NOUN Number=Sing #1->1
@@ -39667,6 +39666,7 @@
 	"སྲིད་" v.invar VERB #30->30
 "<།>"
 	"།" punc PUNCT @punct #31->30
+# page_id = 39b
 
 "<མ་>"
 	"མ་√neg" neg PART Polarity=Neg @advmod #1->2
@@ -40325,13 +40325,13 @@
 	"ཅིག་√d" d.indef DET PronType=Ind #8->8
 "<དགོས་རྒྱུ་>"
 	"དགོས་རྒྱུ་" n.v.invar VERB VerbForm=Vnoun #9->9
-<p id="40a">
 "<ཡང་>"
 	"འང་√cl" cl.focus PART #10->10
 "<ཡིན>"
 	"ཡིན་" v.cop AUX #11->11
 "<།>"
 	"།" punc PUNCT #12->12
+# page_id = 40a
 
 "<ཡིན་པ་>"
 	"ཡིན་པ་" n.v.cop AUX VerbForm=Vnoun #1->1
@@ -41053,7 +41053,6 @@
 	"ཡིག་བརྫུས་" n.count NOUN Number=Sing #5->5
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #6->6
-<p id="40b">
 "<གནང་>"
 	"གནང་" v.invar VERB #7->7
 "<ཆེས>"
@@ -41062,6 +41061,7 @@
 	"འཆེ་" v.past VERB Tense=Past #8->8
 "<།>"
 	"།" punc PUNCT @punct #9->8
+# page_id = 40b
 
 "<རྔོག་ཆོས་སྐུ་རྡོ་རྗེ་>"
 	"རྔོག་ཆོས་སྐུ་རྡོ་རྗེ་" n.prop PROPN #1->1
@@ -41738,7 +41738,6 @@
 	"ཆེ་" v.pres VERB Tense=Pres #10->10
 "<ཞེས་>"
 	"ཅེས་√cl" cl.quot quote.E VERB Mood=Qot #11->11
-<p id="41a">
 "<ཕྱག་>"
 	"ཕྱག་" n.count NOUN Number=Sing #12->12
 "<ཕུལ་བ>"
@@ -41779,6 +41778,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 41a
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -42328,7 +42328,6 @@
 
 "<ཕྱག་ལེན་>"
 	"ཕྱག་ལེན་" n.count NOUN Number=Sing #1->1
-<p id="41b">
 "<རྣམས་>"
 	"རྣམས་√d" d.plural DET Number=Plur @det #2->1
 "<མཐིལ་>"
@@ -42344,6 +42343,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #7->6
 "<།>"
 	"།" punc PUNCT @punct #8->6
+# page_id = 41b
 
 "<བླ་མ>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -42994,7 +42994,6 @@
 	"ཆུང་" v.invar VERB #9->9
 "<ཞིང་>"
 	"ཅིང་√cv" cv.impf SCONJ Case=Impf @mark #10->9
-<p id="42a">
 "<དཀའ་སྤྱད་>"
 	"དཀའ་སྤྱད་" n.count NOUN Number=Sing #11->11
 "<སྙིང་རུས་>"
@@ -43013,6 +43012,7 @@
 	"དང་√case" case.ass ADP #18->18
 "<།>"
 	"།" punc PUNCT #19->19
+# page_id = 42a
 
 "<མཐ>"
 	"མཐའ་" n.count NOUN Number=Sing #1->1
@@ -43678,7 +43678,6 @@
 	"མྱུར་" v.pres VERB Tense=Pres #6->6
 "<དུ་>"
 	"དུ་√cv" cv.term SCONJ @mark #7->6
-<p id="42b">
 "<བྱོན་>"
 	"འབྱོན་√1" v.imp VERB Mood=Imp #8->8
 	"འབྱོན་√2" v.imp VERB Mood=Imp #8->8
@@ -43694,6 +43693,7 @@
 	"ལ་√case" case.all ADP #13->13
 "<།>"
 	"།" punc PUNCT #14->14
+# page_id = 42b
 
 "<མད་>"
 	"མད་" v.invar VERB #1->1
@@ -44409,7 +44409,6 @@
 	"ལ་√case" case.all ADP @case #4->3
 "<།>"
 	"།" punc PUNCT #5->5
-<p id="43a">
 
 "<རྗེ་>"
 	"རྗེ་" n.count NOUN Number=Sing #1->1
@@ -44445,6 +44444,7 @@
 	"དང་√case" case.ass ADP #16->16
 "<།>"
 	"།" punc PUNCT #17->17
+# page_id = 43a
 
 "<ཐུགས་རྗེ་>"
 	"ཐུགས་རྗེ་" n.count NOUN Number=Sing #1->1
@@ -44978,7 +44978,6 @@
 	"རྟེན་" v.past VERB Tense=Past #3->3
 "<ནས་>"
 	"ནས་√cv" cv.ela SCONJ @mark #4->3
-<p id="43b">
 "<ཐེག་པ་>"
 	"ཐེག་པ་" n.count NOUN Number=Sing #5->5
 "<རིམ་>"
@@ -45011,6 +45010,7 @@
 	"དང་√case" case.ass ADP #19->19
 "<།>"
 	"།" punc PUNCT #20->20
+# page_id = 43b
 
 "<གལ་>"
 	"གལ་" adv.proclausal ADV PronType=Dem #1->1
@@ -45615,7 +45615,6 @@
 	"དང་√case" case.ass ADP #4->4
 "<ལྷག་མཐོང་>"
 	"ལྷག་མཐོང་" n.count NOUN Number=Sing #5->5
-<p id="44a">
 "<དང་>"
 	"དང་√case" case.ass ADP @case #6->5
 "<མཇལ་བ་>"
@@ -45628,6 +45627,7 @@
 	"ལགས་" v.cop AUX #10->10
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 44a
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -46268,7 +46268,6 @@
 	"ཕོ་བྲང་" n.count NOUN Number=Sing #9->9
 "<དུ་>"
 	"དུ་√case" case.term ADP @case #10->9
-<p id="44b">
 "<འབུལ་བ>"
 	"འབུལ་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #11->11
 "<ར་>"
@@ -46287,6 +46286,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 44b
 
 "<རྡོ་རྗེ་འཆང་ཆེན་>"
 	"རྡོ་རྗེ་འཆང་ཆེན་" n.prop PROPN #1->1
@@ -47017,7 +47017,6 @@
 	"གྱི་√case" case.gen ADP @case #13->12
 "<གདམས་ངག་>"
 	"གདམས་ངག་" n.count NOUN Number=Sing #14->14
-<p id="45a">
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #15->15
 "<མི་>"
@@ -47039,6 +47038,7 @@
 	"དང་√case" case.ass ADP #22->22
 "<།>"
 	"།" punc PUNCT #23->23
+# page_id = 45a
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -47718,7 +47718,6 @@
 	"ལ་√case" case.all ADP #3->3
 "<གཤེགས་པ་>"
 	"གཤེགས་" n.v.invar VERB VerbForm=Vnoun #4->4
-<p id="45b">
 "<དང་>"
 	"དང་√case" case.ass ADP #5->5
 "<ཐུག>"
@@ -47760,6 +47759,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #23->22
 "<།>"
 	"།" punc PUNCT @punct #24->22
+# page_id = 45b
 
 "<གསོལ་བ་>"
 	"གསོལ་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #1->1
@@ -48384,7 +48384,6 @@
 	"ནི་√cl" cl.focus PART #7->7
 "<བདག་ཅག་>"
 	"བདག་ཅག་√p" p.pers PRON PronType=Prs #8->8
-<p id="46a">
 "<སེམས་ཅན་>"
 	"སེམས་ཅན་" n.count NOUN Number=Sing #9->9
 "<རྣམས་>"
@@ -48402,6 +48401,7 @@
 	"ཐུབ་√3" v.past VERB Tense=Past #15->15
 "<།>"
 	"།" punc PUNCT @punct #16->15
+# page_id = 46a
 
 "<བླ་མ་>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -49150,7 +49150,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="46b">
 
 "<སྟག་>"
 	"སྟག་" n.count NOUN Number=Sing #1->1
@@ -49169,6 +49168,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 46b
 
 "<ཁོང་འཛུམ་>"
 	"ཁོང་འཛུམ་" n.count NOUN Number=Sing #1->1
@@ -49870,7 +49870,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="47a">
 
 "<པཎ་ཆེན་>"
 	"པཎ་ཆེན་" n.count NOUN Number=Sing #1->1
@@ -49889,6 +49888,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 47a
 
 "<འདི>"
 	"འདི་√d" d.dem DET PronType=Dem #1->1
@@ -50650,7 +50650,6 @@
 	"སྙན་བརྒྱུད་" n.count NOUN Number=Sing #1->1
 "<ཀྱི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
-<p id="47b">
 "<གདམས་ངག་>"
 	"གདམས་ངག་" n.count NOUN Number=Sing #3->3
 "<ཐེབས་པ་>"
@@ -50662,6 +50661,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 47b
 
 "<ཁོང་འཛུམ་>"
 	"ཁོང་འཛུམ་" n.count NOUN Number=Sing #1->1
@@ -51503,7 +51503,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="48a">
 
 "<ཞེས་>"
 	"ཅེས་√cl" cl.quot quote.E VERB Mood=Qot #1->1
@@ -51535,6 +51534,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 48a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -52098,11 +52098,11 @@
 	"སྦོར་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #9->9
 "<ལྟ་བུ་>"
 	"ལྟ་བུ་" n.rel NOUN NounType=Rel #10->10
-<p id="48b">
 "<དང་>"
 	"དང་√case" case.ass ADP #11->11
 "<།>"
 	"།" punc PUNCT #12->12
+# page_id = 48b
 
 "<མཻ་ཏྲི་པ>"
 	"མཻ་ཏྲི་པ་" n.prop PROPN #1->1
@@ -52757,7 +52757,6 @@
 	"ཁང་བ་" n.count NOUN Number=Sing #1->1
 "<ཀ་བཞི་གདུང་བརྒྱད་>"
 	"ཀ་བཞི་གདུང་བརྒྱད་" n.prop PROPN #2->2
-<p id="49a">
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #3->3
 "<བོང་རྒན་>"
@@ -52772,6 +52771,7 @@
 	"རལ་" v.invar VERB #8->8
 "<།>"
 	"།" punc PUNCT @punct #9->8
+# page_id = 49a
 
 "<ནང་>"
 	"ནང་" n.count NOUN Number=Sing #1->1
@@ -53486,7 +53486,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="49b">
 
 "<སྤྲང་>"
 	"སྤྲང་" n.count NOUN Number=Sing #1->1
@@ -53511,6 +53510,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 49b
 
 "<ཡུལ་>"
 	"ཡུལ་" n.count NOUN Number=Sing #1->1
@@ -54308,13 +54308,13 @@
 	"ཚོགས་འཁོར་" n.count NOUN Number=Sing #3->3
 "<ཁྱེར་>"
 	"འཁྱེར་" v.fut.v.past VERB Tense=Fut,Past #4->4
-<p id="50a">
 "<ཡོངས་པ་>"
 	"ཡོངས་པ་" n.v.past VERB Tense=Past|VerbForm=Vnoun #5->5
 "<འདི>"
 	"འདི་√d" d.dem DET PronType=Dem #6->6
 "<།>"
 	"།" punc PUNCT #7->7
+# page_id = 50a
 
 "<ཁྱོད་>"
 	"ཁྱོད་√p" p.pers PRON PronType=Prs #1->1
@@ -54970,7 +54970,6 @@
 	"གྱི་√case" case.gen ADP #5->5
 "<རྒྱལ་མཚན་>"
 	"རྒྱལ་མཚན་" n.count NOUN Number=Sing #6->6
-<p id="50b">
 "<ཚུགས་>"
 	"གཙུག་" v.imp VERB Mood=Imp #7->7
 	"ཚུགས་√1" v.imp VERB Mood=Imp #7->7
@@ -55013,6 +55012,7 @@
 	"ཁྱད་ཆོས་" n.count NOUN Number=Sing #25->25
 "<།>"
 	"།" punc PUNCT #26->26
+# page_id = 50b
 
 "<མཁའ་འགྲོ་སྙན་བརྒྱུད་>"
 	"མཁའ་འགྲོ་སྙན་བརྒྱུད་" n.count NOUN Number=Sing #1->1
@@ -55717,7 +55717,6 @@
 	"ལ་√case" case.all ADP @case #3->1
 "<བསམ་བློ་>"
 	"བསམ་བློ་" n.count NOUN Number=Sing #4->4
-<p id="51a">
 "<ཐོང་>"
 	"གཏོང་√1" v.imp VERB Mood=Imp #5->5
 	"གཏོང་√2" v.imp VERB Mood=Imp #5->5
@@ -55734,6 +55733,7 @@
 	"གསུང་" v.invar VERB #10->10
 "<།>"
 	"།" punc PUNCT @punct #11->10
+# page_id = 51a
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -56337,7 +56337,6 @@
 	"སྒོམ་" v.imp VERB Mood=Imp #19->19
 "<།>"
 	"།" punc PUNCT @punct #20->19
-<p id="51b">
 
 "<གངས་ཏི་སེ་>"
 	"གངས་ཏི་སེ་" n.prop PROPN #1->1
@@ -56359,6 +56358,7 @@
 	"དང་√case" case.ass ADP #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 51b
 
 "<འཁོར་ལོ་སྡོམ་པ་>"
 	"འཁོར་ལོ་སྡོམ་པ་" n.prop PROPN #1->1
@@ -57038,7 +57038,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="52a">
 
 "<ནང་པ>"
 	"ནང་པ་" adv.temp ADV AdvType=Tim #1->1
@@ -57056,6 +57055,7 @@
 	"བགྱིད་" v.imp VERB Mood=Imp #7->7
 "<།>"
 	"།" punc PUNCT @punct #8->7
+# page_id = 52a
 
 "<ཡིད་>"
 	"ཡིད་" n.count NOUN Number=Sing #1->1
@@ -57721,7 +57721,6 @@
 	"དེ་√d" d.dem DET PronType=Dem #1->1
 "<ནས་>"
 	"ནས་√case" case.ela ADP #2->2
-<p id="52b">
 "<ཆོས་ལྷ་སྒང་>"
 	"ཆོས་ལྷ་སྒང་" n.prop PROPN #3->3
 "<ཞེས་>"
@@ -57744,6 +57743,7 @@
 	"དུ་√case" case.term ADP @case #12->10
 "<།>"
 	"།" punc PUNCT #13->13
+# page_id = 52b
 
 "<ཚོགས་འཁོར་>"
 	"ཚོགས་འཁོར་" n.count NOUN Number=Sing #1->1
@@ -58466,7 +58466,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="53a">
 
 "<ཞེས་>"
 	"ཅེས་√cl" cl.quot quote.E VERB Mood=Qot #1->1
@@ -58477,6 +58476,7 @@
 	"གྱིས་√case" case.agn ADP #3->3
 "<།>"
 	"།" punc PUNCT #4->4
+# page_id = 53a
 
 "<བླ་མ>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -59202,7 +59202,6 @@
 	"གྱི་√case" case.gen ADP @case #2->1
 "<ཕམ་ཕབས་>"
 	"ཕམ་ཕབས་" n.count NOUN Number=Sing #3->3
-<p id="53b">
 "<ཡོད>"
 	"ཡོད་" v.invar VERB #4->4
 "<།>"
@@ -59210,6 +59209,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 53b
 
 "<གྲིབ་མེད་>"
 	"གྲིབ་མེད་" adj ADJ #1->1
@@ -59810,7 +59810,6 @@
 
 "<དྲིན་ཅན་མར་པ>"
 	"དྲིན་ཅན་མར་པ་" n.prop PROPN #1->1
-<p id="54a">
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
 "<ཞབས་>"
@@ -59821,6 +59820,7 @@
 	"དུད་√1" v.fut.v.pres VERB Tense=Fut,Pres #5->5
 "<།>"
 	"།" punc PUNCT @punct #6->5
+# page_id = 54a
 
 "<བུ་>"
 	"བུ་" n.count NOUN Number=Sing #1->1
@@ -60581,7 +60581,6 @@
 	"ཡབ་ཡུམ་" n.count NOUN Number=Sing #4->4
 "<མི་>"
 	"མི་√neg" neg PART Polarity=Neg @advmod #5->6
-<p id="54b">
 "<མཐོང་བ་>"
 	"མཐོང་" n.v.invar VERB VerbForm=Vnoun #6->6
 "<དང་>"
@@ -60613,6 +60612,7 @@
 	"གྱིས་√case" case.agn ADP #19->19
 "<།>"
 	"།" punc PUNCT #20->20
+# page_id = 54b
 
 "<བླ་མ་>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -61261,7 +61261,6 @@
 	"ན་√case" case.loc ADP #2->2
 "<ཡོན་བདག་>"
 	"ཡོན་བདག་" n.count NOUN Number=Sing #3->3
-<p id="55a">
 "<ཅི་>"
 	"ཅི་√p" p.interrog PRON PronType=Int #4->4
 "<འདྲ་>"
@@ -61283,6 +61282,7 @@
 	"གྱིས་√case" case.agn ADP #12->12
 "<།>"
 	"།" punc PUNCT #13->13
+# page_id = 55a
 
 "<ཞིབ་པ>"
 	"ཞིབ་པ་" n.v.invar VERB VerbForm=Vnoun #1->1
@@ -62019,11 +62019,11 @@
 	"འདྲ་√2" n.v.invar VERB VerbForm=Vnoun #3->3
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #4->4
-<p id="55b">
 "<རལ>"
 	"རལ་" v.invar VERB #5->5
 "<།>"
 	"།" punc PUNCT @punct #6->5
+# page_id = 55b
 
 "<ནང་>"
 	"ནང་" n.count NOUN Number=Sing #1->1
@@ -62714,7 +62714,6 @@
 	"སྙིང་པོ་" n.count NOUN Number=Sing #1->1
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
-<p id="56a">
 "<ཆོས་>"
 	"ཆོས་" n.count NOUN Number=Sing #3->3
 "<བྱེད་པ>"
@@ -62748,6 +62747,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 56a
 
 "<རྗེ་>"
 	"རྗེ་" n.count NOUN Number=Sing #1->1
@@ -63522,7 +63522,6 @@
 	"གྱིས་√case" case.agn ADP @case #2->1
 "<རི་ཁྲོད་>"
 	"རི་ཁྲོད་" n.count NOUN Number=Sing #3->3
-<p id="56b">
 "<ཟིན་པ>"
 	"ཟིན་" n.v.past.n.v.pres VERB Tense=Past,Pres|VerbForm=Vnoun #4->4
 "<ར་>"
@@ -63538,6 +63537,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 56b
 
 "<ཞེས་>"
 	"ཅེས་√cl" cl.quot quote.E VERB Mood=Qot #1->1
@@ -64227,11 +64227,11 @@
 	"དུ་√cv" cv.term SCONJ @mark #26->25
 "<ཡོད་>"
 	"ཡོད་" v.invar VERB #27->27
-<p id="57a">
 "<ཅིང་>"
 	"ཅིང་√cv" cv.impf SCONJ Case=Impf @mark #28->27
 "<།>"
 	"།" punc PUNCT @punct #29->27
+# page_id = 57a
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -64935,7 +64935,6 @@
 	"རྣལ་འབྱོར་" n.count NOUN Number=Sing #5->5
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #6->6
-<p id="57b">
 "<སྒྲུབ་པ་>"
 	"སྒྲུབ་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #7->7
 "<བྱེད>"
@@ -64945,6 +64944,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 57b
 
 "<ཚང་མང་>"
 	"ཚང་མང་" n.count NOUN Number=Sing #1->1
@@ -65669,7 +65669,6 @@
 	"ཐེབས་" v.past.v.pres VERB Tense=Past,Pres #10->10
 "<ནས་>"
 	"ནས་√cv" cv.ela SCONJ @mark #11->10
-<p id="58a">
 "<སྒྲུབ་པ་>"
 	"སྒྲུབ་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #12->12
 "<ལ་>"
@@ -65695,6 +65694,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 58a
 
 "<བདུན་པ་>"
 	"བདུན་པ་" num.ord ADJ NumType=Ord #1->1
@@ -66338,7 +66338,6 @@
 	"མར་པ་" n.prop PROPN #3->3
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #4->3
-<p id="58b">
 "<ཞབས་>"
 	"ཞབས་" n.count NOUN Number=Sing #5->5
 "<ལ་>"
@@ -66350,6 +66349,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 58b
 
 "<ཡུལ་>"
 	"ཡུལ་" n.count NOUN Number=Sing #1->1
@@ -67122,7 +67122,6 @@
 	"ནས་√cv" cv.ela SCONJ @mark #5->4
 "<།>"
 	"།" punc PUNCT @punct #6->4
-<p id="59a">
 
 "<བསོད་སྙོམས་>"
 	"བསོད་སྙོམས་" n.count NOUN Number=Sing #1->1
@@ -67144,6 +67143,7 @@
 	"གྱིས་√case" case.agn ADP #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 59a
 
 "<ཨ་ནེ>"
 	"ཨ་ནེ་" n.count NOUN Number=Sing #1->1
@@ -67832,7 +67832,6 @@
 
 "<སྲིང་མོ་>"
 	"སྲིང་མོ་" n.count NOUN Number=Sing #1->1
-<p id="59b">
 "<འཁྱར་ཚུལ་>"
 	"འཁྱར་ཚུལ་" n.v.invar VERB VerbForm=Vnoun #2->2
 "<བཤད་>"
@@ -67868,6 +67867,7 @@
 	"འཆོར་√1" v.past VERB Tense=Past #17->17
 "<།>"
 	"།" punc PUNCT @punct #18->17
+# page_id = 59b
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -68565,7 +68565,6 @@
 	"རྒྱབ་" n.count NOUN Number=Sing #7->7
 "<རང་>"
 	"རང་√d" d.det DET @det #8->7
-<p id="60a">
 "<ལོག་>"
 	"ལོག་" v.invar VERB #9->9
 "<ཡིན་>"
@@ -68576,6 +68575,7 @@
 	"གྱིས་√case" case.agn ADP #12->12
 "<།>"
 	"།" punc PUNCT #13->13
+# page_id = 60a
 
 "<འོ་>"
 	"འོ་" adv.proclausal ADV PronType=Dem #1->1
@@ -69244,7 +69244,6 @@
 	"གྱིས་√case" case.agn ADP #11->11
 "<།>"
 	"།" punc PUNCT #12->12
-<p id="60b">
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -69271,6 +69270,7 @@
 	"སྐྱེལ་√1" v.fut.v.past VERB Tense=Fut,Past #11->11
 "<།>"
 	"།" punc PUNCT @punct #12->11
+# page_id = 60b
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -69951,7 +69951,6 @@
 	"གྱི་√case" case.gen ADP #5->5
 "<རྨོས་>"
 	"རྨོད་" v.past VERB Tense=Past #6->6
-<p id="61a">
 "<ཐོར་>"
 	"འཐོར་√2" v.past VERB Tense=Past #7->7
 "<ལ>"
@@ -69961,6 +69960,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 61a
 
 "<ཐབས་>"
 	"ཐབས་" n.count NOUN Number=Sing #1->1
@@ -70691,7 +70691,6 @@
 	"འཕྲོག་" n.v.past VERB Tense=Past|VerbForm=Vnoun #19->19
 "<ལ་>"
 	"ལ་√case" case.all ADP #20->20
-<p id="61b">
 "<མཐུ་>"
 	"མཐུ་" n.count NOUN Number=Sing #21->21
 "<མི་>"
@@ -70708,6 +70707,7 @@
 	"མེད་" v.neg VERB Polarity=Neg #27->27
 "<།>"
 	"།" punc PUNCT @punct #28->27
+# page_id = 61b
 
 "<ཁྱད་པ>"
 	"ཁྱད་པ" adv.proclausal ADV PronType=Dem #1->1
@@ -71465,12 +71465,12 @@
 	"ངོ་བོ་" n.count NOUN Number=Sing #4->4
 "<སྐུ་དྲིན་ཅན>"
 	"སྐུ་དྲིན་ཅན་" adj ADJ #5->5
-<p id="62a">
 "<།>"
 	"།" punc PUNCT #6->6
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 62a
 
 "<སྤྲང་>"
 	"སྤྲང་" n.count NOUN Number=Sing #1->1
@@ -72128,7 +72128,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="62b">
 
 "<སྒྲུབ་པ་>"
 	"སྒྲུབ་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #1->1
@@ -72187,6 +72186,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 62b
 
 "<རྗེ་>"
 	"རྗེ་" n.count NOUN Number=Sing #1->1
@@ -72812,13 +72812,13 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #9->8
 "<འགྲོ་གྲབས་>"
 	"འགྲོ་གྲབས་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #10->10
-<p id="63a">
 "<བྱས་པ>"
 	"བྱེད་" n.v.past VERB Tense=Past|VerbForm=Vnoun #11->11
 "<ས>"
 	"གྱིས་√case" case.agn ADP #12->12
 "<།>"
 	"།" punc PUNCT #13->13
+# page_id = 63a
 
 "<སྔ>"
 	"སྔ་" adv.temp ADV AdvType=Tim #1->1
@@ -73551,11 +73551,11 @@
 	"དུ་√case" case.term ADP #11->11
 "<འཕོས་>"
 	"འཕོ་" v.past VERB Tense=Past #12->12
-<p id="63b">
 "<ཏེ>"
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #13->12
 "<།>"
 	"།" punc PUNCT @punct #14->12
+# page_id = 63b
 
 "<ཟྭ་>"
 	"ཟྭ་" n.count NOUN Number=Sing #1->1
@@ -74263,7 +74263,6 @@
 	"མེད་པ་" n.v.neg VERB Polarity=Neg|VerbForm=Vnoun #7->7
 "<ས་>"
 	"གྱིས་√case" case.agn ADP #8->8
-<p id="64a">
 "<ཐུགས་དམ་>"
 	"ཐུགས་དམ་" n.count NOUN Number=Sing #9->9
 "<གྱི་>"
@@ -74286,6 +74285,7 @@
 	"ལ་√case" case.all ADP #17->17
 "<།>"
 	"།" punc PUNCT #18->18
+# page_id = 64a
 
 "<གཞན་>"
 	"གཞན་√d" d.det DET #1->1
@@ -74968,7 +74968,6 @@
 	"གྱིས་√case" case.agn ADP #5->5
 "<།>"
 	"།" punc PUNCT #6->6
-<p id="64b">
 
 "<ཁྱི་ར་བ་>"
 	"ཁྱི་ར་བ་" n.count NOUN Number=Sing #1->1
@@ -74992,6 +74991,7 @@
 	"དང་√case" case.ass ADP #10->10
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 64b
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -75709,13 +75709,13 @@
 	"སོད་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #7->7
 "<འགའ་>"
 	"འགའ་√d" d.plural DET Number=Plur #8->8
-<p id="65a">
 "<བྱུང་>"
 	"འབྱུང་" v.past VERB Tense=Past #9->9
 "<སྟེ>"
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #10->9
 "<།>"
 	"།" punc PUNCT @punct #11->9
+# page_id = 65a
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -76484,7 +76484,6 @@
 	"དང་√cv" cv.ass SCONJ @mark #9->8
 "<།>"
 	"།" punc PUNCT @punct #10->8
-<p id="65b">
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -76506,6 +76505,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem #8->8
 "<།>"
 	"།" punc PUNCT #9->9
+# page_id = 65b
 
 "<ལྷོ་བྲག་>"
 	"ལྷོ་བྲག་" n.prop PROPN #1->1
@@ -77244,7 +77244,6 @@
 	"རྫོགས་" n.v.invar VERB VerbForm=Vnoun #1->1
 "<འི་>"
 	"གྱི་√case" case.gen ADP #2->2
-<p id="66a">
 "<སངས་རྒྱས་>"
 	"སངས་རྒྱས་" n.count NOUN Number=Sing #3->3
 "<སྒྲུབ་པ>"
@@ -77258,6 +77257,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 66a
 
 "<གཡེང་གཏམ་>"
 	"གཡེང་གཏམ་" n.count NOUN Number=Sing #1->1
@@ -77928,7 +77928,6 @@
 	"སྐྱེ་" n.v.past VERB Tense=Past|VerbForm=Vnoun #10->10
 "<།>"
 	"།" punc PUNCT @punct #11->10
-<p id="66b">
 
 "<སྐྲ་>"
 	"སྐྲ་" n.mass NOUN Number=Coll #1->1
@@ -77940,6 +77939,7 @@
 	"འཇིགས་" n.v.invar VERB VerbForm=Vnoun #4->4
 "<།>"
 	"།" punc PUNCT @punct #5->4
+# page_id = 66b
 
 "<ཡན་ལག་>"
 	"ཡན་ལག་" n.count NOUN Number=Sing #1->1
@@ -78688,7 +78688,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="67a">
 
 "<ཟས་>"
 	"ཟས་" n.count NOUN Number=Sing #1->1
@@ -78709,6 +78708,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 67a
 
 "<གཞན་>"
 	"གཞན་√d" d.det DET #1->1
@@ -79412,7 +79412,6 @@
 	"འབྱུང་" n.v.past VERB Tense=Past|VerbForm=Vnoun #13->13
 "<།>"
 	"།" punc PUNCT @punct #14->13
-<p id="67b">
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -79434,6 +79433,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #8->7
 "<།>"
 	"།" punc PUNCT @punct #9->7
+# page_id = 67b
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -80127,7 +80127,6 @@
 
 "<རྒས་པ་>"
 	"རྒ་" n.v.past VERB Tense=Past|VerbForm=Vnoun #1->1
-<p id="68a">
 "<གྲོགས་>"
 	"གྲོགས་" n.count NOUN Number=Sing #2->2
 "<ཀྱིས་>"
@@ -80143,6 +80142,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 68a
 
 "<ན་བ་>"
 	"ན་" n.v.invar VERB VerbForm=Vnoun #1->1
@@ -80938,7 +80938,6 @@
 	"སྙམ་" v.invar VERB #9->9
 "<།>"
 	"།" punc PUNCT @punct #10->9
-<p id="68b">
 
 "<བླ་མ>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -80964,6 +80963,7 @@
 	"གྱིས་√case" case.agn ADP #11->11
 "<།>"
 	"།" punc PUNCT #12->12
+# page_id = 68b
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -81566,7 +81566,6 @@
 	"མཐའ་" n.rel NOUN NounType=Rel #9->9
 "<ར་>"
 	"དུ་√case" case.term ADP #10->10
-<p id="69a">
 "<རྟེན་འབྲེལ་>"
 	"རྟེན་འབྲེལ་" n.count NOUN Number=Sing #11->11
 "<སྙིང་པོ>"
@@ -81592,6 +81591,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 69a
 
 "<ལྷོ་བྲག་>"
 	"ལྷོ་བྲག་" n.prop PROPN #1->1
@@ -82264,7 +82264,6 @@
 	"སོགས་" v.invar VERB #5->5
 "<ཏེ་>"
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #6->5
-<p id="69b">
 "<རྫུ་འཕྲུལ་>"
 	"རྫུ་འཕྲུལ་" n.count NOUN Number=Sing #7->7
 "<ཡ་མ་ཟུང་>"
@@ -82283,6 +82282,7 @@
 	"དུ་√case" case.term ADP @case #14->13
 "<།>"
 	"།" punc PUNCT #15->15
+# page_id = 69b
 
 "<མཚན་>"
 	"མཚན་" adv.temp ADV AdvType=Tim #1->1
@@ -82942,7 +82942,6 @@
 	"ཚེ་" n.rel NOUN NounType=Rel #17->17
 "<།>"
 	"།" punc PUNCT #18->18
-<p id="70a">
 
 "<ཡིད་དམ་>"
 	"ཡིད་དམ་" n.count NOUN Number=Sing #1->1
@@ -82991,6 +82990,7 @@
 	"དང་√case" case.ass ADP @case #22->21
 "<།>"
 	"།" punc PUNCT #23->23
+# page_id = 70a
 
 "<སེམས་ཅན་>"
 	"སེམས་ཅན་" n.count NOUN Number=Sing #1->1
@@ -83597,7 +83597,6 @@
 	"དུ་√case" case.term ADP @case #2->1
 "<དལ་>"
 	"དལ་" n.count NOUN Number=Sing #3->3
-<p id="70b">
 "<འབྱོར་>"
 	"འབྱོར་√2" v.invar VERB #4->4
 "<གྱི་>"
@@ -83611,6 +83610,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 70b
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -84332,7 +84332,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="71a">
 
 "<ཕ་>"
 	"ཕ་" n.count NOUN Number=Sing #1->1
@@ -84353,6 +84352,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 71a
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -85117,7 +85117,6 @@
 
 "<བྱས་པ>"
 	"བྱེད་" n.v.past VERB Tense=Past|VerbForm=Vnoun #1->1
-<p id="71b">
 "<ས་>"
 	"གྱིས་√case" case.agn ADP #2->2
 "<ཁོང་>"
@@ -85142,6 +85141,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 71b
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -85809,7 +85809,6 @@
 "<ལྟ་>"
 	"ལྟ་√1" v.pres VERB Tense=Pres #4->4
 	"ལྟ་√2" v.pres VERB Tense=Pres #4->4
-<p id="72a">
 "<ཡང་>"
 	"འང་√cl" cl.focus PART #5->5
 "<ལྟ>"
@@ -85820,6 +85819,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 72a
 
 "<རྨོངས་པ་>"
 	"རྨོང་" n.v.invar VERB VerbForm=Vnoun #1->1
@@ -86521,7 +86521,6 @@
 	"དང་√case" case.ass ADP #11->11
 "<།>"
 	"།" punc PUNCT #12->12
-<p id="72b">
 
 "<བྲིན་པ>"
 	"བྲིན་པ་" n.count NOUN Number=Sing #1->1
@@ -86571,6 +86570,7 @@
 	"ནས་√cv" cv.ela SCONJ @mark #23->22
 "<།>"
 	"།" punc PUNCT @punct #24->22
+# page_id = 72b
 
 "<ད་>"
 	"ད་" adv.temp ADV AdvType=Tim #1->1
@@ -87225,7 +87225,6 @@
 
 "<སྐུ་>"
 	"སྐུ་" n.count NOUN Number=Sing #1->1
-<p id="73a">
 "<དར་ཟབ་>"
 	"དར་ཟབ་" n.count NOUN Number=Sing #2->2
 "<ཀྱི་>"
@@ -87250,6 +87249,7 @@
 	"འགྲོ་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #12->12
 "<།>"
 	"།" punc PUNCT @punct #13->12
+# page_id = 73a
 
 "<གྲྭ་བུ་སློབ་>"
 	"གྲྭ་བུ་སློབ་" n.count NOUN Number=Sing #1->1
@@ -87887,7 +87887,6 @@
 	"ཞེ་" n.count NOUN Number=Sing #8->8
 "<ལོག>"
 	"ལོག་" v.invar VERB #9->9
-<p id="73b">
 "<ཕ་བསད་>"
 	"ཕ་བསད་" n.count NOUN Number=Sing #10->10
 "<ཀྱི་>"
@@ -87920,6 +87919,7 @@
 	"ཡིན་" v.cop AUX #24->24
 "<།>"
 	"།" punc PUNCT #25->25
+# page_id = 73b
 
 "<ཁྱད་པ>"
 	"ཁྱད་པ" adv.proclausal ADV PronType=Dem #1->1
@@ -88542,7 +88542,6 @@
 	"གཤོམ་" v.past VERB Tense=Past #3->3
 "<ན་>"
 	"ན་√cv" cv.loc SCONJ @mark #4->3
-<p id="74a">
 "<ཨ་ཇོ>"
 	"ཨ་ཇོ་" n.count NOUN Number=Sing #5->5
 "<ས་>"
@@ -88558,6 +88557,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 74a
 
 "<ཆོས་>"
 	"ཆོས་" n.count NOUN Number=Sing #1->1
@@ -89194,7 +89194,6 @@
 	"གྱིས་√case" case.agn ADP @case #6->5
 "<སྤངས་པ་>"
 	"སྤོང་" n.v.past VERB Tense=Past|VerbForm=Vnoun #7->7
-<p id="74b">
 "<ཡིན>"
 	"ཡིན་" v.cop AUX #8->8
 "<།>"
@@ -89202,6 +89201,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 74b
 
 "<ཆོས་>"
 	"ཆོས་" n.count NOUN Number=Sing #1->1
@@ -89886,7 +89886,6 @@
 	"བདེ་ཆེན་" n.count NOUN Number=Sing #1->1
 "<ཐར་པ་>"
 	"ཐར་" n.v.past.n.v.pres VERB Tense=Past,Pres|VerbForm=Vnoun #2->2
-<p id="75a">
 "<སྒྲུབ་པ་>"
 	"སྒྲུབ་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #3->3
 "<ཡིན>"
@@ -89896,6 +89895,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 75a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -90576,11 +90576,11 @@
 "<ཟེར་བ་>"
 	"ཟེར་√1" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #8->8
 	"ཟེར་√2" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #8->8
-<p id="75b">
 "<ལ>"
 	"ལ་√case" case.all ADP #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 75b
 
 "<བཙེམས་>"
 	"འཚེམ་√1" v.past VERB Tense=Past #1->1
@@ -91312,7 +91312,6 @@
 	"འགྲུབ་" n.v.past VERB Tense=Past|VerbForm=Vnoun #4->4
 "<ཤེས་>"
 	"ཤེས་" v.invar VERB #5->5
-<p id="76a">
 "<ཟིན་>"
 	"ཟིན་" v.past.v.pres VERB Tense=Past,Pres #6->6
 "<ནས>"
@@ -91322,6 +91321,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 76a
 
 "<མཚན་མ་>"
 	"མཚན་མ་" n.count NOUN Number=Sing #1->1
@@ -92023,7 +92023,6 @@
 	"འགག་" v.fut.v.pres VERB Tense=Fut,Pres #16->16
 "<ན་>"
 	"ན་√cv" cv.loc SCONJ @mark #17->16
-<p id="76b">
 "<བཅྭའ་ཟམ་>"
 	"བཅྭའ་ཟམ་" n.count NOUN Number=Sing #18->18
 "<ཞིག་>"
@@ -92038,6 +92037,7 @@
 	"གྱིས་√case" case.agn ADP #23->23
 "<།>"
 	"།" punc PUNCT #24->24
+# page_id = 76b
 
 "<ཨ་ནེ་>"
 	"ཨ་ནེ་" n.count NOUN Number=Sing #1->1
@@ -92812,7 +92812,6 @@
 	"སློང་" v.pres VERB Tense=Pres #6->6
 "<དུ་>"
 	"དུ་√cv" cv.term SCONJ @mark #7->6
-<p id="77a">
 "<ཡོངས>"
 	"ཡོངས་" v.past VERB Tense=Past #8->8
 "<།>"
@@ -92820,6 +92819,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 77a
 
 "<འཁོས་>"
 	"འཁོས་" n.count NOUN Number=Sing #1->1
@@ -93620,7 +93620,6 @@
 	"བདེན་" v.invar VERB #5->5
 "<བཟོད་པ་>"
 	"བཟོད་" n.v.invar VERB VerbForm=Vnoun #6->6
-<p id="77b">
 "<བཞེས་པ>"
 	"བཞེས་√1" n.v.invar VERB VerbForm=Vnoun #7->7
 	"བཞེས་√2" n.v.invar VERB VerbForm=Vnoun #7->7
@@ -93643,6 +93642,7 @@
 	"འབུལ་" v.past VERB Tense=Past #15->15
 "<།>"
 	"།" punc PUNCT @punct #16->15
+# page_id = 77b
 
 "<ད་>"
 	"ད་" adv.temp ADV AdvType=Tim #1->1
@@ -94270,7 +94270,6 @@
 	"ལ་√case" case.all ADP @case #4->3
 "<འང་>"
 	"འང་√cl" cl.focus PART #5->5
-<p id="78a">
 "<ཡིད་>"
 	"ཡིད་" n.count NOUN Number=Sing #6->6
 "<མ་>"
@@ -94293,6 +94292,7 @@
 	"རྟིང་" n.rel NOUN NounType=Rel #14->14
 "<།>"
 	"།" punc PUNCT #15->15
+# page_id = 78a
 
 "<སྟོང་ཉིད་>"
 	"སྟོང་ཉིད་" n.count NOUN Number=Sing #1->1
@@ -94865,7 +94865,6 @@
 	"གྱི་√case" case.gen ADP @case #7->6
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #8->8
-<p id="78b">
 "<འདྲ་>"
 	"འདྲ་" n.rel NOUN NounType=Rel #9->9
 "<བློ་>"
@@ -94884,6 +94883,7 @@
 	"ན་√cv" cv.loc SCONJ @mark #16->15
 "<།>"
 	"།" punc PUNCT @punct #17->15
+# page_id = 78b
 
 "<ཕྱག་ལེན་>"
 	"ཕྱག་ལེན་" n.count NOUN Number=Sing #1->1
@@ -95510,7 +95510,6 @@
 	"ཅིང་√cv" cv.impf SCONJ Case=Impf @mark #6->5
 "<སྙིང་རུས་>"
 	"སྙིང་རུས་" n.count NOUN Number=Sing #7->7
-<p id="79a">
 "<ཆུངས་བ>"
 	"ཆུངས་བ་" n.v.invar VERB VerbForm=Vnoun #8->8
 "<ས་>"
@@ -95519,6 +95518,7 @@
 	"ལན་" v.invar VERB #10->10
 "<།>"
 	"།" punc PUNCT @punct #11->10
+# page_id = 79a
 
 "<སྙིང་>"
 	"སྙིང་" n.count NOUN Number=Sing #1->1
@@ -96080,7 +96080,6 @@
 	"རྣམ་པ་" n.count NOUN Number=Sing #1->1
 "<དགོད་>"
 	"འགོད་" v.fut.v.pres VERB Tense=Fut,Pres #2->2
-<p id="79b">
 "<བྲོ་བ་>"
 	"བྲོ་" n.v.invar VERB VerbForm=Vnoun #3->3
 "<སྙིང་རུས་>"
@@ -96097,6 +96096,7 @@
 	"འབྲས་བུ་" n.count NOUN Number=Sing #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 79b
 
 "<མི་>"
 	"མི་" n.count NOUN Number=Sing #1->1
@@ -96687,7 +96687,6 @@
 	"རྣམས་√d" d.plural DET Number=Plur @det #5->4
 "<ཚོགས་>"
 	"ཚོགས་" n.count NOUN Number=Sing #6->6
-<p id="80a">
 "<སོག་པ>"
 	"གསོག་√1" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #7->7
 "<འི་>"
@@ -96698,6 +96697,7 @@
 	"དུ་√case" case.term ADP @case #10->9
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 80a
 
 "<སྒྲུབ་གནས་>"
 	"སྒྲུབ་གནས་" n.count NOUN Number=Sing #1->1
@@ -97194,7 +97194,6 @@
 	"རྣམས་√d" d.plural DET Number=Plur @det #4->3
 "<ཀྱིས་>"
 	"གྱིས་√case" case.agn ADP @case #5->3
-<p id="80b">
 "<སྒོ་>"
 	"སྒོ་" n.count NOUN Number=Sing #6->6
 "<གསུམ་>"
@@ -97218,6 +97217,7 @@
 	"ནས་√cv" cv.ela SCONJ @mark #15->14
 "<།>"
 	"།" punc PUNCT @punct #16->14
+# page_id = 80b
 
 "<དཀའ་ཐུབ་>"
 	"དཀའ་ཐུབ་" n.count NOUN Number=Sing #1->1
@@ -97828,7 +97828,6 @@
 	"གསུང་√2" v.past VERB Tense=Past #6->6
 "<།>"
 	"།" punc PUNCT @punct #7->6
-<p id="81a">
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -97858,6 +97857,7 @@
 	"དང་√case" case.ass ADP @case #13->12
 "<།>"
 	"།" punc PUNCT #14->14
+# page_id = 81a
 
 "<བལ་ཡུལ་>"
 	"བལ་ཡུལ་" n.prop PROPN #1->1
@@ -98399,7 +98399,6 @@
 	"ནས་√case" case.ela ADP #2->2
 "<བྱོན་>"
 	"འབྱོན་√1" v.past VERB Tense=Past #3->3
-<p id="81b">
 "<ཏེ་>"
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #4->3
 "<གཉའ་ནམ་གྲོད་ཕུག་>"
@@ -98414,6 +98413,7 @@
 	"ཚེ་" n.rel NOUN NounType=Rel #9->9
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 81b
 
 "<སྔ་>"
 	"སྔ་" adv.temp ADV AdvType=Tim #1->1
@@ -98965,13 +98965,13 @@
 	"ཚེ་" n.rel NOUN NounType=Rel #7->7
 "<ཁྱི་ར་རས་པ་>"
 	"ཁྱི་ར་རས་པ་" n.prop PROPN #8->8
-<p id="82a">
 "<དང་>"
 	"དང་√case" case.ass ADP @case #9->8
 "<མཇལ>"
 	"མཇལ་" v.invar VERB #10->10
 "<།>"
 	"།" punc PUNCT @punct #11->10
+# page_id = 82a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -99534,7 +99534,6 @@
 	"ལོ་སྟོན་དགེ་འདུན་" n.prop PROPN #7->7
 "<དང་>"
 	"དང་√case" case.ass ADP @case #8->7
-<p id="82b">
 "<མཇལ་>"
 	"མཇལ་" v.past.v.pres VERB Tense=Past,Pres #9->9
 "<ནས་>"
@@ -99548,6 +99547,7 @@
 	"གཟུང་" v.past VERB Tense=Past #13->13
 "<།>"
 	"།" punc PUNCT @punct #14->13
+# page_id = 82b
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -100109,7 +100109,6 @@
 
 "<རྩར་མ>"
 	"རྩར་མ་" n.prop PROPN #1->1
-<p id="83a">
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
 "<ཉ་མ་>"
@@ -100135,6 +100134,7 @@
 	"སྐོར་√2" v.pres VERB Tense=Pres #12->12
 "<།>"
 	"།" punc PUNCT @punct #13->12
+# page_id = 83a
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -100666,7 +100666,6 @@
 	"བྲིན་སྡིངས་མ་" n.prop PROPN #1->1
 "<ན་>"
 	"ན་√case" case.loc ADP @case #2->1
-<p id="83b">
 "<དགེ་བཤེས་རྩག་ཕུ་པ་>"
 	"དགེ་བཤེས་རྩག་ཕུ་པ་" n.prop PROPN #3->3
 "<བྱ་བ>"
@@ -100685,6 +100684,7 @@
 	"དྲག་" n.v.invar VERB VerbForm=Vnoun #10->10
 "<།>"
 	"།" punc PUNCT @punct #11->10
+# page_id = 83b
 
 "<བྲིན་པ་>"
 	"བྲིན་" n.v.past.n.v.pres VERB Tense=Past,Pres|VerbForm=Vnoun #1->1
@@ -101297,7 +101297,6 @@
 	"འདུག་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #11->11
 "<ས་>"
 	"གྱིས་√case" case.agn ADP #12->12
-<p id="84a">
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #13->13
 "<ས་>"
@@ -101312,6 +101311,7 @@
 	"སློབ་" v.past VERB Tense=Past #18->18
 "<།>"
 	"།" punc PUNCT @punct #19->18
+# page_id = 84a
 
 "<ཤེས་>"
 	"ཤེས་" v.invar VERB #1->1
@@ -102055,7 +102055,6 @@
 	"སྒོམ་ཆེན་" n.count NOUN Number=Sing #3->3
 "<རྣམས་>"
 	"རྣམས་√d" d.plural DET Number=Plur @det #4->3
-<p id="84b">
 "<ཀྱི་>"
 	"གྱི་√case" case.gen ADP @case #5->3
 "<ལུགས་>"
@@ -102072,6 +102071,7 @@
 	"སྲིད་" v.invar VERB #11->11
 "<།>"
 	"།" punc PUNCT @punct #12->11
+# page_id = 84b
 
 "<ངེད་>"
 	"ངེད་√p" p.pers PRON PronType=Prs #1->1
@@ -102709,11 +102709,11 @@
 	"ཡོང་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #13->13
 "<མཁྱེན་>"
 	"མཁྱེན་" v.invar VERB #14->14
-<p id="85a">
 "<ནས>"
 	"ནས་√cv" cv.ela SCONJ @mark #15->14
 "<།>"
 	"།" punc PUNCT @punct #16->14
+# page_id = 85a
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -103383,7 +103383,6 @@
 	"ཡིན་" v.cop AUX #25->25
 "<།>"
 	"།" punc PUNCT #26->26
-<p id="85b">
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -103418,6 +103417,7 @@
 	"ལ་√case" case.all ADP #13->13
 "<།>"
 	"།" punc PUNCT #14->14
+# page_id = 85b
 
 "<མོ་>"
 	"མོ་√p" p.pers PRON PronType=Prs #1->1
@@ -104028,7 +104028,6 @@
 	"བྱེད་" v.pres VERB Tense=Pres #5->5
 "<།>"
 	"།" punc PUNCT @punct #6->5
-<p id="86a">
 
 "<ཁོ>"
 	"ཁོ་√p" p.pers PRON PronType=Prs #1->1
@@ -104052,6 +104051,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #10->9
 "<།>"
 	"།" punc PUNCT @punct #11->9
+# page_id = 86a
 
 "<བདེན་པ་>"
 	"བདེན་པ་" n.v.past.n.v.pres VERB Tense=Past,Pres|VerbForm=Vnoun #1->1
@@ -104684,7 +104684,6 @@
 	"དུ་√case" case.term ADP @case #2->1
 "<ཆོས་འབྲེལ་>"
 	"ཆོས་འབྲེལ་" n.count NOUN Number=Sing #3->3
-<p id="86b">
 "<ཡོད་པ>"
 	"ཡོད་" n.v.invar VERB VerbForm=Vnoun #4->4
 "<འི་>"
@@ -104701,6 +104700,7 @@
 	"དང་√case" case.ass ADP #10->10
 "<།>"
 	"།" punc PUNCT #11->11
+# page_id = 86b
 
 "<མཇལ་བ>"
 	"མཇལ་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #1->1
@@ -105260,7 +105260,6 @@
 	"གྱི་√case" case.gen ADP #11->11
 "<རྒྱུ་མཚན་>"
 	"རྒྱུ་མཚན་" n.count NOUN Number=Sing #12->12
-<p id="87a">
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #13->13
 "<ཡིན་>"
@@ -105272,6 +105271,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 87a
 
 "<འོ་>"
 	"འོ་" adv.proclausal ADV PronType=Dem #1->1
@@ -105934,7 +105934,6 @@
 	"རྣམ་སྨིན་" n.count NOUN Number=Sing #3->3
 "<མྱོང་>"
 	"མྱོང་√2" v.invar VERB #4->4
-<p id="87b">
 "<ངེས་པ>"
 	"ངེས་" n.v.invar VERB VerbForm=Vnoun #5->5
 "<ས>"
@@ -105944,6 +105943,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 87b
 
 "<སྡིག་>"
 	"སྡིག་" n.count NOUN Number=Sing #1->1
@@ -106671,7 +106671,6 @@
 	"འང་" adv.proclausal ADV PronType=Dem #9->9
 "<ཡང་>"
 	"འང་" adv.proclausal ADV PronType=Dem #10->10
-<p id="88a">
 "<རང་>"
 	"རང་√p" p.pers PRON PronType=Prs #11->11
 "<ཨེ་>"
@@ -106686,6 +106685,7 @@
 	"གྱིས་√case" case.agn ADP #16->16
 "<།>"
 	"།" punc PUNCT #17->17
+# page_id = 88a
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -107279,7 +107279,6 @@
 	"ཡིན་" v.cop AUX #16->16
 "<།>"
 	"།" punc PUNCT #17->17
-<p id="88b">
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -107297,6 +107296,7 @@
 	"གྱིས་√case" case.agn ADP #7->7
 "<།>"
 	"།" punc PUNCT #8->8
+# page_id = 88b
 
 "<རང་རེ་>"
 	"རང་རེ་√p" p.pers PRON PronType=Prs #1->1
@@ -107999,7 +107999,6 @@
 	"ཙམ་√d" d.tsam DET PronType=Tsam #2->2
 "<གྱིས་>"
 	"གྱིས་√case" case.agn ADP #3->3
-<p id="89a">
 "<གྲོལ་>"
 	"གྲོལ་" v.invar VERB #4->4
 "<གྱུར་>"
@@ -108011,6 +108010,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 89a
 
 "<བསམས་པ་>"
 	"སེམས་" n.v.past VERB Tense=Past|VerbForm=Vnoun #1->1
@@ -108638,7 +108638,6 @@
 	"རྫོགས་" n.v.invar VERB VerbForm=Vnoun #10->10
 "<ར་>"
 	"དུ་√case" case.term ADP #11->11
-<p id="89b">
 "<ཞུས་པ>"
 	"འཇུ་√3" n.v.past VERB Tense=Past|VerbForm=Vnoun #12->12
 	"ཞུ་√1" n.v.past VERB Tense=Past|VerbForm=Vnoun #12->12
@@ -108650,6 +108649,7 @@
 	"དུ་√case" case.term ADP @case #15->14
 "<།>"
 	"།" punc PUNCT #16->16
+# page_id = 89b
 
 "<འབྲི་སྒོམ་>"
 	"འབྲི་སྒོམ་" n.prop PROPN #1->1
@@ -109256,7 +109256,6 @@
 	"སོང་" n.v.past VERB Tense=Past|VerbForm=Vnoun #7->7
 "<འི་>"
 	"གྱི་√case" case.gen ADP #8->8
-<p id="90a">
 "<འབྲས་བུ་>"
 	"འབྲས་བུ་" n.count NOUN Number=Sing #9->9
 "<སྐྱེ་>"
@@ -109303,6 +109302,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #30->29
 "<།>"
 	"།" punc PUNCT @punct #31->29
+# page_id = 90a
 
 "<རྒྱལ་པོ>"
 	"རྒྱལ་པོ་" n.count NOUN Number=Sing #1->1
@@ -109873,7 +109873,6 @@
 	"གྱི་√case" case.gen ADP @case #7->6
 "<སྟེང་>"
 	"སྟེང་" n.rel NOUN NounType=Rel #8->8
-<p id="90b">
 "<ནས་>"
 	"ནས་√case" case.ela ADP #9->9
 "<ཕྱག་དར་>"
@@ -109901,6 +109900,7 @@
 	"གྱིས་√case" case.agn ADP #20->20
 "<།>"
 	"།" punc PUNCT #21->21
+# page_id = 90b
 
 "<ཁྱེད་>"
 	"ཁྱེད་√p" p.pers PRON PronType=Prs #1->1
@@ -110494,13 +110494,13 @@
 	"རྗེ་བཙུན་" n.count NOUN Number=Sing #1->1
 "<གྱི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
-<p id="91a">
 "<ཞལ་>"
 	"ཞལ་" n.count NOUN Number=Sing #3->3
 "<ནས>"
 	"ནས་√case" case.ela ADP @case #4->3
 "<།>"
 	"།" punc PUNCT #5->5
+# page_id = 91a
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -111073,7 +111073,6 @@
 	"འང་√cl" cl.focus PART #5->5
 "<འདི་>"
 	"འདི་√d" d.dem DET PronType=Dem #6->6
-<p id="91b">
 "<ཀ>"
 	"ཀ་√d" d.det DET #7->7
 "<ས་>"
@@ -111089,6 +111088,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 91b
 
 "<ང>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -111843,7 +111843,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="92a">
 
 "<སྡུག་བསྔལ་>"
 	"སྡུག་བསྔལ་" n.count NOUN Number=Sing #1->1
@@ -111862,6 +111861,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 92a
 
 "<གསོན་>"
 	"གསོན་√1" v.invar VERB #1->1
@@ -112556,7 +112556,6 @@
 
 "<རྩ་ཐིག་>"
 	"རྩ་ཐིག་" n.count NOUN Number=Sing #1->1
-<p id="92b">
 "<རླུང་>"
 	"རླུང་" n.count NOUN Number=Sing #2->2
 "<གསུམ་>"
@@ -112572,6 +112571,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 92b
 
 "<སྦྱིན་>"
 	"སྦྱིན་" n.count NOUN Number=Sing #1->1
@@ -113266,7 +113266,6 @@
 	"དུ་√case" case.term ADP #11->11
 "<འདུག་>"
 	"འདུག་" v.invar VERB #12->12
-<p id="93a">
 "<གསུངས་པ>"
 	"གསུང་√1" n.v.past VERB Tense=Past|VerbForm=Vnoun #13->13
 	"གསུང་√2" n.v.past VERB Tense=Past|VerbForm=Vnoun #13->13
@@ -113274,6 +113273,7 @@
 	"གྱིས་√case" case.agn ADP #14->14
 "<།>"
 	"།" punc PUNCT #15->15
+# page_id = 93a
 
 "<ཁོ་>"
 	"ཁོ་√p" p.pers PRON PronType=Prs #1->1
@@ -113913,11 +113913,11 @@
 	"རྙེད་" n.v.invar VERB VerbForm=Vnoun #4->4
 "<ར་>"
 	"དུ་√case" case.term ADP #5->5
-<p id="93b">
 "<ག>"
 	"ག་" v.imp VERB Mood=Imp #6->6
 "<།>"
 	"།" punc PUNCT @punct #7->6
+# page_id = 93b
 
 "<བསོད་ནམས་>"
 	"བསོད་ནམས་" n.count NOUN Number=Sing #1->1
@@ -114570,7 +114570,6 @@
 	"འབྱུང་" v.past VERB Tense=Past #16->16
 "<།>"
 	"།" punc PUNCT @punct #17->16
-<p id="94a">
 
 "<ཕ་བོང་>"
 	"ཕ་བོང་" n.count NOUN Number=Sing #1->1
@@ -114673,6 +114672,7 @@
 	"འབྱུང་" v.past VERB Tense=Past #49->49
 "<།>"
 	"།" punc PUNCT @punct #50->49
+# page_id = 94a
 
 "<དེ>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -115151,7 +115151,6 @@
 	"རེ་√p" p.indef PRON PronType=Ind #9->9
 "<ཡང་>"
 	"འང་√cl" cl.focus PART #10->10
-<p id="94b">
 "<གནང་བ>"
 	"གནང་" n.v.invar VERB VerbForm=Vnoun #11->11
 "<ར་>"
@@ -115166,6 +115165,7 @@
 	"གྱིས་√case" case.agn ADP #15->15
 "<།>"
 	"།" punc PUNCT #16->16
+# page_id = 94b
 
 "<རྗེ་བཙུན་>"
 	"རྗེ་བཙུན་" n.count NOUN Number=Sing #1->1
@@ -115783,13 +115783,13 @@
 	"གྱི་√case" case.gen ADP #4->4
 "<ཆེ་ཐབས་>"
 	"ཆེ་ཐབས་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #5->5
-<p id="95a">
 "<ཁོ་>"
 	"ཁོ་√d" d.emph DET PronType=Emp #6->6
 "<ནས>"
 	"ནས་√case" case.ela ADP #7->7
 "<།>"
 	"།" punc PUNCT #8->8
+# page_id = 95a
 
 "<སྦྱོར་བ་>"
 	"སྦྱོར་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #1->1
@@ -116386,7 +116386,6 @@
 	"སེམས་" n.count NOUN Number=Sing #1->1
 "<ལ་>"
 	"ལ་√case" case.all ADP @case #2->1
-<p id="95b">
 "<ཁུར་>"
 	"འཁུར་" v.fut.v.past VERB Tense=Fut,Past #3->3
 "<བསྐུར་>"
@@ -116422,6 +116421,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 95b
 
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #1->1
@@ -117105,7 +117105,6 @@
 	"ན་√cv" cv.loc SCONJ @mark #3->2
 "<བདག་གཞན་>"
 	"བདག་གཞན་" n.count NOUN Number=Sing #4->4
-<p id="96a">
 "<མེད>"
 	"མེད་" v.neg VERB Polarity=Neg #5->5
 "<།>"
@@ -117113,6 +117112,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 96a
 
 "<བདག་གཞན་>"
 	"བདག་གཞན་" n.count NOUN Number=Sing #1->1
@@ -117722,11 +117722,11 @@
 	"གྱི་√case" case.gen ADP @case #7->6
 "<བསྟོད་ཚིག་>"
 	"བསྟོད་ཚིག་" n.count NOUN Number=Sing #8->8
-<p id="96b">
 "<དང་>"
 	"དང་√case" case.ass ADP @case #9->8
 "<།>"
 	"།" punc PUNCT #10->10
+# page_id = 96b
 
 "<སྤོས་>"
 	"སྤོས་" n.count NOUN Number=Sing #1->1
@@ -118348,7 +118348,6 @@
 	"གྱི་√case" case.gen ADP @case #2->1
 "<ཞལ་ཆེ་>"
 	"ཞལ་ཆེ་" n.count NOUN Number=Sing #3->3
-<p id="97a">
 "<བཅད་>"
 	"གཅོད་" v.past VERB Tense=Past #4->4
 "<ཀྱིས་>"
@@ -118360,6 +118359,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 97a
 
 "<ང་>"
 	"ང་√p" p.pers PRON PronType=Prs #1->1
@@ -118991,11 +118991,11 @@
 "<འབྱོན་པ་>"
 	"འབྱོན་√1" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #4->4
 	"འབྱོན་√2" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #4->4
-<p id="97b">
 "<ཡིན>"
 	"ཡིན་" v.cop AUX #5->5
 "<།>"
 	"།" punc PUNCT #6->6
+# page_id = 97b
 
 "<ད་>"
 	"ད་" adv.temp ADV AdvType=Tim #1->1
@@ -119665,7 +119665,6 @@
 	"གྱིས་√case" case.agn ADP #3->3
 "<མཆོད་>"
 	"མཆོད་" v.invar VERB #4->4
-<p id="98a">
 "<དབྱངས་>"
 	"དབྱངས་" n.count NOUN Number=Sing #5->5
 "<མཛད>"
@@ -119675,6 +119674,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 98a
 
 "<ཡེ་ཤེས་>"
 	"ཡེ་ཤེས་" n.count NOUN Number=Sing #1->1
@@ -120361,7 +120361,6 @@
 	"དབྱངས་" n.count NOUN Number=Sing #3->3
 "<དེ་>"
 	"དེ་√d" d.dem DET PronType=Dem #4->4
-<p id="98b">
 "<འཐུན་པ>"
 	"མཐུན་" n.v.pres VERB Tense=Pres|VerbForm=Vnoun #5->5
 "<ར་>"
@@ -120372,6 +120371,7 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #8->7
 "<།>"
 	"།" punc PUNCT @punct #9->7
+# page_id = 98b
 
 "<རས་ཆུང་པ་>"
 	"རས་ཆུང་པ་" n.prop PROPN #1->1
@@ -120932,7 +120932,6 @@
 	"ཏེ་√cv" cv.sem SCONJ Case=Sem @mark #10->9
 "<།>"
 	"།" punc PUNCT @punct #11->9
-<p id="99a">
 
 "<དུས་>"
 	"དུས་" n.count NOUN Number=Sing #1->1
@@ -120966,6 +120965,7 @@
 	"ཚེ་" n.rel NOUN NounType=Rel #15->15
 "<།>"
 	"།" punc PUNCT #16->16
+# page_id = 99a
 
 "<ནམ་མཁ>"
 	"ནམ་མཁའ་" n.count NOUN Number=Sing #1->1
@@ -121535,7 +121535,6 @@
 	"ས་སྟེངས་" n.count NOUN Number=Sing #4->4
 "<ན་>"
 	"ན་√case" case.loc ADP @case #5->4
-<p id="99b">
 "<ལྷ་མི་>"
 	"ལྷ་མི་" n.count NOUN Number=Sing #6->6
 "<ཀུན་>"
@@ -121552,6 +121551,7 @@
 	"འགྱུར་" n.v.past VERB Tense=Past|VerbForm=Vnoun #12->12
 "<།>"
 	"།" punc PUNCT @punct #13->12
+# page_id = 99b
 
 "<མི་ལ་བཞད་པ་རྡོ་རྗེ་>"
 	"མི་ལ་བཞད་པ་རྡོ་རྗེ་" n.prop PROPN #1->1
@@ -122120,7 +122120,6 @@
 	"འོ་དོད་" interj INTJ #1->1
 "<གདུང་དབྱངས་>"
 	"གདུང་དབྱངས་" n.count NOUN Number=Sing #2->2
-<p id="100a">
 "<ཐལ་>"
 	"ཐལ་" v.fut VERB Tense=Fut #3->3
 "<ལོ་>"
@@ -122134,6 +122133,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 100a
 
 "<ཕ་>"
 	"ཕ་" n.count NOUN Number=Sing #1->1
@@ -122834,7 +122834,6 @@
 	"པུར་" n.count NOUN Number=Sing #8->8
 "<གྱི་>"
 	"གྱི་√case" case.gen ADP @case #9->8
-<p id="100b">
 "<ཞལ་རས་>"
 	"ཞལ་རས་" n.count NOUN Number=Sing #10->10
 "<མདངས་>"
@@ -122847,6 +122846,7 @@
 	"དང་√case" case.ass ADP #14->14
 "<།>"
 	"།" punc PUNCT #15->15
+# page_id = 100b
 
 "<པུར་>"
 	"པུར་" n.count NOUN Number=Sing #1->1
@@ -123470,7 +123470,6 @@
 	"སྙིང་པོ་" n.count NOUN Number=Sing #1->1
 "<གནད་>"
 	"གནད་" n.count NOUN Number=Sing #2->2
-<p id="101a">
 "<དྲུག་>"
 	"དྲུག་" num.card NUM NumType=Card|NumForm=Word #3->3
 "<གི་>"
@@ -123489,6 +123488,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 101a
 
 "<བུ་>"
 	"བུ་" n.count NOUN Number=Sing #1->1
@@ -124169,7 +124169,6 @@
 	"ཀུན་√d" d.plural DET Number=Plur @det #2->1
 "<གྱི་>"
 	"གྱི་√case" case.gen ADP @case #3->1
-<p id="101b">
 "<མཇུག་མ་>"
 	"མཇུག་མ་" n.count NOUN Number=Sing #4->4
 "<ཡིན>"
@@ -124179,6 +124178,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 101b
 
 "<དོན་>"
 	"དོན་" n.count NOUN Number=Sing #1->1
@@ -124780,7 +124780,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="102a">
 
 "<རང་བྱུང་>"
 	"རང་བྱུང་" adj ADJ #1->1
@@ -124799,6 +124798,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 102a
 
 "<མེ་ལྕེ་>"
 	"མེ་ལྕེ་" n.count NOUN Number=Sing #1->1
@@ -125401,7 +125401,6 @@
 
 "<པུར་ཁང་>"
 	"པུར་ཁང་" n.count NOUN Number=Sing #1->1
-<p id="102b">
 "<འོད་>"
 	"འོད་" n.count NOUN Number=Sing #2->2
 "<ཀྱིས་>"
@@ -125412,6 +125411,7 @@
 	"དང་√case" case.ass ADP #5->5
 "<།>"
 	"།" punc PUNCT #6->6
+# page_id = 102b
 
 "<གསེར་>"
 	"གསེར་" n.mass NOUN Number=Coll #1->1
@@ -125941,7 +125941,6 @@
 	"དམ་པ་" n.v.invar VERB VerbForm=Vnoun #9->9
 "<སེམས་>"
 	"སེམས་" n.count NOUN Number=Sing #10->10
-<p id="103a">
 "<ཆོས་སྐུ>"
 	"ཆོས་སྐུ་" n.count NOUN Number=Sing #11->11
 "<ར་>"
@@ -125960,6 +125959,7 @@
 	"ན་√cv" cv.loc SCONJ @mark #18->17
 "<།>"
 	"།" punc PUNCT @punct #19->17
+# page_id = 103a
 
 "<གསོལ་བ་>"
 	"གསོལ་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #1->1
@@ -126636,7 +126636,6 @@
 	"གདུང་དབྱངས་" n.count NOUN Number=Sing #4->4
 "<ཀྱིས་>"
 	"གྱིས་√case" case.agn ADP @case #5->4
-<p id="103b">
 "<གསོལ་བ་>"
 	"གསོལ་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #6->6
 "<བཏབ་པ>"
@@ -126645,6 +126644,7 @@
 	"གྱིས་√case" case.agn ADP #8->8
 "<།>"
 	"།" punc PUNCT #9->9
+# page_id = 103b
 
 "<མཁའ་འགྲོ>"
 	"མཁའ་འགྲོ་" n.count NOUN Number=Sing #1->1
@@ -127303,7 +127303,6 @@
 	"འང་√cl" cl.focus PART #2->2
 "<གསོལ་བ་>"
 	"གསོལ་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #3->3
-<p id="104a">
 "<བཏབ་>"
 	"འདེབས་" v.past VERB Tense=Past #4->4
 "<གྱུར་>"
@@ -127315,6 +127314,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 104a
 
 "<ཐུགས་རྗེ་>"
 	"ཐུགས་རྗེ་" n.count NOUN Number=Sing #1->1
@@ -128048,7 +128048,6 @@
 	"ཡོངས་√d" d.plural DET Number=Plur #2->2
 "<སུ་>"
 	"དུ་√case" case.term ADP #3->3
-<p id="104b">
 "<དག་པ་>"
 	"འདག་" n.v.fut.n.v.past VERB Tense=Fut,Past|VerbForm=Vnoun #4->4
 "<ཡིན>"
@@ -128058,6 +128057,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 104b
 
 "<བླ་མ>"
 	"བླ་མ་" n.count NOUN Number=Sing #1->1
@@ -128740,7 +128740,6 @@
 	"གྱི་√case" case.gen ADP #3->3
 "<རྒྱལ་པོ་>"
 	"རྒྱལ་པོ་" n.count NOUN Number=Sing #4->4
-<p id="105a">
 "<འདྲ>"
 	"འདྲ་√2" v.invar VERB #5->5
 "<།>"
@@ -128748,6 +128747,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 105a
 
 "<འགྱུར་བ་>"
 	"འགྱུར་" n.v.fut.n.v.pres VERB Tense=Fut,Pres|VerbForm=Vnoun #1->1
@@ -129406,7 +129406,6 @@
 	"མཁའ་འགྲོ་" n.count NOUN Number=Sing #1->1
 "<འི་>"
 	"གྱི་√case" case.gen ADP @case #2->1
-<p id="105b">
 "<ཕྱག་>"
 	"ཕྱག་" n.count NOUN Number=Sing #3->3
 "<གི་>"
@@ -129420,6 +129419,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 105b
 
 "<ངེད་>"
 	"ངེད་√p" p.pers PRON PronType=Prs #1->1
@@ -130084,7 +130084,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="106a">
 
 "<གཟུགས་སྐུ་>"
 	"གཟུགས་སྐུ་" n.count NOUN Number=Sing #1->1
@@ -130101,6 +130100,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 106a
 
 "<ཀུན་རྫོབ་>"
 	"ཀུན་རྫོབ་" adj ADJ #1->1
@@ -130796,7 +130796,6 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
-<p id="106b">
 
 "<མཚན་མ་>"
 	"མཚན་མ་" n.count NOUN Number=Sing #1->1
@@ -130813,6 +130812,7 @@
 
 "<།>"
 	"།" punc PUNCT #1->1
+# page_id = 106b
 
 "<འདྲ་>"
 	"འདྲ་√2" v.invar VERB #1->1
