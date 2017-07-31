@@ -32,6 +32,12 @@ to the output. Finally, if the word + part-of-speech isn't found in either file,
 or not it ends in a tsheg. If it does, then use the word itself as the lemma. If not, then add tsheg and
 use that variant as the lemma.
 
+The VISL CG files take further liberties with page numbering. The vertical TXT files already differ from
+the wood block paging in requiring page breaks to occur between words. To facilitate easy processing by
+later components, the VISL CG files put page breaks between complete sentences (or rather, shad-delimited
+units). So when a page boundary occurs between two words in the middle of a sentence, the page boundary
+is pushed forward to the end of the sentence.
+
 ## VISL CG with Universal Dependencies
 
 The SOAS project Lexicography in Motion (LIM) has mapped the
