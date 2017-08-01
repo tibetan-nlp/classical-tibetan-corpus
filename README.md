@@ -17,9 +17,9 @@ It exploits a further processed version of Nathan Hill's
 # Formats
 
 The corpus files are made available in various formats. This includes formats used by the
-[TIDC project](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/),
+[TIDC](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/),
 such as vertical TXT files and VISL CG files. It also includes formats used by the
-[LIM project](https://tibetan-nlp.github.io/lim-annodoc/), which has mapped
+[LIM](https://tibetan-nlp.github.io/lim-annodoc/), which has mapped
 [TIDC part-of-speech tags](http://larkpie.net/tibetancorpus/tags) to
 universal part-of-speech tags and universal features following the guidelines of the
 [Universal Dependency](http://universaldependencies.org/) project.
