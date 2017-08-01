@@ -23,7 +23,8 @@ with each word occupying its own line. A TAB separates the word form from its
 part-of-speech. At this stage the corpus is not lemmatised, and so the
 part-of-speech is always followed by a dash.
 
-`ངེད་	p.pers -
+```
+ངེད་	p.pers -
 རང་	p.refl -
 གི་	case.gen -
 ནོར་བཅོལ་	n.count -
@@ -53,7 +54,8 @@ part-of-speech is always followed by a dash.
 ཞུ་	v.fut.v.pres -
 བྱས་པ	n.v.past -
 ས	case.agn -
-།	punc -`
+།	punc -
+```
 
 Vertical TXT files indicate page/side breaks with interspersed comments of the
 form `# page_id = X`. Breaks correspond to the original wood block paging,
