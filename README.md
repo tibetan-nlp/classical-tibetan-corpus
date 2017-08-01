@@ -187,11 +187,37 @@ is compact and easily converted to other formats.
 ```
 ## CoNNL-U
 
-The [CoNNL-U](http://universaldependencies.org/format.html) format is used by the UD project to
-represent annotated texts. We have also converted our texts to this format.
+[CoNNL-U](http://universaldependencies.org/format.html) is a format used by the
+UD project to represent annotated texts. We have also converted our texts to this format.
 
 CoNNL-U format requires a sure analysis; therefore it is not possible to list multiple
 candidate lemmas in the lemma column. Instead, in that case, we show the column as
 unspecified using the underscore. The candidate lemmas are then copied into the MISC column.
+By the same token, only sure dependency relations are included.
 
-Again, only sure dependency relations are included.
+The fragment repeated above is represented as follows in CoNNL-U:
+
+```
+1	ང་	ང་√p	PRON	p.pers	PronType=Prs	1	 
+2	ཡིན་པ	ཡིན་པ་	AUX	n.v.cop	VerbForm=Vnoun	2	 
+3	ར་	དུ་√case	ADP	case.term		3	 
+4	ཤེས་	ཤེས་	VERB	v.past.v.pres	Tense=Past,Pres	4	 
+5	ནས་	ནས་√cv	SCONJ	@mark		4	 
+6	ཧ་	ཧ་	NOUN	n.count	Number=Sing	6	 
+7	ལས་	ལས་	VERB	v.invar		7	 
+8	ཏེ	ཏེ་√cv	SCONJ	@mark	Case=Sem	7	 
+9	།	།	PUNCT	@punct		7	 
+
+1	སྐམ་པ་	སྐམ་པ་	NOUN	n.count	Number=Sing	1	 
+2	གཡས་	གཡས་	NOUN	n.count	Number=Sing	2	 
+3	སུ་	དུ་√case	ADP	@case		2	 
+4	བོར	_	VERB	v.past	Tense=Past	4	[བོར་][འབོར་]
+5	།	།	PUNCT	@punct		4	 
+
+# page_id = 13a
+1	ཡོས་དཀྲུགས་	ཡོས་དཀྲུགས་	NOUN	n.count	Number=Sing	1	 
+2	གཡོན་	གཡོན་	NOUN	n.count	Number=Sing	2	 
+3	དུ་	དུ་√case	ADP	@case		2	 
+4	བོར	_	VERB	v.past	Tense=Past	4	[བོར་][འབོར་]
+5	།	།	PUNCT	@punct		4	 
+```
