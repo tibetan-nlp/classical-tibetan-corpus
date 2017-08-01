@@ -130,7 +130,7 @@ file advances the break forward until it immediately precedes the following sent
 Subsequent derived formats, including Niceline CG, also follow this practice,
 which makes the texts easier for later tools to process.
 
-## VISL CG with Universal Dependencies
+## Niceline CG with Universal Dependencies
 The file `minimal-dependencies.txt` is a script that uses the
 [Constraint Grammar](http://visl.sdu.dk/constraint_grammar.html) formalism to add
 universal POS tags and universal features to our text corpus.
@@ -160,9 +160,31 @@ This repository, for example, includes the output of the following command:
 
 `vislcg3 -g minimal-dependencies.cg -I volume-11854-vislcg.txt | cg-conv -N > volume-11854-niceline-UD.txt`
 
-The result is a file in [Niceline CG format](http://beta.visl.sdu.dk/cg3/chunked/streamformats.html#stream-niceline),
-which can be easier to process than [VISL CG format](http://beta.visl.sdu.dk/cg3/chunked/streamformats.html#stream-vislcg).
+The result is a [Niceline CG](http://beta.visl.sdu.dk/cg3/chunked/streamformats.html#stream-niceline) file,
+a compact and easy to migrate format.
 
+```
+ང་	[ང་√p] p.pers PRON PronType=Prs #1->1
+ཡིན་པ	[ཡིན་པ་] n.v.cop AUX VerbForm=Vnoun #2->2
+ར་	[དུ་√case] case.term ADP #3->3
+ཤེས་	[ཤེས་] v.past.v.pres VERB Tense=Past,Pres #4->4
+ནས་	[ནས་√cv] cv.ela SCONJ #5->4 @mark
+ཧ་	[ཧ་] n.count NOUN Number=Sing #6->6
+ལས་	[ལས་] v.invar VERB #7->7
+ཏེ	[ཏེ་√cv] cv.sem SCONJ Case=Sem #8->7 @mark
+།	[།] punc PUNCT #9->7 @punct
+སྐམ་པ་	[སྐམ་པ་] n.count NOUN Number=Sing #1->1
+གཡས་	[གཡས་] n.count NOUN Number=Sing #2->2
+སུ་	[དུ་√case] case.term ADP #3->2 @case
+བོར	[བོར་] v.past VERB Tense=Past #4->4	[འབོར་] v.past VERB Tense=Past #4->4
+།	[།] punc PUNCT #5->4 @punct
+# page_id = 13a
+ཡོས་དཀྲུགས་	[ཡོས་དཀྲུགས་] n.count NOUN Number=Sing #1->1
+གཡོན་	[གཡོན་] n.count NOUN Number=Sing #2->2
+དུ་	[དུ་√case] case.term ADP #3->2 @case
+བོར	[བོར་] v.past VERB Tense=Past #4->4	[འབོར་] v.past VERB Tense=Past #4->4
+།	[།] punc PUNCT #5->4 @punct
+```
 ## CoNNL-U
 
 The [CoNNL-U](http://universaldependencies.org/format.html) format is used by the UD project to
