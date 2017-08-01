@@ -32,36 +32,27 @@ part-of-speech. At this stage the corpus is not lemmatised, and so the
 part-of-speech is always followed by a dash.
 
 ```
-ངེད་	p.pers -
-རང་	p.refl -
-གི་	case.gen -
-ནོར་བཅོལ་	n.count -
-རྣམས་	d.plural -
-སྤྲོད་པ་	n.v.pres -
-དང་	case.ass -
+ང་	p.pers -
+ཡིན་པ	n.v.cop -
+ར་	case.term -
+ཤེས་	v.past.v.pres -
+ནས་	cv.ela -
+ཧ་	n.count -
+ལས་	v.invar -
+ཏེ	cv.sem -
 །	punc -
 
-མཛེས་སེ་	n.prop -
-ཡང་	cl.focus -
-གནའ་མ	n.count -
-# page_id = 11b
-ར་	n.count -
-བསུ་	v.pres -
-ནས་	cv.ela -
-ཡབ་	n.count -
-ཀྱི་	case.gen -
-ཞལ་ཆེམས་	n.count -
-བཞིན་	n.rel -
-ཕ་ཤུལ་	n.count -
-བུ	n.count -
-ས་	case.agn -
-འཛིན་	v.pres -
-དུ་	cv.term -
-འཇུག་པ	n.v.pres -
-ར་	case.term -
-ཞུ་	v.fut.v.pres -
-བྱས་པ	n.v.past -
-ས	case.agn -
+སྐམ་པ་	n.count -
+གཡས་	n.count -
+སུ་	case.term -
+# page_id = 13a
+བོར	v.past -
+།	punc -
+
+ཡོས་དཀྲུགས་	n.count -
+གཡོན་	n.count -
+དུ་	case.term -
+བོར	v.past -
 །	punc -
 ```
 
@@ -88,9 +79,56 @@ the following procedure:
 > use that variant as the lemma.
 
 The VISL CG files take even further liberties with page breaking.
-When a vertical TXT file breaks between two words in the middle of a sentence,
-the VISL CG file advances the break forward to the end of the sentence. This makes it
-easier for later tools to process the texts.
+Where a vertical TXT file breaks between two words in the middle of a sentence
+(as shown by the position of `# page_id = 13a` in the example above), the VISL CG
+file advances the break forward until it immediately precedes the following sentence.
+
+```
+"<ང་>"
+  "ང་√p" p.pers
+"<ཡིན་པ>"
+  "ཡིན་པ་" n.v.cop
+"<ར་>"
+  "དུ་√case" case.term
+"<ཤེས་>"
+  "ཤེས་" v.past.v.pres
+"<ནས་>"
+  "ནས་√cv" cv.ela
+"<ཧ་>"
+  "ཧ་" n.count
+"<ལས་>"
+  "ལས་" v.invar
+"<ཏེ>"
+  "ཏེ་√cv" cv.sem
+"<།>"
+  "།" punc
+"<སྐམ་པ་>"
+  "སྐམ་པ་" n.count
+"<གཡས་>"
+  "གཡས་" n.count
+"<སུ་>"
+  "དུ་√case" case.term
+"<བོར>"
+  "བོར་" v.past
+  "འབོར་" v.past
+"<།>"
+  "།" punc
+# page_id = 13a
+"<ཡོས་དཀྲུགས་>"
+  "ཡོས་དཀྲུགས་" n.count
+"<གཡོན་>"
+  "གཡོན་" n.count
+"<དུ་>"
+  "དུ་√case" case.term
+"<བོར>"
+  "བོར་" v.past
+  "འབོར་" v.past
+"<།>"
+  "།" punc
+```
+
+Subsequent derived formats, including Niceline CG, also follow this practice,
+which makes the texts easier for later tools to process.
 
 ## VISL CG with Universal Dependencies
 The file `minimal-dependencies.txt` is a script that uses the
