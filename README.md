@@ -65,7 +65,7 @@ part-of-speech is always followed by a dash.
 །	punc -
 ```
 
-Vertical TXT files indicate page/side breaks with interspersed comments of the
+Vertical TXT files mark the beginning of a new page/side with interspersed comments of the
 form `# page_id = X`. Breaks correspond to the original wood block paging,
 with the following caveat: where the original source broke a page in the middle
 of a word, our texts advance the page break to the end of the word, so that
@@ -127,7 +127,7 @@ which can be easier to process than [VISL CG format](http://beta.visl.sdu.dk/cg3
 
 ## CoNNL-U
 
-The [CoNNL-U](http://universaldependencies.org/format.html) is used by the UD project to
+The [CoNNL-U](http://universaldependencies.org/format.html) format is used by the UD project to
 represent annotated texts. We have also converted our texts to this format.
 
 CoNNL-U format requires a sure analysis; therefore it is not possible to list multiple
