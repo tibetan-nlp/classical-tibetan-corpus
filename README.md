@@ -160,8 +160,8 @@ This repository, for example, includes the output of the following command:
 
 `vislcg3 -g minimal-dependencies.cg -I volume-11854-vislcg.txt | cg-conv -N > volume-11854-niceline-UD.txt`
 
-The result is a [Niceline CG](http://beta.visl.sdu.dk/cg3/chunked/streamformats.html#stream-niceline) file,
-a compact and easy to migrate format.
+The resulting file - in [Niceline CG format](http://beta.visl.sdu.dk/cg3/chunked/streamformats.html#stream-niceline) -
+is compact and easily converted to other formats.
 
 ```
 ང་	[ང་√p] p.pers PRON PronType=Prs #1->1
