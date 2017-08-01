@@ -1,8 +1,10 @@
 # Background
 
-This repo further processes four texts that were part-of-speech
-tagged as part of the project
-[TIDC - Tibetan in Digital Communication](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/).
+This repo makes available four texts that were part-of-speech
+tagged as part of the
+[TIDC (Tibetan in Digital Communication) project](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/),
+and are being further processed as part of the
+[LIM (Lexicography in Motion) project](https://tibetan-nlp.github.io/lim-annodoc/).
 
 1. མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ། (volume-74)
 2. མར་པ་ལོ་ཙཱའི་རྣམ་ཐར། (volume-444)
@@ -14,7 +16,13 @@ It exploits a further processed version of Nathan Hill's
 
 # Formats
 
-The corpus files are made available in various formats.
+The corpus files are made available in various formats. This includes formats used by the
+[TIDC project](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/),
+such as vertical TXT files and VISL CG files. It also includes formats used by the
+[LIM project](https://tibetan-nlp.github.io/lim-annodoc/), which has mapped
+[TIDC part-of-speech tags](http://larkpie.net/tibetancorpus/tags) to
+universal part-of-speech tags and universal features following the guidelines of the
+[Universal Dependency](http://universaldependencies.org/) project.
 
 ## Vertical TXT
 
@@ -80,17 +88,11 @@ the following procedure:
 > use that variant as the lemma.
 
 The VISL CG files take even further liberties with page breaking.
-Where a vertical TXT file breaks a page between two words in the middle of a sentence,
+When a vertical TXT file breaks between two words in the middle of a sentence,
 the VISL CG file advances the break forward to the end of the sentence. This makes it
 easier for later tools to process the texts.
 
 ## VISL CG with Universal Dependencies
-
-The SOAS project Lexicography in Motion (LIM) has mapped the
-[TIDC part-of-speech tags](http://larkpie.net/tibetancorpus/tags) to
-universal part-of-speech tags and universal features following the guidelines of the
-[Universal Dependency](http://universaldependencies.org/) project.
-
 The file `minimal-dependencies.txt` is a script that uses the
 [Constraint Grammar](http://visl.sdu.dk/constraint_grammar.html) formalism to add
 universal POS tags and universal features to our text corpus.
