@@ -9,7 +9,7 @@ and are being further processed as part of the
 1. མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ། (volume-74)
 2. མར་པ་ལོ་ཙཱའི་རྣམ་ཐར། (volume-444)
 3. བུ་སྟོན་ཆོས་འབྱུང་། (volume-11842)
-4. མི་ལའི་རྣམ་ཐར། (volume-11854)
+4. མི་ལའི་རྣམ་ཐར། 
 
 It exploits a further processed version of Nathan Hill's
 [Lexicon of Tibetan Verb Stems](https://github.com/tibetan-nlp/lexicon-of-tibetan-verb-stems).
@@ -144,7 +144,7 @@ POS tags. For example, if a case marker follows a count noun, then it depends on
 noun. We know this because case markers are not free-standing words in Tibetan. (Complications may arise
 in regards to nominal compounds but we ignore that now.)
 
-For the output of this process, see `volume-11854-vislcg-UD.txt` and similarly named files.
+For the output of this process, see `mila-vislcg-UD.txt` and similarly named files.
 
 To apply the grammar to the input yourself, first install VISL CG3 and then compile the grammar:
 
@@ -152,13 +152,13 @@ To apply the grammar to the input yourself, first install VISL CG3 and then comp
 
 Then, apply the grammar to the input, specifying an output file:
 
-`vislcg3 -g minimal-dependencies.cg -I volume-11854-vislcg.txt -O volume-11854-vislcg-UD.txt`
+`vislcg3 -g minimal-dependencies.cg -I mila-vislcg.txt -O mila-vislcg-UD.txt`
 
 Alternatively, the output can be piped to a different format using the
 [cg-conv](http://beta.visl.sdu.dk/cg3/chunked/cmdreference.html#cg-conv) tool.
 This repository, for example, includes the output of the following command:
 
-`vislcg3 -g minimal-dependencies.cg -I volume-11854-vislcg.txt | cg-conv -N > volume-11854-niceline-UD.txt`
+`vislcg3 -g minimal-dependencies.cg -I mila-vislcg.txt | cg-conv -N > mila-niceline-UD.txt`
 
 The resulting file - in [Niceline CG format](http://beta.visl.sdu.dk/cg3/chunked/streamformats.html#stream-niceline) -
 is compact and easily converted to other formats.
