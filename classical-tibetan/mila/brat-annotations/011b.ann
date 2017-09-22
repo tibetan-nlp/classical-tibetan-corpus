@@ -15,6 +15,7 @@ T350	PART 23 26	མི་
 A350a	Polarity T350 Neg
 T351	VERB 26 30	འཆམ་
 A351a	Tense T351 Fut/Pres
+N351	Reference T351 Hill:0514	འཆམ་√1
 T352	SCONJ 30 34	རུང་
 A352a	Case T352 Rung
 T353	NOUN 34 38	ལྟོ་
@@ -24,6 +25,7 @@ A354a	Case T354 All
 T355	VERB 40 46	འཆམ་པ་
 A355a	Tense T355 Fut/Pres
 A355b	VerbForm T355 Vnoun
+N355	Reference T355 Hill:0514	འཆམ་√1
 T356	ADP 46 49	དང་
 A356a	Case T356 Com
 T357	PUNCT 49 50	།
@@ -37,6 +39,7 @@ A362a	Case T362 Ter
 T363	VERB 65 71	སོང་བ་
 A363a	Tense T363 Past
 A363b	VerbForm T363 Vnoun
+#√363	AnnotatorNotes T363	[འགྲོ་][སོང་] 
 T364	ADP 71 74	དང་
 A364a	Case T364 Com
 T365	NOUN 74 79	ཨ་ཁུ་
@@ -48,6 +51,7 @@ A367a	Number T367 Sing
 T368	ADJ 84 90	མང་པོ་
 T369	VERB 90 95	ཡོད་པ
 A369a	VerbForm T369 Vnoun
+N369	Reference T369 Hill:1632	ཡོད་
 T370	ADP 95 98	འི་
 A370a	Case T370 Gen
 T371	NOUN 98 103	སྟབས་
@@ -71,6 +75,7 @@ T380	ADP 132 135	ཏུ་
 A380a	Case T380 Ter
 T381	VERB 135 140	དྲིལ་
 A381a	Tense T381 Past
+N381	Reference T381 Hill:0903	འདྲིལ་
 T382	SCONJ 140 143	ནས་
 A382a	Case T382 Ela
 T383	PRON 143 148	ཁྱེད་
@@ -79,6 +84,7 @@ T384	ADP 148 152	ཀྱི་
 A384a	Case T384 Gen
 T385	NOUN 152 156	ནོར་
 A385a	Number T385 Coll
+N385	Reference T385 Hill:0994	ནོར་
 T386	PART 156 159	རམ་
 A386a	Polarity T386 Xor
 T387	DET 159 162	དེ་
@@ -89,7 +95,9 @@ T389	ADP 165 167	ན་
 A389a	Case T389 Loc
 T390	VERB 167 173	ཡོད་པ་
 A390a	VerbForm T390 Vnoun
+N390	Reference T390 Hill:1632	ཡོད་
 T391	AUX 173 176	ཡིན
+N391	Reference T391 Hill:1619	ཡིན་
 T392	PUNCT 176 177	།
 T394	ADJ 178 184	དང་པོ་
 A394a	NumType T394 Ord
@@ -112,9 +120,11 @@ A403a	PronType T403 Prs
 T404	ADP 263 268	ཀྱིས་
 A404a	Case T404 Agn
 T405	VERB 268 272	གཡར་
+N405	Reference T405 Hill:1655	གཡོར་√1
 T406	VERB 272 277	བཏང་བ
 A406a	Tense T406 Past
 A406b	VerbForm T406 Vnoun
+#√406	AnnotatorNotes T406	[གཏོང་√1][གཏོང་√2] 
 T407	PUNCT 277 278	།
 T409	PRON 279 282	ཁོ་
 A409a	PronType T409 Prs
@@ -122,6 +132,7 @@ T410	PRON 282 285	རང་
 A410a	Reflex T410 Yes
 T411	VERB 285 289	འཆི་
 A411a	Tense T411 Fut/Pres
+N411	Reference T411 Hill:0521	འཆི་
 T412	NOUN 289 290	ཁ
 A412a	NounType T412 Rel
 T413	ADP 290 292	ར་
@@ -132,7 +143,9 @@ T415	ADP 303 305	ལ་
 A415a	Case T415 All
 T416	VERB 305 312	སྤྲད་པ་
 A416a	VerbForm T416 Vnoun
+N416	Reference T416 Hill:1078	སྤྲོད་
 T417	AUX 312 315	ཡིན
+N417	Reference T417 Hill:1619	ཡིན་
 T418	PUNCT 315 316	།
 T420	PRON 317 322	ཁྱེད་
 A420a	PronType T420 Prs
@@ -140,10 +153,12 @@ T421	PRON 322 325	རང་
 A421a	Reflex T421 Yes
 T422	VERB 325 330	དབང་བ
 A422a	VerbForm T422 Vnoun
+N422	Reference T422 Hill:1188	དབང་
 T423	ADP 330 333	འི་
 A423a	Case T423 Gen
 T424	NOUN 333 337	ནོར་
 A424a	Number T424 Coll
+N424	Reference T424 Hill:0994	ནོར་
 T425	NOUN 337 345	གསེར་སེ་
 A425a	Number T425 Sing
 T426	NUM 345 350	གཅིག་
@@ -157,6 +172,7 @@ A430a	Number T430 Coll
 T431	NOUN 357 361	ཕུལ་
 A431a	Number T431 Sing
 T432	ADJ 361 364	གང་
+N432	Reference T432 Hill:0198	གང་
 T433	PART 364 366	ངམ
 A433a	Polarity T433 Xor
 T434	PUNCT 366 367	།
@@ -172,6 +188,7 @@ A439a	Polarity T439 Xor
 T440	PUNCT 381 382	།
 T442	NOUN 383 387	གོས་
 A442a	Number T442 Coll
+N442	Reference T442 Hill:0211	གོས་
 T443	NOUN 387 395	དར་སྐུད་
 A443a	Number T443 Sing
 T444	NOUN 395 398	སྣ་
@@ -196,6 +213,7 @@ A452a	Polarity T452 Neg
 T453	VERB 440 447	མཐོང་བ་
 A453a	Tense T453 Past
 A453b	VerbForm T453 Vnoun
+N453	Reference T453 Hill:0788	མཐོང་
 T454	ADP 447 449	ལ་
 A454a	Case T454 All
 T455	ADV 449 451	ད་
@@ -207,6 +225,7 @@ A457a	NounType T457 Rel
 T458	VERB 459 464	ཟེར་བ
 A458a	Tense T458 Fut/Pres
 A458b	VerbForm T458 Vnoun
+#√458	AnnotatorNotes T458	[ཟེར་√1][ཟེར་√2] 
 T459	PUNCT 464 465	།
 T461	PRON 466 471	ཁྱོད་
 A461a	PronType T461 Prs
@@ -224,6 +243,7 @@ T467	ADP 494 496	ས་
 A467a	Case T467 Agn
 T468	VERB 496 500	བྲིས
 A468a	Tense T468 Past
+N468	Reference T468 Hill:1262	འབྲི་√1
 T469	PUNCT 500 501	།
 T471	NOUN 502 510	སྡུག་མད་
 A471a	Number T471 Sing
@@ -238,16 +258,19 @@ A475a	Polarity T475 Neg
 T476	VERB 526 531	བསད་པ
 A476a	Tense T476 Past
 A476b	VerbForm T476 Vnoun
+N476	Reference T476 Hill:1863	གསོད་
 T477	ADP 531 533	ར་
 A477a	Case T477 Ter
 T478	VERB 533 540	གསོས་པ་
 A478a	Tense T478 Past
 A478b	VerbForm T478 Vnoun
+#√478	AnnotatorNotes T478	[གསོ་√1][གསོ་√2] 
 T479	PRON 540 544	ངེད་
 A479a	PronType T479 Prs
 T480	DET 544 547	རབ་
 A480a	PronType T480 Emp
 T481	AUX 547 550	ཡིན
+N481	Reference T481 Hill:1619	ཡིན་
 T482	PUNCT 550 551	།
 T484	ADV 552 553	ལ
 A484a	PronType T484 Dem
@@ -259,8 +282,10 @@ T487	ADP 561 563	ལ་
 A487a	Case T487 All
 T488	NOUN 563 567	དབང་
 A488a	Number T488 Sing
+N488	Reference T488 Hill:1188	དབང་
 T489	VERB 567 573	བསྐུར་
 A489a	Tense T489 Fut/Past
+N489	Reference T489 Hill:0046	སྐུར་
 T490	SCONJ 573 575	ན་
 A490a	Case T490 Loc
 T491	NOUN 575 578	ཆུ་
@@ -269,15 +294,19 @@ T492	ADP 578 580	ལ་
 A492a	Case T492 All
 T493	NOUN 580 583	བྲེ
 A493a	Number T493 Sing
+N493	Reference T493 Hill:1176	བྲེ་
 T494	ADP 583 585	ས་
 A494a	Case T494 Agn
 T495	VERB 585 589	འཇལ་
 A495a	Tense T495 Pres
+N495	Reference T495 Hill:0555	འཇལ་
 T496	VERB 589 594	བྱེད་
 A496a	Tense T496 Pres
+N496	Reference T496 Hill:1168	བྱེད་
 T497	VERB 594 599	བྱ་བ་
 A497a	Tense T497 Fut
 A497b	VerbForm T497 Vnoun
+N497	Reference T497 Hill:1168	བྱེད་
 T498	DET 599 602	དེ་
 A498a	PronType T498 Dem
 T499	DET 602 606	འདི་
@@ -289,37 +318,47 @@ A501a	Case T501 All
 T502	VERB 612 618	ཟེར་བ་
 A502a	Tense T502 Fut/Pres
 A502b	VerbForm T502 Vnoun
+#√502	AnnotatorNotes T502	[ཟེར་√1][ཟེར་√2] 
 T503	AUX 618 622	ཡིན་
+N503	Reference T503 Hill:1619	ཡིན་
 T504	VERB 622 625	ཟེར
+#√504	AnnotatorNotes T504	[ཟེར་√1][ཟེར་√2] 
 T505	PUNCT 625 626	།
 T507	NOUN 627 630	སྣ་
 A507a	Number T507 Sing
 T508	VERB 630 634	བུས་
 A508a	Tense T508 Past
+N508	Reference T508 Hill:1218	འབུད་√2
 T509	NOUN 634 638	སྟན་
 A509a	Number T509 Sing
 T510	ADP 638 640	ལ་
 A510a	Case T510 All
 T511	VERB 640 643	ཧར་
+N511	Reference T511 Hill:1884	ཧར་
 T512	VERB 643 647	ལངས་
 A512a	Tense T512 Past
+#√512	AnnotatorNotes T512	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
 T513	VERB 647 650	བྱས
 A513a	Tense T513 Past
+N513	Reference T513 Hill:1168	བྱེད་
 T514	PUNCT 650 651	།
 T516	NOUN 652 659	སེ་གོལ་
 A516a	Number T516 Sing
 T517	VERB 659 664	གཏོགས
 A517a	Tense T517 Past
+#√517	AnnotatorNotes T517	[གཏོག་√1][གཏོགས་] 
 T518	PUNCT 664 665	།
 T520	NOUN 666 671	ཐུ་བ་
 A520a	Number T520 Sing
 T521	VERB 671 677	སྤྲུགས
 A521a	Tense T521 Past
+N521	Reference T521 Hill:1074	སྤྲུག་
 T522	PUNCT 677 678	།
 T524	NOUN 679 685	རྐང་པ་
 A524a	Number T524 Sing
 T525	VERB 685 691	བརྡབས་
 A525a	Tense T525 Past
+#√525	AnnotatorNotes T525	[རྡེབ་][བརྡབ་] 
 T526	SCONJ 691 694	ནས་
 A526a	Case T526 Ela
 T527	ADV 694 698	ནན་ཏ
@@ -330,6 +369,7 @@ T529	PART 700 702	མ་
 A529a	Polarity T529 Neg
 T530	VERB 702 706	སོང་
 A530a	Tense T530 Past
+#√530	AnnotatorNotes T530	[འགྲོ་][སོང་] 
 T531	SCONJ 706 708	ན་
 A531a	Case T531 Loc
 T532	NOUN 708 713	ཁང་པ་
@@ -339,6 +379,7 @@ T534	PRON 716 720	ངེད་
 A534a	PronType T534 Prs
 T535	VERB 720 725	དབང་བ
 A535a	VerbForm T535 Vnoun
+N535	Reference T535 Hill:1188	དབང་
 T536	ADP 725 726	ས
 A536a	Case T536 Agn
 T537	PUNCT 726 727	།
@@ -352,8 +393,10 @@ T542	ADP 741 743	ར་
 A542a	Case T542 Ter
 T543	VERB 743 747	སོང་
 A543a	Mood T543 Imp
+#√543	AnnotatorNotes T543	[འགྲོ་][སོང་] 
 T544	VERB 747 751	ཟེར་
 A544a	Tense T544 Fut/Pres
+#√544	AnnotatorNotes T544	[ཟེར་√1][ཟེར་√2] 
 T545	SCONJ 751 755	ཞིང་
 A545a	Case T545 Impf
 T546	NOUN 755 759	ཨ་མ་
@@ -364,6 +407,7 @@ T548	ADP 766 770	གིས་
 A548a	Case T548 Agn
 T549	VERB 770 776	བརྡུངས
 A549a	Tense T549 Past
+N549	Reference T549 Hill:0924	རྡུང་
 T550	PUNCT 776 777	།
 T552	PRON 778 782	ངེད་
 A552a	PronType T552 Prs
@@ -382,6 +426,7 @@ T558	ADP 810 814	གིས་
 A558a	Case T558 Agn
 T559	VERB 814 820	བརྡུངས
 A559a	Tense T559 Past
+N559	Reference T559 Hill:0924	རྡུང་
 T560	PUNCT 820 821	།
 T562	DET 822 824	དེ
 A562a	PronType T562 Dem
@@ -408,6 +453,7 @@ T575	ADP 884 886	ལ་
 A575a	Case T575 All
 T576	VERB 886 892	གཟིགས་
 A576a	Mood T576 Imp
+#√576	AnnotatorNotes T576	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T577	SCONJ 892 895	དང་
 A577a	Case T577 Com
 T578	PUNCT 895 896	།
@@ -419,17 +465,20 @@ T582	ADP 910 913	ནས་
 A582a	Case T582 Ela
 T583	VERB 913 915	ལྟ
 A583a	Tense T583 Pres
+#√583	AnnotatorNotes T583	[ལྟ་√1][ལྟ་√2] 
 T584	PART 915 918	འོ་
 A584a	Mood T584 Ind
 T585	VERB 918 925	གསུང་པ་
 A585a	Tense T585 Fut/Pres
 A585b	VerbForm T585 Vnoun
+#√585	AnnotatorNotes T585	[གསུང་√1][གསུང་√2] 
 T586	DET 925 928	དེ་
 A586a	PronType T586 Dem
 T587	ADV 928 930	ད་
 A587a	AdvType T587 Tim
 T588	VERB 930 937	གཟིགས་པ
 A588a	VerbForm T588 Vnoun
+#√588	AnnotatorNotes T588	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T589	ADP 937 940	འི་
 A589a	Case T589 Gen
 T590	NOUN 940 944	དུས་
@@ -438,26 +487,32 @@ T591	ADP 944 946	ལ་
 A591a	Case T591 All
 T592	VERB 946 949	བབ་
 A592a	Tense T592 Fut/Past
+N592	Reference T592 Hill:1205	འབབ་√1
 T593	VERB 949 951	གད
 T594	PART 951 954	འོ་
 A594a	Mood T594 Ind
 T595	VERB 954 957	ཟེར
+#√595	AnnotatorNotes T595	[ཟེར་√1][ཟེར་√2] 
 T596	PUNCT 957 958	།
 T598	VERB 959 962	ངུ་
 A598a	Tense T598 Fut/Pres
+N598	Reference T598 Hill:0407	ངུ་
 T599	SCONJ 962 966	ཞིང་
 A599a	Case T599 Impf
 T600	VERB 966 972	འགྱེལ་
 A600a	Tense T600 Past/Pres
+N600	Reference T600 Hill:0309	འགྱེལ་
 T601	SCONJ 972 975	ནས་
 A601a	Case T601 Ela
 T602	ADV 975 987	ཁྲེ་ལོག་ལོག་
 A602a	AdvType T602 Mim
 T603	VERB 987 992	བྱེད་
 A603a	Tense T603 Pres
+N603	Reference T603 Hill:1168	བྱེད་
 T604	SCONJ 992 996	ཅིང་
 A604a	Case T604 Impf
 T605	VERB 996 1000	འདུག
+N605	Reference T605 Hill:0875	འདུག་
 T606	PRON 1000 1004	ངེད་
 A606a	PronType T606 Prs
 T607	NOUN 1004 1013	མིང་སྲིང་
@@ -473,6 +528,7 @@ A611a	Number T611 Sing
 T612	VERB 1033 1038	ངུ་བ་
 A612a	Tense T612 Fut/Pres
 A612b	VerbForm T612 Vnoun
+N612	Reference T612 Hill:0407	ངུ་
 T613	VERB 1038 1044	མིན་པ་
 A613a	Tense T613 Past/Pres
 A613b	VerbForm T613 Vnoun
@@ -480,6 +536,7 @@ T614	PART 1044 1046	མ་
 A614a	Polarity T614 Neg
 T615	VERB 1046 1051	བྱུང་
 A615a	Tense T615 Past
+N615	Reference T615 Hill:1243	འབྱུང་
 T616	PUNCT 1051 1052	།
 T618	NOUN 1053 1058	ཨ་ཞང་
 A618a	Number T618 Sing
@@ -495,14 +552,17 @@ A623a	Number T623 Sing
 T624	ADJ 1075 1081	མང་པོ་
 T625	VERB 1081 1086	ཡོད་པ
 A625a	VerbForm T625 Vnoun
+N625	Reference T625 Hill:1632	ཡོད་
 T626	ADP 1086 1088	ས་
 A626a	Case T626 Agn
 T627	VERB 1088 1093	རྒོལ་
 A627a	Tense T627 Pres
+#√627	AnnotatorNotes T627	[རྒལ་][རྒོལ་] 
 T628	PART 1093 1095	མ་
 A628a	Polarity T628 Neg
 T629	VERB 1095 1098	ནུས
 A629a	VerbType T629 Aux
+N629	Reference T629 Hill:0980	ནུས་
 T630	PUNCT 1098 1099	།
 T632	DET 1100 1104	གཞན་
 T633	NOUN 1104 1111	ཡུལ་མི་
@@ -530,18 +590,22 @@ A643a	Number T643 Sing
 T644	VERB 1150 1156	རྗེ་བ་
 A644a	Tense T644 Pres
 A644b	VerbForm T644 Vnoun
+N644	Reference T644 Hill:0587	རྗེ་
 T645	ADP 1156 1158	ལ་
 A645a	Case T645 All
 T646	VERB 1158 1162	ཟེར་
+#√646	AnnotatorNotes T646	[ཟེར་√1][ཟེར་√2] 
 T647	PART 1162 1165	མི་
 A647a	Polarity T647 Neg
 T648	VERB 1165 1170	ངུ་བ་
 A648a	Tense T648 Fut/Pres
 A648b	VerbForm T648 Vnoun
+N648	Reference T648 Hill:0407	ངུ་
 T649	PART 1170 1173	མི་
 A649a	Polarity T649 Neg
 T650	VERB 1173 1177	འདུག
 A650a	Tense T650 Fut/Pres
+N650	Reference T650 Hill:0875	འདུག་
 T651	DET 1177 1181	གཞན་
 T652	DET 1181 1186	རྣམས་
 A652a	Number T652 Plur
@@ -551,6 +615,7 @@ A654a	Number T654 Sing
 T655	ADV 1199 1205	ནར་ནར་
 A655a	AdvType T655 Mim
 T656	VERB 1205 1209	འདུག
+N656	Reference T656 Hill:0875	འདུག་
 T657	NOUN 1209 1214	ཨ་ཁུ་
 A657a	Number T657 Sing
 T658	ADP 1214 1217	དང་
@@ -564,10 +629,14 @@ T662	ADP 1229 1231	ལ་
 A662a	Case T662 All
 T663	NOUN 1231 1235	ནོར་
 A663a	Number T663 Coll
+N663	Reference T663 Hill:0994	ནོར་
 T664	VERB 1235 1240	དགོས་
+N664	Reference T664 Hill:0248	དགོས་
 T665	VERB 1240 1244	ཟེར་
+#√665	AnnotatorNotes T665	[ཟེར་√1][ཟེར་√2] 
 T666	NOUN 1244 1248	ནོར་
 A666a	Number T666 Coll
+N666	Reference T666 Hill:0994	ནོར་
 T667	PRON 1248 1253	ཁྱེད་
 A667a	PronType T667 Prs
 T668	PRON 1253 1256	རང་
@@ -576,6 +645,7 @@ T669	ADP 1256 1258	ལ་
 A669a	Case T669 All
 T670	VERB 1258 1264	འདུག་པ
 A670a	VerbForm T670 Vnoun
+N670	Reference T670 Hill:0875	འདུག་
 T671	PUNCT 1264 1265	།
 T673	NOUN 1266 1283	ཡུལ་མི་ཁྱིམ་མཚེས་
 A673a	Number T673 Sing
@@ -586,6 +656,7 @@ A675a	Number T675 Sing
 T676	ADJ 1290 1298	ཕངས་མེད་
 T677	VERB 1298 1303	བཤིག་
 A677a	Tense T677 Past
+N677	Reference T677 Hill:0557	འཇིག་√2
 T678	SCONJ 1303 1306	ནས་
 A678a	Case T678 Ela
 T679	NOUN 1306 1314	སྟོན་མོ་
@@ -595,4 +666,5 @@ A680a	Tense T680 Fut
 A680b	VerbForm T680 Vnoun
 T681	VERB 1323 1329	འདུག་པ
 A681a	VerbForm T681 Vnoun
+N681	Reference T681 Hill:0875	འདུག་
 T682	PUNCT 1329 1330	།

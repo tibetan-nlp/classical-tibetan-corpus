@@ -32,6 +32,7 @@ T28585	DET 62 67	རྣམས་
 A28585a	Number T28585 Plur
 T28586	VERB 67 73	ཆོད་པ་
 A28586a	VerbForm T28586 Vnoun
+N28586	Reference T28586 Hill:0496	ཆོད་
 T28587	ADP 73 76	དང་
 A28587a	Case T28587 Com
 T28588	NOUN 76 80	བླ་མ
@@ -40,21 +41,25 @@ T28589	ADP 80 83	འི་
 A28589a	Case T28589 Gen
 T28590	NOUN 83 86	ཞལ་
 A28590a	Number T28590 Sing
+N28590	Reference T28590 Hill:1507	ཞལ་
 T28591	ADP 86 88	ནས
 A28591a	Case T28591 Ela
 T28592	PUNCT 88 89	།
 T28594	PROPN 90 100	བདག་མེད་མ་
 T28595	NOUN 100 105	ཚོགས་
 A28595a	Number T28595 Sing
+N28595	Reference T28595 Hill:1416	ཚོགས་
 T28596	ADP 105 108	དང་
 A28596a	Case T28596 Com
 T28597	VERB 108 115	མཆོད་པ་
 A28597a	VerbForm T28597 Vnoun
+N28597	Reference T28597 Hill:0503	མཆོད་
 T28598	ADJ 115 122	བཟང་པོ་
 T28599	DET 122 126	ཞིག་
 A28599a	PronType T28599 Ind
 T28600	VERB 126 131	ཤོམས་
 A28600a	Mood T28600 Imp
+N28600	Reference T28600 Hill:1765	གཤོམ་
 T28601	PART 131 134	ཤིག
 A28601a	Mood T28601 Imp
 T28602	ADV 134 136	ད་
@@ -62,21 +67,26 @@ A28602a	AdvType T28602 Tim
 T28603	PROPN 136 141	མི་ལ་
 T28604	VERB 141 146	འགྲོ་
 A28604a	Tense T28604 Fut/Pres
+N28604	Reference T28604 Hill:0331	འགྲོ་
 T28605	VERB 146 150	རན་པ
 A28605a	Tense T28605 Past/Pres
 A28605b	VerbForm T28605 Vnoun
+N28605	Reference T28605 Hill:1660	རན་
 T28606	ADP 150 152	ས་
 A28606a	Case T28606 Agn
 T28607	VERB 152 159	གཏོང་བ་
 A28607a	Tense T28607 Pres
 A28607b	VerbForm T28607 Vnoun
+#√28607	AnnotatorNotes T28607	[གཏོང་√1][གཏོང་√2] 
 T28608	AUX 159 163	ཡིན་
+N28608	Reference T28608 Hill:1619	ཡིན་
 T28609	PART 163 166	ནོ་
 A28609a	Mood T28609 Ind
 T28610	VERB 166 171	གསུང་
 T28611	PUNCT 171 172	།
 T28613	NOUN 173 177	ཡུམ་
 A28613a	Number T28613 Sing
+N28613	Reference T28613 Hill:1623	ཡུམ་
 T28614	ADP 177 182	གྱིས་
 A28614a	Case T28614 Agn
 T28615	NOUN 182 193	བླ་མ་ཡི་དམ་
@@ -85,6 +95,7 @@ T28616	ADP 193 195	ལ་
 A28616a	Case T28616 All
 T28617	VERB 195 201	མཆོད་པ
 A28617a	VerbForm T28617 Vnoun
+N28617	Reference T28617 Hill:0503	མཆོད་
 T28618	PUNCT 201 202	།
 T28620	NOUN 203 222	མཁའ་འགྲོ་ཆོས་སྐྱོང་
 A28620a	Number T28620 Sing
@@ -105,6 +116,7 @@ T28629	ADJ 262 269	བཟང་པོ་
 T28630	VERB 269 275	བཤམས་པ
 A28630a	Tense T28630 Past
 A28630b	VerbForm T28630 Vnoun
+N28630	Reference T28630 Hill:1765	གཤོམ་
 T28631	ADP 275 278	འི་
 A28631a	Case T28631 Gen
 T28632	NOUN 278 287	ཚོགས་གྲལ་
@@ -124,6 +136,7 @@ T28642	PROPN 319 349	འཁོར་ལོ་བདེ་མཆོག་གས�
 T28643	ADP 349 351	ལ་
 A28643a	Case T28643 All
 T28644	VERB 351 356	སོགས་
+N28644	Reference T28644 Hill:1796	སོགས་
 T28645	SCONJ 356 359	ཏེ་
 A28645a	Case T28645 Sem
 T28646	NOUN 359 365	ཡི་དམ་
@@ -152,6 +165,7 @@ A28664a	Number T28664 Sing
 T28665	ADP 427 429	ལ་
 A28665a	Case T28665 All
 T28666	VERB 429 434	སོགས་
+N28666	Reference T28666 Hill:1796	སོགས་
 T28667	SCONJ 434 437	ཏེ་
 A28667a	Case T28667 Sem
 T28668	NOUN 437 445	ཕྱག་མཚན་
@@ -169,6 +183,7 @@ A28676b	NumForm T28676 Word
 T28677	ADP 481 483	ལ་
 A28677a	Case T28677 All
 T28678	VERB 483 488	སོགས་
+N28678	Reference T28678 Hill:1796	སོགས་
 T28679	SCONJ 488 491	ཏེ་
 A28679a	Case T28679 Sem
 T28680	NOUN 491 500	ཡིག་འབྲུ་
@@ -181,6 +196,7 @@ A28684a	Number T28684 Sing
 T28685	VERB 509 515	འཚེར་བ
 A28685a	Tense T28685 Fut/Pres
 A28685b	VerbForm T28685 Vnoun
+#√28685	AnnotatorNotes T28685	[མཚེར་][འཚེར་] 
 T28686	ADP 515 518	འི་
 A28686a	Case T28686 Gen
 T28687	NOUN 518 524	ཐིག་ལེ
@@ -189,6 +205,7 @@ T28688	ADP 524 526	ར་
 A28688a	Case T28688 Ter
 T28689	VERB 526 532	སྣང་བ་
 A28689a	VerbForm T28689 Vnoun
+N28689	Reference T28689 Hill:1016	སྣང་
 T28690	ADP 532 535	དང་
 A28690a	Case T28690 Com
 T28691	PUNCT 535 536	།
@@ -202,9 +219,11 @@ A28696a	Polarity T28696 Neg
 T28697	VERB 548 554	སྣང་བ་
 A28697a	Tense T28697 Fut/Pres
 A28697b	VerbForm T28697 Vnoun
+N28697	Reference T28697 Hill:1016	སྣང་
 T28698	ADP 554 556	ལ་
 A28698a	Case T28698 All
 T28699	VERB 556 561	སོགས་
+N28699	Reference T28699 Hill:1796	སོགས་
 T28700	SCONJ 561 564	ཏེ་
 A28700a	Case T28700 Sem
 T28701	DET 564 568	དུ་མ
@@ -213,6 +232,7 @@ T28702	ADP 568 570	ར་
 A28702a	Case T28702 Ter
 T28703	VERB 570 575	བསྟན་
 A28703a	Tense T28703 Past
+N28703	Reference T28703 Hill:0746	སྟོན་
 T28704	SCONJ 575 577	ནས
 A28704a	Case T28704 Ela
 T28705	PUNCT 577 578	།
@@ -229,7 +249,9 @@ A28711a	Number T28711 Sing
 T28712	VERB 612 617	བྱ་བ་
 A28712a	Tense T28712 Fut
 A28712b	VerbForm T28712 Vnoun
+N28712	Reference T28712 Hill:1168	བྱེད་
 T28713	AUX 617 621	ཡིན་
+N28713	Reference T28713 Hill:1619	ཡིན་
 T28714	SCONJ 621 623	ཏེ
 A28714a	Case T28714 Sem
 T28715	PUNCT 623 624	།
@@ -238,20 +260,24 @@ T28718	ADP 635 638	དུ་
 A28718a	Case T28718 Ter
 T28719	VERB 638 643	བསྟན་
 A28719a	Tense T28719 Fut/Past
+N28719	Reference T28719 Hill:0746	སྟོན་
 T28720	SCONJ 643 647	རུང་
 A28720a	Case T28720 Rung
 T28721	VERB 647 654	དགོས་པ་
 A28721a	VerbForm T28721 Vnoun
+N28721	Reference T28721 Hill:0248	དགོས་
 T28722	VERB 654 658	ཆུང་
 T28723	PUNCT 658 659	།
 T28725	ADV 660 662	ད་
 A28725a	AdvType T28725 Tim
 T28726	NOUN 662 665	ལན་
 A28726a	Number T28726 Sing
+N28726	Reference T28726 Hill:1704	ལན་
 T28727	PROPN 665 675	མི་ལ་རས་པ་
 T28728	VERB 675 681	འགྲོ་བ
 A28728a	Tense T28728 Fut/Pres
 A28728b	VerbForm T28728 Vnoun
+N28728	Reference T28728 Hill:0331	འགྲོ་
 T28729	ADP 681 684	འི་
 A28729a	Case T28729 Gen
 T28730	NOUN 684 690	རྫོངས་
@@ -261,10 +287,13 @@ A28731a	Case T28731 Ter
 T28732	VERB 693 700	བསྟན་པ་
 A28732a	Tense T28732 Past
 A28732b	VerbForm T28732 Vnoun
+N28732	Reference T28732 Hill:0746	སྟོན་
 T28733	AUX 700 704	ཡིན་
+N28733	Reference T28733 Hill:1619	ཡིན་
 T28734	VERB 704 711	གསུང་བ་
 A28734a	Tense T28734 Fut/Pres
 A28734b	VerbForm T28734 Vnoun
+#√28734	AnnotatorNotes T28734	[གསུང་√1][གསུང་√2] 
 T28735	ADP 711 712	ལ
 A28735a	Case T28735 All
 T28736	PUNCT 712 713	།
@@ -278,12 +307,14 @@ T28741	ADP 733 736	སུ་
 A28741a	Case T28741 Ter
 T28742	VERB 736 741	མཐོང་
 A28742a	Tense T28742 Past/Pres
+N28742	Reference T28742 Hill:0788	མཐོང་
 T28743	SCONJ 741 744	ནས་
 A28743a	Case T28743 Ela
 T28744	NOUN 744 753	དགའ་སྤྲོ་
 A28744a	Number T28744 Sing
 T28745	VERB 753 757	དཔག་
 A28745a	Tense T28745 Fut
+N28745	Reference T28745 Hill:1037	དཔོག་
 T28746	SCONJ 757 760	ཏུ་
 A28746a	Case T28746 Ter
 T28747	VERB 760 766	མེད་པ་
@@ -293,6 +324,7 @@ T28748	DET 766 770	ཞིག་
 A28748a	PronType T28748 Ind
 T28749	VERB 770 775	བྱུང་
 A28749a	Tense T28749 Past
+N28749	Reference T28749 Hill:1243	འབྱུང་
 T28750	SCONJ 775 778	སྟེ
 A28750a	Case T28750 Sem
 T28751	PUNCT 778 779	།
@@ -303,6 +335,7 @@ A28754a	Reflex T28754 Yes
 T28755	PART 785 788	ཡང་
 T28756	VERB 788 795	བསྒོམས་
 A28756a	Tense T28756 Past
+N28756	Reference T28756 Hill:0371	སྒོམ་
 T28757	SCONJ 795 798	ནས་
 A28757a	Case T28757 Ela
 T28758	NOUN 798 808	རྫུ་འཕྲུལ་
@@ -315,12 +348,16 @@ T28761	VERB 818 824	ཐོབ་པ་
 A28761a	VerbForm T28761 Vnoun
 T28762	VERB 824 829	བྱེད་
 A28762a	Tense T28762 Pres
+N28762	Reference T28762 Hill:1168	བྱེད་
 T28763	VERB 829 834	དགོས་
 A28763a	VerbType T28763 Aux
+N28763	Reference T28763 Hill:0248	དགོས་
 T28764	VERB 834 840	སྙམ་པ་
 A28764a	VerbForm T28764 Vnoun
+N28764	Reference T28764 Hill:0640	སྙམ་
 T28765	VERB 840 845	བྱུང་
 A28765a	Tense T28765 Past
+N28765	Reference T28765 Hill:1243	འབྱུང་
 T28766	PUNCT 845 846	།
 T28768	NOUN 847 851	བླ་མ
 A28768a	Number T28768 Sing
@@ -328,23 +365,27 @@ T28769	ADP 851 854	འི་
 A28769a	Case T28769 Gen
 T28770	NOUN 854 857	ཞལ་
 A28770a	Number T28770 Sing
+N28770	Reference T28770 Hill:1507	ཞལ་
 T28771	ADP 857 859	ནས
 A28771a	Case T28771 Ela
 T28772	PUNCT 859 860	།
 T28774	NOUN 861 864	བུ་
 A28774a	Number T28774 Sing
 T28775	VERB 864 869	མཐོང་
+N28775	Reference T28775 Hill:0788	མཐོང་
 T28776	PART 869 871	ངམ
 A28776a	Polarity T28776 Xor
 T28777	PUNCT 871 872	།
 T28779	NOUN 873 877	ཡིད་
 A28779a	Number T28779 Sing
 T28780	VERB 877 881	ཆེས་
+N28780	Reference T28780 Hill:0493	ཆེས་
 T28781	PART 881 884	སམ་
 A28781a	Polarity T28781 Xor
 T28782	VERB 884 889	གསུང་
 T28783	PUNCT 889 890	།
 T28785	VERB 891 896	མཐོང་
+N28785	Reference T28785 Hill:0788	མཐོང་
 T28786	AUX 896 899	ལགས
 T28787	PUNCT 899 900	།
 T28789	NOUN 901 905	ཡིད་
@@ -354,6 +395,7 @@ A28790a	Polarity T28790 Neg
 T28791	VERB 908 913	ཆེས་པ
 A28791a	Tense T28791 Fut/Pres
 A28791b	VerbForm T28791 Vnoun
+N28791	Reference T28791 Hill:0493	ཆེས་
 T28792	ADP 913 916	འི་
 A28792a	Case T28792 Gen
 T28793	NOUN 916 923	རང་དབང་
@@ -363,6 +405,7 @@ A28794a	Polarity T28794 Neg
 T28795	VERB 926 931	གདའ་བ
 A28795a	Tense T28795 Fut/Pres
 A28795b	VerbForm T28795 Vnoun
+N28795	Reference T28795 Hill:0844	གདའ་
 T28796	ADP 931 932	ས
 A28796a	Case T28796 Agn
 T28797	PUNCT 932 933	།
@@ -373,6 +416,7 @@ A28800a	Reflex T28800 Yes
 T28801	PART 941 944	ཡང་
 T28802	VERB 944 951	བསྒོམས་
 A28802a	Tense T28802 Past
+N28802	Reference T28802 Hill:0371	སྒོམ་
 T28803	SCONJ 951 954	ནས་
 A28803a	Case T28803 Ela
 T28804	DET 954 958	འདི་
@@ -381,16 +425,21 @@ T28805	NOUN 958 962	འདྲ་
 A28805a	NounType T28805 Rel
 T28806	VERB 962 967	བྱེད་
 A28806a	Tense T28806 Pres
+N28806	Reference T28806 Hill:1168	བྱེད་
 T28807	VERB 967 972	དགོས་
 A28807a	VerbType T28807 Aux
+N28807	Reference T28807 Hill:0248	དགོས་
 T28808	VERB 972 978	སྙམ་པ་
 A28808a	VerbForm T28808 Vnoun
+N28808	Reference T28808 Hill:0640	སྙམ་
 T28809	VERB 978 983	བྱུང་
 A28809a	Tense T28809 Past
+N28809	Reference T28809 Hill:1243	འབྱུང་
 T28810	AUX 983 987	ལགས་
 T28811	VERB 987 992	ཞུས་པ
 A28811a	Tense T28811 Past
 A28811b	VerbForm T28811 Vnoun
+#√28811	AnnotatorNotes T28811	[འཇུ་√3][ཞུ་√1] 
 T28812	ADP 992 993	ས
 A28812a	Case T28812 Agn
 T28813	PUNCT 993 994	།
@@ -399,15 +448,18 @@ A28815a	Number T28815 Sing
 T28816	DET 998 1001	དེ་
 A28816a	PronType T28816 Dem
 T28817	AUX 1001 1005	ཡིན་
+N28817	Reference T28817 Hill:1619	ཡིན་
 T28818	ADV 1005 1007	ད་
 A28818a	AdvType T28818 Tim
 T28819	VERB 1007 1012	འགྲོ་
 A28819a	Tense T28819 Fut/Pres
+N28819	Reference T28819 Hill:0331	འགྲོ་
 T28820	SCONJ 1012 1014	ན་
 A28820a	Case T28820 Loc
 T28821	PART 1014 1017	ཡང་
 T28822	VERB 1017 1021	སོང་
 A28822a	Mood T28822 Imp
+#√28822	AnnotatorNotes T28822	[འགྲོ་][སོང་] 
 T28823	SCONJ 1021 1022	ལ
 A28823a	Case T28823 All
 T28824	PUNCT 1022 1023	།
@@ -432,8 +484,10 @@ A28834a	Case T28834 Ter
 T28835	NOUN 1057 1060	ངོ་
 A28835a	Number T28835 Sing
 T28836	VERB 1060 1065	སྤྲད་
+N28836	Reference T28836 Hill:1078	སྤྲོད་
 T28837	VERB 1065 1070	ཡོད་པ
 A28837a	VerbForm T28837 Vnoun
+N28837	Reference T28837 Hill:1632	ཡོད་
 T28838	ADP 1070 1072	ས་
 A28838a	Case T28838 Agn
 T28839	DET 1072 1075	དེ་
@@ -444,19 +498,23 @@ T28841	ADP 1080 1083	དུ་
 A28841a	Case T28841 Ter
 T28842	NOUN 1083 1087	ཉམས་
 A28842a	Number T28842 Sing
+N28842	Reference T28842 Hill:0598	ཉམས་
 T28843	ADP 1087 1090	སུ་
 A28843a	Case T28843 Ter
 T28844	VERB 1090 1094	ལོང་
 A28844a	Mood T28844 Imp
+#√28844	AnnotatorNotes T28844	[ལང་√1][ལེན་][ལོང་] 
 T28845	PUNCT 1094 1095	།
 T28847	NOUN 1096 1100	གནས་
 A28847a	Number T28847 Sing
+N28847	Reference T28847 Hill:0997	གནས་
 T28848	NOUN 1100 1127	གཡའ་ཁྲོད་གངས་ཁྲོད་ནགས་ཁྲོད་
 A28848a	Number T28848 Sing
 T28849	DET 1127 1132	རྣམས་
 A28849a	Number T28849 Plur
 T28850	VERB 1132 1137	བསྟེན
 A28850a	Tense T28850 Fut/Past
+N28850	Reference T28850 Hill:0740	སྟེན་
 T28851	PUNCT 1137 1138	།
 T28853	NOUN 1139 1147	རི་ཁྲོད་
 A28853a	Number T28853 Sing
@@ -492,10 +550,12 @@ A28871a	Case T28871 Agn
 T28872	VERB 1236 1243	བརླབས་པ
 A28872a	Tense T28872 Past
 A28872b	VerbForm T28872 Vnoun
+N28872	Reference T28872 Hill:1695	རློབ་
 T28873	ADP 1243 1246	འི་
 A28873a	Case T28873 Gen
 T28874	NOUN 1246 1249	རི་
 A28874a	Number T28874 Sing
+N28874	Reference T28874 Hill:1662	རི་
 T28875	AUX 1249 1254	ཡིན་པ
 A28875a	VerbForm T28875 Vnoun
 T28876	ADP 1254 1256	ས་
@@ -506,6 +566,7 @@ T28878	ADP 1259 1261	ལ་
 A28878a	Case T28878 All
 T28879	VERB 1261 1266	སྒོམས
 A28879a	Mood T28879 Imp
+N28879	Reference T28879 Hill:0371	སྒོམ་
 T28880	PUNCT 1266 1267	།
 T28882	PROPN 1268 1278	གངས་ཏི་སེ་
 T28883	NOUN 1278 1287	སངས་རྒྱས་
@@ -517,6 +578,7 @@ A28885a	Number T28885 Sing
 T28886	VERB 1296 1302	བསྟན་པ
 A28886a	Tense T28886 Past
 A28886b	VerbForm T28886 Vnoun
+N28886	Reference T28886 Hill:0746	སྟོན་
 T28887	ADP 1302 1305	འི་
 A28887a	Case T28887 Gen
 T28888	NOUN 1305 1311	རི་བོ་
