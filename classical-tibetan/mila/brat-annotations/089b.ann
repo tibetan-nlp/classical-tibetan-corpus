@@ -40,7 +40,7 @@ A56200a	Polarity T56200 Neg
 T56201	VERB 87 92	ཆེས་པ
 A56201a	Tense T56201 Past
 A56201b	VerbForm T56201 Vnoun
-#√56201	AnnotatorNotes T56201	[ཆེ་][ཆེས་][འཆེ་] 
+#56201l	AnnotatorNotes T56201	[ཆེ་][ཆེས་][འཆེ་] 
 T56202	ADP 92 94	ས་
 A56202a	Case T56202 Agn
 T56203	VERB 94 99	མྱུར་
@@ -86,7 +86,7 @@ N56220	Reference T56220 Hill:0492	ཆེ་
 T56221	VERB 162 167	ཞུས་པ
 A56221a	Tense T56221 Past
 A56221b	VerbForm T56221 Vnoun
-#√56221	AnnotatorNotes T56221	[འཇུ་√3][ཞུ་√1] 
+#56221l	AnnotatorNotes T56221	[འཇུ་√3][ཞུ་√1] 
 T56222	ADP 167 168	ས
 A56222a	Case T56222 Agn
 T56223	PUNCT 168 169	།
@@ -226,7 +226,7 @@ T56295	VERB 494 499	འདུག་
 N56295	Reference T56295 Hill:0875	འདུག་
 T56296	VERB 499 503	ཞུས་
 A56296a	Tense T56296 Past
-#√56296	AnnotatorNotes T56296	[འཇུ་√3][ཞུ་√1] 
+#56296l	AnnotatorNotes T56296	[འཇུ་√3][ཞུ་√1] 
 T56297	SCONJ 503 506	ནས་
 A56297a	Case T56297 Ela
 T56298	NOUN 506 514	ཡོན་བདག་
@@ -240,7 +240,7 @@ A56301a	Number T56301 Sing
 N56301	Reference T56301 Hill:0039	སྐད་
 T56302	VERB 525 529	བཏང་
 A56302a	Tense T56302 Past
-#√56302	AnnotatorNotes T56302	[གཏོང་√1][གཏོང་√2] 
+#56302l	AnnotatorNotes T56302	[གཏོང་√1][གཏོང་√2] 
 T56303	SCONJ 529 533	སྟེ་
 A56303a	Case T56303 Sem
 T56304	NOUN 533 540	སྟ་གོན་
@@ -329,7 +329,7 @@ A56342a	VerbType T56342 Aux
 N56342	Reference T56342 Hill:0980	ནུས་
 T56343	VERB 685 689	ཤིག་
 A56343a	Tense T56343 Pres
-#√56343	AnnotatorNotes T56343	[ཤིག་√1][ཤིག་√2] 
+#56343l	AnnotatorNotes T56343	[ཤིག་√1][ཤིག་√2] 
 T56344	VERB 689 696	དགོས་པ་
 A56344a	VerbForm T56344 Vnoun
 A56344b	VerbType T56344 Aux
@@ -564,7 +564,7 @@ T56457	ADP 1116 1118	ལ་
 A56457a	Case T56457 All
 T56458	VERB 1118 1121	བབ་
 A56458a	Tense T56458 Past
-#√56458	AnnotatorNotes T56458	[འབབ་√1][འབབ་√2] 
+#56458l	AnnotatorNotes T56458	[འབབ་√1][འབབ་√2] 
 T56459	SCONJ 1121 1124	ནས་
 A56459a	Case T56459 Ela
 T56460	NOUN 1124 1128	ལུས་
@@ -622,7 +622,7 @@ A56485a	Case T56485 Ter
 T56486	VERB 1260 1265	སོང་བ
 A56486a	Tense T56486 Past
 A56486b	VerbForm T56486 Vnoun
-#√56486	AnnotatorNotes T56486	[འགྲོ་][སོང་] 
+#56486l	AnnotatorNotes T56486	[འགྲོ་][སོང་] 
 T56487	ADP 1265 1268	འི་
 A56487a	Case T56487 Gen
 T56488	NOUN 1268 1276	འབྲས་བུ་

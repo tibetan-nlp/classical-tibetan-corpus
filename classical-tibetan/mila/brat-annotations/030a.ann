@@ -4,7 +4,7 @@ T13354	NOUN 4 12	བཅུ་ཐོག་
 A13354a	Number T13354 Sing
 T13355	VERB 12 17	ལོངས་
 A13355a	Tense T13355 Past
-#√13355	AnnotatorNotes T13355	[ལང་√3][ལེན་][ལོང་] 
+#13355l	AnnotatorNotes T13355	[ལང་√3][ལེན་][ལོང་] 
 T13356	SCONJ 17 20	ནས་
 A13356a	Case T13356 Ela
 T13357	NOUN 20 24	ཆོས་
@@ -52,7 +52,7 @@ A13377a	VerbType T13377 Aux
 T13378	VERB 103 108	ཞུས་པ
 A13378a	Tense T13378 Past
 A13378b	VerbForm T13378 Vnoun
-#√13378	AnnotatorNotes T13378	[འཇུ་√3][ཞུ་√1] 
+#13378l	AnnotatorNotes T13378	[འཇུ་√3][ཞུ་√1] 
 T13379	ADP 108 109	ས
 A13379a	Case T13379 Agn
 T13380	PUNCT 109 110	།
@@ -97,7 +97,7 @@ A13400a	Polarity T13400 Xor
 T13401	VERB 180 187	གསུངས་བ
 A13401a	Tense T13401 Past
 A13401b	VerbForm T13401 Vnoun
-#√13401	AnnotatorNotes T13401	[གསུང་√1][གསུང་√2] 
+#13401l	AnnotatorNotes T13401	[གསུང་√1][གསུང་√2] 
 T13402	ADP 187 188	ས
 A13402a	Case T13402 Agn
 T13403	PUNCT 188 189	།
@@ -142,7 +142,7 @@ A13424a	Polarity T13424 Neg
 T13425	VERB 261 266	ལུས་པ
 A13425a	Tense T13425 Past
 A13425b	VerbForm T13425 Vnoun
-#√13425	AnnotatorNotes T13425	[ལུ་][ལུས་] 
+#13425l	AnnotatorNotes T13425	[ལུ་][ལུས་] 
 T13426	ADP 266 268	ར་
 A13426a	Case T13426 Ter
 T13427	NOUN 268 273	རྒྱབ་
@@ -153,7 +153,7 @@ T13429	ADP 278 280	ར་
 A13429a	Case T13429 Ter
 T13430	VERB 280 284	སོང་
 A13430a	Tense T13430 Past
-#√13430	AnnotatorNotes T13430	[འགྲོ་][སོང་] 
+#13430l	AnnotatorNotes T13430	[འགྲོ་][སོང་] 
 T13431	VERB 284 288	གདའ་
 N13431	Reference T13431 Hill:0844	གདའ་
 T13432	VERB 288 292	ཞེས་
@@ -161,7 +161,7 @@ A13432a	Mood T13432 Qot
 T13433	ADJ 292 302	གཟུག་གེ་བ་
 T13434	VERB 302 306	ཞུས་
 A13434a	Tense T13434 Past
-#√13434	AnnotatorNotes T13434	[འཇུ་√3][ཞུ་√1] 
+#13434l	AnnotatorNotes T13434	[འཇུ་√3][ཞུ་√1] 
 T13435	SCONJ 306 309	ནས་
 A13435a	Case T13435 Ela
 T13436	VERB 309 314	མྱུར་
@@ -186,7 +186,7 @@ T13445	ADP 332 334	ར་
 A13445a	Case T13445 Ter
 T13446	VERB 334 338	ཤོག་
 A13446a	Mood T13446 Imp
-#√13446	AnnotatorNotes T13446	[འཆགས་][འོང་][གཤེགས་] 
+#13446l	AnnotatorNotes T13446	[འཆགས་][འོང་][གཤེགས་] 
 T13447	VERB 338 343	གྱིས་
 A13447a	Mood T13447 Imp
 N13447	Reference T13447 Hill:0260	བགྱིད་
@@ -206,7 +206,7 @@ N13455	Reference T13455 Hill:0640	སྙམ་
 T13456	VERB 371 377	ཕྱིན་པ
 A13456a	Tense T13456 Past
 A13456b	VerbForm T13456 Vnoun
-#√13456	AnnotatorNotes T13456	[འགྲོ་][ཕྱིན་] 
+#13456l	AnnotatorNotes T13456	[འགྲོ་][ཕྱིན་] 
 T13457	ADP 377 378	ས
 A13457a	Case T13457 Agn
 T13458	PUNCT 378 379	།
@@ -221,7 +221,7 @@ A13463a	Case T13463 Com
 T13464	VERB 402 407	གསུང་
 T13465	PUNCT 407 408	།
 T13467	VERB 409 415	གཟིགས་
-#√13467	AnnotatorNotes T13467	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#13467l	AnnotatorNotes T13467	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T13468	VERB 415 420	ཕུལ་བ
 A13468a	Tense T13468 Past
 A13468b	VerbForm T13468 Vnoun
@@ -234,7 +234,7 @@ T13471	ADP 428 430	ར་
 A13471a	Case T13471 Ter
 T13472	VERB 430 437	གཟིགས་པ
 A13472a	VerbForm T13472 Vnoun
-#√13472	AnnotatorNotes T13472	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#13472l	AnnotatorNotes T13472	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T13473	ADP 437 440	འི་
 A13473a	Case T13473 Gen
 T13474	NOUN 440 442	མཐ
@@ -393,7 +393,7 @@ N13548	Reference T13548 Hill:0260	བགྱིད་
 T13549	VERB 713 720	གསུང་བ་
 A13549a	Tense T13549 Fut/Pres
 A13549b	VerbForm T13549 Vnoun
-#√13549	AnnotatorNotes T13549	[གསུང་√1][གསུང་√2] 
+#13549l	AnnotatorNotes T13549	[གསུང་√1][གསུང་√2] 
 T13550	ADP 720 722	ལ་
 A13550a	Case T13550 All
 T13551	DET 722 725	དེ་
@@ -462,7 +462,7 @@ A13584a	Case T13584 Ter
 T13585	VERB 848 854	སོང་བ་
 A13585a	Tense T13585 Past
 A13585b	VerbForm T13585 Vnoun
-#√13585	AnnotatorNotes T13585	[འགྲོ་][སོང་] 
+#13585l	AnnotatorNotes T13585	[འགྲོ་][སོང་] 
 T13586	ADP 854 856	ལ་
 A13586a	Case T13586 All
 T13587	NOUN 856 864	སྒལ་ཚགས་
@@ -478,7 +478,7 @@ N13591	Reference T13591 Hill:1081	ཕན་
 T13592	VERB 877 882	ཞུས་པ
 A13592a	Tense T13592 Past
 A13592b	VerbForm T13592 Vnoun
-#√13592	AnnotatorNotes T13592	[འཇུ་√3][ཞུ་√1] 
+#13592l	AnnotatorNotes T13592	[འཇུ་√3][ཞུ་√1] 
 T13593	ADP 882 883	ས
 A13593a	Case T13593 Agn
 T13594	PUNCT 883 884	།
@@ -542,7 +542,7 @@ T13622	ADP 980 982	ས་
 A13622a	Case T13622 Agn
 T13623	VERB 982 989	གཟིགས་པ
 A13623a	VerbForm T13623 Vnoun
-#√13623	AnnotatorNotes T13623	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#13623l	AnnotatorNotes T13623	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T13624	ADP 989 990	ས
 A13624a	Case T13624 Agn
 T13625	PUNCT 990 991	།
@@ -612,7 +612,7 @@ T13659	ADP 1116 1118	ལ་
 A13659a	Case T13659 All
 T13660	VERB 1118 1122	ཞུས་
 A13660a	Tense T13660 Past
-#√13660	AnnotatorNotes T13660	[འཇུ་√3][ཞུ་√1] 
+#13660l	AnnotatorNotes T13660	[འཇུ་√3][ཞུ་√1] 
 T13661	SCONJ 1122 1125	ནས་
 A13661a	Case T13661 Ela
 T13663	NOUN 1128 1132	ཆོས་
@@ -630,7 +630,7 @@ A13670a	Polarity T13670 Neg
 T13671	VERB 1150 1155	སོས་བ
 A13671a	Tense T13671 Past
 A13671b	VerbForm T13671 Vnoun
-#√13671	AnnotatorNotes T13671	[སོས་][གསོ་√1] 
+#13671l	AnnotatorNotes T13671	[སོས་][གསོ་√1] 
 T13672	ADP 1155 1157	ར་
 A13672a	Case T13672 Ter
 T13673	VERB 1157 1167	བསྡད་རྒྱུ་
@@ -644,7 +644,7 @@ A13675a	Case T13675 Gen
 T13676	VERB 1175 1180	ཞུ་བ་
 A13676a	Tense T13676 Fut/Pres
 A13676b	VerbForm T13676 Vnoun
-#√13676	AnnotatorNotes T13676	[ཞུ་√1][ཞུ་√2] 
+#13676l	AnnotatorNotes T13676	[ཞུ་√1][ཞུ་√2] 
 T13677	NOUN 1180 1184	ཡུམ་
 A13677a	Number T13677 Sing
 N13677	Reference T13677 Hill:1623	ཡུམ་

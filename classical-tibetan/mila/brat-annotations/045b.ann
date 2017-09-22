@@ -10,7 +10,7 @@ A24355a	Case T24355 Impf
 T24356	VERB 17 22	བཙལ་བ
 A24356a	Tense T24356 Fut
 A24356b	VerbForm T24356 Vnoun
-#√24356	AnnotatorNotes T24356	[འཚལ་√1][འཚོལ་] 
+#24356l	AnnotatorNotes T24356	[འཚལ་√1][འཚོལ་] 
 T24357	ADP 22 23	ས
 A24357a	Case T24357 Agn
 T24358	PUNCT 23 24	།
@@ -49,7 +49,7 @@ A24378a	Number T24378 Sing
 T24379	VERB 109 114	ཞུས་པ
 A24379a	Tense T24379 Past
 A24379b	VerbForm T24379 Vnoun
-#√24379	AnnotatorNotes T24379	[འཇུ་√3][ཞུ་√1] 
+#24379l	AnnotatorNotes T24379	[འཇུ་√3][ཞུ་√1] 
 T24380	ADP 114 115	ས
 A24380a	Case T24380 Agn
 T24381	PUNCT 115 116	།
@@ -83,7 +83,7 @@ N24396	Reference T24396 Hill:1243	འབྱུང་
 T24397	VERB 172 179	གསུང་བ་
 A24397a	Tense T24397 Fut/Pres
 A24397b	VerbForm T24397 Vnoun
-#√24397	AnnotatorNotes T24397	[གསུང་√1][གསུང་√2] 
+#24397l	AnnotatorNotes T24397	[གསུང་√1][གསུང་√2] 
 T24398	ADP 179 180	ལ
 A24398a	Case T24398 All
 T24399	PUNCT 180 181	།
@@ -151,7 +151,7 @@ T24430	SCONJ 305 308	ནས་
 A24430a	Case T24430 Ela
 T24431	VERB 308 310	ཞུ
 A24431a	Tense T24431 Fut/Pres
-#√24431	AnnotatorNotes T24431	[ཞུ་√1][ཞུ་√2] 
+#24431l	AnnotatorNotes T24431	[ཞུ་√1][ཞུ་√2] 
 T24432	SCONJ 310 312	ར་
 A24432a	Case T24432 Ter
 T24433	VERB 312 319	ཡོངས་པ་
@@ -161,7 +161,7 @@ T24434	AUX 319 323	ལགས་
 T24435	VERB 323 328	ཞུས་པ
 A24435a	Tense T24435 Past
 A24435b	VerbForm T24435 Vnoun
-#√24435	AnnotatorNotes T24435	[འཇུ་√3][ཞུ་√1] 
+#24435l	AnnotatorNotes T24435	[འཇུ་√3][ཞུ་√1] 
 T24436	ADP 328 329	ས
 A24436a	Case T24436 Agn
 T24437	PUNCT 329 330	།
@@ -266,7 +266,7 @@ T24499	NOUN 541 545	ཕྱག་
 A24499a	Number T24499 Sing
 T24500	VERB 545 549	འཚལ་
 A24500a	Tense T24500 Fut/Pres
-#√24500	AnnotatorNotes T24500	[འཚལ་√1][འཚལ་√2] 
+#24500l	AnnotatorNotes T24500	[འཚལ་√1][འཚལ་√2] 
 T24501	PART 549 551	ལོ
 A24501a	Mood T24501 Ind
 T24502	PUNCT 551 552	།
@@ -280,7 +280,7 @@ T24509	NOUN 568 573	སྤྱན་
 A24509a	Number T24509 Sing
 T24510	VERB 573 579	བཙུམས་
 A24510a	Tense T24510 Past
-#√24510	AnnotatorNotes T24510	[འཛུམས་][སུམ་] 
+#24510l	AnnotatorNotes T24510	[འཛུམས་][སུམ་] 
 T24511	SCONJ 579 581	ཏེ
 A24511a	Case T24511 Sem
 T24512	PUNCT 581 582	།
@@ -563,7 +563,7 @@ A24662a	Case T24662 Agn
 T24663	VERB 1222 1227	ཞུས་པ
 A24663a	Tense T24663 Past
 A24663b	VerbForm T24663 Vnoun
-#√24663	AnnotatorNotes T24663	[འཇུ་√3][ཞུ་√1] 
+#24663l	AnnotatorNotes T24663	[འཇུ་√3][ཞུ་√1] 
 T24664	PUNCT 1227 1228	།
 T24666	NOUN 1229 1234	བླ་མ་
 A24666a	Number T24666 Sing
@@ -599,5 +599,5 @@ T24683	PART 1318 1320	མ་
 A24683a	Polarity T24683 Neg
 T24684	VERB 1320 1323	ཐུབ
 A24684a	Tense T24684 Past
-#√24684	AnnotatorNotes T24684	[ཐུབ་√2][ཐུབ་√3] 
+#24684l	AnnotatorNotes T24684	[ཐུབ་√2][ཐུབ་√3] 
 T24685	PUNCT 1323 1324	།

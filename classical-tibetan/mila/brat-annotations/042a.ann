@@ -70,7 +70,7 @@ T21918	NOUN 164 170	དབུགས་
 A21918a	Number T21918 Sing
 T21919	VERB 170 176	དབྱུང་
 A21919a	Tense T21919 Fut
-#√21919	AnnotatorNotes T21919	[དབྱུང་][འབྱིན་] 
+#21919l	AnnotatorNotes T21919	[དབྱུང་][འབྱིན་] 
 T21920	PUNCT 176 177	།
 T21922	VERB 178 184	གཟེངས་
 N21922	Reference T21922 Hill:1597	གཟེང་
@@ -96,7 +96,7 @@ T21932	NOUN 223 227	མགོ་
 A21932a	Number T21932 Sing
 T21933	VERB 227 234	ཚུགས་པ་
 A21933a	VerbForm T21933 Vnoun
-#√21933	AnnotatorNotes T21933	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
+#21933l	AnnotatorNotes T21933	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
 T21934	AUX 234 238	ཡིན་
 N21934	Reference T21934 Hill:1619	ཡིན་
 T21935	VERB 238 243	གསུང་
@@ -140,7 +140,7 @@ A21961a	Case T21961 Agn
 T21962	NOUN 328 336	གདམས་ངག་
 A21962a	Number T21962 Sing
 T21963	VERB 336 340	གསན་
-#√21963	AnnotatorNotes T21963	[གཟོན་][གསན་] 
+#21963l	AnnotatorNotes T21963	[གཟོན་][གསན་] 
 T21964	PART 340 342	མ་
 A21964a	Polarity T21964 Neg
 T21965	VERB 342 345	ཐག་
@@ -168,7 +168,7 @@ N21976	Reference T21976 Hill:1549	བཞུགས་
 T21977	VERB 385 390	ཞུས་པ
 A21977a	Tense T21977 Past
 A21977b	VerbForm T21977 Vnoun
-#√21977	AnnotatorNotes T21977	[འཇུ་√3][ཞུ་√1] 
+#21977l	AnnotatorNotes T21977	[འཇུ་√3][ཞུ་√1] 
 T21978	ADP 390 391	ས
 A21978a	Case T21978 Agn
 T21979	PUNCT 391 392	།
@@ -207,7 +207,7 @@ T21995	PUNCT 445 446	།
 T21997	VERB 447 452	འཚོ་བ
 A21997a	Tense T21997 Fut/Pres
 A21997b	VerbForm T21997 Vnoun
-#√21997	AnnotatorNotes T21997	[འཚོ་√1][འཚོ་√2] 
+#21997l	AnnotatorNotes T21997	[འཚོ་√1][འཚོ་√2] 
 T21998	ADP 452 455	འི་
 A21998a	Case T21998 Gen
 T21999	NOUN 455 462	ཡོ་བྱད་
@@ -234,7 +234,7 @@ T22011	SCONJ 507 510	དུ་
 A22011a	Case T22011 Ter
 T22012	VERB 510 514	བཅུག
 A22012a	Tense T22012 Past
-#√22012	AnnotatorNotes T22012	[འཇུག་√2][གཞུག་] 
+#22012l	AnnotatorNotes T22012	[འཇུག་√2][གཞུག་] 
 T22013	DET 514 516	དེ
 A22013a	PronType T22013 Dem
 T22014	ADP 516 519	འི་
@@ -261,7 +261,7 @@ T22023	NOUN 549 552	མེ་
 A22023a	Number T22023 Sing
 T22024	VERB 552 556	སྦར་
 A22024a	Tense T22024 Past/Pres
-#√22024	AnnotatorNotes T22024	[སྦར་][སྦོར་] 
+#22024l	AnnotatorNotes T22024	[སྦར་][སྦོར་] 
 T22025	SCONJ 556 559	ནས་
 A22025a	Case T22025 Ela
 T22026	NOUN 559 566	སྤྱི་བོ
@@ -270,7 +270,7 @@ T22027	ADP 566 568	ར་
 A22027a	Case T22027 Ter
 T22028	VERB 568 572	བཞག་
 A22028a	Tense T22028 Past
-#√22028	AnnotatorNotes T22028	[འཇོག་√1][བཞག་] 
+#22028l	AnnotatorNotes T22028	[འཇོག་√1][བཞག་] 
 T22029	SCONJ 572 575	སྟེ
 A22029a	Case T22029 Sem
 T22030	PUNCT 575 576	།
@@ -326,7 +326,7 @@ A22051b	NumForm T22051 Word
 T22052	VERB 665 671	སོང་བ་
 A22052a	Tense T22052 Past
 A22052b	VerbForm T22052 Vnoun
-#√22052	AnnotatorNotes T22052	[འགྲོ་][སོང་] 
+#22052l	AnnotatorNotes T22052	[འགྲོ་][སོང་] 
 T22053	ADP 671 674	དང་
 A22053a	Case T22053 Com
 T22054	PUNCT 674 675	།
@@ -346,7 +346,7 @@ A22061a	Number T22061 Sing
 T22062	ADJ 714 721	བཟང་པོ་
 T22063	VERB 721 726	བསྣམ་
 A22063a	Tense T22063 Fut
-#√22063	AnnotatorNotes T22063	[སྣོམ་√1][སྣོམ་√2] 
+#22063l	AnnotatorNotes T22063	[སྣོམ་√1][སྣོམ་√2] 
 T22064	SCONJ 726 729	ནས་
 A22064a	Case T22064 Ela
 T22065	VERB 729 734	བྱོན་
@@ -458,13 +458,13 @@ T22115	ADP 915 917	ལ་
 A22115a	Case T22115 All
 T22116	VERB 917 921	ཤོག་
 A22116a	Mood T22116 Imp
-#√22116	AnnotatorNotes T22116	[འཆགས་][འོང་][གཤེགས་] 
+#22116l	AnnotatorNotes T22116	[འཆགས་][འོང་][གཤེགས་] 
 T22117	PART 921 925	ཅིག་
 A22117a	Mood T22117 Imp
 T22118	VERB 925 932	གསུང་བ་
 A22118a	Tense T22118 Fut/Pres
 A22118b	VerbForm T22118 Vnoun
-#√22118	AnnotatorNotes T22118	[གསུང་√1][གསུང་√2] 
+#22118l	AnnotatorNotes T22118	[གསུང་√1][གསུང་√2] 
 T22119	ADP 932 933	ལ
 A22119a	Case T22119 All
 T22120	PUNCT 933 934	།
@@ -591,7 +591,7 @@ T22182	AUX 1148 1152	ལགས་
 T22183	VERB 1152 1157	ཞུས་པ
 A22183a	Tense T22183 Past
 A22183b	VerbForm T22183 Vnoun
-#√22183	AnnotatorNotes T22183	[འཇུ་√3][ཞུ་√1] 
+#22183l	AnnotatorNotes T22183	[འཇུ་√3][ཞུ་√1] 
 T22184	ADP 1157 1158	ས
 A22184a	Case T22184 Agn
 T22185	PUNCT 1158 1159	།
@@ -670,7 +670,7 @@ T22222	SCONJ 1319 1322	དུ་
 A22222a	Case T22222 Ter
 T22223	VERB 1322 1327	བྱོན་
 A22223a	Mood T22223 Imp
-#√22223	AnnotatorNotes T22223	[འབྱོན་√1][འབྱོན་√2] 
+#22223l	AnnotatorNotes T22223	[འབྱོན་√1][འབྱོན་√2] 
 T22224	PART 1327 1331	ཅིག་
 A22224a	Mood T22224 Imp
 T22225	VERB 1331 1336	གསུང་

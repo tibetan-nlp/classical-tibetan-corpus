@@ -8,13 +8,13 @@ T9177	PROPN 10 14	མར་པ
 T9178	PART 14 17	འང་
 T9179	VERB 17 21	ཟེར་
 A9179a	Tense T9179 Fut/Pres
-#√9179	AnnotatorNotes T9179	[ཟེར་√1][ཟེར་√2] 
+#9179l	AnnotatorNotes T9179	[ཟེར་√1][ཟེར་√2] 
 T9180	SCONJ 21 25	ཞིང་
 A9180a	Case T9180 Impf
 T9181	VERB 25 30	འདུག་
 N9181	Reference T9181 Hill:0875	འདུག་
 T9182	VERB 30 33	ཟེར
-#√9182	AnnotatorNotes T9182	[ཟེར་√1][ཟེར་√2] 
+#9182l	AnnotatorNotes T9182	[ཟེར་√1][ཟེར་√2] 
 T9183	PUNCT 33 34	།
 T9185	NOUN 35 39	བླ་མ
 A9185a	Number T9185 Sing
@@ -42,7 +42,7 @@ A9197a	Case T9197 All
 T9198	PRON 76 79	ཅི་
 A9198a	PronType T9198 Int
 T9199	VERB 79 83	ཟེར་
-#√9199	AnnotatorNotes T9199	[ཟེར་√1][ཟེར་√2] 
+#9199l	AnnotatorNotes T9199	[ཟེར་√1][ཟེར་√2] 
 T9200	VERB 83 88	བྱས་པ
 A9200a	Tense T9200 Past
 A9200b	VerbForm T9200 Vnoun
@@ -56,9 +56,9 @@ T9205	ADP 95 97	ལ་
 A9205a	Case T9205 All
 T9206	PROPN 97 107	ཆོས་ལ་སྒང་
 T9207	VERB 107 111	ཟེར་
-#√9207	AnnotatorNotes T9207	[ཟེར་√1][ཟེར་√2] 
+#9207l	AnnotatorNotes T9207	[ཟེར་√1][ཟེར་√2] 
 T9208	VERB 111 114	ཟེར
-#√9208	AnnotatorNotes T9208	[ཟེར་√1][ཟེར་√2] 
+#9208l	AnnotatorNotes T9208	[ཟེར་√1][ཟེར་√2] 
 T9209	PUNCT 114 115	།
 T9211	NOUN 116 120	ཆོས་
 A9211a	Number T9211 Sing
@@ -108,7 +108,7 @@ T9233	ADP 204 206	ར་
 A9233a	Case T9233 Ter
 T9234	VERB 206 211	འདྲི་
 A9234a	Tense T9234 Pres
-#√9234	AnnotatorNotes T9234	[འདྲི་][འབྲི་√1] 
+#9234l	AnnotatorNotes T9234	[འདྲི་][འབྲི་√1] 
 T9235	SCONJ 211 215	ཞིང་
 A9235a	Case T9235 Impf
 T9236	VERB 215 221	འོངས་པ
@@ -150,7 +150,7 @@ A9255a	Polarity T9255 Neg
 T9256	VERB 295 301	ཟེར་བ་
 A9256a	Tense T9256 Fut/Pres
 A9256b	VerbForm T9256 Vnoun
-#√9256	AnnotatorNotes T9256	[ཟེར་√1][ཟེར་√2] 
+#9256l	AnnotatorNotes T9256	[ཟེར་√1][ཟེར་√2] 
 T9257	ADP 301 302	ལ
 A9257a	Case T9257 All
 T9258	PUNCT 302 303	།
@@ -213,7 +213,7 @@ A9291a	Case T9291 All
 T9292	VERB 425 431	ཟེར་བ་
 A9292a	Tense T9292 Fut/Pres
 A9292b	VerbForm T9292 Vnoun
-#√9292	AnnotatorNotes T9292	[ཟེར་√1][ཟེར་√2] 
+#9292l	AnnotatorNotes T9292	[ཟེར་√1][ཟེར་√2] 
 T9293	AUX 431 435	ཡིན་
 N9293	Reference T9293 Hill:1619	ཡིན་
 T9294	PART 435 437	ནམ
@@ -322,7 +322,7 @@ N9346	Reference T9346 Hill:1632	ཡོད་
 T9347	VERB 636 642	ཟེར་བ་
 A9347a	Tense T9347 Fut/Pres
 A9347b	VerbForm T9347 Vnoun
-#√9347	AnnotatorNotes T9347	[ཟེར་√1][ཟེར་√2] 
+#9347l	AnnotatorNotes T9347	[ཟེར་√1][ཟེར་√2] 
 T9348	ADP 642 643	ལ
 A9348a	Case T9348 All
 T9349	PUNCT 643 644	།
@@ -394,7 +394,7 @@ A9383a	Number T9383 Sing
 T9384	VERB 771 778	འབྱོར་བ
 A9384a	Tense T9384 Fut/Pres
 A9384b	VerbForm T9384 Vnoun
-#√9384	AnnotatorNotes T9384	[འབྱོར་√1][འབྱོར་√2] 
+#9384l	AnnotatorNotes T9384	[འབྱོར་√1][འབྱོར་√2] 
 T9385	PUNCT 778 779	།
 T9387	NOUN 780 785	སྤྱན་
 A9387a	Number T9387 Sing
@@ -524,7 +524,7 @@ N9450	Reference T9450 Hill:1549	བཞུགས་
 T9451	VERB 1032 1038	ཟེར་བ་
 A9451a	Tense T9451 Fut/Pres
 A9451b	VerbForm T9451 Vnoun
-#√9451	AnnotatorNotes T9451	[ཟེར་√1][ཟེར་√2] 
+#9451l	AnnotatorNotes T9451	[ཟེར་√1][ཟེར་√2] 
 T9452	DET 1038 1041	དེ་
 A9452a	PronType T9452 Dem
 T9453	PRON 1041 1044	གང་
@@ -536,7 +536,7 @@ N9455	Reference T9455 Hill:1549	བཞུགས་
 T9456	VERB 1052 1057	ཞུས་པ
 A9456a	Tense T9456 Past
 A9456b	VerbForm T9456 Vnoun
-#√9456	AnnotatorNotes T9456	[འཇུ་√3][ཞུ་√1] 
+#9456l	AnnotatorNotes T9456	[འཇུ་√3][ཞུ་√1] 
 T9457	ADP 1057 1058	ས
 A9457a	Case T9457 Agn
 T9458	PUNCT 1058 1059	།
@@ -586,7 +586,7 @@ N9482	Reference T9482 Hill:1168	བྱེད་
 T9483	VERB 1138 1144	གསུང་བ
 A9483a	Tense T9483 Fut/Pres
 A9483b	VerbForm T9483 Vnoun
-#√9483	AnnotatorNotes T9483	[གསུང་√1][གསུང་√2] 
+#9483l	AnnotatorNotes T9483	[གསུང་√1][གསུང་√2] 
 T9484	ADP 1144 1145	ས
 A9484a	Case T9484 Agn
 T9485	PUNCT 1145 1146	།
@@ -639,7 +639,7 @@ T9510	DET 1244 1248	ཅིག་
 A9510a	PronType T9510 Ind
 T9511	VERB 1248 1251	ཞུ་
 A9511a	Tense T9511 Fut/Pres
-#√9511	AnnotatorNotes T9511	[ཞུ་√1][ཞུ་√2] 
+#9511l	AnnotatorNotes T9511	[ཞུ་√1][ཞུ་√2] 
 T9512	SCONJ 1251 1254	རུ་
 A9512a	Case T9512 Ter
 T9513	VERB 1254 1261	འོངས་པ་
@@ -650,7 +650,7 @@ T9514	AUX 1261 1265	ལགས་
 T9515	VERB 1265 1270	ཞུས་པ
 A9515a	Tense T9515 Past
 A9515b	VerbForm T9515 Vnoun
-#√9515	AnnotatorNotes T9515	[འཇུ་√3][ཞུ་√1] 
+#9515l	AnnotatorNotes T9515	[འཇུ་√3][ཞུ་√1] 
 T9516	ADP 1270 1271	ས
 A9516a	Case T9516 Agn
 T9517	PUNCT 1271 1272	།

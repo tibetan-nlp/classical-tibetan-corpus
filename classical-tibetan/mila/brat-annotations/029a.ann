@@ -79,11 +79,11 @@ T12701	SCONJ 144 148	ཞིང་
 A12701a	Case T12701 Impf
 T12702	VERB 148 153	འཇུག་
 A12702a	Tense T12702 Pres
-#√12702	AnnotatorNotes T12702	[འཇུག་√1][འཇུག་√2] 
+#12702l	AnnotatorNotes T12702	[འཇུག་√1][འཇུག་√2] 
 T12703	VERB 153 159	བསྔོ་བ
 A12703a	Tense T12703 Fut
 A12703b	VerbForm T12703 Vnoun
-#√12703	AnnotatorNotes T12703	[སྔོ་√1][སྔོ་√2] 
+#12703l	AnnotatorNotes T12703	[སྔོ་√1][སྔོ་√2] 
 T12704	ADP 159 161	ས་
 A12704a	Case T12704 Agn
 T12705	VERB 161 168	སྡུད་པ་
@@ -151,12 +151,12 @@ A12734a	Number T12734 Sing
 N12734	Reference T12734 Hill:1793	སེམས་
 T12735	VERB 279 283	གསོ་
 A12735a	Tense T12735 Fut/Pres
-#√12735	AnnotatorNotes T12735	[གསོ་√1][གསོ་√2] 
+#12735l	AnnotatorNotes T12735	[གསོ་√1][གསོ་√2] 
 T12736	VERB 283 287	མཛད་
 N12736	Reference T12736 Hill:1465	མཛད་
 T12737	VERB 287 291	སོང་
 A12737a	Tense T12737 Past
-#√12737	AnnotatorNotes T12737	[འགྲོ་][སོང་] 
+#12737l	AnnotatorNotes T12737	[འགྲོ་][སོང་] 
 T12738	PUNCT 291 292	།
 T12740	ADV 293 298	ནངས་པ
 A12740a	AdvType T12740 Tim
@@ -192,7 +192,7 @@ T12756	NOUN 350 360	རྩིག་འཕྲོ་
 A12756a	Number T12756 Sing
 T12757	VERB 360 364	ཞོག་
 A12757a	Mood T12757 Imp
-#√12757	AnnotatorNotes T12757	[འཇོག་√1][འཇོག་√2] 
+#12757l	AnnotatorNotes T12757	[འཇོག་√1][འཇོག་√2] 
 T12758	SCONJ 364 365	ལ
 A12758a	Case T12758 All
 T12759	PUNCT 365 366	།
@@ -235,7 +235,7 @@ A12777a	PronType T12777 Dem
 T12778	VERB 437 444	ལོངས་པ་
 A12778a	Tense T12778 Past
 A12778b	VerbForm T12778 Vnoun
-#√12778	AnnotatorNotes T12778	[ལང་√3][ལེན་][ལོང་] 
+#12778l	AnnotatorNotes T12778	[ལང་√3][ལེན་][ལོང་] 
 T12779	ADP 444 447	དང་
 A12779a	Case T12779 Com
 T12780	NOUN 447 451	དབང་
@@ -313,10 +313,10 @@ A12816a	Number T12816 Sing
 N12816	Reference T12816 Hill:1793	སེམས་
 T12817	VERB 586 590	གསོ་
 A12817a	Tense T12817 Fut/Pres
-#√12817	AnnotatorNotes T12817	[གསོ་√1][གསོ་√2] 
+#12817l	AnnotatorNotes T12817	[གསོ་√1][གསོ་√2] 
 T12818	VERB 590 594	བཏང་
 A12818a	Tense T12818 Past
-#√12818	AnnotatorNotes T12818	[གཏོང་√1][གཏོང་√2] 
+#12818l	AnnotatorNotes T12818	[གཏོང་√1][གཏོང་√2] 
 T12819	ADJ 594 602	བྱམས་པོ་
 T12820	DET 602 605	རང་
 T12821	VERB 605 608	མཛད
@@ -326,7 +326,7 @@ T12824	NOUN 610 615	ཁྱམས་
 A12824a	Number T12824 Sing
 T12825	VERB 615 620	ལོངས་
 A12825a	Tense T12825 Past
-#√12825	AnnotatorNotes T12825	[ལང་√3][ལེན་][ལོང་] 
+#12825l	AnnotatorNotes T12825	[ལང་√3][ལེན་][ལོང་] 
 T12826	SCONJ 620 623	སུ་
 A12826a	Case T12826 Ter
 T12827	VERB 623 626	ཆ་བ
@@ -349,7 +349,7 @@ T12837	NOUN 670 680	དབང་མོ་ཆེ་
 A12837a	Number T12837 Sing
 T12838	VERB 680 682	ཞུ
 A12838a	Tense T12838 Fut/Pres
-#√12838	AnnotatorNotes T12838	[ཞུ་√1][ཞུ་√2] 
+#12838l	AnnotatorNotes T12838	[ཞུ་√1][ཞུ་√2] 
 T12839	SCONJ 682 684	ར་
 A12839a	Case T12839 Ter
 T12840	VERB 684 690	བྱུང་བ
@@ -489,7 +489,7 @@ T12906	AUX 939 943	ལགས་
 T12907	VERB 943 948	ཞུས་པ
 A12907a	Tense T12907 Past
 A12907b	VerbForm T12907 Vnoun
-#√12907	AnnotatorNotes T12907	[འཇུ་√3][ཞུ་√1] 
+#12907l	AnnotatorNotes T12907	[འཇུ་√3][ཞུ་√1] 
 T12908	ADP 948 949	ས
 A12908a	Case T12908 Agn
 T12909	PUNCT 949 950	།
@@ -558,7 +558,7 @@ A12943a	Mood T12943 Imp
 N12943	Reference T12943 Hill:0169	འཁྱེར་
 T12944	VERB 1079 1083	ཤོག་
 A12944a	Mood T12944 Imp
-#√12944	AnnotatorNotes T12944	[འཆགས་][འོང་][གཤེགས་] 
+#12944l	AnnotatorNotes T12944	[འཆགས་][འོང་][གཤེགས་] 
 T12945	DET 1083 1086	དེ་
 A12945a	PronType T12945 Dem
 T12946	AUX 1086 1090	མིན་
@@ -580,7 +580,7 @@ N12952	Reference T12952 Hill:0967	སྡོད་
 T12953	VERB 1112 1117	གསུང་
 T12954	VERB 1117 1123	བཞེངས་
 A12954a	Tense T12954 Past
-#√12954	AnnotatorNotes T12954	[བཞེང་√1][བཞེང་√2] 
+#12954l	AnnotatorNotes T12954	[བཞེང་√1][བཞེང་√2] 
 T12955	SCONJ 1123 1126	ནས་
 A12955a	Case T12955 Ela
 T12956	NOUN 1126 1136	བཀའ་བཀྱོན་
@@ -633,7 +633,7 @@ T12982	NOUN 1213 1217	མཐུ་
 A12982a	Number T12982 Sing
 T12983	VERB 1217 1221	བཏང་
 A12983a	Tense T12983 Past
-#√12983	AnnotatorNotes T12983	[གཏོང་√1][གཏོང་√2] 
+#12983l	AnnotatorNotes T12983	[གཏོང་√1][གཏོང་√2] 
 T12984	SCONJ 1221 1224	ནས་
 A12984a	Case T12984 Ela
 T12985	NOUN 1224 1227	མི་

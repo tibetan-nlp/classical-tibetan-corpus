@@ -80,7 +80,7 @@ A7210a	PronType T7210 Int
 T7211	AUX 160 164	ཡིན་
 N7211	Reference T7211 Hill:1619	ཡིན་
 T7212	VERB 164 167	ཟེར
-#√7212	AnnotatorNotes T7212	[ཟེར་√1][ཟེར་√2] 
+#7212l	AnnotatorNotes T7212	[ཟེར་√1][ཟེར་√2] 
 T7213	PUNCT 167 168	།
 T7215	PRON 169 170	ང
 A7215a	PronType T7215 Prs
@@ -99,7 +99,7 @@ A7221a	Case T7221 All
 T7222	VERB 197 203	ཕྱིན་པ
 A7222a	Tense T7222 Past
 A7222b	VerbForm T7222 Vnoun
-#√7222	AnnotatorNotes T7222	[འགྲོ་][ཕྱིན་] 
+#7222l	AnnotatorNotes T7222	[འགྲོ་][ཕྱིན་] 
 T7223	ADP 203 204	ས
 A7223a	Case T7223 Agn
 T7224	PUNCT 204 205	།
@@ -111,7 +111,7 @@ T7228	ADP 215 217	ས་
 A7228a	Case T7228 Agn
 T7229	VERB 217 221	ཕུག་
 A7229a	Tense T7229 Past
-#√7229	AnnotatorNotes T7229	[འབིགས་√1][འབུགས་] 
+#7229l	AnnotatorNotes T7229	[འབིགས་√1][འབུགས་] 
 T7230	SCONJ 221 225	སྟེ་
 A7230a	Case T7230 Sem
 T7231	ADJ 225 235	མགྱོགས་པོ་
@@ -119,7 +119,7 @@ T7232	PART 235 237	མ་
 A7232a	Polarity T7232 Neg
 T7233	VERB 237 241	སླེབ
 A7233a	Tense T7233 Pres
-#√7233	AnnotatorNotes T7233	[སླེབ་√1][སླེབ་√2] 
+#7233l	AnnotatorNotes T7233	[སླེབ་√1][སླེབ་√2] 
 T7234	PUNCT 241 242	།
 T7236	ADV 243 245	ད་
 A7236a	AdvType T7236 Tim
@@ -208,11 +208,11 @@ A7281a	PronType T7281 Int
 T7282	ADP 416 419	ལས་
 A7282a	Case T7282 Abl
 T7283	VERB 419 423	གསན་
-#√7283	AnnotatorNotes T7283	[གཟོན་][གསན་] 
+#7283l	AnnotatorNotes T7283	[གཟོན་][གསན་] 
 T7284	VERB 423 428	ཞུས་པ
 A7284a	Tense T7284 Past
 A7284b	VerbForm T7284 Vnoun
-#√7284	AnnotatorNotes T7284	[འཇུ་√3][ཞུ་√1] 
+#7284l	AnnotatorNotes T7284	[འཇུ་√3][ཞུ་√1] 
 T7285	ADP 428 429	ས
 A7285a	Case T7285 Agn
 T7286	PUNCT 429 430	།
@@ -260,7 +260,7 @@ T7306	ADV 507 510	ཡང་
 A7306a	PronType T7306 Dem
 T7307	VERB 510 514	བཏང་
 A7307a	Tense T7307 Past
-#√7307	AnnotatorNotes T7307	[གཏོང་√1][གཏོང་√2] 
+#7307l	AnnotatorNotes T7307	[གཏོང་√1][གཏོང་√2] 
 T7308	VERB 514 518	ཡོད་
 N7308	Reference T7308 Hill:1632	ཡོད་
 T7309	VERB 518 523	གསུང་
@@ -311,7 +311,7 @@ T7331	ADJ 596 602	ནག་པོ་
 T7332	VERB 602 609	བསགས་པ་
 A7332a	Tense T7332 Past
 A7332b	VerbForm T7332 Vnoun
-#√7332	AnnotatorNotes T7332	[གསོག་√1][གསོག་√3] 
+#7332l	AnnotatorNotes T7332	[གསོག་√1][གསོག་√3] 
 T7333	AUX 609 613	ཡིན་
 N7333	Reference T7333 Hill:1619	ཡིན་
 T7334	VERB 613 618	གསུང་
@@ -362,7 +362,7 @@ A7358a	Case T7358 Abl
 T7359	VERB 722 727	འདས་པ
 A7359a	Tense T7359 Past
 A7359b	VerbForm T7359 Vnoun
-#√7359	AnnotatorNotes T7359	[འདའ་][ཟླ་] 
+#7359l	AnnotatorNotes T7359	[འདའ་][ཟླ་] 
 T7360	ADP 727 730	འི་
 A7360a	Case T7360 Gen
 T7361	VERB 730 736	མཛད་པ་
@@ -397,7 +397,7 @@ A7374a	Number T7374 Sing
 T7375	VERB 788 793	བཙལ་བ
 A7375a	Tense T7375 Fut
 A7375b	VerbForm T7375 Vnoun
-#√7375	AnnotatorNotes T7375	[འཚལ་√1][འཚོལ་] 
+#7375l	AnnotatorNotes T7375	[འཚལ་√1][འཚོལ་] 
 T7376	ADP 793 796	འི་
 A7376a	Case T7376 Gen
 T7377	VERB 796 801	མཛད་པ
@@ -464,7 +464,7 @@ N7402	Reference T7402 Hill:1465	མཛད་
 T7403	PUNCT 907 908	།
 T7405	VERB 909 915	བརྩེ་བ
 A7405a	VerbForm T7405 Vnoun
-#√7405	AnnotatorNotes T7405	[བརྩེ་√1][བརྩེ་√2] 
+#7405l	AnnotatorNotes T7405	[བརྩེ་√1][བརྩེ་√2] 
 T7406	ADP 915 917	ས་
 A7406a	Case T7406 Agn
 T7407	NOUN 917 922	རྗེས་

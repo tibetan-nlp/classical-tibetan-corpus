@@ -66,7 +66,7 @@ N11653	Reference T11653 Hill:1619	ཡིན་
 T11654	VERB 155 161	གསུང་པ
 A11654a	Tense T11654 Fut/Pres
 A11654b	VerbForm T11654 Vnoun
-#√11654	AnnotatorNotes T11654	[གསུང་√1][གསུང་√2] 
+#11654l	AnnotatorNotes T11654	[གསུང་√1][གསུང་√2] 
 T11655	ADP 161 163	ས་
 A11655a	Case T11655 Agn
 T11656	NOUN 163 169	མཆི་མ་
@@ -106,7 +106,7 @@ T11672	NOUN 229 235	ཡི་དམ་
 A11672a	Number T11672 Sing
 T11673	VERB 235 238	བཅས
 A11673a	Tense T11673 Past
-#√11673	AnnotatorNotes T11673	[བཅས་][འཆའ་√1][འཆའ་√2] 
+#11673l	AnnotatorNotes T11673	[བཅས་][འཆའ་√1][འཆའ་√2] 
 T11674	PUNCT 238 239	།
 T11676	DET 240 243	དེ་
 A11676a	PronType T11676 Dem
@@ -119,7 +119,7 @@ A11679a	Number T11679 Plur
 T11680	VERB 253 259	སོང་བ་
 A11680a	Tense T11680 Past
 A11680b	VerbForm T11680 Vnoun
-#√11680	AnnotatorNotes T11680	[འགྲོ་][སོང་] 
+#11680l	AnnotatorNotes T11680	[འགྲོ་][སོང་] 
 T11681	ADP 259 262	དང་
 A11681a	Case T11681 Com
 T11682	NOUN 262 267	བླ་མ་
@@ -129,7 +129,7 @@ A11683a	Number T11683 Sing
 T11684	VERB 271 276	འཆག་པ
 A11684a	Tense T11684 Fut/Pres
 A11684b	VerbForm T11684 Vnoun
-#√11684	AnnotatorNotes T11684	[འཆག་√2][འཆག་√3] 
+#11684l	AnnotatorNotes T11684	[འཆག་√2][འཆག་√3] 
 T11685	ADP 276 279	འི་
 A11685a	Case T11685 Gen
 T11686	NOUN 279 286	ཕྱག་ཕྱི
@@ -143,7 +143,7 @@ T11689	VERB 293 298	གསུང་
 T11690	VERB 298 304	ཕྱིན་པ
 A11690a	Tense T11690 Past
 A11690b	VerbForm T11690 Vnoun
-#√11690	AnnotatorNotes T11690	[འགྲོ་][ཕྱིན་] 
+#11690l	AnnotatorNotes T11690	[འགྲོ་][ཕྱིན་] 
 T11691	ADP 304 305	ས
 A11691a	Case T11691 Agn
 T11692	PUNCT 305 306	།
@@ -278,7 +278,7 @@ A11755a	Polarity T11755 Xor
 T11756	VERB 580 585	ཞུས་པ
 A11756a	Tense T11756 Past
 A11756b	VerbForm T11756 Vnoun
-#√11756	AnnotatorNotes T11756	[འཇུ་√3][ཞུ་√1] 
+#11756l	AnnotatorNotes T11756	[འཇུ་√3][ཞུ་√1] 
 T11757	ADP 585 586	ས
 A11757a	Case T11757 Agn
 T11758	PUNCT 586 587	།
@@ -417,7 +417,7 @@ A11826a	VerbForm T11826 Vnoun
 T11827	VERB 837 842	ཞུས་པ
 A11827a	Tense T11827 Past
 A11827b	VerbForm T11827 Vnoun
-#√11827	AnnotatorNotes T11827	[འཇུ་√3][ཞུ་√1] 
+#11827l	AnnotatorNotes T11827	[འཇུ་√3][ཞུ་√1] 
 T11828	ADP 842 843	ས
 A11828a	Case T11828 Agn
 T11829	PUNCT 843 844	།
@@ -434,7 +434,7 @@ N11835	Reference T11835 Hill:1632	ཡོད་
 T11836	VERB 866 873	གསུང་པ་
 A11836a	Tense T11836 Fut/Pres
 A11836b	VerbForm T11836 Vnoun
-#√11836	AnnotatorNotes T11836	[གསུང་√1][གསུང་√2] 
+#11836l	AnnotatorNotes T11836	[གསུང་√1][གསུང་√2] 
 T11837	ADP 873 876	དང་
 A11837a	Case T11837 Com
 T11838	DET 876 880	གཞན་
@@ -496,7 +496,7 @@ A11865a	Mood T11865 Imp
 T11866	VERB 983 988	ཞུས་པ
 A11866a	Tense T11866 Past
 A11866b	VerbForm T11866 Vnoun
-#√11866	AnnotatorNotes T11866	[འཇུ་√3][ཞུ་√1] 
+#11866l	AnnotatorNotes T11866	[འཇུ་√3][ཞུ་√1] 
 T11867	ADP 988 989	ས
 A11867a	Case T11867 Agn
 T11868	PUNCT 989 990	།
@@ -626,7 +626,7 @@ T11932	PUNCT 1212 1213	།
 T11934	VERB 1214 1219	ཞུས་པ
 A11934a	Tense T11934 Past
 A11934b	VerbForm T11934 Vnoun
-#√11934	AnnotatorNotes T11934	[འཇུ་√3][ཞུ་√1] 
+#11934l	AnnotatorNotes T11934	[འཇུ་√3][ཞུ་√1] 
 T11935	ADP 1219 1221	ས་
 A11935a	Case T11935 Agn
 T11936	PART 1221 1224	ནི་
@@ -636,11 +636,11 @@ T11938	PART 1227 1230	མི་
 A11938a	Polarity T11938 Neg
 T11939	VERB 1230 1234	གསན་
 A11939a	Tense T11939 Fut/Pres
-#√11939	AnnotatorNotes T11939	[གཟོན་][གསན་] 
+#11939l	AnnotatorNotes T11939	[གཟོན་][གསན་] 
 T11940	VERB 1234 1241	གསུང་བ་
 A11940a	Tense T11940 Fut/Pres
 A11940b	VerbForm T11940 Vnoun
-#√11940	AnnotatorNotes T11940	[གསུང་√1][གསུང་√2] 
+#11940l	AnnotatorNotes T11940	[གསུང་√1][གསུང་√2] 
 T11941	ADP 1241 1242	ལ
 A11941a	Case T11941 All
 T11942	PUNCT 1242 1243	།

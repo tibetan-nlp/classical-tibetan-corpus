@@ -4,14 +4,14 @@ T17678	DET 3 10	ཐམས་ཅད་
 A17678a	Number T17678 Plur
 T17679	VERB 10 14	སོས་
 A17679a	Tense T17679 Past
-#√17679	AnnotatorNotes T17679	[སོས་][གསོ་√1] 
+#17679l	AnnotatorNotes T17679	[སོས་][གསོ་√1] 
 T17680	SCONJ 14 17	ནས་
 A17680a	Case T17680 Ela
 T17681	VERB 17 20	ཧར་
 N17681	Reference T17681 Hill:1884	ཧར་
 T17682	VERB 20 24	ལངས་
 A17682a	Tense T17682 Past
-#√17682	AnnotatorNotes T17682	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
+#17682l	AnnotatorNotes T17682	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
 T17683	SCONJ 24 26	ཏེ
 A17683a	Case T17683 Sem
 T17684	PUNCT 26 27	།
@@ -58,7 +58,7 @@ A17706a	Case T17706 Ter
 T17707	VERB 102 108	སོང་བ་
 A17707a	Tense T17707 Past
 A17707b	VerbForm T17707 Vnoun
-#√17707	AnnotatorNotes T17707	[འགྲོ་][སོང་] 
+#17707l	AnnotatorNotes T17707	[འགྲོ་][སོང་] 
 T17708	ADP 108 111	དང་
 A17708a	Case T17708 Com
 T17709	PUNCT 111 112	།
@@ -167,7 +167,7 @@ A17765a	Case T17765 Ter
 T17766	VERB 326 331	ལྟ་བ་
 A17766a	Tense T17766 Pres
 A17766b	VerbForm T17766 Vnoun
-#√17766	AnnotatorNotes T17766	[ལྟ་√1][ལྟ་√2] 
+#17766l	AnnotatorNotes T17766	[ལྟ་√1][ལྟ་√2] 
 T17767	DET 331 335	ཅིག་
 A17767a	PronType T17767 Ind
 T17768	ADP 335 337	ན་
@@ -183,7 +183,7 @@ T17772	DET 355 358	དེ་
 A17772a	PronType T17772 Dem
 T17773	VERB 358 363	གསོས་
 A17773a	Tense T17773 Past
-#√17773	AnnotatorNotes T17773	[གསོ་√1][གསོ་√2] 
+#17773l	AnnotatorNotes T17773	[གསོ་√1][གསོ་√2] 
 T17774	SCONJ 363 365	ཏེ
 A17774a	Case T17774 Sem
 T17775	PUNCT 365 366	།
@@ -306,14 +306,14 @@ T17840	AUX 576 580	ལགས་
 T17841	VERB 580 585	ཞུས་པ
 A17841a	Tense T17841 Past
 A17841b	VerbForm T17841 Vnoun
-#√17841	AnnotatorNotes T17841	[འཇུ་√3][ཞུ་√1] 
+#17841l	AnnotatorNotes T17841	[འཇུ་√3][ཞུ་√1] 
 T17842	ADP 585 586	ས
 A17842a	Case T17842 Agn
 T17843	PUNCT 586 587	།
 T17845	PRON 588 591	ཅི་
 A17845a	PronType T17845 Int
 T17846	VERB 591 595	ཟེར་
-#√17846	AnnotatorNotes T17846	[ཟེར་√1][ཟེར་√2] 
+#17846l	AnnotatorNotes T17846	[ཟེར་√1][ཟེར་√2] 
 T17847	PRON 595 596	ང
 A17847a	PronType T17847 Prs
 T17848	ADP 596 599	འི་
@@ -442,7 +442,7 @@ A17908a	Mood T17908 Imp
 T17909	VERB 827 833	གསུང་པ
 A17909a	Tense T17909 Fut/Pres
 A17909b	VerbForm T17909 Vnoun
-#√17909	AnnotatorNotes T17909	[གསུང་√1][གསུང་√2] 
+#17909l	AnnotatorNotes T17909	[གསུང་√1][གསུང་√2] 
 T17910	ADP 833 834	ས
 A17910a	Case T17910 Agn
 T17911	PUNCT 834 835	།
@@ -463,7 +463,7 @@ T17920	NOUN 862 871	དངོས་སྣང་
 A17920a	Number T17920 Sing
 T17921	VERB 871 873	ཞུ
 A17921a	Tense T17921 Fut/Pres
-#√17921	AnnotatorNotes T17921	[ཞུ་√1][ཞུ་√2] 
+#17921l	AnnotatorNotes T17921	[ཞུ་√1][ཞུ་√2] 
 T17922	PART 873 876	འམ་
 A17922a	Polarity T17922 Xor
 T17923	VERB 876 882	སྙམ་པ་
@@ -474,7 +474,7 @@ A17924a	Case T17924 All
 T17925	PUNCT 883 884	།
 T17927	VERB 885 888	ཞུ་
 A17927a	Tense T17927 Fut/Pres
-#√17927	AnnotatorNotes T17927	[ཞུ་√1][ཞུ་√2] 
+#17927l	AnnotatorNotes T17927	[ཞུ་√1][ཞུ་√2] 
 T17928	DET 888 891	རང་
 T17929	PART 891 893	མ་
 A17929a	Polarity T17929 Neg
@@ -548,7 +548,7 @@ A17962a	Number T17962 Sing
 N17962	Reference T17962 Hill:1150	འཕྲོ་
 T17963	VERB 1031 1036	ལོངས་
 A17963a	Tense T17963 Past
-#√17963	AnnotatorNotes T17963	[ལང་√3][ལེན་][ལོང་] 
+#17963l	AnnotatorNotes T17963	[ལང་√3][ལེན་][ལོང་] 
 T17964	ADP 1036 1038	ནས
 A17964a	Case T17964 Ela
 T17965	PUNCT 1038 1039	།
@@ -626,7 +626,7 @@ A18001a	Mood T18001 Imp
 N18001	Reference T18001 Hill:0169	འཁྱེར་
 T18002	VERB 1179 1182	ཤོག
 A18002a	Mood T18002 Imp
-#√18002	AnnotatorNotes T18002	[འཆགས་][འོང་][གཤེགས་] 
+#18002l	AnnotatorNotes T18002	[འཆགས་][འོང་][གཤེགས་] 
 T18003	NOUN 1182 1190	སྤེན་བད་
 A18003a	Number T18003 Coll
 T18004	ADP 1190 1193	དང་
@@ -680,7 +680,7 @@ A18030a	Reflex T18030 Yes
 T18031	PART 1299 1302	ཡང་
 T18032	VERB 1302 1305	ཤོག
 A18032a	Mood T18032 Imp
-#√18032	AnnotatorNotes T18032	[འཆགས་][འོང་][གཤེགས་] 
+#18032l	AnnotatorNotes T18032	[འཆགས་][འོང་][གཤེགས་] 
 T18033	DET 1305 1308	དེ་
 A18033a	PronType T18033 Dem
 T18034	ADP 1308 1310	ན་
@@ -708,14 +708,14 @@ T18046	NOUN 1348 1352	དུས་
 A18046a	NounType T18046 Rel
 T18047	VERB 1352 1357	ཁྲིད་
 A18047a	Mood T18047 Imp
-#√18047	AnnotatorNotes T18047	[འཁྲིད་√1][འཁྲིད་√2] 
+#18047l	AnnotatorNotes T18047	[འཁྲིད་√1][འཁྲིད་√2] 
 T18048	VERB 1357 1361	ཤོག་
 A18048a	Mood T18048 Imp
-#√18048	AnnotatorNotes T18048	[འཆགས་][འོང་][གཤེགས་] 
+#18048l	AnnotatorNotes T18048	[འཆགས་][འོང་][གཤེགས་] 
 T18049	VERB 1361 1368	གསུང་བ་
 A18049a	Tense T18049 Fut/Pres
 A18049b	VerbForm T18049 Vnoun
-#√18049	AnnotatorNotes T18049	[གསུང་√1][གསུང་√2] 
+#18049l	AnnotatorNotes T18049	[གསུང་√1][གསུང་√2] 
 T18050	DET 1368 1372	ཅིག་
 A18050a	PronType T18050 Ind
 T18051	VERB 1372 1378	འདུག་པ

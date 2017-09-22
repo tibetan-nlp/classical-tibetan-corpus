@@ -9,7 +9,7 @@ A23987a	PronType T23987 Ind
 T23988	VERB 15 20	བཏང་བ
 A23988a	Tense T23988 Past
 A23988b	VerbForm T23988 Vnoun
-#√23988	AnnotatorNotes T23988	[གཏོང་√1][གཏོང་√2] 
+#23988l	AnnotatorNotes T23988	[གཏོང་√1][གཏོང་√2] 
 T23989	ADP 20 21	ས
 A23989a	Case T23989 Agn
 T23990	PUNCT 21 22	།
@@ -170,7 +170,7 @@ A24071a	Case T24071 Agn
 T24072	PART 343 347	ཀྱང་
 T24073	VERB 347 350	ཞུ་
 A24073a	Tense T24073 Fut/Pres
-#√24073	AnnotatorNotes T24073	[ཞུ་√1][ཞུ་√2] 
+#24073l	AnnotatorNotes T24073	[ཞུ་√1][ཞུ་√2] 
 T24074	VERB 350 355	དགོས་
 A24074a	VerbType T24074 Aux
 N24074	Reference T24074 Hill:0248	དགོས་
@@ -198,7 +198,7 @@ A24085a	Case T24085 Ter
 T24086	VERB 395 401	ཕྱིན་པ
 A24086a	Tense T24086 Past
 A24086b	VerbForm T24086 Vnoun
-#√24086	AnnotatorNotes T24086	[འགྲོ་][ཕྱིན་] 
+#24086l	AnnotatorNotes T24086	[འགྲོ་][ཕྱིན་] 
 T24087	ADP 401 402	ས
 A24087a	Case T24087 Agn
 T24088	PUNCT 402 403	།
@@ -247,7 +247,7 @@ A24113a	Tense T24113 Past
 T24114	VERB 476 483	གསུང་བ་
 A24114a	Tense T24114 Fut/Pres
 A24114b	VerbForm T24114 Vnoun
-#√24114	AnnotatorNotes T24114	[གསུང་√1][གསུང་√2] 
+#24114l	AnnotatorNotes T24114	[གསུང་√1][གསུང་√2] 
 T24115	ADP 483 484	ལ
 A24115a	Case T24115 All
 T24116	PUNCT 484 485	།
@@ -271,7 +271,7 @@ T24126	NOUN 520 524	སྐད་
 A24126a	NounType T24126 Rel
 N24126	Reference T24126 Hill:0039	སྐད་
 T24127	VERB 524 528	ཟེར་
-#√24127	AnnotatorNotes T24127	[ཟེར་√1][ཟེར་√2] 
+#24127l	AnnotatorNotes T24127	[ཟེར་√1][ཟེར་√2] 
 T24128	VERB 528 534	བྱུང་བ
 A24128a	Tense T24128 Past
 A24128b	VerbForm T24128 Vnoun
@@ -308,7 +308,7 @@ T24145	NOUN 590 600	གྲོང་འཇུག་
 A24145a	Number T24145 Sing
 T24146	VERB 600 602	ཞུ
 A24146a	Tense T24146 Fut/Pres
-#√24146	AnnotatorNotes T24146	[ཞུ་√1][ཞུ་√2] 
+#24146l	AnnotatorNotes T24146	[ཞུ་√1][ཞུ་√2] 
 T24147	SCONJ 602 604	ར་
 A24147a	Case T24147 Ter
 T24148	VERB 604 611	ཡོངས་པ་
@@ -325,11 +325,11 @@ T24152	ADP 623 625	ར་
 A24152a	Case T24152 Ter
 T24153	VERB 625 628	ཞུ་
 A24153a	Tense T24153 Fut/Pres
-#√24153	AnnotatorNotes T24153	[ཞུ་√1][ཞུ་√2] 
+#24153l	AnnotatorNotes T24153	[ཞུ་√1][ཞུ་√2] 
 T24154	VERB 628 633	ཞུས་པ
 A24154a	Tense T24154 Past
 A24154b	VerbForm T24154 Vnoun
-#√24154	AnnotatorNotes T24154	[འཇུ་√3][ཞུ་√1] 
+#24154l	AnnotatorNotes T24154	[འཇུ་√3][ཞུ་√1] 
 T24155	ADP 633 634	ས
 A24155a	Case T24155 Agn
 T24156	PUNCT 634 635	།
@@ -407,7 +407,7 @@ T24197	ADP 786 789	ལས་
 A24197a	Case T24197 Abl
 T24198	VERB 789 793	ཞུས་
 A24198a	Tense T24198 Past
-#√24198	AnnotatorNotes T24198	[འཇུ་√3][ཞུ་√1] 
+#24198l	AnnotatorNotes T24198	[འཇུ་√3][ཞུ་√1] 
 T24199	SCONJ 793 796	སུ་
 A24199a	Case T24199 Ter
 T24200	VERB 796 802	ཚོར་བ་
@@ -468,7 +468,7 @@ A24226a	Number T24226 Sing
 T24227	VERB 910 915	བཙལ་བ
 A24227a	Tense T24227 Fut
 A24227b	VerbForm T24227 Vnoun
-#√24227	AnnotatorNotes T24227	[འཚལ་√1][འཚོལ་] 
+#24227l	AnnotatorNotes T24227	[འཚལ་√1][འཚོལ་] 
 T24228	ADP 915 916	ས
 A24228a	Case T24228 Agn
 T24229	PUNCT 916 917	།
@@ -541,7 +541,7 @@ A24265a	PronType T24265 Dem
 T24266	VERB 1049 1054	ཞུ་བ་
 A24266a	Tense T24266 Fut/Pres
 A24266b	VerbForm T24266 Vnoun
-#√24266	AnnotatorNotes T24266	[ཞུ་√1][ཞུ་√2] 
+#24266l	AnnotatorNotes T24266	[ཞུ་√1][ཞུ་√2] 
 T24267	ADP 1054 1056	ལ་
 A24267a	Case T24267 All
 T24268	VERB 1056 1063	བསྐུལ་བ
@@ -574,7 +574,7 @@ T24280	ADP 1107 1109	ས་
 A24280a	Case T24280 Agn
 T24281	VERB 1109 1112	ཞུ་
 A24281a	Tense T24281 Fut/Pres
-#√24281	AnnotatorNotes T24281	[ཞུ་√1][ཞུ་√2] 
+#24281l	AnnotatorNotes T24281	[ཞུ་√1][ཞུ་√2] 
 T24282	SCONJ 1112 1115	རུ་
 A24282a	Case T24282 Ter
 T24283	VERB 1115 1120	འགྲོ་
@@ -583,7 +583,7 @@ N24283	Reference T24283 Hill:0331	འགྲོ་
 T24284	VERB 1120 1127	གསུང་བ་
 A24284a	Tense T24284 Fut/Pres
 A24284b	VerbForm T24284 Vnoun
-#√24284	AnnotatorNotes T24284	[གསུང་√1][གསུང་√2] 
+#24284l	AnnotatorNotes T24284	[གསུང་√1][གསུང་√2] 
 T24285	ADP 1127 1128	ལ
 A24285a	Case T24285 All
 T24286	PUNCT 1128 1129	།
@@ -655,7 +655,7 @@ A24318b	VerbForm T24318 Vnoun
 N24318	Reference T24318 Hill:1243	འབྱུང་
 T24319	VERB 1259 1265	བསྣམས་
 A24319a	Tense T24319 Past
-#√24319	AnnotatorNotes T24319	[སྣོམ་√1][སྣོམ་√2] 
+#24319l	AnnotatorNotes T24319	[སྣོམ་√1][སྣོམ་√2] 
 T24320	SCONJ 1265 1268	ཏེ་
 A24320a	Case T24320 Sem
 T24321	PROPN 1268 1275	རྒྱ་གར་
@@ -681,7 +681,7 @@ N24330	Reference T24330 Hill:1759	གཤེགས་
 T24331	ADP 1312 1315	དང་
 A24331a	Case T24331 Com
 T24332	VERB 1315 1318	ཐུག
-#√24332	AnnotatorNotes T24332	[ཐུག་√1][ཐུག་√2] 
+#24332l	AnnotatorNotes T24332	[ཐུག་√1][ཐུག་√2] 
 T24333	NOUN 1318 1323	སྲོག་
 A24333a	Number T24333 Sing
 T24334	ADP 1323 1325	ལ་

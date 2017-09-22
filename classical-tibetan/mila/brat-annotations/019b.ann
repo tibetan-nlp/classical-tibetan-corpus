@@ -17,7 +17,7 @@ A6111a	Case T6111 All
 T6112	VERB 49 54	ཟེར་བ
 A6112a	Tense T6112 Fut/Pres
 A6112b	VerbForm T6112 Vnoun
-#√6112	AnnotatorNotes T6112	[ཟེར་√1][ཟེར་√2] 
+#6112l	AnnotatorNotes T6112	[ཟེར་√1][ཟེར་√2] 
 T6113	ADP 54 56	ར་
 A6113a	Case T6113 Ter
 T6114	VERB 56 59	གདའ
@@ -48,7 +48,7 @@ A6126a	Case T6126 All
 T6127	VERB 113 118	ཟེར་བ
 A6127a	Tense T6127 Fut/Pres
 A6127b	VerbForm T6127 Vnoun
-#√6127	AnnotatorNotes T6127	[ཟེར་√1][ཟེར་√2] 
+#6127l	AnnotatorNotes T6127	[ཟེར་√1][ཟེར་√2] 
 T6128	ADP 118 120	ར་
 A6128a	Case T6128 Ter
 T6129	VERB 120 123	གདའ
@@ -91,7 +91,7 @@ T6148	PART 188 190	མ་
 A6148a	Polarity T6148 Neg
 T6149	VERB 190 195	འདྲི་
 A6149a	Tense T6149 Pres
-#√6149	AnnotatorNotes T6149	[འདྲི་][འབྲི་√1] 
+#6149l	AnnotatorNotes T6149	[འདྲི་][འབྲི་√1] 
 T6150	VERB 195 199	བྱ་བ
 A6150a	Tense T6150 Fut
 A6150b	VerbForm T6150 Vnoun
@@ -156,7 +156,7 @@ T6182	VERB 304 308	རྣོ་
 T6183	VERB 308 314	ཟེར་བ་
 A6183a	Tense T6183 Fut/Pres
 A6183b	VerbForm T6183 Vnoun
-#√6183	AnnotatorNotes T6183	[ཟེར་√1][ཟེར་√2] 
+#6183l	AnnotatorNotes T6183	[ཟེར་√1][ཟེར་√2] 
 T6184	VERB 314 320	བདེན་པ
 A6184a	Tense T6184 Past/Pres
 A6184b	VerbForm T6184 Vnoun
@@ -201,7 +201,7 @@ T6203	VERB 390 394	དགའ་
 N6203	Reference T6203 Hill:0239	དགའ་
 T6204	VERB 394 398	སོང་
 A6204a	Tense T6204 Past
-#√6204	AnnotatorNotes T6204	[འགྲོ་][སོང་] 
+#6204l	AnnotatorNotes T6204	[འགྲོ་][སོང་] 
 T6205	PUNCT 398 399	།
 T6207	NOUN 400 406	ཇོ་མོ་
 A6207a	Number T6207 Sing
@@ -250,7 +250,7 @@ N6228	Reference T6228 Hill:0248	དགོས་
 T6229	VERB 487 493	ཟེར་བ་
 A6229a	Tense T6229 Fut/Pres
 A6229b	VerbForm T6229 Vnoun
-#√6229	AnnotatorNotes T6229	[ཟེར་√1][ཟེར་√2] 
+#6229l	AnnotatorNotes T6229	[ཟེར་√1][ཟེར་√2] 
 T6230	VERB 493 498	གདའ་བ
 A6230a	VerbForm T6230 Vnoun
 N6230	Reference T6230 Hill:0844	གདའ་
@@ -275,11 +275,11 @@ A6239b	VerbForm T6239 Vnoun
 N6239	Reference T6239 Hill:0890	འདོགས་
 T6240	VERB 531 534	ཞུ་
 A6240a	Tense T6240 Fut/Pres
-#√6240	AnnotatorNotes T6240	[ཞུ་√1][ཞུ་√2] 
+#6240l	AnnotatorNotes T6240	[ཞུ་√1][ཞུ་√2] 
 T6241	VERB 534 539	ཞུས་པ
 A6241a	Tense T6241 Past
 A6241b	VerbForm T6241 Vnoun
-#√6241	AnnotatorNotes T6241	[འཇུ་√3][ཞུ་√1] 
+#6241l	AnnotatorNotes T6241	[འཇུ་√3][ཞུ་√1] 
 T6242	ADP 539 540	ས
 A6242a	Case T6242 Agn
 T6243	PUNCT 540 541	།
@@ -296,7 +296,7 @@ T6250	ADP 582 585	དུ་
 A6250a	Case T6250 Ter
 T6251	VERB 585 589	སོང་
 A6251a	Mood T6251 Imp
-#√6251	AnnotatorNotes T6251	[འགྲོ་][སོང་] 
+#6251l	AnnotatorNotes T6251	[འགྲོ་][སོང་] 
 T6252	PART 589 593	ཞིག་
 A6252a	Mood T6252 Imp
 T6253	VERB 593 598	གསུང་
@@ -330,7 +330,7 @@ T6269	ADP 662 665	དུ་
 A6269a	Case T6269 Ter
 T6270	VERB 665 669	ཕྱིན
 A6270a	Tense T6270 Past
-#√6270	AnnotatorNotes T6270	[འགྲོ་][ཕྱིན་] 
+#6270l	AnnotatorNotes T6270	[འགྲོ་][ཕྱིན་] 
 T6271	PUNCT 669 670	།
 T6273	NOUN 671 676	བླ་མ་
 A6273a	Number T6273 Sing
@@ -382,7 +382,7 @@ A6296a	Number T6296 Sing
 T6297	VERB 771 776	ཞུས་པ
 A6297a	Tense T6297 Past
 A6297b	VerbForm T6297 Vnoun
-#√6297	AnnotatorNotes T6297	[འཇུ་√3][ཞུ་√1] 
+#6297l	AnnotatorNotes T6297	[འཇུ་√3][ཞུ་√1] 
 T6298	ADP 776 777	ས
 A6298a	Case T6298 Agn
 T6299	PUNCT 777 778	།
@@ -449,7 +449,7 @@ A6328a	Number T6328 Coll
 T6329	VERB 873 878	དགོས་
 N6329	Reference T6329 Hill:0248	དགོས་
 T6330	VERB 878 882	ཟེར་
-#√6330	AnnotatorNotes T6330	[ཟེར་√1][ཟེར་√2] 
+#6330l	AnnotatorNotes T6330	[ཟེར་√1][ཟེར་√2] 
 T6331	NOUN 882 888	ཡི་གེ་
 A6331a	Number T6331 Sing
 T6332	VERB 888 894	བྱུང་བ
@@ -470,11 +470,11 @@ T6337	ADP 910 912	ར་
 A6337a	Case T6337 Ter
 T6338	VERB 912 915	ཞུ་
 A6338a	Tense T6338 Fut/Pres
-#√6338	AnnotatorNotes T6338	[ཞུ་√1][ཞུ་√2] 
+#6338l	AnnotatorNotes T6338	[ཞུ་√1][ཞུ་√2] 
 T6339	VERB 915 920	ཞུས་པ
 A6339a	Tense T6339 Past
 A6339b	VerbForm T6339 Vnoun
-#√6339	AnnotatorNotes T6339	[འཇུ་√3][ཞུ་√1] 
+#6339l	AnnotatorNotes T6339	[འཇུ་√3][ཞུ་√1] 
 T6340	ADP 920 921	ས
 A6340a	Case T6340 Agn
 T6341	PUNCT 921 922	།
@@ -642,7 +642,7 @@ A6419a	Case T6419 Ter
 T6420	VERB 1225 1232	གསུང་བ་
 A6420a	Tense T6420 Fut/Pres
 A6420b	VerbForm T6420 Vnoun
-#√6420	AnnotatorNotes T6420	[གསུང་√1][གསུང་√2] 
+#6420l	AnnotatorNotes T6420	[གསུང་√1][གསུང་√2] 
 T6421	ADP 1232 1233	ལ
 A6421a	Case T6421 All
 T6422	PUNCT 1233 1234	།
@@ -680,7 +680,7 @@ A6437a	Case T6437 Ter
 T6438	VERB 1293 1298	ཞུས་པ
 A6438a	Tense T6438 Past
 A6438b	VerbForm T6438 Vnoun
-#√6438	AnnotatorNotes T6438	[འཇུ་√3][ཞུ་√1] 
+#6438l	AnnotatorNotes T6438	[འཇུ་√3][ཞུ་√1] 
 T6439	ADP 1298 1299	ས
 A6439a	Case T6439 Agn
 T6440	PUNCT 1299 1300	།

@@ -17,7 +17,7 @@ T19139	NOUN 52 60	བཀྲ་ཤིས་
 A19139a	Number T19139 Sing
 T19140	VERB 60 63	ཤོག
 A19140a	Mood T19140 Imp
-#√19140	AnnotatorNotes T19140	[འཆགས་][འོང་][གཤེགས་] 
+#19140l	AnnotatorNotes T19140	[འཆགས་][འོང་][གཤེགས་] 
 T19141	NOUN 63 76	བུ་ཆེན་སློབ་མ
 A19141a	Number T19141 Sing
 T19142	ADP 76 79	འི་
@@ -45,7 +45,7 @@ T19159	NOUN 137 145	བཀྲ་ཤིས་
 A19159a	Number T19159 Sing
 T19160	VERB 145 148	ཤོག
 A19160a	Mood T19160 Imp
-#√19160	AnnotatorNotes T19160	[འཆགས་][འོང་][གཤེགས་] 
+#19160l	AnnotatorNotes T19160	[འཆགས་][འོང་][གཤེགས་] 
 T19161	NOUN 148 163	ཡོན་བདག་ཡུལ་མི་
 A19161a	Number T19161 Sing
 T19162	ADJ 163 170	ཉེ་རིང་
@@ -70,7 +70,7 @@ T19178	NOUN 226 234	བཀྲ་ཤིས་
 A19178a	Number T19178 Sing
 T19179	VERB 234 237	ཤོག
 A19179a	Mood T19179 Imp
-#√19179	AnnotatorNotes T19179	[འཆགས་][འོང་][གཤེགས་] 
+#19179l	AnnotatorNotes T19179	[འཆགས་][འོང་][གཤེགས་] 
 T19180	NOUN 237 240	ལས་
 A19180a	Number T19180 Sing
 N19180	Reference T19180 Hill:1707	ལས་
@@ -103,7 +103,7 @@ T19199	NOUN 308 316	བཀྲ་ཤིས་
 A19199a	Number T19199 Sing
 T19200	VERB 316 319	ཤོག
 A19200a	Mood T19200 Imp
-#√19200	AnnotatorNotes T19200	[འཆགས་][འོང་][གཤེགས་] 
+#19200l	AnnotatorNotes T19200	[འཆགས་][འོང་][གཤེགས་] 
 T19201	VERB 319 323	སྣང་
 N19201	Reference T19201 Hill:1016	སྣང་
 T19202	SCONJ 323 327	ཞིང་
@@ -143,7 +143,7 @@ T19224	NOUN 395 403	བཀྲ་ཤིས་
 A19224a	Number T19224 Sing
 T19225	VERB 403 406	ཤོག
 A19225a	Mood T19225 Imp
-#√19225	AnnotatorNotes T19225	[འཆགས་][འོང་][གཤེགས་] 
+#19225l	AnnotatorNotes T19225	[འཆགས་][འོང་][གཤེགས་] 
 T19226	DET 406 409	འདི
 A19226a	PronType T19226 Dem
 T19227	ADP 409 411	ར་
@@ -175,13 +175,13 @@ T19246	NOUN 485 493	བཀྲ་ཤིས་
 A19246a	Number T19246 Sing
 T19247	VERB 493 496	ཤོག
 A19247a	Mood T19247 Imp
-#√19247	AnnotatorNotes T19247	[འཆགས་][འོང་][གཤེགས་] 
+#19247l	AnnotatorNotes T19247	[འཆགས་][འོང་][གཤེགས་] 
 T19248	VERB 496 500	ཅེས་
 A19248a	Mood T19248 Qot
 T19249	VERB 500 507	གསུངས་པ
 A19249a	Tense T19249 Past
 A19249b	VerbForm T19249 Vnoun
-#√19249	AnnotatorNotes T19249	[གསུང་√1][གསུང་√2] 
+#19249l	AnnotatorNotes T19249	[གསུང་√1][གསུང་√2] 
 T19250	ADP 507 510	འི་
 A19250a	Case T19250 Gen
 T19251	NOUN 510 515	རྗེས་
@@ -382,10 +382,10 @@ T19354	ADP 892 894	ར་
 A19354a	Case T19354 Ter
 T19355	VERB 894 897	ཞུ་
 A19355a	Tense T19355 Fut/Pres
-#√19355	AnnotatorNotes T19355	[ཞུ་√1][ཞུ་√2] 
+#19355l	AnnotatorNotes T19355	[ཞུ་√1][ཞུ་√2] 
 T19356	VERB 897 901	ཞུས་
 A19356a	Tense T19356 Past
-#√19356	AnnotatorNotes T19356	[འཇུ་√3][ཞུ་√1] 
+#19356l	AnnotatorNotes T19356	[འཇུ་√3][ཞུ་√1] 
 T19357	SCONJ 901 903	ནས
 A19357a	Case T19357 Ela
 T19358	PUNCT 903 904	།
@@ -474,7 +474,7 @@ A19406a	PronType T19406 Dem
 T19407	ADP 1081 1083	ར་
 A19407a	Case T19407 Ter
 T19408	VERB 1083 1087	སངས་
-#√19408	AnnotatorNotes T19408	[སངས་√1][སངས་√2] 
+#19408l	AnnotatorNotes T19408	[སངས་√1][སངས་√2] 
 T19409	VERB 1087 1092	རྒྱ་བ
 A19409a	Tense T19409 Fut/Pres
 A19409b	VerbForm T19409 Vnoun
@@ -575,7 +575,7 @@ A19460a	Mood T19460 Ind
 T19461	VERB 1286 1293	གསུངས་པ
 A19461a	Tense T19461 Past
 A19461b	VerbForm T19461 Vnoun
-#√19461	AnnotatorNotes T19461	[གསུང་√1][གསུང་√2] 
+#19461l	AnnotatorNotes T19461	[གསུང་√1][གསུང་√2] 
 T19462	ADP 1293 1294	ས
 A19462a	Case T19462 Agn
 T19463	PUNCT 1294 1295	།

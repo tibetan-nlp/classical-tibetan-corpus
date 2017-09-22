@@ -13,7 +13,7 @@ T36011	NOUN 25 30	བཤོལ་
 A36011a	Number T36011 Sing
 T36012	VERB 30 34	བཏགས
 A36012a	Tense T36012 Past
-#√36012	AnnotatorNotes T36012	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#36012l	AnnotatorNotes T36012	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T36013	PUNCT 34 35	།
 T36015	PUNCT 36 37	།
 T36017	NOUN 38 49	འཁྲུལ་རྟོག་
@@ -155,7 +155,7 @@ T36107	ADP 350 353	འི་
 A36107a	Case T36107 Gen
 T36108	VERB 353 358	རྔོད་
 A36108a	Tense T36108 Pres
-#√36108	AnnotatorNotes T36108	[རྔོད་√1][རྔོད་√2] 
+#36108l	AnnotatorNotes T36108	[རྔོད་√1][རྔོད་√2] 
 T36109	VERB 358 362	འཐག་
 N36109	Reference T36109 Hill:0791	འཐག་√2
 T36110	NOUN 362 365	ཟས་
@@ -255,7 +255,7 @@ T36165	ADP 558 560	ར་
 A36165a	Case T36165 Ter
 T36166	VERB 560 562	ཞུ
 A36166a	Tense T36166 Fut/Pres
-#√36166	AnnotatorNotes T36166	[ཞུ་√1][ཞུ་√2] 
+#36166l	AnnotatorNotes T36166	[ཞུ་√1][ཞུ་√2] 
 T36167	PUNCT 562 563	།
 T36169	PUNCT 564 565	།
 T36171	NOUN 566 574	དཀའ་ཐུབ་
@@ -321,12 +321,12 @@ T36207	ADP 698 700	ར་
 A36207a	Case T36207 Ter
 T36208	VERB 700 704	ཤོག་
 A36208a	Mood T36208 Imp
-#√36208	AnnotatorNotes T36208	[འཆགས་][འོང་][གཤེགས་] 
+#36208l	AnnotatorNotes T36208	[འཆགས་][འོང་][གཤེགས་] 
 T36209	VERB 704 708	ཅེས་
 A36209a	Mood T36209 Qot
 T36210	VERB 708 714	བརྗོད་
 A36210a	Tense T36210 Past
-#√36210	AnnotatorNotes T36210	[རྗོད་√1][རྗོད་√2] 
+#36210l	AnnotatorNotes T36210	[རྗོད་√1][རྗོད་√2] 
 T36211	SCONJ 714 717	ནས་
 A36211a	Case T36211 Ela
 T36212	PRON 717 719	ང་
@@ -501,7 +501,7 @@ T36295	DET 1043 1046	དེ་
 A36295a	PronType T36295 Dem
 T36296	VERB 1046 1050	བཏང་
 A36296a	Tense T36296 Past
-#√36296	AnnotatorNotes T36296	[གཏོང་√1][གཏོང་√2] 
+#36296l	AnnotatorNotes T36296	[གཏོང་√1][གཏོང་√2] 
 T36297	NOUN 1050 1055	རྟིང་
 A36297a	NounType T36297 Rel
 T36298	PUNCT 1055 1056	།
@@ -554,11 +554,11 @@ A36322a	Tense T36322 Past
 N36322	Reference T36322 Hill:1863	གསོད་
 T36323	VERB 1148 1153	གཏོང་
 A36323a	Tense T36323 Pres
-#√36323	AnnotatorNotes T36323	[གཏོང་√1][གཏོང་√2] 
+#36323l	AnnotatorNotes T36323	[གཏོང་√1][གཏོང་√2] 
 T36324	VERB 1153 1158	ཟེར་བ
 A36324a	Tense T36324 Fut/Pres
 A36324b	VerbForm T36324 Vnoun
-#√36324	AnnotatorNotes T36324	[ཟེར་√1][ཟེར་√2] 
+#36324l	AnnotatorNotes T36324	[ཟེར་√1][ཟེར་√2] 
 T36325	ADP 1158 1159	ས
 A36325a	Case T36325 Agn
 T36326	PUNCT 1159 1160	།
@@ -625,7 +625,7 @@ N36356	Reference T36356 Hill:0875	འདུག་
 T36357	PART 1271 1274	གོ་
 A36357a	Mood T36357 Ind
 T36358	VERB 1274 1278	ཟེར་
-#√36358	AnnotatorNotes T36358	[ཟེར་√1][ཟེར་√2] 
+#36358l	AnnotatorNotes T36358	[ཟེར་√1][ཟེར་√2] 
 T36359	VERB 1278 1284	བྱུང་བ
 A36359a	Tense T36359 Past
 A36359b	VerbForm T36359 Vnoun

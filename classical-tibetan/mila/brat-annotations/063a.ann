@@ -120,7 +120,7 @@ T37564	NOUN 238 245	ལྟད་མོ་
 A37564a	Number T37564 Sing
 T37565	VERB 245 248	ལྟ་
 A37565a	Tense T37565 Pres
-#√37565	AnnotatorNotes T37565	[ལྟ་√1][ལྟ་√2] 
+#37565l	AnnotatorNotes T37565	[ལྟ་√1][ལྟ་√2] 
 T37566	VERB 248 253	འདོད་
 A37566a	VerbType T37566 Aux
 N37566	Reference T37566 Hill:0892	འདོད་
@@ -130,14 +130,14 @@ T37568	NOUN 257 263	ལུང་བ་
 A37568a	Number T37568 Sing
 T37569	VERB 263 268	སྟོངས
 A37569a	Tense T37569 Past/Pres
-#√37569	AnnotatorNotes T37569	[སྟོང་][སྟོངས་] 
+#37569l	AnnotatorNotes T37569	[སྟོང་][སྟོངས་] 
 T37570	PUNCT 268 269	།
 T37572	PUNCT 270 271	།
 T37574	VERB 272 279	སྐྱོ་བ་
 A37574a	VerbForm T37574 Vnoun
 N37574	Reference T37574 Hill:0078	སྐྱོ་
 T37575	VERB 279 283	སངས་
-#√37575	AnnotatorNotes T37575	[སངས་√1][སངས་√2] 
+#37575l	AnnotatorNotes T37575	[སངས་√1][སངས་√2] 
 T37576	VERB 283 288	འདོད་
 A37576a	VerbType T37576 Aux
 N37576	Reference T37576 Hill:0892	འདོད་
@@ -170,7 +170,7 @@ T37591	ADP 332 334	ར་
 A37591a	Case T37591 Ter
 T37592	VERB 334 337	ཞོག
 A37592a	Mood T37592 Imp
-#√37592	AnnotatorNotes T37592	[འཇོག་√1][འཇོག་√2] 
+#37592l	AnnotatorNotes T37592	[འཇོག་√1][འཇོག་√2] 
 T37593	VERB 337 343	སྤྲོས་
 A37593a	Tense T37593 Past/Pres
 N37593	Reference T37593 Hill:1079	སྤྲོས་
@@ -237,7 +237,7 @@ T37628	PUNCT 451 452	།
 T37630	PUNCT 453 454	།
 T37632	VERB 455 460	ཕྱིན་
 A37632a	Tense T37632 Past
-#√37632	AnnotatorNotes T37632	[འགྲོ་][ཕྱིན་] 
+#37632l	AnnotatorNotes T37632	[འགྲོ་][ཕྱིན་] 
 T37633	SCONJ 460 462	ན་
 A37633a	Case T37633 Loc
 T37634	NOUN 462 468	རྐང་པ་
@@ -247,7 +247,7 @@ A37635a	Number T37635 Sing
 T37636	ADP 472 474	ལ་
 A37636a	Case T37636 All
 T37637	VERB 474 478	ཐོགས
-#√37637	AnnotatorNotes T37637	[ཐོགས་√1][ཐོགས་√2] 
+#37637l	AnnotatorNotes T37637	[ཐོགས་√1][ཐོགས་√2] 
 T37638	PUNCT 478 479	།
 T37640	PUNCT 480 481	།
 T37642	PART 482 484	མ་
@@ -386,7 +386,7 @@ A37712a	Case T37712 Ela
 T37713	VERB 737 742	འཚོ་བ
 A37713a	Tense T37713 Fut/Pres
 A37713b	VerbForm T37713 Vnoun
-#√37713	AnnotatorNotes T37713	[འཚོ་√1][འཚོ་√2] 
+#37713l	AnnotatorNotes T37713	[འཚོ་√1][འཚོ་√2] 
 T37714	ADP 742 745	འི་
 A37714a	Case T37714 Gen
 T37715	NOUN 745 751	རྒྱུན་
@@ -462,7 +462,7 @@ T37746	NOUN 870 875	རྩིས་
 A37746a	Number T37746 Sing
 T37747	VERB 875 879	བཏང་
 A37747a	Tense T37747 Past
-#√37747	AnnotatorNotes T37747	[གཏོང་√1][གཏོང་√2] 
+#37747l	AnnotatorNotes T37747	[གཏོང་√1][གཏོང་√2] 
 T37748	SCONJ 879 880	ན
 A37748a	Case T37748 Loc
 T37749	PUNCT 880 881	།
@@ -590,7 +590,7 @@ A37807a	Case T37807 Ter
 T37808	VERB 1098 1104	འབབ་པ་
 A37808a	Tense T37808 Fut/Pres
 A37808b	VerbForm T37808 Vnoun
-#√37808	AnnotatorNotes T37808	[འབབ་√1][འབབ་√2] 
+#37808l	AnnotatorNotes T37808	[འབབ་√1][འབབ་√2] 
 T37809	PART 1104 1107	ནི་
 T37810	AUX 1107 1110	མིན
 A37810a	Polarity T37810 Neg
@@ -651,7 +651,7 @@ A37839a	Case T37839 Ter
 T37840	VERB 1211 1217	ཕྱིན་པ
 A37840a	Tense T37840 Past
 A37840b	VerbForm T37840 Vnoun
-#√37840	AnnotatorNotes T37840	[འགྲོ་][ཕྱིན་] 
+#37840l	AnnotatorNotes T37840	[འགྲོ་][ཕྱིན་] 
 T37841	ADP 1217 1218	ས
 A37841a	Case T37841 Agn
 T37842	PUNCT 1218 1219	།

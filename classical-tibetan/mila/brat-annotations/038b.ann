@@ -38,7 +38,7 @@ T19486	NOUN 75 83	བཀའ་རྒྱ་
 A19486a	Number T19486 Sing
 T19487	VERB 83 89	བཀྲོལ་
 A19487a	Tense T19487 Past
-#√19487	AnnotatorNotes T19487	[འཁྲོལ་√1][འགྲོལ་] 
+#19487l	AnnotatorNotes T19487	[འཁྲོལ་√1][འགྲོལ་] 
 T19488	SCONJ 89 92	ནས་
 A19488a	Case T19488 Ela
 T19489	VERB 92 96	གནང་
@@ -54,7 +54,7 @@ A19493a	Polarity T19493 Xor
 T19494	VERB 110 115	ཞུས་པ
 A19494a	Tense T19494 Past
 A19494b	VerbForm T19494 Vnoun
-#√19494	AnnotatorNotes T19494	[འཇུ་√3][ཞུ་√1] 
+#19494l	AnnotatorNotes T19494	[འཇུ་√3][ཞུ་√1] 
 T19495	ADP 115 116	ས
 A19495a	Case T19495 Agn
 T19496	PUNCT 116 117	།
@@ -115,7 +115,7 @@ T19527	ADP 221 224	ཏུ་
 A19527a	Case T19527 Ter
 T19528	VERB 224 230	བསྣམས་
 A19528a	Tense T19528 Past
-#√19528	AnnotatorNotes T19528	[སྣོམ་√1][སྣོམ་√2] 
+#19528l	AnnotatorNotes T19528	[སྣོམ་√1][སྣོམ་√2] 
 T19529	SCONJ 230 233	ཏེ་
 A19529a	Case T19529 Sem
 T19530	NOUN 233 238	བླ་མ་
@@ -161,7 +161,7 @@ A19550a	Case T19550 All
 T19551	VERB 318 324	ཟེར་བ་
 A19551a	Tense T19551 Fut/Pres
 A19551b	VerbForm T19551 Vnoun
-#√19551	AnnotatorNotes T19551	[ཟེར་√1][ཟེར་√2] 
+#19551l	AnnotatorNotes T19551	[ཟེར་√1][ཟེར་√2] 
 T19552	AUX 324 327	ཡིན
 N19552	Reference T19552 Hill:1619	ཡིན་
 T19553	PUNCT 327 328	།
@@ -227,7 +227,7 @@ N19583	Reference T19583 Hill:1507	ཞལ་
 T19584	ADP 448 453	གྱིས་
 A19584a	Case T19584 Agn
 T19585	VERB 453 458	བཞེས་
-#√19585	AnnotatorNotes T19585	[བཞེས་√1][བཞེས་√2] 
+#19585l	AnnotatorNotes T19585	[བཞེས་√1][བཞེས་√2] 
 T19586	SCONJ 458 460	ཏེ
 A19586a	Case T19586 Sem
 T19587	PUNCT 460 461	།
@@ -262,7 +262,7 @@ T19608	DET 528 532	འགའ་
 A19608a	Number T19608 Plur
 T19609	VERB 532 537	བསགས་
 A19609a	Tense T19609 Past
-#√19609	AnnotatorNotes T19609	[གསོག་√1][གསོག་√3] 
+#19609l	AnnotatorNotes T19609	[གསོག་√1][གསོག་√3] 
 T19610	SCONJ 537 539	ནས
 A19610a	Case T19610 Ela
 T19611	PUNCT 539 540	།
@@ -318,7 +318,7 @@ T19638	DET 642 645	དེ་
 A19638a	PronType T19638 Dem
 T19639	VERB 645 649	བཞག་
 A19639a	Tense T19639 Past
-#√19639	AnnotatorNotes T19639	[འཇོག་√1][བཞག་] 
+#19639l	AnnotatorNotes T19639	[འཇོག་√1][བཞག་] 
 T19640	SCONJ 649 651	ནས
 A19640a	Case T19640 Ela
 T19641	PUNCT 651 652	།
@@ -333,7 +333,7 @@ T19647	ADJ 672 682	འབྲུ་ཚུགས་
 T19648	ADP 682 685	སུ་
 A19648a	Case T19648 Ter
 T19649	VERB 685 691	གཟིགས་
-#√19649	AnnotatorNotes T19649	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#19649l	AnnotatorNotes T19649	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T19650	SCONJ 691 695	ཤིང་
 A19650a	Case T19650 Impf
 T19651	NOUN 695 711	ཕྱགས་སྡིགས་འཛུབ་
@@ -354,7 +354,7 @@ T19661	PROPN 747 757	ཐོས་པ་དགའ་
 T19662	VERB 757 762	ཟེར་བ
 A19662a	Tense T19662 Fut/Pres
 A19662b	VerbForm T19662 Vnoun
-#√19662	AnnotatorNotes T19662	[ཟེར་√1][ཟེར་√2] 
+#19662l	AnnotatorNotes T19662	[ཟེར་√1][ཟེར་√2] 
 T19663	ADP 762 765	འི་
 A19663a	Case T19663 Gen
 T19664	NOUN 765 771	མི་ངན་
@@ -452,7 +452,7 @@ N19711	Reference T19711 Hill:0746	སྟོན་
 T19712	VERB 976 982	གསུང་བ
 A19712a	Tense T19712 Fut/Pres
 A19712b	VerbForm T19712 Vnoun
-#√19712	AnnotatorNotes T19712	[གསུང་√1][གསུང་√2] 
+#19712l	AnnotatorNotes T19712	[གསུང་√1][གསུང་√2] 
 T19713	ADP 982 985	འི་
 A19713a	Case T19713 Gen
 T19714	NOUN 985 993	ཕྱག་རྟགས
@@ -520,7 +520,7 @@ A19746a	Mood T19746 Imp
 N19746	Reference T19746 Hill:0124	མཁྱེན་
 T19747	VERB 1144 1148	ཞུས་
 A19747a	Tense T19747 Past
-#√19747	AnnotatorNotes T19747	[འཇུ་√3][ཞུ་√1] 
+#19747l	AnnotatorNotes T19747	[འཇུ་√3][ཞུ་√1] 
 T19748	SCONJ 1148 1151	ནས་
 A19748a	Case T19748 Ela
 T19749	NOUN 1151 1156	སྤྱན་
@@ -571,7 +571,7 @@ N19771	Reference T19771 Hill:1243	འབྱུང་
 T19772	VERB 1233 1239	གསུང་བ
 A19772a	Tense T19772 Fut/Pres
 A19772b	VerbForm T19772 Vnoun
-#√19772	AnnotatorNotes T19772	[གསུང་√1][གསུང་√2] 
+#19772l	AnnotatorNotes T19772	[གསུང་√1][གསུང་√2] 
 T19773	ADP 1239 1240	ས
 A19773a	Case T19773 Agn
 T19774	PUNCT 1240 1241	།

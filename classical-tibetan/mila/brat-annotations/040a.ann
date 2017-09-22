@@ -31,7 +31,7 @@ A20540a	Mood T20540 Imp
 N20540	Reference T20540 Hill:1231	འབོད་
 T20541	VERB 56 60	ཤོག་
 A20541a	Mood T20541 Imp
-#√20541	AnnotatorNotes T20541	[འཆགས་][འོང་][གཤེགས་] 
+#20541l	AnnotatorNotes T20541	[འཆགས་][འོང་][གཤེགས་] 
 T20542	PART 60 64	ཅིག་
 A20542a	Mood T20542 Imp
 T20543	VERB 64 69	གསུང་
@@ -53,12 +53,12 @@ T20553	NOUN 101 105	གདན་
 A20553a	Number T20553 Sing
 T20554	VERB 105 111	འདྲེན་
 A20554a	Tense T20554 Pres
-#√20554	AnnotatorNotes T20554	[བགྲང་][འདྲེན་] 
+#20554l	AnnotatorNotes T20554	[བགྲང་][འདྲེན་] 
 T20555	SCONJ 111 114	དུ་
 A20555a	Case T20555 Ter
 T20556	VERB 114 119	ཕྱིན་
 A20556a	Tense T20556 Past
-#√20556	AnnotatorNotes T20556	[འགྲོ་][ཕྱིན་] 
+#20556l	AnnotatorNotes T20556	[འགྲོ་][ཕྱིན་] 
 T20557	SCONJ 119 121	ནས
 A20557a	Case T20557 Ela
 T20558	PUNCT 121 122	།
@@ -79,13 +79,13 @@ T20566	NOUN 143 147	གདན་
 A20566a	Number T20566 Sing
 T20567	VERB 147 153	འདྲེན་
 A20567a	Tense T20567 Pres
-#√20567	AnnotatorNotes T20567	[བགྲང་][འདྲེན་] 
+#20567l	AnnotatorNotes T20567	[བགྲང་][འདྲེན་] 
 T20568	SCONJ 153 156	དུ་
 A20568a	Case T20568 Ter
 T20569	VERB 156 162	བཏང་བ་
 A20569a	Tense T20569 Past
 A20569b	VerbForm T20569 Vnoun
-#√20569	AnnotatorNotes T20569	[གཏོང་√1][གཏོང་√2] 
+#20569l	AnnotatorNotes T20569	[གཏོང་√1][གཏོང་√2] 
 T20570	AUX 162 167	ཡིན་པ
 A20570a	VerbForm T20570 Vnoun
 T20571	ADP 167 168	ས
@@ -98,14 +98,14 @@ T20575	ADP 176 178	ར་
 A20575a	Case T20575 Ter
 T20576	VERB 178 181	ཞུ་
 A20576a	Tense T20576 Fut/Pres
-#√20576	AnnotatorNotes T20576	[ཞུ་√1][ཞུ་√2] 
+#20576l	AnnotatorNotes T20576	[ཞུ་√1][ཞུ་√2] 
 T20577	VERB 181 185	ཞུས་
 A20577a	Tense T20577 Past
-#√20577	AnnotatorNotes T20577	[འཇུ་√3][ཞུ་√1] 
+#20577l	AnnotatorNotes T20577	[འཇུ་√3][ཞུ་√1] 
 T20578	VERB 185 193	འབྱོན་པ་
 A20578a	Tense T20578 Pres
 A20578b	VerbForm T20578 Vnoun
-#√20578	AnnotatorNotes T20578	[འབྱོན་√1][འབྱོན་√2] 
+#20578l	AnnotatorNotes T20578	[འབྱོན་√1][འབྱོན་√2] 
 T20579	ADP 193 194	ལ
 A20579a	Case T20579 All
 T20580	PUNCT 194 195	།
@@ -162,7 +162,7 @@ T20607	ADP 288 290	ས་
 A20607a	Case T20607 Agn
 T20608	VERB 290 295	ཕྱིན་
 A20608a	Tense T20608 Past
-#√20608	AnnotatorNotes T20608	[འགྲོ་][ཕྱིན་] 
+#20608l	AnnotatorNotes T20608	[འགྲོ་][ཕྱིན་] 
 T20609	SCONJ 295 299	རུང་
 A20609a	Case T20609 Rung
 T20610	NOUN 299 309	བཀའ་བཀྱོན་
@@ -227,7 +227,7 @@ T20641	DET 429 434	རྣམས་
 A20641a	Number T20641 Plur
 T20642	VERB 434 438	ཞུས་
 A20642a	Mood T20642 Imp
-#√20642	AnnotatorNotes T20642	[འཇུ་√3][ཞུ་√1] 
+#20642l	AnnotatorNotes T20642	[འཇུ་√3][ཞུ་√1] 
 T20643	SCONJ 438 439	ལ
 A20643a	Case T20643 All
 T20644	PUNCT 439 440	།
@@ -251,7 +251,7 @@ A20653a	Mood T20653 Imp
 N20653	Reference T20653 Hill:0715	ལྟ་√1
 T20654	VERB 471 474	ཤོག
 A20654a	Mood T20654 Imp
-#√20654	AnnotatorNotes T20654	[འཆགས་][འོང་][གཤེགས་] 
+#20654l	AnnotatorNotes T20654	[འཆགས་][འོང་][གཤེགས་] 
 T20655	DET 474 477	དེ་
 A20655a	PronType T20655 Dem
 T20656	NOUN 477 480	བར་
@@ -309,7 +309,7 @@ A20682a	Number T20682 Plur
 T20683	VERB 567 572	ཞུས་པ
 A20683a	Tense T20683 Past
 A20683b	VerbForm T20683 Vnoun
-#√20683	AnnotatorNotes T20683	[འཇུ་√3][ཞུ་√1] 
+#20683l	AnnotatorNotes T20683	[འཇུ་√3][ཞུ་√1] 
 T20684	ADP 572 573	ས
 A20684a	Case T20684 Agn
 T20685	PUNCT 573 574	།
@@ -366,7 +366,7 @@ T20713	PUNCT 662 663	།
 T20715	PROPN 664 674	བདག་མེད་མ་
 T20716	VERB 674 678	སོང་
 A20716a	Mood T20716 Imp
-#√20716	AnnotatorNotes T20716	[འགྲོ་][སོང་] 
+#20716l	AnnotatorNotes T20716	[འགྲོ་][སོང་] 
 T20717	SCONJ 678 680	ལ་
 A20717a	Case T20717 All
 T20718	VERB 680 684	བོས་
@@ -374,7 +374,7 @@ A20718a	Mood T20718 Imp
 N20718	Reference T20718 Hill:1231	འབོད་
 T20719	VERB 684 688	ཤོག་
 A20719a	Mood T20719 Imp
-#√20719	AnnotatorNotes T20719	[འཆགས་][འོང་][གཤེགས་] 
+#20719l	AnnotatorNotes T20719	[འཆགས་][འོང་][གཤེགས་] 
 T20720	PART 688 692	ཅིག་
 A20720a	Mood T20720 Imp
 T20721	VERB 692 697	གསུང་
@@ -430,7 +430,7 @@ A20749a	Case T20749 Ela
 T20750	VERB 800 806	གཡོས་པ
 A20750a	Tense T20750 Past
 A20750b	VerbForm T20750 Vnoun
-#√20750	AnnotatorNotes T20750	[གཡོ་√1][གཡོ་√2] 
+#20750l	AnnotatorNotes T20750	[གཡོ་√1][གཡོ་√2] 
 T20751	ADP 806 809	འི་
 A20751a	Case T20751 Gen
 T20752	NOUN 809 814	རྟགས་
@@ -464,7 +464,7 @@ A20765a	Mood T20765 Imp
 N20765	Reference T20765 Hill:1231	འབོད་
 T20766	VERB 859 863	ཤོག་
 A20766a	Mood T20766 Imp
-#√20766	AnnotatorNotes T20766	[འཆགས་][འོང་][གཤེགས་] 
+#20766l	AnnotatorNotes T20766	[འཆགས་][འོང་][གཤེགས་] 
 T20767	VERB 863 868	གསུང་
 T20768	PUNCT 868 869	།
 T20770	PRON 870 872	ང་
@@ -501,7 +501,7 @@ A20785a	Mood T20785 Ind
 T20786	VERB 923 930	གསུང་བ་
 A20786a	Tense T20786 Fut/Pres
 A20786b	VerbForm T20786 Vnoun
-#√20786	AnnotatorNotes T20786	[གསུང་√1][གསུང་√2] 
+#20786l	AnnotatorNotes T20786	[གསུང་√1][གསུང་√2] 
 T20787	ADP 930 931	ལ
 A20787a	Case T20787 All
 T20788	PUNCT 931 932	།
@@ -533,7 +533,7 @@ A20801a	Case T20801 Ter
 T20802	VERB 989 995	ཕྱིན་པ
 A20802a	Tense T20802 Past
 A20802b	VerbForm T20802 Vnoun
-#√20802	AnnotatorNotes T20802	[འགྲོ་][ཕྱིན་] 
+#20802l	AnnotatorNotes T20802	[འགྲོ་][ཕྱིན་] 
 T20803	ADP 995 997	ས་
 A20803a	Case T20803 Agn
 T20804	NOUN 997 1001	གྲལ་
@@ -600,12 +600,12 @@ N20836	Reference T20836 Hill:0959	སྡུག་
 T20837	VERB 1112 1118	བཏང་བ་
 A20837a	Tense T20837 Past
 A20837b	VerbForm T20837 Vnoun
-#√20837	AnnotatorNotes T20837	[གཏོང་√1][གཏོང་√2] 
+#20837l	AnnotatorNotes T20837	[གཏོང་√1][གཏོང་√2] 
 T20838	PART 1118 1120	མ་
 A20838a	Polarity T20838 Neg
 T20839	VERB 1120 1126	གཏོགས་
 A20839a	Tense T20839 Past
-#√20839	AnnotatorNotes T20839	[གཏོག་√1][གཏོགས་] 
+#20839l	AnnotatorNotes T20839	[གཏོག་√1][གཏོགས་] 
 T20840	NOUN 1126 1134	རང་འདོད་
 A20840a	Number T20840 Sing
 T20841	ADP 1134 1138	ཀྱི་
@@ -653,7 +653,7 @@ A20861a	Case T20861 Ter
 T20862	VERB 1215 1221	སོང་བ་
 A20862a	Tense T20862 Past
 A20862b	VerbForm T20862 Vnoun
-#√20862	AnnotatorNotes T20862	[འགྲོ་][སོང་] 
+#20862l	AnnotatorNotes T20862	[འགྲོ་][སོང་] 
 T20863	ADP 1221 1224	དང་
 A20863a	Case T20863 Com
 T20864	PUNCT 1224 1225	།
@@ -704,5 +704,5 @@ T20887	VERB 1309 1313	གནང་
 N20887	Reference T20887 Hill:0996	གནང་
 T20888	VERB 1313 1316	ཆེས
 A20888a	Tense T20888 Past
-#√20888	AnnotatorNotes T20888	[ཆེ་][ཆེས་][འཆེ་] 
+#20888l	AnnotatorNotes T20888	[ཆེ་][ཆེས་][འཆེ་] 
 T20889	PUNCT 1316 1317	།

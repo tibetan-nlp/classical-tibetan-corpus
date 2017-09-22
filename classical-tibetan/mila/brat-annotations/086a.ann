@@ -126,7 +126,7 @@ A53839b	VerbForm T53839 Vnoun
 N53839	Reference T53839 Hill:1869	གསོལ་
 T53840	VERB 236 240	ཐོབ་
 A53840a	Mood T53840 Imp
-#√53840	AnnotatorNotes T53840	[སྟོབ་][འཐོབ་][འདེབས་] 
+#53840l	AnnotatorNotes T53840	[སྟོབ་][འཐོབ་][འདེབས་] 
 T53841	PART 240 243	ཅིག
 A53841a	Mood T53841 Imp
 T53842	PRON 243 248	ཁྱེད་
@@ -196,7 +196,7 @@ N53868	Reference T53868 Hill:1630	ཡོང་
 T53869	VERB 347 352	ལྟ་བ་
 A53869a	Tense T53869 Pres
 A53869b	VerbForm T53869 Vnoun
-#√53869	AnnotatorNotes T53869	[ལྟ་√1][ལྟ་√2] 
+#53869l	AnnotatorNotes T53869	[ལྟ་√1][ལྟ་√2] 
 T53870	AUX 352 355	ཡིན
 N53870	Reference T53870 Hill:1619	ཡིན་
 T53871	PUNCT 355 356	།
@@ -237,7 +237,7 @@ T53889	PART 402 404	མ་
 A53889a	Polarity T53889 Neg
 T53890	VERB 404 407	འཆད
 A53890a	Tense T53890 Pres
-#√53890	AnnotatorNotes T53890	[འཆད་√1][འཆད་√2] 
+#53890l	AnnotatorNotes T53890	[འཆད་√1][འཆད་√2] 
 T53891	PUNCT 407 408	།
 T53893	ADV 409 416	རྟིང་སོ
 A53893a	AdvType T53893 Tim
@@ -272,7 +272,7 @@ A53907a	Case T53907 Ter
 T53908	VERB 462 469	བཟློས་པ
 A53908a	Tense T53908 Past
 A53908b	VerbForm T53908 Vnoun
-#√53908	AnnotatorNotes T53908	[ཟློ་√1][ཟློས་] 
+#53908l	AnnotatorNotes T53908	[ཟློ་√1][ཟློས་] 
 T53909	ADP 469 472	འི་
 A53909a	Case T53909 Gen
 T53910	NOUN 472 476	གཏམ་
@@ -343,7 +343,7 @@ T53943	ADP 579 581	ར་
 A53943a	Case T53943 Ter
 T53944	VERB 581 585	ཞོག་
 A53944a	Mood T53944 Imp
-#√53944	AnnotatorNotes T53944	[འཇོག་√1][འཇོག་√2] 
+#53944l	AnnotatorNotes T53944	[འཇོག་√1][འཇོག་√2] 
 T53945	SCONJ 585 587	ལ་
 A53945a	Case T53945 All
 T53946	PART 587 590	ཨེ་
@@ -393,7 +393,7 @@ A53971a	PronType T53971 Prs
 T53972	ADP 677 682	ན་རེ་
 A53972a	Case T53972 Qot
 T53973	VERB 682 686	ཟེར་
-#√53973	AnnotatorNotes T53973	[ཟེར་√1][ཟེར་√2] 
+#53973l	AnnotatorNotes T53973	[ཟེར་√1][ཟེར་√2] 
 T53974	NOUN 686 689	ཚད་
 A53974a	Number T53974 Sing
 N53974	Reference T53974 Hill:1406	ཚད་
@@ -432,7 +432,7 @@ A53992a	Case T53992 Ter
 T53993	VERB 731 736	སོང་བ
 A53993a	Tense T53993 Past
 A53993b	VerbForm T53993 Vnoun
-#√53993	AnnotatorNotes T53993	[འགྲོ་][སོང་] 
+#53993l	AnnotatorNotes T53993	[འགྲོ་][སོང་] 
 T53994	ADP 736 738	ས་
 A53994a	Case T53994 Agn
 T53995	DET 738 740	ཀ་
@@ -451,7 +451,7 @@ T54001	VERB 762 767	གྱིས་
 A54001a	Mood T54001 Imp
 N54001	Reference T54001 Hill:0260	བགྱིད་
 T54002	VERB 767 771	ཟེར་
-#√54002	AnnotatorNotes T54002	[ཟེར་√1][ཟེར་√2] 
+#54002l	AnnotatorNotes T54002	[ཟེར་√1][ཟེར་√2] 
 T54003	VERB 771 773	ལོ
 N54003	Reference T54003 Hill:1717	ལོ་
 T54004	PUNCT 773 774	།
@@ -533,7 +533,7 @@ T54045	SCONJ 918 921	དུ་
 A54045a	Case T54045 Ter
 T54046	VERB 921 925	ཤོག་
 A54046a	Mood T54046 Imp
-#√54046	AnnotatorNotes T54046	[འཆགས་][འོང་][གཤེགས་] 
+#54046l	AnnotatorNotes T54046	[འཆགས་][འོང་][གཤེགས་] 
 T54047	VERB 925 929	གྱིས
 A54047a	Mood T54047 Imp
 N54047	Reference T54047 Hill:0260	བགྱིད་
@@ -564,14 +564,14 @@ A54059a	Case T54059 All
 T54060	PART 982 985	འང་
 T54061	VERB 985 989	ཤོག་
 A54061a	Mood T54061 Imp
-#√54061	AnnotatorNotes T54061	[འཆགས་][འོང་][གཤེགས་] 
+#54061l	AnnotatorNotes T54061	[འཆགས་][འོང་][གཤེགས་] 
 T54062	VERB 989 994	གྱིས་
 A54062a	Mood T54062 Imp
 N54062	Reference T54062 Hill:0260	བགྱིད་
 T54063	VERB 994 1001	གསུང་པ་
 A54063a	Tense T54063 Fut/Pres
 A54063b	VerbForm T54063 Vnoun
-#√54063	AnnotatorNotes T54063	[གསུང་√1][གསུང་√2] 
+#54063l	AnnotatorNotes T54063	[གསུང་√1][གསུང་√2] 
 T54064	NOUN 1001 1003	ལྟ
 A54064a	NounType T54064 Rel
 T54065	ADP 1003 1004	ར
@@ -627,7 +627,7 @@ A54091a	Polarity T54091 Neg
 T54092	VERB 1100 1105	ཆེས་པ
 A54092a	Tense T54092 Past
 A54092b	VerbForm T54092 Vnoun
-#√54092	AnnotatorNotes T54092	[ཆེ་][ཆེས་][འཆེ་] 
+#54092l	AnnotatorNotes T54092	[ཆེ་][ཆེས་][འཆེ་] 
 T54093	ADP 1105 1106	ར
 A54093a	Case T54093 Ter
 T54094	PUNCT 1106 1107	།

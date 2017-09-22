@@ -7,7 +7,7 @@ A2464a	Number T2464 Sing
 T2465	VERB 12 17	ཐོན་པ
 A2465a	Tense T2465 Past
 A2465b	VerbForm T2465 Vnoun
-#√2465	AnnotatorNotes T2465	[འཐོན་√1][འཐོན་√2] 
+#2465l	AnnotatorNotes T2465	[འཐོན་√1][འཐོན་√2] 
 T2466	ADP 17 20	འི་
 A2466a	Case T2466 Gen
 T2467	NOUN 20 24	མཐུ་
@@ -20,7 +20,7 @@ A2469a	Case T2469 Ter
 T2470	VERB 31 38	ཕྱིན་པ་
 A2470a	Tense T2470 Past
 A2470b	VerbForm T2470 Vnoun
-#√2470	AnnotatorNotes T2470	[འགྲོ་][ཕྱིན་] 
+#2470l	AnnotatorNotes T2470	[འགྲོ་][ཕྱིན་] 
 T2471	DET 38 42	ཅིག་
 A2471a	PronType T2471 Ind
 T2472	NOUN 42 50	ཐུགས་རྗེ
@@ -35,7 +35,7 @@ T2475	ADP 58 60	ར་
 A2475a	Case T2475 Ter
 T2476	VERB 60 63	ཞུ་
 A2476a	Tense T2476 Fut/Pres
-#√2476	AnnotatorNotes T2476	[ཞུ་√1][ཞུ་√2] 
+#2476l	AnnotatorNotes T2476	[ཞུ་√1][ཞུ་√2] 
 T2477	SCONJ 63 67	ཞིང་
 A2477a	Case T2477 Impf
 T2478	PUNCT 67 68	།
@@ -58,11 +58,11 @@ A2487b	VerbForm T2487 Vnoun
 N2487	Reference T2487 Hill:1478	འཛིན་
 T2488	VERB 108 111	ཞུ་
 A2488a	Tense T2488 Fut/Pres
-#√2488	AnnotatorNotes T2488	[ཞུ་√1][ཞུ་√2] 
+#2488l	AnnotatorNotes T2488	[ཞུ་√1][ཞུ་√2] 
 T2489	VERB 111 116	ཞུས་པ
 A2489a	Tense T2489 Past
 A2489b	VerbForm T2489 Vnoun
-#√2489	AnnotatorNotes T2489	[འཇུ་√3][ཞུ་√1] 
+#2489l	AnnotatorNotes T2489	[འཇུ་√3][ཞུ་√1] 
 T2490	ADP 116 117	ས
 A2490a	Case T2490 Agn
 T2491	PUNCT 117 118	།
@@ -122,7 +122,7 @@ A2519a	Number T2519 Sing
 T2520	VERB 213 220	ཕྱིན་པ་
 A2520a	Tense T2520 Past
 A2520b	VerbForm T2520 Vnoun
-#√2520	AnnotatorNotes T2520	[འགྲོ་][ཕྱིན་] 
+#2520l	AnnotatorNotes T2520	[འགྲོ་][ཕྱིན་] 
 T2521	PART 220 223	ནི་
 T2522	PART 223 225	མ་
 A2522a	Polarity T2522 Neg
@@ -198,7 +198,7 @@ A2556a	PronType T2556 Tsam
 T2557	VERB 359 365	སོང་བ་
 A2557a	Tense T2557 Past
 A2557b	VerbForm T2557 Vnoun
-#√2557	AnnotatorNotes T2557	[འགྲོ་][སོང་] 
+#2557l	AnnotatorNotes T2557	[འགྲོ་][སོང་] 
 T2558	ADP 365 368	དང་
 A2558a	Case T2558 Com
 T2559	PUNCT 368 369	།
@@ -266,7 +266,7 @@ T2591	PART 493 495	མ་
 A2591a	Polarity T2591 Neg
 T2592	VERB 495 499	ཆེས་
 A2592a	Tense T2592 Past
-#√2592	AnnotatorNotes T2592	[ཆེ་][ཆེས་][འཆེ་] 
+#2592l	AnnotatorNotes T2592	[ཆེ་][ཆེས་][འཆེ་] 
 T2593	SCONJ 499 501	ཏེ
 A2593a	Case T2593 Sem
 T2594	PUNCT 501 502	།
@@ -287,7 +287,7 @@ A2602a	Number T2602 Sing
 T2603	VERB 529 535	ཐོན་པ་
 A2603a	Tense T2603 Past
 A2603b	VerbForm T2603 Vnoun
-#√2603	AnnotatorNotes T2603	[འཐོན་√1][འཐོན་√2] 
+#2603l	AnnotatorNotes T2603	[འཐོན་√1][འཐོན་√2] 
 T2604	PART 535 538	ཡང་
 T2605	VERB 538 543	དཀའ་བ
 A2605a	VerbForm T2605 Vnoun
@@ -306,7 +306,7 @@ A2611a	Polarity T2611 Neg
 T2612	VERB 563 568	ཐོན་པ
 A2612a	Tense T2612 Past
 A2612b	VerbForm T2612 Vnoun
-#√2612	AnnotatorNotes T2612	[འཐོན་√1][འཐོན་√2] 
+#2612l	AnnotatorNotes T2612	[འཐོན་√1][འཐོན་√2] 
 T2613	ADP 568 570	ར་
 A2613a	Case T2613 Ter
 T2614	NOUN 570 574	ཡུལ་
@@ -370,7 +370,7 @@ N2641	Reference T2641 Hill:0331	འགྲོ་
 T2642	PART 679 682	འམ་
 A2642a	Polarity T2642 Xor
 T2643	VERB 682 685	ཟེར
-#√2643	AnnotatorNotes T2643	[ཟེར་√1][ཟེར་√2] 
+#2643l	AnnotatorNotes T2643	[ཟེར་√1][ཟེར་√2] 
 T2644	PUNCT 685 686	།
 T2646	PRON 687 689	ང་
 A2646a	PronType T2646 Prs
@@ -410,7 +410,7 @@ A2661b	VerbForm T2661 Vnoun
 N2661	Reference T2661 Hill:0654	སྙེན་
 T2662	VERB 746 752	སྐྱེལ་
 A2662a	Tense T2662 Pres
-#√2662	AnnotatorNotes T2662	[སྐྱེལ་√1][སྐྱེལ་√2] 
+#2662l	AnnotatorNotes T2662	[སྐྱེལ་√1][སྐྱེལ་√2] 
 T2663	VERB 752 756	ནུས་
 A2663a	VerbType T2663 Aux
 N2663	Reference T2663 Hill:0980	ནུས་
@@ -482,9 +482,9 @@ A2700a	Mood T2700 Imp
 N2700	Reference T2700 Hill:0715	ལྟ་√1
 T2701	VERB 897 901	ཤོག་
 A2701a	Mood T2701 Imp
-#√2701	AnnotatorNotes T2701	[འཆགས་][འོང་][གཤེགས་] 
+#2701l	AnnotatorNotes T2701	[འཆགས་][འོང་][གཤེགས་] 
 T2702	VERB 901 904	ཟེར
-#√2702	AnnotatorNotes T2702	[ཟེར་√1][ཟེར་√2] 
+#2702l	AnnotatorNotes T2702	[ཟེར་√1][ཟེར་√2] 
 T2703	PUNCT 904 905	།
 T2705	PRON 906 910	ཁོང་
 A2705a	PronType T2705 Prs
@@ -573,7 +573,7 @@ T2747	VERB 1052 1056	ལོག་
 N2747	Reference T2747 Hill:1719	ལོག་
 T2748	VERB 1056 1060	སོང་
 A2748a	Tense T2748 Past
-#√2748	AnnotatorNotes T2748	[འགྲོ་][སོང་] 
+#2748l	AnnotatorNotes T2748	[འགྲོ་][སོང་] 
 T2749	PUNCT 1060 1061	།
 T2751	PRON 1062 1063	ང
 A2751a	PronType T2751 Prs
@@ -689,7 +689,7 @@ N2807	Reference T2807 Hill:1632	ཡོད་
 T2808	ADP 1278 1280	ས་
 A2808a	Case T2808 Agn
 T2809	VERB 1280 1286	གཟིགས་
-#√2809	AnnotatorNotes T2809	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#2809l	AnnotatorNotes T2809	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T2810	SCONJ 1286 1288	ཏེ
 A2810a	Case T2810 Sem
 T2811	PUNCT 1288 1289	།

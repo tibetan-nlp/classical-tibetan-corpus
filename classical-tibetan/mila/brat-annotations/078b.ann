@@ -36,7 +36,7 @@ A49067a	Polarity T49067 Neg
 T49068	VERB 64 69	ཐེག་པ
 A49068a	Tense T49068 Fut/Pres
 A49068b	VerbForm T49068 Vnoun
-#√49068	AnnotatorNotes T49068	[ཐེག་√1][ཐེག་√2] 
+#49068l	AnnotatorNotes T49068	[ཐེག་√1][ཐེག་√2] 
 T49069	ADP 69 71	ར་
 A49069a	Case T49069 Ter
 T49070	VERB 71 77	འདུག་པ
@@ -87,7 +87,7 @@ T49097	PART 165 167	མ་
 A49097a	Polarity T49097 Neg
 T49098	VERB 167 171	ནུས་
 A49098a	Tense T49098 Past
-#√49098	AnnotatorNotes T49098	[ནུ་][ནུས་] 
+#49098l	AnnotatorNotes T49098	[ནུ་][ནུས་] 
 T49099	SCONJ 171 175	རུང་
 A49099a	Case T49099 Rung
 T49100	PUNCT 175 176	།
@@ -150,7 +150,7 @@ T49132	DET 320 323	དེ་
 A49132a	PronType T49132 Dem
 T49133	VERB 323 328	གསུང་
 A49133a	Tense T49133 Fut/Pres
-#√49133	AnnotatorNotes T49133	[གསུང་√1][གསུང་√2] 
+#49133l	AnnotatorNotes T49133	[གསུང་√1][གསུང་√2] 
 T49134	SCONJ 328 331	དུ་
 A49134a	Case T49134 Ter
 T49135	VERB 331 336	གསོལ་
@@ -161,7 +161,7 @@ A49136a	Mood T49136 Qot
 T49137	VERB 340 345	ཞུས་པ
 A49137a	Tense T49137 Past
 A49137b	VerbForm T49137 Vnoun
-#√49137	AnnotatorNotes T49137	[འཇུ་√3][ཞུ་√1] 
+#49137l	AnnotatorNotes T49137	[འཇུ་√3][ཞུ་√1] 
 T49138	ADP 345 346	ས
 A49138a	Case T49138 Agn
 T49139	PUNCT 346 347	།
@@ -401,7 +401,7 @@ T49260	ADP 790 792	ས་
 A49260a	Case T49260 Agn
 T49261	VERB 792 796	བཏང་
 A49261a	Tense T49261 Past
-#√49261	AnnotatorNotes T49261	[གཏོང་√1][གཏོང་√2] 
+#49261l	AnnotatorNotes T49261	[གཏོང་√1][གཏོང་√2] 
 T49262	SCONJ 796 800	སྟེ་
 A49262a	Case T49262 Sem
 T49263	NOUN 800 804	སྒོ་
@@ -453,7 +453,7 @@ T49284	ADP 895 898	སུ་
 A49284a	Case T49284 Ter
 T49285	VERB 898 903	བཟུང་
 A49285a	Tense T49285 Past
-#√49285	AnnotatorNotes T49285	[འཛིན་][གཟུང་] 
+#49285l	AnnotatorNotes T49285	[འཛིན་][གཟུང་] 
 T49286	SCONJ 903 907	ཞིང་
 A49286a	Case T49286 Impf
 T49287	PUNCT 907 908	།
@@ -487,7 +487,7 @@ T49303	ADP 979 981	ར་
 A49303a	Case T49303 Ter
 T49304	VERB 981 986	གཅེར་
 A49304a	Tense T49304 Pres
-#√49304	AnnotatorNotes T49304	[གཅེར་][བཅེར་] 
+#49304l	AnnotatorNotes T49304	[གཅེར་][བཅེར་] 
 T49305	VERB 986 991	མཐོང་
 N49305	Reference T49305 Hill:0788	མཐོང་
 T49306	SCONJ 991 994	དུ་
@@ -527,7 +527,7 @@ A49321a	PronType T49321 Dem
 T49322	ADP 1047 1049	ར་
 A49322a	Case T49322 Ter
 T49323	VERB 1049 1053	སངས་
-#√49323	AnnotatorNotes T49323	[སངས་√1][སངས་√2] 
+#49323l	AnnotatorNotes T49323	[སངས་√1][སངས་√2] 
 T49324	VERB 1053 1057	རྒྱ་
 T49325	PART 1057 1060	མི་
 A49325a	Polarity T49325 Neg
@@ -616,7 +616,7 @@ T49365	PART 1213 1215	མ་
 A49365a	Polarity T49365 Neg
 T49366	VERB 1215 1219	ཆེས་
 A49366a	Tense T49366 Past
-#√49366	AnnotatorNotes T49366	[ཆེ་][ཆེས་][འཆེ་] 
+#49366l	AnnotatorNotes T49366	[ཆེ་][ཆེས་][འཆེ་] 
 T49367	SCONJ 1219 1223	ཤིང་
 A49367a	Case T49367 Impf
 T49368	NOUN 1223 1232	སྙིང་རུས་

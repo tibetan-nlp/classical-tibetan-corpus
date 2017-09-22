@@ -38,7 +38,7 @@ A47567a	Mood T47567 Ind
 T47568	VERB 67 73	ཟེར་བ་
 A47568a	Tense T47568 Fut/Pres
 A47568b	VerbForm T47568 Vnoun
-#√47568	AnnotatorNotes T47568	[ཟེར་√1][ཟེར་√2] 
+#47568l	AnnotatorNotes T47568	[ཟེར་√1][ཟེར་√2] 
 T47569	ADP 73 74	ལ
 A47569a	Case T47569 All
 T47570	PUNCT 74 75	།
@@ -102,13 +102,13 @@ T47601	NOUN 182 187	ཟམ་པ་
 A47601a	Number T47601 Sing
 T47602	VERB 187 191	ཚུགས
 A47602a	Mood T47602 Imp
-#√47602	AnnotatorNotes T47602	[གཙུག་][ཚུགས་√1][འཛུགས་] 
+#47602l	AnnotatorNotes T47602	[གཙུག་][ཚུགས་√1][འཛུགས་] 
 T47603	PUNCT 191 192	།
 T47605	PART 193 196	མི་
 A47605a	Polarity T47605 Neg
 T47606	VERB 196 202	འཛུགས་
 A47606a	Tense T47606 Pres
-#√47606	AnnotatorNotes T47606	[འཛུགས་][ཟུག་] 
+#47606l	AnnotatorNotes T47606	[འཛུགས་][ཟུག་] 
 T47607	SCONJ 202 204	ན་
 A47607a	Case T47607 Loc
 T47608	NOUN 204 209	ཨ་ཇོ་
@@ -131,7 +131,7 @@ A47614a	Case T47614 Com
 T47615	VERB 231 236	ཟེར་བ
 A47615a	Tense T47615 Fut/Pres
 A47615b	VerbForm T47615 Vnoun
-#√47615	AnnotatorNotes T47615	[ཟེར་√1][ཟེར་√2] 
+#47615l	AnnotatorNotes T47615	[ཟེར་√1][ཟེར་√2] 
 T47616	ADP 236 237	ས
 A47616a	Case T47616 Agn
 T47617	PUNCT 237 238	།
@@ -164,7 +164,7 @@ T47632	ADP 276 278	ར་
 A47632a	Case T47632 Ter
 T47633	VERB 278 283	ཕྱིན་
 A47633a	Tense T47633 Past
-#√47633	AnnotatorNotes T47633	[འགྲོ་][ཕྱིན་] 
+#47633l	AnnotatorNotes T47633	[འགྲོ་][ཕྱིན་] 
 T47634	SCONJ 283 286	ནས་
 A47634a	Case T47634 Ela
 T47635	VERB 286 292	བསྡད་པ
@@ -179,7 +179,7 @@ T47640	NOUN 300 304	ཕྱག་
 A47640a	Number T47640 Sing
 T47641	VERB 304 308	འཚལ་
 A47641a	Tense T47641 Fut/Pres
-#√47641	AnnotatorNotes T47641	[འཚལ་√1][འཚལ་√2] 
+#47641l	AnnotatorNotes T47641	[འཚལ་√1][འཚལ་√2] 
 T47642	SCONJ 308 312	ཞིང་
 A47642a	Case T47642 Impf
 T47643	VERB 312 317	འཕྲད་
@@ -299,7 +299,7 @@ A47702a	PronType T47702 Dem
 T47703	VERB 516 521	བཏང་བ
 A47703a	Tense T47703 Past
 A47703b	VerbForm T47703 Vnoun
-#√47703	AnnotatorNotes T47703	[གཏོང་√1][གཏོང་√2] 
+#47703l	AnnotatorNotes T47703	[གཏོང་√1][གཏོང་√2] 
 T47704	ADP 521 524	འི་
 A47704a	Case T47704 Gen
 T47705	NOUN 524 525	ཁ
@@ -332,7 +332,7 @@ A47718a	PronType T47718 Dem
 T47719	VERB 572 577	བཏང་བ
 A47719a	Tense T47719 Past
 A47719b	VerbForm T47719 Vnoun
-#√47719	AnnotatorNotes T47719	[གཏོང་√1][གཏོང་√2] 
+#47719l	AnnotatorNotes T47719	[གཏོང་√1][གཏོང་√2] 
 T47720	ADP 577 578	ས
 A47720a	Case T47720 Agn
 T47721	PUNCT 578 579	།
@@ -413,7 +413,7 @@ T47766	ADP 709 711	ལ་
 A47766a	Case T47766 All
 T47767	VERB 711 717	བརྩེ་བ
 A47767a	VerbForm T47767 Vnoun
-#√47767	AnnotatorNotes T47767	[བརྩེ་√1][བརྩེ་√2] 
+#47767l	AnnotatorNotes T47767	[བརྩེ་√1][བརྩེ་√2] 
 T47768	ADP 717 720	འི་
 A47768a	Case T47768 Gen
 T47769	ADJ 720 731	ཐུགས་རྗེ་ཅན
@@ -587,7 +587,7 @@ A47869a	Case T47869 Agn
 T47870	VERB 1042 1047	བཏང་བ
 A47870a	Tense T47870 Past
 A47870b	VerbForm T47870 Vnoun
-#√47870	AnnotatorNotes T47870	[གཏོང་√1][གཏོང་√2] 
+#47870l	AnnotatorNotes T47870	[གཏོང་√1][གཏོང་√2] 
 T47871	ADP 1047 1049	ས་
 A47871a	Case T47871 Agn
 T47872	ADP 1049 1050	ན
@@ -669,7 +669,7 @@ A47921a	Number T47921 Sing
 T47922	VERB 1190 1195	ལངས་པ
 A47922a	Tense T47922 Past
 A47922b	VerbForm T47922 Vnoun
-#√47922	AnnotatorNotes T47922	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
+#47922l	AnnotatorNotes T47922	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
 T47923	ADP 1195 1198	འི་
 A47923a	Case T47923 Gen
 T47924	NOUN 1198 1201	མཐུ

@@ -11,7 +11,7 @@ A2845a	Number T2845 Sing
 T2846	VERB 16 20	བདེ་
 T2847	VERB 20 22	ཞུ
 A2847a	Tense T2847 Fut/Pres
-#√2847	AnnotatorNotes T2847	[ཞུ་√1][ཞུ་√2] 
+#2847l	AnnotatorNotes T2847	[ཞུ་√1][ཞུ་√2] 
 T2848	SCONJ 22 24	ར་
 A2848a	Case T2848 Ter
 T2849	PART 24 27	མི་
@@ -93,14 +93,14 @@ T2884	ADP 160 162	ར་
 A2884a	Case T2884 Ter
 T2885	VERB 162 165	ཞུ་
 A2885a	Tense T2885 Fut/Pres
-#√2885	AnnotatorNotes T2885	[ཞུ་√1][ཞུ་√2] 
+#2885l	AnnotatorNotes T2885	[ཞུ་√1][ཞུ་√2] 
 T2886	NOUN 165 176	ལུས་ངག་ཡིད་
 A2886a	Number T2886 Sing
 T2887	VERB 176 181	འབུལ་
 A2887a	Tense T2887 Pres
 N2887	Reference T2887 Hill:1224	འབུལ་
 T2888	VERB 181 184	ཟེར
-#√2888	AnnotatorNotes T2888	[ཟེར་√1][ཟེར་√2] 
+#2888l	AnnotatorNotes T2888	[ཟེར་√1][ཟེར་√2] 
 T2889	PUNCT 184 185	།
 T2891	VERB 186 193	གླེན་པ་
 A2891a	Tense T2891 Past/Pres
@@ -153,7 +153,7 @@ N2916	Reference T2916 Hill:0875	འདུག་
 T2917	VERB 274 282	གསུངས་པ་
 A2917a	Tense T2917 Past
 A2917b	VerbForm T2917 Vnoun
-#√2917	AnnotatorNotes T2917	[གསུང་√1][གསུང་√2] 
+#2917l	AnnotatorNotes T2917	[གསུང་√1][གསུང་√2] 
 T2918	NOUN 282 288	གྲྭ་པ་
 A2918a	Number T2918 Sing
 T2919	NUM 288 293	གཅིག་
@@ -204,7 +204,7 @@ A2941a	Case T2941 Ter
 T2942	VERB 371 377	ཕྱིན་པ
 A2942a	Tense T2942 Past
 A2942b	VerbForm T2942 Vnoun
-#√2942	AnnotatorNotes T2942	[འགྲོ་][ཕྱིན་] 
+#2942l	AnnotatorNotes T2942	[འགྲོ་][ཕྱིན་] 
 T2943	ADP 377 378	ས
 A2943a	Case T2943 Agn
 T2944	PUNCT 378 379	།
@@ -322,7 +322,7 @@ T3004	ADP 606 608	ར་
 A3004a	Case T3004 Ter
 T3005	VERB 608 612	ལངས་
 A3005a	Tense T3005 Past
-#√3005	AnnotatorNotes T3005	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
+#3005l	AnnotatorNotes T3005	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
 T3006	SCONJ 612 614	ཏེ
 A3006a	Case T3006 Sem
 T3007	PUNCT 614 615	།
@@ -351,7 +351,7 @@ T3018	PRON 665 668	རང་
 A3018a	Reflex T3018 Yes
 T3019	VERB 668 672	བཏང་
 A3019a	Tense T3019 Past
-#√3019	AnnotatorNotes T3019	[གཏོང་√1][གཏོང་√2] 
+#3019l	AnnotatorNotes T3019	[གཏོང་√1][གཏོང་√2] 
 T3020	PUNCT 672 673	།
 T3022	DET 674 677	དེ་
 A3022a	PronType T3022 Dem
@@ -409,7 +409,7 @@ A3048a	Polarity T3048 Neg
 T3049	VERB 763 768	ཐོན་བ
 A3049a	Tense T3049 Past
 A3049b	VerbForm T3049 Vnoun
-#√3049	AnnotatorNotes T3049	[འཐོན་√1][འཐོན་√2] 
+#3049l	AnnotatorNotes T3049	[འཐོན་√1][འཐོན་√2] 
 T3050	ADP 768 770	ར་
 A3050a	Case T3050 Ter
 T3051	NOUN 770 774	ཡུལ་
@@ -450,7 +450,7 @@ A3067a	Polarity T3067 Neg
 T3068	VERB 827 834	ཕྱིན་པ་
 A3068a	Tense T3068 Past
 A3068b	VerbForm T3068 Vnoun
-#√3068	AnnotatorNotes T3068	[འགྲོ་][ཕྱིན་] 
+#3068l	AnnotatorNotes T3068	[འགྲོ་][ཕྱིན་] 
 T3069	AUX 834 837	ལགས
 T3070	PUNCT 837 838	།
 T3072	DET 839 841	དེ
@@ -466,7 +466,7 @@ A3076a	Number T3076 Sing
 T3077	VERB 854 861	ཕྱིན་པ་
 A3077a	Tense T3077 Past
 A3077b	VerbForm T3077 Vnoun
-#√3077	AnnotatorNotes T3077	[འགྲོ་][ཕྱིན་] 
+#3077l	AnnotatorNotes T3077	[འགྲོ་][ཕྱིན་] 
 T3078	NUM 861 866	གཅིག་
 A3078a	NumType T3078 Card
 A3078b	NumForm T3078 Word
@@ -477,13 +477,13 @@ T3080	ADP 871 873	ར་
 A3080a	Case T3080 Ter
 T3081	VERB 873 876	ཞུ་
 A3081a	Tense T3081 Fut/Pres
-#√3081	AnnotatorNotes T3081	[ཞུ་√1][ཞུ་√2] 
+#3081l	AnnotatorNotes T3081	[ཞུ་√1][ཞུ་√2] 
 T3082	VERB 876 880	ཞེས་
 A3082a	Mood T3082 Qot
 T3083	VERB 880 885	ཞུ་བ་
 A3083a	Tense T3083 Fut/Pres
 A3083b	VerbForm T3083 Vnoun
-#√3083	AnnotatorNotes T3083	[ཞུ་√1][ཞུ་√2] 
+#3083l	AnnotatorNotes T3083	[ཞུ་√1][ཞུ་√2] 
 T3084	VERB 885 889	ཕུལ་
 A3084a	Tense T3084 Past
 N3084	Reference T3084 Hill:1224	འབུལ་
@@ -512,7 +512,7 @@ T3096	NOUN 926 930	འདྲ་
 A3096a	NounType T3096 Rel
 T3097	VERB 930 934	བཏང་
 A3097a	Tense T3097 Past
-#√3097	AnnotatorNotes T3097	[གཏོང་√1][གཏོང་√2] 
+#3097l	AnnotatorNotes T3097	[གཏོང་√1][གཏོང་√2] 
 T3098	VERB 934 939	གསུང་
 T3099	PUNCT 939 940	།
 T3101	PRON 941 942	ང
@@ -560,7 +560,7 @@ A3121a	Case T3121 Ter
 T3122	VERB 1039 1044	ཞུས་པ
 A3122a	Tense T3122 Past
 A3122b	VerbForm T3122 Vnoun
-#√3122	AnnotatorNotes T3122	[འཇུ་√3][ཞུ་√1] 
+#3122l	AnnotatorNotes T3122	[འཇུ་√3][ཞུ་√1] 
 T3123	ADP 1044 1045	ས
 A3123a	Case T3123 Agn
 T3124	PUNCT 1045 1046	།
@@ -632,7 +632,7 @@ T3161	PART 1155 1158	མི་
 A3161a	Polarity T3161 Neg
 T3162	VERB 1158 1163	འདྲེན
 A3162a	Tense T3162 Pres
-#√3162	AnnotatorNotes T3162	[བགྲང་][འདྲེན་] 
+#3162l	AnnotatorNotes T3162	[བགྲང་][འདྲེན་] 
 T3163	PUNCT 1163 1164	།
 T3165	ADV 1165 1166	ལ
 A3165a	PronType T3165 Dem

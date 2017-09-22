@@ -49,7 +49,7 @@ A30024a	Polarity T30024 Neg
 T30025	VERB 85 92	བརྗེད་པ
 A30025a	Tense T30025 Past
 A30025b	VerbForm T30025 Vnoun
-#√30025	AnnotatorNotes T30025	[རྗེད་][བརྗེད་] 
+#30025l	AnnotatorNotes T30025	[རྗེད་][བརྗེད་] 
 T30026	ADP 92 94	ར་
 A30026a	Case T30026 Ter
 T30027	NOUN 94 99	སེམས་
@@ -78,7 +78,7 @@ T30039	ADP 133 136	ཏུ་
 A30039a	Case T30039 Ter
 T30040	VERB 136 140	བཞག་
 A30040a	Tense T30040 Past
-#√30040	AnnotatorNotes T30040	[འཇོག་√1][བཞག་] 
+#30040l	AnnotatorNotes T30040	[འཇོག་√1][བཞག་] 
 T30041	SCONJ 140 143	ནས་
 A30041a	Case T30041 Ela
 T30042	NOUN 143 148	མགུར་
@@ -87,7 +87,7 @@ T30043	DET 148 152	འདི་
 A30043a	PronType T30043 Dem
 T30044	VERB 152 158	གསུངས་
 A30044a	Tense T30044 Past
-#√30044	AnnotatorNotes T30044	[གསུང་√1][གསུང་√2] 
+#30044l	AnnotatorNotes T30044	[གསུང་√1][གསུང་√2] 
 T30045	PART 158 160	སོ
 A30045a	Mood T30045 Ind
 T30046	PUNCT 160 161	།
@@ -107,7 +107,7 @@ T30058	NOUN 184 188	ཕྱག་
 A30058a	Number T30058 Sing
 T30059	VERB 188 192	འཚལ་
 A30059a	Tense T30059 Fut/Pres
-#√30059	AnnotatorNotes T30059	[འཚལ་√1][འཚལ་√2] 
+#30059l	AnnotatorNotes T30059	[འཚལ་√1][འཚལ་√2] 
 T30060	PART 192 194	ལོ
 A30060a	Mood T30060 Ind
 T30061	PUNCT 194 195	།
@@ -138,7 +138,7 @@ T30077	ADP 249 251	ར་
 A30077a	Case T30077 Ter
 T30078	VERB 251 254	ཤོག
 A30078a	Mood T30078 Imp
-#√30078	AnnotatorNotes T30078	[འཆགས་][འོང་][གཤེགས་] 
+#30078l	AnnotatorNotes T30078	[འཆགས་][འོང་][གཤེགས་] 
 T30079	NOUN 254 257	ངག་
 A30079a	Number T30079 Sing
 T30080	NOUN 257 264	རྡོ་རྗེ
@@ -173,7 +173,7 @@ T30095	ADP 319 321	ར་
 A30095a	Case T30095 Ter
 T30096	VERB 321 324	ཤོག
 A30096a	Mood T30096 Imp
-#√30096	AnnotatorNotes T30096	[འཆགས་][འོང་][གཤེགས་] 
+#30096l	AnnotatorNotes T30096	[འཆགས་][འོང་][གཤེགས་] 
 T30097	NOUN 324 329	སེམས་
 A30097a	Number T30097 Sing
 N30097	Reference T30097 Hill:1793	སེམས་
@@ -201,7 +201,7 @@ T30110	ADP 380 382	ར་
 A30110a	Case T30110 Ter
 T30111	VERB 382 385	ཤོག
 A30111a	Mood T30111 Imp
-#√30111	AnnotatorNotes T30111	[འཆགས་][འོང་][གཤེགས་] 
+#30111l	AnnotatorNotes T30111	[འཆགས་][འོང་][གཤེགས་] 
 T30112	NOUN 385 389	བླ་མ
 A30112a	Number T30112 Sing
 T30113	ADP 389 392	འི་
@@ -228,7 +228,7 @@ T30126	ADP 441 443	ར་
 A30126a	Case T30126 Ter
 T30127	VERB 443 446	ཤོག
 A30127a	Mood T30127 Imp
-#√30127	AnnotatorNotes T30127	[འཆགས་][འོང་][གཤེགས་] 
+#30127l	AnnotatorNotes T30127	[འཆགས་][འོང་][གཤེགས་] 
 T30128	NOUN 446 460	ཡི་དམ་མཁའ་འགྲོ
 A30128a	Number T30128 Sing
 T30129	ADP 460 463	འི་
@@ -254,7 +254,7 @@ T30141	ADP 498 500	ར་
 A30141a	Case T30141 Ter
 T30142	VERB 500 503	ཤོག
 A30142a	Mood T30142 Imp
-#√30142	AnnotatorNotes T30142	[འཆགས་][འོང་][གཤེགས་] 
+#30142l	AnnotatorNotes T30142	[འཆགས་][འོང་][གཤེགས་] 
 T30143	NOUN 503 521	ཆོས་སྐྱོང་བསྲུངས་མ
 A30143a	Number T30143 Sing
 T30144	ADP 521 524	འི་
@@ -270,7 +270,7 @@ T30150	PUNCT 539 540	།
 T30152	VERB 541 548	འབྲལ་བ་
 A30152a	Tense T30152 Fut/Pres
 A30152b	VerbForm T30152 Vnoun
-#√30152	AnnotatorNotes T30152	[འཕྲལ་][འབྲལ་] 
+#30152l	AnnotatorNotes T30152	[འཕྲལ་][འབྲལ་] 
 T30153	VERB 548 553	མེད་པ
 A30153a	Polarity T30153 Neg
 A30153b	VerbForm T30153 Vnoun
@@ -283,7 +283,7 @@ T30156	ADP 562 564	ར་
 A30156a	Case T30156 Ter
 T30157	VERB 564 567	ཤོག
 A30157a	Mood T30157 Imp
-#√30157	AnnotatorNotes T30157	[འཆགས་][འོང་][གཤེགས་] 
+#30157l	AnnotatorNotes T30157	[འཆགས་][འོང་][གཤེགས་] 
 T30158	NOUN 567 578	རྟེན་འབྲེལ་
 A30158a	Number T30158 Sing
 T30159	ADJ 578 583	ཟབ་མོ
@@ -311,7 +311,7 @@ T30171	ADP 620 622	ར་
 A30171a	Case T30171 Ter
 T30172	VERB 622 625	ཤོག
 A30172a	Mood T30172 Imp
-#√30172	AnnotatorNotes T30172	[འཆགས་][འོང་][གཤེགས་] 
+#30172l	AnnotatorNotes T30172	[འཆགས་][འོང་][གཤེགས་] 
 T30173	NOUN 625 633	ཆོས་མཛད་
 A30173a	Number T30173 Sing
 T30174	DET 633 637	ཀུན་
@@ -343,7 +343,7 @@ T30188	ADP 679 681	ར་
 A30188a	Case T30188 Ter
 T30189	VERB 681 684	ཤོག
 A30189a	Mood T30189 Imp
-#√30189	AnnotatorNotes T30189	[འཆགས་][འོང་][གཤེགས་] 
+#30189l	AnnotatorNotes T30189	[འཆགས་][འོང་][གཤེགས་] 
 T30190	PROPN 684 694	གཙང་སིལ་མ་
 T30191	NOUN 694 696	ལ་
 A30191a	Number T30191 Sing
@@ -461,7 +461,7 @@ T30270	NOUN 951 960	འཁོར་འདས་
 A30270a	Number T30270 Sing
 T30271	VERB 960 967	བརྗེད་བ
 A30271a	VerbForm T30271 Vnoun
-#√30271	AnnotatorNotes T30271	[རྗེད་][བརྗེད་] 
+#30271l	AnnotatorNotes T30271	[རྗེད་][བརྗེད་] 
 T30272	ADP 967 970	འི་
 A30272a	Case T30272 Gen
 T30273	NOUN 970 979	ཚོང་འདུས་
@@ -559,7 +559,7 @@ N30340	Reference T30340 Hill:1142	འཕྲལ་
 T30341	VERB 1217 1224	གཡེང་བ་
 A30341a	Tense T30341 Fut/Pres
 A30341b	VerbForm T30341 Vnoun
-#√30341	AnnotatorNotes T30341	[གཡེང་√1][གཡེང་√2] 
+#30341l	AnnotatorNotes T30341	[གཡེང་√1][གཡེང་√2] 
 T30342	VERB 1224 1229	མེད་པ
 A30342a	Polarity T30342 Neg
 A30342b	VerbForm T30342 Vnoun

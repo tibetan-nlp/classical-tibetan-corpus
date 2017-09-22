@@ -29,7 +29,7 @@ N15144	Reference T15144 Hill:0958	སྡིག་
 T15145	VERB 56 63	གསོས་པ་
 A15145a	Tense T15145 Past
 A15145b	VerbForm T15145 Vnoun
-#√15145	AnnotatorNotes T15145	[གསོ་√1][གསོ་√2] 
+#15145l	AnnotatorNotes T15145	[གསོ་√1][གསོ་√2] 
 T15146	ADP 63 66	ལས་
 A15146a	Case T15146 Abl
 T15147	PART 66 69	ནི་
@@ -81,7 +81,7 @@ A15169a	Number T15169 Sing
 N15169	Reference T15169 Hill:0230	གླ་
 T15170	VERB 150 155	བསགས་
 A15170a	Tense T15170 Past
-#√15170	AnnotatorNotes T15170	[གསོག་√1][གསོག་√3] 
+#15170l	AnnotatorNotes T15170	[གསོག་√1][གསོག་√3] 
 T15171	SCONJ 155 158	ནས་
 A15171a	Case T15171 Ela
 T15172	NOUN 158 162	ཆོས་
@@ -89,7 +89,7 @@ A15172a	Number T15172 Sing
 T15173	VERB 162 166	ཞུ་བ
 A15173a	Tense T15173 Fut/Pres
 A15173b	VerbForm T15173 Vnoun
-#√15173	AnnotatorNotes T15173	[ཞུ་√1][ཞུ་√2] 
+#15173l	AnnotatorNotes T15173	[ཞུ་√1][ཞུ་√2] 
 T15174	ADP 166 169	འི་
 A15174a	Case T15174 Gen
 T15175	NOUN 169 179	རྒྱགས་ཡོན་
@@ -98,7 +98,7 @@ T15176	NOUN 179 183	འདྲ་
 A15176a	NounType T15176 Rel
 T15177	VERB 183 189	འབྱོར་
 A15177a	Tense T15177 Fut/Pres
-#√15177	AnnotatorNotes T15177	[འབྱོར་√1][འབྱོར་√2] 
+#15177l	AnnotatorNotes T15177	[འབྱོར་√1][འབྱོར་√2] 
 T15178	PART 189 191	རམ
 A15178a	Polarity T15178 Xor
 T15179	PUNCT 191 192	།
@@ -127,7 +127,7 @@ T15191	ADP 228 231	དུ་
 A15191a	Case T15191 Ter
 T15192	VERB 231 236	ཕྱིན་
 A15192a	Tense T15192 Past
-#√15192	AnnotatorNotes T15192	[འགྲོ་][ཕྱིན་] 
+#15192l	AnnotatorNotes T15192	[འགྲོ་][ཕྱིན་] 
 T15193	SCONJ 236 240	རུང་
 A15193a	Case T15193 Rung
 T15194	VERB 240 245	ཆོག་པ
@@ -249,7 +249,7 @@ A15250a	Polarity T15250 Neg
 T15251	VERB 439 444	ཞུས་པ
 A15251a	Tense T15251 Past
 A15251b	VerbForm T15251 Vnoun
-#√15251	AnnotatorNotes T15251	[འཇུ་√3][ཞུ་√1] 
+#15251l	AnnotatorNotes T15251	[འཇུ་√3][ཞུ་√1] 
 T15252	ADP 444 446	ར་
 A15252a	Case T15252 Ter
 T15253	VERB 446 450	ཐོན་
@@ -258,7 +258,7 @@ N15253	Reference T15253 Hill:0814	འཐོན་√1
 T15254	VERB 450 456	ཕྱིན་པ
 A15254a	Tense T15254 Past
 A15254b	VerbForm T15254 Vnoun
-#√15254	AnnotatorNotes T15254	[འགྲོ་][ཕྱིན་] 
+#15254l	AnnotatorNotes T15254	[འགྲོ་][ཕྱིན་] 
 T15255	ADP 456 457	ས
 A15255a	Case T15255 Agn
 T15256	PUNCT 457 458	།
@@ -349,20 +349,20 @@ T15303	DET 620 625	རྣམས་
 A15303a	Number T15303 Plur
 T15304	VERB 625 630	བསགས་
 A15304a	Tense T15304 Past
-#√15304	AnnotatorNotes T15304	[གསོག་√1][གསོག་√3] 
+#15304l	AnnotatorNotes T15304	[གསོག་√1][གསོག་√3] 
 T15305	SCONJ 630 633	ནས་
 A15305a	Case T15305 Ela
 T15306	NOUN 633 637	ལྟོ་
 A15306a	Number T15306 Sing
 T15307	VERB 637 642	གཡོས་
 A15307a	Tense T15307 Past
-#√15307	AnnotatorNotes T15307	[གཡོ་√1][གཡོ་√2] 
+#15307l	AnnotatorNotes T15307	[གཡོ་√1][གཡོ་√2] 
 T15308	SCONJ 642 645	ཏེ་
 A15308a	Case T15308 Sem
 T15309	VERB 645 650	ཟོས་པ
 A15309a	Tense T15309 Past
 A15309b	VerbForm T15309 Vnoun
-#√15309	AnnotatorNotes T15309	[འཛའ་][ཟ་√2][ཟ་√3] 
+#15309l	AnnotatorNotes T15309	[འཛའ་][ཟ་√2][ཟ་√3] 
 T15310	ADP 650 651	ས
 A15310a	Case T15310 Agn
 T15311	PUNCT 651 652	།
@@ -376,7 +376,7 @@ T15315	VERB 663 667	ཡོལ་
 N15315	Reference T15315 Hill:1636	ཡོལ་
 T15316	VERB 667 671	སོང་
 A15316a	Tense T15316 Past
-#√15316	AnnotatorNotes T15316	[འགྲོ་][སོང་] 
+#15316l	AnnotatorNotes T15316	[འགྲོ་][སོང་] 
 T15317	PUNCT 671 672	།
 T15319	DET 673 675	དེ
 A15319a	PronType T15319 Dem
@@ -420,7 +420,7 @@ T15336	ADP 730 733	ཏུ་
 A15336a	Case T15336 Ter
 T15337	VERB 733 737	སོང་
 A15337a	Tense T15337 Past
-#√15337	AnnotatorNotes T15337	[འགྲོ་][སོང་] 
+#15337l	AnnotatorNotes T15337	[འགྲོ་][སོང་] 
 T15338	SCONJ 737 741	རུང་
 A15338a	Case T15338 Rung
 T15339	PUNCT 741 742	།
@@ -475,11 +475,11 @@ T15365	NOUN 827 831	ལྟོ་
 A15365a	Number T15365 Sing
 T15366	VERB 831 836	གཡོས་
 A15366a	Tense T15366 Past
-#√15366	AnnotatorNotes T15366	[གཡོ་√1][གཡོ་√2] 
+#15366l	AnnotatorNotes T15366	[གཡོ་√1][གཡོ་√2] 
 T15367	VERB 836 843	གཡོས་པ་
 A15367a	Tense T15367 Past
 A15367b	VerbForm T15367 Vnoun
-#√15367	AnnotatorNotes T15367	[གཡོ་√1][གཡོ་√2] 
+#15367l	AnnotatorNotes T15367	[གཡོ་√1][གཡོ་√2] 
 T15368	NOUN 843 848	བྱ་ན་
 A15368a	Number T15368 Sing
 T15369	ADP 848 851	དང་
@@ -520,7 +520,7 @@ T15387	DET 917 921	ཞིག་
 A15387a	PronType T15387 Ind
 T15388	VERB 921 925	ཞུས་
 A15388a	Tense T15388 Past
-#√15388	AnnotatorNotes T15388	[འཇུ་√3][ཞུ་√1] 
+#15388l	AnnotatorNotes T15388	[འཇུ་√3][ཞུ་√1] 
 T15389	PART 925 928	མི་
 A15389a	Polarity T15389 Neg
 T15390	VERB 928 934	ཡོང་བ་
@@ -576,7 +576,7 @@ A15415a	Case T15415 Ter
 T15416	VERB 1020 1026	ཕྱིན་པ
 A15416a	Tense T15416 Past
 A15416b	VerbForm T15416 Vnoun
-#√15416	AnnotatorNotes T15416	[འགྲོ་][ཕྱིན་] 
+#15416l	AnnotatorNotes T15416	[འགྲོ་][ཕྱིན་] 
 T15417	ADP 1026 1027	ས
 A15417a	Case T15417 Agn
 T15418	PUNCT 1027 1028	།
@@ -668,7 +668,7 @@ A15461a	Polarity T15461 Xor
 T15462	VERB 1181 1187	ཟེར་བ་
 A15462a	Tense T15462 Fut/Pres
 A15462b	VerbForm T15462 Vnoun
-#√15462	AnnotatorNotes T15462	[ཟེར་√1][ཟེར་√2] 
+#15462l	AnnotatorNotes T15462	[ཟེར་√1][ཟེར་√2] 
 T15463	ADP 1187 1188	ལ
 A15463a	Case T15463 All
 T15464	PUNCT 1188 1189	།
@@ -725,7 +725,7 @@ A15493a	Tense T15493 Pres
 N15493	Reference T15493 Hill:0008	ཀློག་
 T15494	VERB 1270 1274	ཐོན་
 A15494a	Mood T15494 Imp
-#√15494	AnnotatorNotes T15494	[འཐོན་√2][འདོན་] 
+#15494l	AnnotatorNotes T15494	[འཐོན་√2][འདོན་] 
 T15495	NOUN 1274 1278	ཡོན་
 A15495a	Number T15495 Sing
 T15496	ADJ 1278 1285	སྨར་པོ་
@@ -734,7 +734,7 @@ N15497	Reference T15497 Hill:0742	སྟེར་
 T15498	VERB 1290 1295	ཟེར་བ
 A15498a	Tense T15498 Fut/Pres
 A15498b	VerbForm T15498 Vnoun
-#√15498	AnnotatorNotes T15498	[ཟེར་√1][ཟེར་√2] 
+#15498l	AnnotatorNotes T15498	[ཟེར་√1][ཟེར་√2] 
 T15499	ADP 1295 1297	ས་
 A15499a	Case T15499 Agn
 T15500	VERB 1297 1301	དགའ་

@@ -10,7 +10,7 @@ N10600	Reference T10600 Hill:1632	ཡོད་
 T10601	VERB 22 28	ཟེར་བ་
 A10601a	Tense T10601 Fut/Pres
 A10601b	VerbForm T10601 Vnoun
-#√10601	AnnotatorNotes T10601	[ཟེར་√1][ཟེར་√2] 
+#10601l	AnnotatorNotes T10601	[ཟེར་√1][ཟེར་√2] 
 T10602	VERB 28 34	བདེན་པ
 A10602a	Tense T10602 Past/Pres
 A10602b	VerbForm T10602 Vnoun
@@ -33,12 +33,12 @@ T10611	ADP 65 68	དུ་
 A10611a	Case T10611 Ter
 T10612	VERB 68 72	བཏགས
 A10612a	Tense T10612 Past
-#√10612	AnnotatorNotes T10612	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#10612l	AnnotatorNotes T10612	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T10613	PUNCT 72 73	།
 T10615	ADV 74 76	ད་
 A10615a	AdvType T10615 Tim
 T10616	VERB 76 80	སངས་
-#√10616	AnnotatorNotes T10616	[སངས་√1][སངས་√2] 
+#10616l	AnnotatorNotes T10616	[སངས་√1][སངས་√2] 
 T10617	VERB 80 85	རྒྱ་བ
 A10617a	Tense T10617 Fut/Pres
 A10617b	VerbForm T10617 Vnoun
@@ -54,11 +54,11 @@ T10621	ADP 101 103	ར་
 A10621a	Case T10621 Ter
 T10622	VERB 103 106	ཞུ་
 A10622a	Tense T10622 Fut/Pres
-#√10622	AnnotatorNotes T10622	[ཞུ་√1][ཞུ་√2] 
+#10622l	AnnotatorNotes T10622	[ཞུ་√1][ཞུ་√2] 
 T10623	VERB 106 111	ཞུས་པ
 A10623a	Tense T10623 Past
 A10623b	VerbForm T10623 Vnoun
-#√10623	AnnotatorNotes T10623	[འཇུ་√3][ཞུ་√1] 
+#10623l	AnnotatorNotes T10623	[འཇུ་√3][ཞུ་√1] 
 T10624	ADP 111 112	ས
 A10624a	Case T10624 Agn
 T10625	PUNCT 112 113	།
@@ -75,7 +75,7 @@ N10631	Reference T10631 Hill:0958	སྡིག་
 T10632	VERB 137 143	བསགས་པ
 A10632a	Tense T10632 Past
 A10632b	VerbForm T10632 Vnoun
-#√10632	AnnotatorNotes T10632	[གསོག་√1][གསོག་√3] 
+#10632l	AnnotatorNotes T10632	[གསོག་√1][གསོག་√3] 
 T10633	ADP 143 146	འི་
 A10633a	Case T10633 Gen
 T10634	NOUN 146 151	རྔན་པ
@@ -103,7 +103,7 @@ T10644	ADP 184 186	ལ་
 A10644a	Case T10644 All
 T10645	VERB 186 190	ཕྱིན
 A10645a	Tense T10645 Past
-#√10645	AnnotatorNotes T10645	[འགྲོ་][ཕྱིན་] 
+#10645l	AnnotatorNotes T10645	[འགྲོ་][ཕྱིན་] 
 T10646	PUNCT 190 191	།
 T10648	NOUN 192 196	ནོར་
 A10648a	Number T10648 Coll
@@ -131,7 +131,7 @@ A10657a	Case T10657 Ela
 T10658	VERB 231 236	ཞུས་པ
 A10658a	Tense T10658 Past
 A10658b	VerbForm T10658 Vnoun
-#√10658	AnnotatorNotes T10658	[འཇུ་√3][ཞུ་√1] 
+#10658l	AnnotatorNotes T10658	[འཇུ་√3][ཞུ་√1] 
 T10659	ADP 236 239	འི་
 A10659a	Case T10659 Gen
 T10660	NOUN 239 247	གདམས་ངག་
@@ -152,7 +152,7 @@ N10667	Reference T10667 Hill:0248	དགོས་
 T10668	VERB 285 291	ཟེར་བ་
 A10668a	Tense T10668 Fut/Pres
 A10668b	VerbForm T10668 Vnoun
-#√10668	AnnotatorNotes T10668	[ཟེར་√1][ཟེར་√2] 
+#10668l	AnnotatorNotes T10668	[ཟེར་√1][ཟེར་√2] 
 T10669	DET 291 294	དེ་
 A10669a	PronType T10669 Dem
 T10670	NOUN 294 300	ཀུ་རེ་
@@ -219,7 +219,7 @@ A10701a	Tense T10701 Pres
 N10701	Reference T10701 Hill:0064	སྐྱིན་
 T10702	VERB 405 408	ཆུག
 A10702a	Mood T10702 Imp
-#√10702	AnnotatorNotes T10702	[འཇུག་√2][གཞུག་] 
+#10702l	AnnotatorNotes T10702	[འཇུག་√2][གཞུག་] 
 T10703	NOUN 408 414	ལ་ཁ་བ་
 A10703a	Number T10703 Sing
 T10704	DET 414 419	རྣམས་
@@ -232,10 +232,10 @@ T10707	DET 426 430	ཀུན་
 A10707a	Number T10707 Plur
 T10708	VERB 430 435	གསོས་
 A10708a	Mood T10708 Imp
-#√10708	AnnotatorNotes T10708	[གསོ་√1][གསོ་√2] 
+#10708l	AnnotatorNotes T10708	[གསོ་√1][གསོ་√2] 
 T10709	VERB 435 439	ཤོག་
 A10709a	Mood T10709 Imp
-#√10709	AnnotatorNotes T10709	[འཆགས་][འོང་][གཤེགས་] 
+#10709l	AnnotatorNotes T10709	[འཆགས་][འོང་][གཤེགས་] 
 T10710	PART 439 442	ཅིག
 A10710a	Mood T10710 Imp
 T10711	DET 442 445	དེ་
@@ -311,7 +311,7 @@ A10746a	Number T10746 Sing
 N10746	Reference T10746 Hill:1793	སེམས་
 T10747	VERB 581 585	གསོ་
 A10747a	Tense T10747 Fut/Pres
-#√10747	AnnotatorNotes T10747	[གསོ་√1][གསོ་√2] 
+#10747l	AnnotatorNotes T10747	[གསོ་√1][གསོ་√2] 
 T10748	VERB 585 588	མཛད
 N10748	Reference T10748 Hill:1465	མཛད་
 T10749	PUNCT 588 589	།
@@ -395,7 +395,7 @@ T10791	PROPN 727 742	ད་དར་མ་མདོ་སྡེ་
 T10792	VERB 742 749	འབོགས་པ
 A10792a	Tense T10792 Pres
 A10792b	VerbForm T10792 Vnoun
-#√10792	AnnotatorNotes T10792	[འབོག་√2][འབོགས་] 
+#10792l	AnnotatorNotes T10792	[འབོག་√2][འབོགས་] 
 T10793	ADP 749 752	འི་
 A10793a	Case T10793 Gen
 T10794	NOUN 752 756	མཁར་
@@ -472,7 +472,7 @@ T10832	AUX 880 884	ལགས་
 T10833	VERB 884 889	ཞུས་པ
 A10833a	Tense T10833 Past
 A10833b	VerbForm T10833 Vnoun
-#√10833	AnnotatorNotes T10833	[འཇུ་√3][ཞུ་√1] 
+#10833l	AnnotatorNotes T10833	[འཇུ་√3][ཞུ་√1] 
 T10834	ADP 889 890	ས
 A10834a	Case T10834 Agn
 T10835	PUNCT 890 891	།
@@ -555,7 +555,7 @@ A10874a	PronType T10874 Dem
 T10875	ADP 1021 1023	ར་
 A10875a	Case T10875 Ter
 T10876	VERB 1023 1027	སངས་
-#√10876	AnnotatorNotes T10876	[སངས་√1][སངས་√2] 
+#10876l	AnnotatorNotes T10876	[སངས་√1][སངས་√2] 
 T10877	PART 1027 1030	ཨེ་
 A10877a	Polarity T10877 Neg
 T10878	VERB 1030 1034	རྒྱ་
@@ -650,11 +650,11 @@ T10924	ADP 1207 1209	ར་
 A10924a	Case T10924 Ter
 T10925	VERB 1209 1212	ཞུ་
 A10925a	Tense T10925 Fut/Pres
-#√10925	AnnotatorNotes T10925	[ཞུ་√1][ཞུ་√2] 
+#10925l	AnnotatorNotes T10925	[ཞུ་√1][ཞུ་√2] 
 T10926	VERB 1212 1217	ཞུས་པ
 A10926a	Tense T10926 Past
 A10926b	VerbForm T10926 Vnoun
-#√10926	AnnotatorNotes T10926	[འཇུ་√3][ཞུ་√1] 
+#10926l	AnnotatorNotes T10926	[འཇུ་√3][ཞུ་√1] 
 T10927	ADP 1217 1218	ར
 A10927a	Case T10927 Ter
 T10928	PUNCT 1218 1219	།

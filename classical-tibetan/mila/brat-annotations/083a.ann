@@ -8,7 +8,7 @@ A51770a	Case T51770 Ter
 T51771	VERB 15 22	འབྱོན་པ
 A51771a	Tense T51771 Pres
 A51771b	VerbForm T51771 Vnoun
-#√51771	AnnotatorNotes T51771	[འབྱོན་√1][འབྱོན་√2] 
+#51771l	AnnotatorNotes T51771	[འབྱོན་√1][འབྱོན་√2] 
 T51772	ADP 22 25	འི་
 A51772a	Case T51772 Gen
 T51773	NOUN 25 28	ཞར་
@@ -25,7 +25,7 @@ T51780	ADP 52 55	འི་
 A51780a	Case T51780 Gen
 T51781	VERB 55 59	སྐོར
 A51781a	Tense T51781 Pres
-#√51781	AnnotatorNotes T51781	[སྐོར་√1][སྐོར་√2] 
+#51781l	AnnotatorNotes T51781	[སྐོར་√1][སྐོར་√2] 
 T51782	PUNCT 59 60	།
 T51784	PROPN 61 67	ཆུ་བར་
 T51785	ADP 67 70	དུ་
@@ -41,7 +41,7 @@ T51790	ADP 93 96	འི་
 A51790a	Case T51790 Gen
 T51791	VERB 96 100	སྐོར
 A51791a	Tense T51791 Pres
-#√51791	AnnotatorNotes T51791	[སྐོར་√1][སྐོར་√2] 
+#51791l	AnnotatorNotes T51791	[སྐོར་√1][སྐོར་√2] 
 T51792	PUNCT 100 101	།
 T51794	PROPN 102 107	བྲིན་
 N51794	Reference T51794 Hill:1174	བྲིན་
@@ -55,7 +55,7 @@ T51799	ADP 138 142	ཀྱི་
 A51799a	Case T51799 Gen
 T51800	VERB 142 146	སྐོར
 A51800a	Tense T51800 Pres
-#√51800	AnnotatorNotes T51800	[སྐོར་√1][སྐོར་√2] 
+#51800l	AnnotatorNotes T51800	[སྐོར་√1][སྐོར་√2] 
 T51801	PUNCT 146 147	།
 T51803	PROPN 148 153	བྲིན་
 N51803	Reference T51803 Hill:1174	བྲིན་
@@ -81,7 +81,7 @@ T51816	ADP 208 211	འི་
 A51816a	Case T51816 Gen
 T51817	VERB 211 215	སྐོར
 A51817a	Tense T51817 Pres
-#√51817	AnnotatorNotes T51817	[སྐོར་√1][སྐོར་√2] 
+#51817l	AnnotatorNotes T51817	[སྐོར་√1][སྐོར་√2] 
 T51818	PUNCT 215 216	།
 T51820	PROPN 217 232	བྲག་དམར་སྤོ་མཐོ
 T51821	ADP 232 234	ར་
@@ -112,7 +112,7 @@ T51832	ADP 274 278	གྱི་
 A51832a	Case T51832 Gen
 T51833	VERB 278 282	སྐོར
 A51833a	Tense T51833 Pres
-#√51833	AnnotatorNotes T51833	[སྐོར་√1][སྐོར་√2] 
+#51833l	AnnotatorNotes T51833	[སྐོར་√1][སྐོར་√2] 
 T51834	PUNCT 282 283	།
 T51836	NOUN 284 292	བུ་སློབ་
 A51836a	Number T51836 Sing
@@ -164,7 +164,7 @@ A51859a	Polarity T51859 Neg
 T51860	VERB 380 386	གྲགས་པ
 A51860a	Tense T51860 Past
 A51860b	VerbForm T51860 Vnoun
-#√51860	AnnotatorNotes T51860	[གྲག་][གྲགས་√1] 
+#51860l	AnnotatorNotes T51860	[གྲག་][གྲགས་√1] 
 T51861	ADP 386 389	འི་
 A51861a	Case T51861 Gen
 T51862	NOUN 389 398	ཆོས་འཁོར་
@@ -172,7 +172,7 @@ A51862a	Number T51862 Sing
 T51863	VERB 398 404	སྐོར་བ
 A51863a	Tense T51863 Pres
 A51863b	VerbForm T51863 Vnoun
-#√51863	AnnotatorNotes T51863	[སྐོར་√1][སྐོར་√2] 
+#51863l	AnnotatorNotes T51863	[སྐོར་√1][སྐོར་√2] 
 T51864	ADP 404 407	འི་
 A51864a	Case T51864 Gen
 T51865	NOUN 407 412	སྐོར་
@@ -313,10 +313,10 @@ T51934	NOUN 708 715	བག་ཆགས་
 A51934a	Number T51934 Sing
 T51935	VERB 715 719	བཞག་
 A51935a	Tense T51935 Past
-#√51935	AnnotatorNotes T51935	[འཇོག་√1][བཞག་] 
+#51935l	AnnotatorNotes T51935	[འཇོག་√1][བཞག་] 
 T51936	VERB 719 721	གས
 A51936a	Tense T51936 Past
-#√51936	AnnotatorNotes T51936	[གས་][འགས་√2] 
+#51936l	AnnotatorNotes T51936	[གས་][འགས་√2] 
 T51937	PUNCT 721 722	།
 T51939	NOUN 723 727	གནས་
 A51939a	Number T51939 Sing
@@ -424,7 +424,7 @@ T51995	ADP 957 959	ར་
 A51995a	Case T51995 Ter
 T51996	VERB 959 963	ཕྱེ་
 A51996a	Tense T51996 Past
-#√51996	AnnotatorNotes T51996	[འབྱེ་][འབྱེད་] 
+#51996l	AnnotatorNotes T51996	[འབྱེ་][འབྱེད་] 
 T51997	SCONJ 963 966	ནས་
 A51997a	Case T51997 Ela
 T51998	VERB 966 971	སྟོན་

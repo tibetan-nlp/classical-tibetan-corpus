@@ -40,7 +40,7 @@ N33814	Reference T33814 Hill:1465	མཛད་
 T33815	VERB 86 91	ཞུས་པ
 A33815a	Tense T33815 Past
 A33815b	VerbForm T33815 Vnoun
-#√33815	AnnotatorNotes T33815	[འཇུ་√3][ཞུ་√1] 
+#33815l	AnnotatorNotes T33815	[འཇུ་√3][ཞུ་√1] 
 T33816	ADP 91 92	ས
 A33816a	Case T33816 Agn
 T33817	PUNCT 92 93	།
@@ -102,7 +102,7 @@ N33845	Reference T33845 Hill:1465	མཛད་
 T33846	PART 210 214	ཅིག་
 A33846a	Mood T33846 Imp
 T33847	VERB 214 217	ཟེར
-#√33847	AnnotatorNotes T33847	[ཟེར་√1][ཟེར་√2] 
+#33847l	AnnotatorNotes T33847	[ཟེར་√1][ཟེར་√2] 
 T33848	PUNCT 217 218	།
 T33850	NOUN 219 228	ཕྱེ་སྒྱེ་
 A33850a	Number T33850 Sing
@@ -212,7 +212,7 @@ A33901a	Number T33901 Sing
 T33902	DET 445 449	འགའ་
 A33902a	Number T33902 Plur
 T33903	VERB 449 452	ཐུབ
-#√33903	AnnotatorNotes T33903	[ཐུབ་√2][ཐུབ་√3] 
+#33903l	AnnotatorNotes T33903	[ཐུབ་√2][ཐུབ་√3] 
 T33904	PUNCT 452 453	།
 T33906	DET 454 457	དེ་
 A33906a	PronType T33906 Dem
@@ -247,7 +247,7 @@ A33919a	Polarity T33919 Neg
 T33920	VERB 512 518	ཚུགས་པ
 A33920a	Tense T33920 Past
 A33920b	VerbForm T33920 Vnoun
-#√33920	AnnotatorNotes T33920	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
+#33920l	AnnotatorNotes T33920	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
 T33921	ADP 518 519	ས
 A33921a	Case T33921 Agn
 T33922	PUNCT 519 520	།
@@ -269,7 +269,7 @@ T33931	NOUN 550 558	ཆུ་སྡོར་
 A33931a	Number T33931 Coll
 T33932	VERB 558 562	སླངས
 A33932a	Tense T33932 Past
-#√33932	AnnotatorNotes T33932	[སླང་][སློང་] 
+#33932l	AnnotatorNotes T33932	[སླང་][སློང་] 
 T33933	PUNCT 562 563	།
 T33935	NOUN 564 566	མད
 A33935a	Number T33935 Sing
@@ -284,7 +284,7 @@ A33939a	Number T33939 Sing
 N33939	Reference T33939 Hill:0398	བརྒྱགས་
 T33940	VERB 584 589	སླངས་
 A33940a	Tense T33940 Past
-#√33940	AnnotatorNotes T33940	[སླང་][སློང་] 
+#33940l	AnnotatorNotes T33940	[སླང་][སློང་] 
 T33941	SCONJ 589 591	ཏེ
 A33941a	Case T33941 Sem
 T33942	PUNCT 591 592	།
@@ -322,7 +322,7 @@ T33958	SCONJ 656 658	ལ་
 A33958a	Case T33958 All
 T33959	VERB 658 663	ཕྱིན་
 A33959a	Tense T33959 Past
-#√33959	AnnotatorNotes T33959	[འགྲོ་][ཕྱིན་] 
+#33959l	AnnotatorNotes T33959	[འགྲོ་][ཕྱིན་] 
 T33960	SCONJ 663 666	ཏེ་
 A33960a	Case T33960 Sem
 T33961	NOUN 666 670	སྦྲ་
@@ -345,7 +345,7 @@ T33970	NOUN 710 718	སློང་མོ་
 A33970a	Number T33970 Sing
 T33971	VERB 718 721	ཞུ་
 A33971a	Tense T33971 Fut/Pres
-#√33971	AnnotatorNotes T33971	[ཞུ་√1][ཞུ་√2] 
+#33971l	AnnotatorNotes T33971	[ཞུ་√1][ཞུ་√2] 
 T33972	VERB 721 726	བྱས་པ
 A33972a	Tense T33972 Past
 A33972b	VerbForm T33972 Vnoun
@@ -362,7 +362,7 @@ A33978a	Number T33978 Sing
 T33979	ADP 740 743	དང་
 A33979a	Case T33979 Com
 T33980	VERB 743 747	ཐུག་
-#√33980	AnnotatorNotes T33980	[ཐུག་√1][ཐུག་√2] 
+#33980l	AnnotatorNotes T33980	[ཐུག་√1][ཐུག་√2] 
 T33981	SCONJ 747 750	སྟེ
 A33981a	Case T33981 Sem
 T33982	PUNCT 750 751	།
@@ -480,7 +480,7 @@ A34044b	VerbForm T34044 Vnoun
 N34044	Reference T34044 Hill:0071	སྐྱེ་
 T34045	VERB 977 981	ཟེར་
 A34045a	Tense T34045 Fut/Pres
-#√34045	AnnotatorNotes T34045	[ཟེར་√1][ཟེར་√2] 
+#34045l	AnnotatorNotes T34045	[ཟེར་√1][ཟེར་√2] 
 T34046	SCONJ 981 985	ཞིང་
 A34046a	Case T34046 Impf
 T34047	ADJ 985 991	མང་པོ་
@@ -534,7 +534,7 @@ T34070	ADP 1069 1071	ལ་
 A34070a	Case T34070 All
 T34071	VERB 1071 1076	ཐོགས་
 A34071a	Tense T34071 Past/Pres
-#√34071	AnnotatorNotes T34071	[ཐོགས་√1][ཐོགས་√2] 
+#34071l	AnnotatorNotes T34071	[ཐོགས་√1][ཐོགས་√2] 
 T34072	ADP 1076 1079	ནས་
 A34072a	Case T34072 Ela
 T34073	NOUN 1079 1086	རྐོ་ཆུ་
@@ -582,7 +582,7 @@ T34091	PRON 1148 1151	ཅི་
 A34091a	PronType T34091 Int
 T34092	VERB 1151 1156	ལོངས་
 A34092a	Mood T34092 Imp
-#√34092	AnnotatorNotes T34092	[ལང་√1][ལང་√2][ལེན་] 
+#34092l	AnnotatorNotes T34092	[ལང་√1][ལང་√2][ལེན་] 
 T34093	PART 1156 1160	ཞིག་
 A34093a	Mood T34093 Imp
 T34094	VERB 1160 1164	བྱས་

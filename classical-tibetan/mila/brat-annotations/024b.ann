@@ -71,7 +71,7 @@ N9562	Reference T9562 Hill:0008	ཀློག་
 T9563	PART 128 132	ཤིག་
 A9563a	Mood T9563 Imp
 T9564	VERB 132 136	ཟེར་
-#√9564	AnnotatorNotes T9564	[ཟེར་√1][ཟེར་√2] 
+#9564l	AnnotatorNotes T9564	[ཟེར་√1][ཟེར་√2] 
 T9565	NOUN 136 142	བན་དེ་
 A9565a	Number T9565 Sing
 T9566	DET 142 145	དེ་
@@ -81,7 +81,7 @@ N9567	Reference T9567 Hill:1719	ལོག་
 T9568	VERB 149 155	སོང་བ་
 A9568a	Tense T9568 Past
 A9568b	VerbForm T9568 Vnoun
-#√9568	AnnotatorNotes T9568	[འགྲོ་][སོང་] 
+#9568l	AnnotatorNotes T9568	[འགྲོ་][སོང་] 
 T9569	ADP 155 158	དང་
 A9569a	Case T9569 Com
 T9570	PUNCT 158 159	།
@@ -96,7 +96,7 @@ T9575	ADP 174 176	ར་
 A9575a	Case T9575 Ter
 T9576	VERB 176 182	བཏུངས་
 A9576a	Tense T9576 Past
-#√9576	AnnotatorNotes T9576	[བཏུངས་][འཐུང་] 
+#9576l	AnnotatorNotes T9576	[བཏུངས་][འཐུང་] 
 T9577	SCONJ 182 185	ཏེ་
 A9577a	Case T9577 Sem
 T9578	NOUN 185 189	ཁྲུ་
@@ -165,7 +165,7 @@ T9608	ADP 292 295	དུ་
 A9608a	Case T9608 Ter
 T9609	VERB 295 299	ཤོག་
 A9609a	Mood T9609 Imp
-#√9609	AnnotatorNotes T9609	[འཆགས་][འོང་][གཤེགས་] 
+#9609l	AnnotatorNotes T9609	[འཆགས་][འོང་][གཤེགས་] 
 T9610	VERB 299 304	གསུང་
 T9611	SCONJ 304 308	གིན་
 A9611a	Case T9611 Cont
@@ -174,7 +174,7 @@ N9612	Reference T9612 Hill:0875	འདུག་
 T9613	VERB 313 318	ཟེར་བ
 A9613a	Tense T9613 Fut/Pres
 A9613b	VerbForm T9613 Vnoun
-#√9613	AnnotatorNotes T9613	[ཟེར་√1][ཟེར་√2] 
+#9613l	AnnotatorNotes T9613	[ཟེར་√1][ཟེར་√2] 
 T9614	ADP 318 320	ས་
 A9614a	Case T9614 Agn
 T9615	VERB 320 324	དགའ་
@@ -281,7 +281,7 @@ A9667a	Number T9667 Sing
 T9668	ADP 521 524	དུ་
 A9668a	Case T9668 Ter
 T9669	VERB 524 528	ཆགས་
-#√9669	AnnotatorNotes T9669	[ཆགས་√1][ཆགས་√2] 
+#9669l	AnnotatorNotes T9669	[ཆགས་√1][ཆགས་√2] 
 T9670	SCONJ 528 530	ཏེ
 A9670a	Case T9670 Sem
 T9671	PUNCT 530 531	།
@@ -339,7 +339,7 @@ A9699a	Case T9699 Ter
 T9700	VERB 622 628	ཕྱིན་པ
 A9700a	Tense T9700 Past
 A9700b	VerbForm T9700 Vnoun
-#√9700	AnnotatorNotes T9700	[འགྲོ་][ཕྱིན་] 
+#9700l	AnnotatorNotes T9700	[འགྲོ་][ཕྱིན་] 
 T9701	ADP 628 629	ས
 A9701a	Case T9701 Agn
 T9702	PUNCT 629 630	།
@@ -535,7 +535,7 @@ T9801	NOUN 1010 1014	ཕྱག་
 A9801a	Number T9801 Sing
 T9802	VERB 1014 1017	བཙལ
 A9802a	Tense T9802 Fut/Past
-#√9802	AnnotatorNotes T9802	[འཚལ་√1][འཚོལ་] 
+#9802l	AnnotatorNotes T9802	[འཚལ་√1][འཚོལ་] 
 T9803	PUNCT 1017 1018	།
 T9805	NOUN 1019 1023	ཞབས་
 A9805a	Number T9805 Sing
@@ -591,7 +591,7 @@ T9835	ADP 1155 1157	ལ་
 A9835a	Case T9835 All
 T9836	VERB 1157 1159	ཞུ
 A9836a	Tense T9836 Fut/Pres
-#√9836	AnnotatorNotes T9836	[ཞུ་√1][ཞུ་√2] 
+#9836l	AnnotatorNotes T9836	[ཞུ་√1][ཞུ་√2] 
 T9837	PUNCT 1159 1160	།
 T9839	NOUN 1161 1164	ཚེ་
 A9839a	Number T9839 Sing
@@ -600,7 +600,7 @@ A9840a	PronType T9840 Dem
 T9841	ADP 1167 1169	ར་
 A9841a	Case T9841 Ter
 T9842	VERB 1169 1173	སངས་
-#√9842	AnnotatorNotes T9842	[སངས་√1][སངས་√2] 
+#9842l	AnnotatorNotes T9842	[སངས་√1][སངས་√2] 
 T9843	VERB 1173 1179	རྒྱ་བ་
 A9843a	Tense T9843 Fut/Pres
 A9843b	VerbForm T9843 Vnoun
@@ -619,11 +619,11 @@ T9848	ADP 1199 1201	ར་
 A9848a	Case T9848 Ter
 T9849	VERB 1201 1204	ཞུ་
 A9849a	Tense T9849 Fut/Pres
-#√9849	AnnotatorNotes T9849	[ཞུ་√1][ཞུ་√2] 
+#9849l	AnnotatorNotes T9849	[ཞུ་√1][ཞུ་√2] 
 T9850	VERB 1204 1209	ཞུས་པ
 A9850a	Tense T9850 Past
 A9850b	VerbForm T9850 Vnoun
-#√9850	AnnotatorNotes T9850	[འཇུ་√3][ཞུ་√1] 
+#9850l	AnnotatorNotes T9850	[འཇུ་√3][ཞུ་√1] 
 T9851	ADP 1209 1210	ས
 A9851a	Case T9851 Agn
 T9852	PUNCT 1210 1211	།
@@ -673,7 +673,7 @@ A9874a	Case T9874 Ter
 T9875	VERB 1285 1291	བཏང་བ་
 A9875a	Tense T9875 Past
 A9875b	VerbForm T9875 Vnoun
-#√9875	AnnotatorNotes T9875	[གཏོང་√1][གཏོང་√2] 
+#9875l	AnnotatorNotes T9875	[གཏོང་√1][གཏོང་√2] 
 T9876	PART 1291 1294	ནི་
 T9877	AUX 1294 1297	མིན
 A9877a	Polarity T9877 Neg

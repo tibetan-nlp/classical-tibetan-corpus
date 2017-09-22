@@ -24,7 +24,7 @@ T18797	PART 42 45	མི་
 A18797a	Polarity T18797 Neg
 T18798	VERB 45 50	བཞེས་
 A18798a	Tense T18798 Fut/Pres
-#√18798	AnnotatorNotes T18798	[བཞེས་√1][བཞེས་√2] 
+#18798l	AnnotatorNotes T18798	[བཞེས་√1][བཞེས་√2] 
 T18799	VERB 50 54	རུང་
 N18799	Reference T18799 Hill:1669	རུང་
 T18800	PUNCT 54 55	།
@@ -66,7 +66,7 @@ T18819	SCONJ 150 153	ནས་
 A18819a	Case T18819 Ela
 T18820	VERB 153 159	འབྱོན་
 A18820a	Tense T18820 Fut/Pres
-#√18820	AnnotatorNotes T18820	[འབྱོན་√1][འབྱོན་√2] 
+#18820l	AnnotatorNotes T18820	[འབྱོན་√1][འབྱོན་√2] 
 T18821	SCONJ 159 164	གྱིན་
 A18821a	Case T18821 Cont
 T18822	VERB 164 168	ཡོད་
@@ -98,11 +98,11 @@ T18835	ADP 212 214	ར་
 A18835a	Case T18835 Ter
 T18836	VERB 214 217	ཞུ་
 A18836a	Tense T18836 Fut/Pres
-#√18836	AnnotatorNotes T18836	[ཞུ་√1][ཞུ་√2] 
+#18836l	AnnotatorNotes T18836	[ཞུ་√1][ཞུ་√2] 
 T18837	VERB 217 222	ཞུས་པ
 A18837a	Tense T18837 Past
 A18837b	VerbForm T18837 Vnoun
-#√18837	AnnotatorNotes T18837	[འཇུ་√3][ཞུ་√1] 
+#18837l	AnnotatorNotes T18837	[འཇུ་√3][ཞུ་√1] 
 T18838	ADP 222 223	ས
 A18838a	Case T18838 Agn
 T18839	PUNCT 223 224	།
@@ -110,7 +110,7 @@ T18841	NOUN 225 235	ཐུགས་རྒྱལ་
 A18841a	Number T18841 Sing
 T18842	VERB 235 241	བཞེངས་
 A18842a	Tense T18842 Past
-#√18842	AnnotatorNotes T18842	[བཞེང་√1][བཞེང་√2] 
+#18842l	AnnotatorNotes T18842	[བཞེང་√1][བཞེང་√2] 
 T18843	SCONJ 241 244	ཏེ་
 A18843a	Case T18843 Sem
 T18844	NOUN 244 248	ཕྱག་
@@ -205,7 +205,7 @@ T18894	DET 462 466	འགའ་
 A18894a	Number T18894 Plur
 T18895	VERB 466 470	དེད་
 A18895a	Tense T18895 Past/Pres
-#√18895	AnnotatorNotes T18895	[དེད་][འདེད་√2] 
+#18895l	AnnotatorNotes T18895	[དེད་][འདེད་√2] 
 T18896	SCONJ 470 473	ནས་
 A18896a	Case T18896 Ela
 T18897	VERB 473 479	འོང་བ་
@@ -248,7 +248,7 @@ T18914	PRON 535 538	རང་
 A18914a	Reflex T18914 Yes
 T18915	VERB 538 542	ལོག་
 A18915a	Mood T18915 Imp
-#√18915	AnnotatorNotes T18915	[ལྡོག་][ལོག་] 
+#18915l	AnnotatorNotes T18915	[ལྡོག་][ལོག་] 
 T18916	VERB 542 547	གྱིས་
 A18916a	Mood T18916 Imp
 N18916	Reference T18916 Hill:0260	བགྱིད་
@@ -270,7 +270,7 @@ A18925a	Case T18925 All
 T18926	VERB 575 580	ཞུས་པ
 A18926a	Tense T18926 Past
 A18926b	VerbForm T18926 Vnoun
-#√18926	AnnotatorNotes T18926	[འཇུ་√3][ཞུ་√1] 
+#18926l	AnnotatorNotes T18926	[འཇུ་√3][ཞུ་√1] 
 T18927	ADP 580 581	ས
 A18927a	Case T18927 Agn
 T18928	PUNCT 581 582	།
@@ -316,7 +316,7 @@ T18950	PART 660 664	ཀྱང་
 T18952	VERB 669 676	གསུང་བ་
 A18952a	Tense T18952 Fut/Pres
 A18952b	VerbForm T18952 Vnoun
-#√18952	AnnotatorNotes T18952	[གསུང་√1][གསུང་√2] 
+#18952l	AnnotatorNotes T18952	[གསུང་√1][གསུང་√2] 
 T18953	ADP 676 677	ལ
 A18953a	Case T18953 All
 T18954	PUNCT 677 678	།
@@ -358,10 +358,10 @@ T18972	ADP 746 748	ར་
 A18972a	Case T18972 Ter
 T18973	VERB 748 751	ཞུ་
 A18973a	Tense T18973 Fut/Pres
-#√18973	AnnotatorNotes T18973	[ཞུ་√1][ཞུ་√2] 
+#18973l	AnnotatorNotes T18973	[ཞུ་√1][ཞུ་√2] 
 T18974	VERB 751 755	ཞུས་
 A18974a	Tense T18974 Past
-#√18974	AnnotatorNotes T18974	[འཇུ་√3][ཞུ་√1] 
+#18974l	AnnotatorNotes T18974	[འཇུ་√3][ཞུ་√1] 
 T18975	SCONJ 755 759	རུང་
 A18975a	Case T18975 Rung
 T18976	PRON 759 761	ང་
@@ -414,7 +414,7 @@ A19001a	Number T19001 Sing
 T19002	ADJ 854 860	མང་པོ་
 T19003	VERB 860 865	བསགས་
 A19003a	Tense T19003 Past
-#√19003	AnnotatorNotes T19003	[གསོག་√1][གསོག་√3] 
+#19003l	AnnotatorNotes T19003	[གསོག་√1][གསོག་√3] 
 T19004	SCONJ 865 867	ཏེ
 A19004a	Case T19004 Sem
 T19005	PUNCT 867 868	།
@@ -463,7 +463,7 @@ T19032	DET 988 992	འདི་
 A19032a	PronType T19032 Dem
 T19033	VERB 992 998	གསུངས་
 A19033a	Tense T19033 Past
-#√19033	AnnotatorNotes T19033	[གསུང་√1][གསུང་√2] 
+#19033l	AnnotatorNotes T19033	[གསུང་√1][གསུང་√2] 
 T19034	PART 998 1000	སོ
 A19034a	Mood T19034 Ind
 T19035	PUNCT 1000 1001	།
@@ -522,7 +522,7 @@ T19072	NOUN 1121 1129	བཀྲ་ཤིས་
 A19072a	Number T19072 Sing
 T19073	VERB 1129 1132	ཤོག
 A19073a	Mood T19073 Imp
-#√19073	AnnotatorNotes T19073	[འཆགས་][འོང་][གཤེགས་] 
+#19073l	AnnotatorNotes T19073	[འཆགས་][འོང་][གཤེགས་] 
 T19074	NOUN 1132 1140	གདམས་ངག་
 A19074a	Number T19074 Sing
 T19075	ADJ 1140 1145	ཟབ་མོ
@@ -558,7 +558,7 @@ T19096	NOUN 1208 1216	བཀྲ་ཤིས་
 A19096a	Number T19096 Sing
 T19097	VERB 1216 1219	ཤོག
 A19097a	Mood T19097 Imp
-#√19097	AnnotatorNotes T19097	[འཆགས་][འོང་][གཤེགས་] 
+#19097l	AnnotatorNotes T19097	[འཆགས་][འོང་][གཤེགས་] 
 T19098	PRON 1219 1221	ང་
 A19098a	PronType T19098 Prs
 T19099	NOUN 1221 1223	ར་
@@ -591,7 +591,7 @@ T19119	NOUN 1284 1292	བཀྲ་ཤིས་
 A19119a	Number T19119 Sing
 T19120	VERB 1292 1295	ཤོག
 A19120a	Mood T19120 Imp
-#√19120	AnnotatorNotes T19120	[འཆགས་][འོང་][གཤེགས་] 
+#19120l	AnnotatorNotes T19120	[འཆགས་][འོང་][གཤེགས་] 
 T19121	NOUN 1295 1316	བླ་མ་ཡིད་དམ་མཁའ་འགྲོ་
 A19121a	Number T19121 Sing
 T19122	ADP 1316 1317	ལ

@@ -18,7 +18,7 @@ T44283	NOUN 36 44	གདམས་ངག་
 A44283a	Number T44283 Sing
 T44284	VERB 44 47	བཤད
 A44284a	Tense T44284 Fut/Past
-#√44284	AnnotatorNotes T44284	[འཆད་√2][ཤད་] 
+#44284l	AnnotatorNotes T44284	[འཆད་√2][ཤད་] 
 T44285	PUNCT 47 48	།
 T44287	PUNCT 49 50	།
 T44289	DET 51 54	དེ་
@@ -50,7 +50,7 @@ A44303a	Case T44303 Agn
 T44304	VERB 94 102	བསྐོར་བ་
 A44304a	Tense T44304 Fut
 A44304b	VerbForm T44304 Vnoun
-#√44304	AnnotatorNotes T44304	[སྐོར་√1][སྐོར་√2] 
+#44304l	AnnotatorNotes T44304	[སྐོར་√1][སྐོར་√2] 
 T44305	AUX 102 105	ཡིན
 N44305	Reference T44305 Hill:1619	ཡིན་
 T44306	PUNCT 105 106	།
@@ -73,7 +73,7 @@ A44316a	Case T44316 All
 T44317	VERB 130 135	ཟེར་བ
 A44317a	Tense T44317 Fut/Pres
 A44317b	VerbForm T44317 Vnoun
-#√44317	AnnotatorNotes T44317	[ཟེར་√1][ཟེར་√2] 
+#44317l	AnnotatorNotes T44317	[ཟེར་√1][ཟེར་√2] 
 T44318	ADP 135 138	འི་
 A44318a	Case T44318 Gen
 T44319	NOUN 138 144	བུ་མོ་
@@ -89,7 +89,7 @@ T44325	PROPN 157 167	མི་ལ་རས་པ་
 T44326	VERB 167 173	ཟེར་བ་
 A44326a	Tense T44326 Fut/Pres
 A44326b	VerbForm T44326 Vnoun
-#√44326	AnnotatorNotes T44326	[ཟེར་√1][ཟེར་√2] 
+#44326l	AnnotatorNotes T44326	[ཟེར་√1][ཟེར་√2] 
 T44327	DET 173 176	དེ་
 A44327a	PronType T44327 Dem
 T44328	AUX 176 181	ཡིན་པ
@@ -136,7 +136,7 @@ N44346	Reference T44346 Hill:0509	འཆགས་
 T44347	ADP 248 253	གྱིས་
 A44347a	Case T44347 Agn
 T44348	VERB 253 256	ཟེར
-#√44348	AnnotatorNotes T44348	[ཟེར་√1][ཟེར་√2] 
+#44348l	AnnotatorNotes T44348	[ཟེར་√1][ཟེར་√2] 
 T44349	PUNCT 256 257	།
 T44351	NOUN 258 266	སྨོན་ལམ་
 A44351a	Number T44351 Sing
@@ -188,7 +188,7 @@ T44375	NOUN 354 358	ཕྱག་
 A44375a	Number T44375 Sing
 T44376	VERB 358 362	བཙལ་
 A44376a	Tense T44376 Fut/Past
-#√44376	AnnotatorNotes T44376	[འཚལ་√1][འཚོལ་] 
+#44376l	AnnotatorNotes T44376	[འཚལ་√1][འཚོལ་] 
 T44377	VERB 362 369	བཤགས་པ་
 A44377a	VerbForm T44377 Vnoun
 N44377	Reference T44377 Hill:0509	འཆགས་
@@ -211,11 +211,11 @@ T44386	ADP 396 398	ར་
 A44386a	Case T44386 Ter
 T44387	VERB 398 401	ཞུ་
 A44387a	Tense T44387 Fut/Pres
-#√44387	AnnotatorNotes T44387	[ཞུ་√1][ཞུ་√2] 
+#44387l	AnnotatorNotes T44387	[ཞུ་√1][ཞུ་√2] 
 T44388	VERB 401 406	ཟེར་བ
 A44388a	Tense T44388 Fut/Pres
 A44388b	VerbForm T44388 Vnoun
-#√44388	AnnotatorNotes T44388	[ཟེར་√1][ཟེར་√2] 
+#44388l	AnnotatorNotes T44388	[ཟེར་√1][ཟེར་√2] 
 T44389	ADP 406 409	འི་
 A44389a	Case T44389 Gen
 T44390	NOUN 409 412	ལན་
@@ -263,7 +263,7 @@ T44417	ADP 493 496	སུ་
 A44417a	Case T44417 Ter
 T44418	VERB 496 499	བཤད
 A44418a	Tense T44418 Fut/Past
-#√44418	AnnotatorNotes T44418	[འཆད་√2][ཤད་] 
+#44418l	AnnotatorNotes T44418	[འཆད་√2][ཤད་] 
 T44419	PUNCT 499 500	།
 T44421	PUNCT 501 502	།
 T44423	DET 503 508	སྟེང་
@@ -383,7 +383,7 @@ N44497	Reference T44497 Hill:1174	བྲིན་
 T44498	VERB 751 757	བཤད་པ་
 A44498a	Tense T44498 Fut/Past
 A44498b	VerbForm T44498 Vnoun
-#√44498	AnnotatorNotes T44498	[འཆད་√2][ཤད་] 
+#44498l	AnnotatorNotes T44498	[འཆད་√2][ཤད་] 
 T44499	VERB 757 761	བྲིན
 N44499	Reference T44499 Hill:1174	བྲིན་
 T44500	PUNCT 761 762	།
@@ -520,7 +520,7 @@ A44591a	Mood T44591 Qot
 T44592	VERB 1049 1056	གསུངས་པ
 A44592a	Tense T44592 Past
 A44592b	VerbForm T44592 Vnoun
-#√44592	AnnotatorNotes T44592	[གསུང་√1][གསུང་√2] 
+#44592l	AnnotatorNotes T44592	[གསུང་√1][གསུང་√2] 
 T44593	ADP 1056 1058	ས་
 A44593a	Case T44593 Agn
 T44594	PRON 1058 1062	ཁོང་
@@ -539,7 +539,7 @@ T44599	SCONJ 1078 1081	ཏེ་
 A44599a	Case T44599 Sem
 T44600	VERB 1081 1085	སོང་
 A44600a	Tense T44600 Past
-#√44600	AnnotatorNotes T44600	[འགྲོ་][སོང་] 
+#44600l	AnnotatorNotes T44600	[འགྲོ་][སོང་] 
 T44601	PART 1085 1088	ངོ་
 A44601a	Mood T44601 Ind
 T44602	PUNCT 1088 1089	།
@@ -556,7 +556,7 @@ A44610a	Case T44610 Ter
 T44611	VERB 1107 1113	ཕྱིན་པ
 A44611a	Tense T44611 Past
 A44611b	VerbForm T44611 Vnoun
-#√44611	AnnotatorNotes T44611	[འགྲོ་][ཕྱིན་] 
+#44611l	AnnotatorNotes T44611	[འགྲོ་][ཕྱིན་] 
 T44612	ADP 1113 1114	ས
 A44612a	Case T44612 Agn
 T44613	PUNCT 1114 1115	།
@@ -616,7 +616,7 @@ A44643a	Number T44643 Plur
 T44644	VERB 1237 1243	སོང་བ་
 A44644a	Tense T44644 Past
 A44644b	VerbForm T44644 Vnoun
-#√44644	AnnotatorNotes T44644	[འགྲོ་][སོང་] 
+#44644l	AnnotatorNotes T44644	[འགྲོ་][སོང་] 
 T44645	ADP 1243 1246	དང་
 A44645a	Case T44645 Com
 T44646	PUNCT 1246 1247	།

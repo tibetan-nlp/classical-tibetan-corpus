@@ -22,7 +22,7 @@ T61958	ADP 46 48	ར་
 A61958a	Case T61958 Ter
 T61959	VERB 48 53	བརྗོད
 A61959a	Tense T61959 Fut/Past
-#√61959	AnnotatorNotes T61959	[རྗོད་√1][རྗོད་√2] 
+#61959l	AnnotatorNotes T61959	[རྗོད་√1][རྗོད་√2] 
 T61960	PUNCT 53 54	།
 T61962	PUNCT 55 56	།
 T61964	NOUN 57 66	རིག་འཛིན་
@@ -38,7 +38,7 @@ T61968	ADP 79 84	གྱིས་
 A61968a	Case T61968 Agn
 T61969	VERB 84 89	བསྐོར
 A61969a	Tense T61969 Fut/Past
-#√61969	AnnotatorNotes T61969	[སྐོར་√1][སྐོར་√2] 
+#61969l	AnnotatorNotes T61969	[སྐོར་√1][སྐོར་√2] 
 T61970	PUNCT 89 90	།
 T61972	PUNCT 91 92	།
 T61974	NOUN 93 100	དཔའ་བོ་
@@ -98,7 +98,7 @@ T62007	ADP 211 213	ས་
 A62007a	Case T62007 Agn
 T62008	VERB 213 216	ཆོག
 A62008a	Mood T62008 Imp
-#√62008	AnnotatorNotes T62008	[ཆོག་][འཇགས་√2] 
+#62008l	AnnotatorNotes T62008	[ཆོག་][འཇགས་√2] 
 T62009	PUNCT 216 217	།
 T62011	NOUN 218 224	ལྷ་མི་
 A62011a	Number T62011 Sing
@@ -181,7 +181,7 @@ T62061	ADP 382 384	ར་
 A62061a	Case T62061 Ter
 T62062	VERB 384 387	ཞོག
 A62062a	Mood T62062 Imp
-#√62062	AnnotatorNotes T62062	[འཇོག་√1][འཇོག་√2] 
+#62062l	AnnotatorNotes T62062	[འཇོག་√1][འཇོག་√2] 
 T62063	PUNCT 387 388	།
 T62065	NOUN 389 394	བླ་མ་
 A62065a	Number T62065 Sing
@@ -195,7 +195,7 @@ T62069	PUNCT 412 413	།
 T62071	PUNCT 414 415	།
 T62073	VERB 416 420	བཤད་
 A62073a	Tense T62073 Fut/Past
-#√62073	AnnotatorNotes T62073	[འཆད་√2][ཤད་] 
+#62073l	AnnotatorNotes T62073	[འཆད་√2][ཤད་] 
 T62074	NOUN 420 425	འདོད་
 A62074a	Number T62074 Sing
 N62074	Reference T62074 Hill:0892	འདོད་
@@ -240,7 +240,7 @@ T62097	NOUN 496 505	སྐུ་འཚམས་
 A62097a	Number T62097 Sing
 T62098	VERB 505 510	སྡོམས
 A62098a	Mood T62098 Imp
-#√62098	AnnotatorNotes T62098	[སྡོམ་√1][སྡོམ་√2] 
+#62098l	AnnotatorNotes T62098	[སྡོམ་√1][སྡོམ་√2] 
 T62099	PUNCT 510 511	།
 T62101	PUNCT 512 513	།
 T62103	NOUN 514 518	རྩེ་
@@ -301,7 +301,7 @@ T62135	NOUN 620 627	ཐེ་ཚོམ་
 A62135a	Number T62135 Sing
 T62136	VERB 627 630	ཆོད
 A62136a	Mood T62136 Imp
-#√62136	AnnotatorNotes T62136	[གཅོད་][ཆོད་] 
+#62136l	AnnotatorNotes T62136	[གཅོད་][ཆོད་] 
 T62137	PUNCT 630 631	།
 T62139	PUNCT 632 633	།
 T62141	NOUN 634 639	བླ་མ་
@@ -513,13 +513,13 @@ T62281	ADP 1115 1117	ར་
 A62281a	Case T62281 Ter
 T62282	VERB 1117 1120	ཤོག
 A62282a	Mood T62282 Imp
-#√62282	AnnotatorNotes T62282	[འཆགས་][འོང་][གཤེགས་] 
+#62282l	AnnotatorNotes T62282	[འཆགས་][འོང་][གཤེགས་] 
 T62283	PUNCT 1120 1121	།
 T62285	VERB 1122 1126	ཅེས་
 A62285a	Mood T62285 Qot
 T62286	VERB 1126 1132	གསུངས་
 A62286a	Tense T62286 Past
-#√62286	AnnotatorNotes T62286	[གསུང་√1][གསུང་√2] 
+#62286l	AnnotatorNotes T62286	[གསུང་√1][གསུང་√2] 
 T62287	VERB 1132 1138	བྱུང་བ
 A62287a	Tense T62287 Past
 A62287b	VerbForm T62287 Vnoun
@@ -565,7 +565,7 @@ N62310	Reference T62310 Hill:1677	རེག་
 T62311	VERB 1215 1222	གསུང་བ་
 A62311a	Tense T62311 Fut/Pres
 A62311b	VerbForm T62311 Vnoun
-#√62311	AnnotatorNotes T62311	[གསུང་√1][གསུང་√2] 
+#62311l	AnnotatorNotes T62311	[གསུང་√1][གསུང་√2] 
 T62312	DET 1222 1225	དེ་
 A62312a	PronType T62312 Dem
 T62313	ADP 1225 1228	དང་

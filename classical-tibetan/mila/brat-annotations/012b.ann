@@ -14,7 +14,7 @@ A1055a	Polarity T1055 Neg
 T1056	VERB 23 29	བཅུག་པ
 A1056a	Tense T1056 Past
 A1056b	VerbForm T1056 Vnoun
-#√1056	AnnotatorNotes T1056	[འཇུག་√2][གཞུག་] 
+#1056l	AnnotatorNotes T1056	[འཇུག་√2][གཞུག་] 
 T1057	ADP 29 31	ར་
 A1057a	Case T1057 Ter
 T1058	NOUN 31 33	མི
@@ -127,7 +127,7 @@ N1111	Reference T1111 Hill:1329	མྱོང་√2
 T1112	VERB 255 262	གསུངས་པ
 A1112a	Tense T1112 Past
 A1112b	VerbForm T1112 Vnoun
-#√1112	AnnotatorNotes T1112	[གསུང་√1][གསུང་√2] 
+#1112l	AnnotatorNotes T1112	[གསུང་√1][གསུང་√2] 
 T1113	ADP 262 263	ས
 A1113a	Case T1113 Agn
 T1114	PUNCT 263 264	།
@@ -197,7 +197,7 @@ T1145	ADP 406 409	སུ་
 A1145a	Case T1145 Ter
 T1146	VERB 409 415	བཞེས་པ
 A1146a	VerbForm T1146 Vnoun
-#√1146	AnnotatorNotes T1146	[བཞེས་√1][བཞེས་√2] 
+#1146l	AnnotatorNotes T1146	[བཞེས་√1][བཞེས་√2] 
 T1147	ADP 415 418	འི་
 A1147a	Case T1147 Gen
 T1148	VERB 418 424	མཛད་པ་
@@ -240,7 +240,7 @@ N1174	Reference T1174 Hill:1465	མཛད་
 T1175	VERB 512 519	གསུང་པ་
 A1175a	Tense T1175 Fut/Pres
 A1175b	VerbForm T1175 Vnoun
-#√1175	AnnotatorNotes T1175	[གསུང་√1][གསུང་√2] 
+#1175l	AnnotatorNotes T1175	[གསུང་√1][གསུང་√2] 
 T1176	PRON 519 522	ཅི་
 A1176a	PronType T1176 Int
 T1177	NOUN 522 528	ལྟ་བུ་
@@ -252,7 +252,7 @@ N1179	Reference T1179 Hill:1465	མཛད་
 T1180	VERB 536 541	ཞུས་པ
 A1180a	Tense T1180 Past
 A1180b	VerbForm T1180 Vnoun
-#√1180	AnnotatorNotes T1180	[འཇུ་√3][ཞུ་√1] 
+#1180l	AnnotatorNotes T1180	[འཇུ་√3][ཞུ་√1] 
 T1181	ADP 541 542	ས
 A1181a	Case T1181 Agn
 T1182	PUNCT 542 543	།
@@ -273,7 +273,7 @@ A1189a	Case T1189 Agn
 T1190	VERB 566 573	བསགས་པ་
 A1190a	Tense T1190 Past
 A1190b	VerbForm T1190 Vnoun
-#√1190	AnnotatorNotes T1190	[གསོག་√1][གསོག་√3] 
+#1190l	AnnotatorNotes T1190	[གསོག་√1][གསོག་√3] 
 T1191	AUX 573 577	ཡིན་
 N1191	Reference T1191 Hill:1619	ཡིན་
 T1192	VERB 577 582	གསུང་
@@ -317,7 +317,7 @@ N1209	Reference T1209 Hill:1243	འབྱུང་
 T1210	VERB 653 658	ཞུས་པ
 A1210a	Tense T1210 Past
 A1210b	VerbForm T1210 Vnoun
-#√1210	AnnotatorNotes T1210	[འཇུ་√3][ཞུ་√1] 
+#1210l	AnnotatorNotes T1210	[འཇུ་√3][ཞུ་√1] 
 T1211	ADP 658 659	ས
 A1211a	Case T1211 Agn
 T1212	PUNCT 659 660	།
@@ -384,7 +384,7 @@ A1243a	Case T1243 Agn
 T1244	PART 795 799	ཀྱང་
 T1245	VERB 799 803	ཕྱིན
 A1245a	Tense T1245 Past
-#√1245	AnnotatorNotes T1245	[འགྲོ་][ཕྱིན་] 
+#1245l	AnnotatorNotes T1245	[འགྲོ་][ཕྱིན་] 
 T1246	PUNCT 803 804	།
 T1248	DET 805 807	དེ
 A1248a	PronType T1248 Dem
@@ -425,7 +425,7 @@ A1263a	Case T1263 Ela
 T1264	VERB 872 879	བཏུངས་པ
 A1264a	Tense T1264 Past
 A1264b	VerbForm T1264 Vnoun
-#√1264	AnnotatorNotes T1264	[བཏུངས་][འཐུང་] 
+#1264l	AnnotatorNotes T1264	[བཏུངས་][འཐུང་] 
 T1265	ADP 879 881	ས་
 A1265a	Case T1265 Agn
 T1266	ADJ 881 886	ཟི་བེ
@@ -433,7 +433,7 @@ T1267	ADP 886 888	ར་
 A1267a	Case T1267 Ter
 T1268	VERB 888 892	སོང་
 A1268a	Tense T1268 Past
-#√1268	AnnotatorNotes T1268	[འགྲོ་][སོང་] 
+#1268l	AnnotatorNotes T1268	[འགྲོ་][སོང་] 
 T1269	VERB 892 898	ཡོད་པ་
 A1269a	VerbForm T1269 Vnoun
 N1269	Reference T1269 Hill:1632	ཡོད་
@@ -596,7 +596,7 @@ T1347	NOUN 1180 1184	ཡོས་
 A1347a	Number T1347 Sing
 T1348	VERB 1184 1189	རྔོད་
 A1348a	Tense T1348 Pres
-#√1348	AnnotatorNotes T1348	[རྔོད་√1][རྔོད་√2] 
+#1348l	AnnotatorNotes T1348	[རྔོད་√1][རྔོད་√2] 
 T1349	SCONJ 1189 1194	ཀྱིན་
 A1349a	Case T1349 Cont
 T1350	VERB 1194 1199	ཡོད་པ
@@ -613,7 +613,7 @@ T1354	PUNCT 1207 1208	།
 T1356	PRON 1209 1212	ཅི་
 A1356a	PronType T1356 Int
 T1357	VERB 1212 1216	ཟེར་
-#√1357	AnnotatorNotes T1357	[ཟེར་√1][ཟེར་√2] 
+#1357l	AnnotatorNotes T1357	[ཟེར་√1][ཟེར་√2] 
 T1358	NOUN 1216 1220	སྐད་
 A1358a	Number T1358 Sing
 N1358	Reference T1358 Hill:0039	སྐད་
@@ -679,7 +679,7 @@ A1388a	Polarity T1388 Neg
 T1389	VERB 1316 1321	ཆེས་པ
 A1389a	Tense T1389 Past
 A1389b	VerbForm T1389 Vnoun
-#√1389	AnnotatorNotes T1389	[ཆེ་][ཆེས་][འཆེ་] 
+#1389l	AnnotatorNotes T1389	[ཆེ་][ཆེས་][འཆེ་] 
 T1390	ADP 1321 1323	ར་
 A1390a	Case T1390 Ter
 T1391	VERB 1323 1329	བལྟས་པ
@@ -716,5 +716,5 @@ T1407	ADP 1367 1370	སུ་
 A1407a	Case T1407 Ter
 T1408	VERB 1370 1373	བོར
 A1408a	Tense T1408 Past
-#√1408	AnnotatorNotes T1408	[བོར་][འབོར་] 
+#1408l	AnnotatorNotes T1408	[བོར་][འབོར་] 
 T1409	PUNCT 1373 1374	།

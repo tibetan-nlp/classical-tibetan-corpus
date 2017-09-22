@@ -32,7 +32,7 @@ T62648	PART 62 64	མ་
 A62648a	Polarity T62648 Neg
 T62649	VERB 64 69	ཕྱིན་
 A62649a	Tense T62649 Past
-#√62649	AnnotatorNotes T62649	[འགྲོ་][ཕྱིན་] 
+#62649l	AnnotatorNotes T62649	[འགྲོ་][ཕྱིན་] 
 T62650	SCONJ 69 70	ན
 A62650a	Case T62650 Loc
 T62651	PUNCT 70 71	།
@@ -73,13 +73,13 @@ T62668	PRON 134 137	རང་
 A62668a	PronType T62668 Prs
 T62669	VERB 137 141	སོང་
 A62669a	Mood T62669 Imp
-#√62669	AnnotatorNotes T62669	[འགྲོ་][སོང་] 
+#62669l	AnnotatorNotes T62669	[འགྲོ་][སོང་] 
 T62670	PART 141 145	ཞིག་
 A62670a	Mood T62670 Imp
 T62671	VERB 145 151	ཟེར་བ་
 A62671a	Tense T62671 Fut/Pres
 A62671b	VerbForm T62671 Vnoun
-#√62671	AnnotatorNotes T62671	[ཟེར་√1][ཟེར་√2] 
+#62671l	AnnotatorNotes T62671	[ཟེར་√1][ཟེར་√2] 
 T62672	ADP 151 154	དང་
 A62672a	Case T62672 Com
 T62673	PUNCT 154 155	།
@@ -117,7 +117,7 @@ T62690	PRON 218 221	རང་
 A62690a	PronType T62690 Prs
 T62691	VERB 221 225	སོང་
 A62691a	Tense T62691 Past
-#√62691	AnnotatorNotes T62691	[འགྲོ་][སོང་] 
+#62691l	AnnotatorNotes T62691	[འགྲོ་][སོང་] 
 T62692	SCONJ 225 228	སྟེ
 A62692a	Case T62692 Sem
 T62693	PUNCT 228 229	།
@@ -134,7 +134,7 @@ T62699	VERB 243 247	སྙམ་
 N62699	Reference T62699 Hill:0640	སྙམ་
 T62700	VERB 247 253	བཞེངས་
 A62700a	Tense T62700 Past
-#√62700	AnnotatorNotes T62700	[བཞེང་√1][བཞེང་√2] 
+#62700l	AnnotatorNotes T62700	[བཞེང་√1][བཞེང་√2] 
 T62701	SCONJ 253 256	ཏེ་
 A62701a	Case T62701 Sem
 T62702	VERB 256 262	བྱོན་པ
@@ -193,7 +193,7 @@ T62733	DET 395 399	ཅིག་
 A62733a	PronType T62733 Ind
 T62734	VERB 399 404	བཟུང་
 A62734a	Tense T62734 Past
-#√62734	AnnotatorNotes T62734	[འཛིན་][གཟུང་] 
+#62734l	AnnotatorNotes T62734	[འཛིན་][གཟུང་] 
 T62735	SCONJ 404 408	སྟེ་
 A62735a	Case T62735 Sem
 T62736	NOUN 408 413	བླ་མ་
@@ -402,7 +402,7 @@ A62835a	Polarity T62835 Neg
 A62835b	VerbForm T62835 Vnoun
 T62836	VERB 826 833	ཐོགས་པ་
 A62836a	VerbForm T62836 Vnoun
-#√62836	AnnotatorNotes T62836	[ཐོགས་√1][ཐོགས་√2] 
+#62836l	AnnotatorNotes T62836	[ཐོགས་√1][ཐོགས་√2] 
 T62837	DET 833 836	དེ་
 A62837a	PronType T62837 Dem
 T62838	DET 836 841	རྣམས་
@@ -424,7 +424,7 @@ A62845a	Number T62845 Sing
 T62846	VERB 876 882	འཚལ་བ་
 A62846a	Tense T62846 Fut/Pres
 A62846b	VerbForm T62846 Vnoun
-#√62846	AnnotatorNotes T62846	[འཚལ་√1][འཚལ་√2] 
+#62846l	AnnotatorNotes T62846	[འཚལ་√1][འཚལ་√2] 
 T62847	ADP 882 885	དང་
 A62847a	Case T62847 Com
 T62848	PUNCT 885 886	།
@@ -459,7 +459,7 @@ T62863	NOUN 952 959	ཐེ་ཚོམ་
 A62863a	Number T62863 Sing
 T62864	VERB 959 963	ཟོས་
 A62864a	Tense T62864 Past
-#√62864	AnnotatorNotes T62864	[འཛའ་][ཟ་√2][ཟ་√3] 
+#62864l	AnnotatorNotes T62864	[འཛའ་][ཟ་√2][ཟ་√3] 
 T62865	SCONJ 963 965	ཏེ
 A62865a	Case T62865 Sem
 T62866	PUNCT 965 966	།
@@ -508,7 +508,7 @@ N62888	Reference T62888 Hill:1619	ཡིན་
 T62889	VERB 1051 1058	གསུངས་པ
 A62889a	Tense T62889 Past
 A62889b	VerbForm T62889 Vnoun
-#√62889	AnnotatorNotes T62889	[གསུང་√1][གསུང་√2] 
+#62889l	AnnotatorNotes T62889	[གསུང་√1][གསུང་√2] 
 T62890	ADP 1058 1059	ས
 A62890a	Case T62890 Agn
 T62891	PUNCT 1059 1060	།

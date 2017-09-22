@@ -14,7 +14,7 @@ T14806	DET 24 28	ཅིག་
 A14806a	PronType T14806 Ind
 T14807	VERB 28 33	བརྡབས
 A14807a	Tense T14807 Past
-#√14807	AnnotatorNotes T14807	[རྡེབ་][བརྡབ་] 
+#14807l	AnnotatorNotes T14807	[རྡེབ་][བརྡབ་] 
 T14808	PUNCT 33 34	།
 T14810	NOUN 35 43	གན་རྐྱལ་
 A14810a	Number T14810 Sing
@@ -25,7 +25,7 @@ A14812a	Number T14812 Sing
 T14813	VERB 49 55	ལངས་པ་
 A14813a	Tense T14813 Past
 A14813b	VerbForm T14813 Vnoun
-#√14813	AnnotatorNotes T14813	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
+#14813l	AnnotatorNotes T14813	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
 T14814	VERB 55 61	འདྲ་བ་
 A14814a	VerbForm T14814 Vnoun
 N14814	Reference T14814 Hill:0898	འདྲ་√2
@@ -33,13 +33,13 @@ T14815	DET 61 65	ཅིག་
 A14815a	PronType T14815 Ind
 T14816	VERB 65 71	བརྡབས་
 A14816a	Tense T14816 Past
-#√14816	AnnotatorNotes T14816	[རྡེབ་][བརྡབ་] 
+#14816l	AnnotatorNotes T14816	[རྡེབ་][བརྡབ་] 
 T14817	SCONJ 71 74	ནས་
 A14817a	Case T14817 Ela
 T14818	NOUN 74 84	ཕྱག་དབྱུག་
 A14818a	Number T14818 Sing
 T14819	VERB 84 89	བཞེས་
-#√14819	AnnotatorNotes T14819	[བཞེས་√1][བཞེས་√2] 
+#14819l	AnnotatorNotes T14819	[བཞེས་√1][བཞེས་√2] 
 T14820	VERB 89 95	བྱུང་བ
 A14820a	Tense T14820 Past
 A14820b	VerbForm T14820 Vnoun
@@ -51,7 +51,7 @@ A14824a	Case T14824 Agn
 T14825	VERB 106 112	བཟུང་བ
 A14825a	Tense T14825 Past
 A14825b	VerbForm T14825 Vnoun
-#√14825	AnnotatorNotes T14825	[འཛིན་][གཟུང་] 
+#14825l	AnnotatorNotes T14825	[འཛིན་][གཟུང་] 
 T14826	ADP 112 115	འི་
 A14826a	Case T14826 Gen
 T14827	NOUN 115 118	བར་
@@ -79,7 +79,7 @@ A14836a	Tense T14836 Past
 T14837	VERB 163 169	ཕྱིན་པ
 A14837a	Tense T14837 Past
 A14837b	VerbForm T14837 Vnoun
-#√14837	AnnotatorNotes T14837	[འགྲོ་][ཕྱིན་] 
+#14837l	AnnotatorNotes T14837	[འགྲོ་][ཕྱིན་] 
 T14838	ADP 169 170	ས
 A14838a	Case T14838 Agn
 T14839	PUNCT 170 171	།
@@ -100,7 +100,7 @@ A14847a	Number T14847 Sing
 T14848	VERB 210 218	བཞེངས་པ་
 A14848a	Tense T14848 Past
 A14848b	VerbForm T14848 Vnoun
-#√14848	AnnotatorNotes T14848	[བཞེང་√1][བཞེང་√2] 
+#14848l	AnnotatorNotes T14848	[བཞེང་√1][བཞེང་√2] 
 T14849	NOUN 218 220	ལྟ
 A14849a	NounType T14849 Rel
 T14850	ADP 220 222	ར་
@@ -212,7 +212,7 @@ T14904	NOUN 410 414	ཆོས་
 A14904a	Number T14904 Sing
 T14905	VERB 414 417	ཞུ་
 A14905a	Tense T14905 Fut/Pres
-#√14905	AnnotatorNotes T14905	[ཞུ་√1][ཞུ་√2] 
+#14905l	AnnotatorNotes T14905	[ཞུ་√1][ཞུ་√2] 
 T14906	SCONJ 417 421	རུང་
 A14906a	Case T14906 Rung
 T14907	PRON 421 422	ང
@@ -252,7 +252,7 @@ A14921a	Number T14921 Sing
 N14921	Reference T14921 Hill:1793	སེམས་
 T14922	VERB 495 499	གསོ་
 A14922a	Tense T14922 Fut/Pres
-#√14922	AnnotatorNotes T14922	[གསོ་√1][གསོ་√2] 
+#14922l	AnnotatorNotes T14922	[གསོ་√1][གསོ་√2] 
 T14923	VERB 499 502	མཛད
 N14923	Reference T14923 Hill:1465	མཛད་
 T14924	PUNCT 502 503	།
@@ -336,7 +336,7 @@ T14963	ADP 634 637	དུ་
 A14963a	Case T14963 Ter
 T14964	VERB 637 641	ཤོག་
 A14964a	Mood T14964 Imp
-#√14964	AnnotatorNotes T14964	[འཆགས་][འོང་][གཤེགས་] 
+#14964l	AnnotatorNotes T14964	[འཆགས་][འོང་][གཤེགས་] 
 T14965	VERB 641 646	གསུང་
 T14966	PUNCT 646 647	།
 T14968	NOUN 648 652	ཆོས་
@@ -353,7 +353,7 @@ N14972	Reference T14972 Hill:0640	སྙམ་
 T14973	VERB 669 675	ཕྱིན་པ
 A14973a	Tense T14973 Past
 A14973b	VerbForm T14973 Vnoun
-#√14973	AnnotatorNotes T14973	[འགྲོ་][ཕྱིན་] 
+#14973l	AnnotatorNotes T14973	[འགྲོ་][ཕྱིན་] 
 T14974	ADP 675 676	ས
 A14974a	Case T14974 Agn
 T14975	PUNCT 676 677	།
@@ -439,7 +439,7 @@ N15015	Reference T15015 Hill:1243	འབྱུང་
 T15016	AUX 826 830	ལགས་
 T15017	VERB 830 834	ཞུས་
 A15017a	Tense T15017 Past
-#√15017	AnnotatorNotes T15017	[འཇུ་√3][ཞུ་√1] 
+#15017l	AnnotatorNotes T15017	[འཇུ་√3][ཞུ་√1] 
 T15018	SCONJ 834 837	ནས་
 A15018a	Case T15018 Ela
 T15019	VERB 837 842	ངུས་པ
@@ -480,7 +480,7 @@ T15037	ADP 885 887	ར་
 A15037a	Case T15037 Ter
 T15038	VERB 887 891	སོང་
 A15038a	Mood T15038 Imp
-#√15038	AnnotatorNotes T15038	[འགྲོ་][སོང་] 
+#15038l	AnnotatorNotes T15038	[འགྲོ་][སོང་] 
 T15039	VERB 891 896	གསུང་
 T15040	PUNCT 896 897	།
 T15042	DET 898 901	ཕྱི
@@ -492,7 +492,7 @@ A15044a	Tense T15044 Fut/Past
 N15044	Reference T15044 Hill:0814	འཐོན་√1
 T15045	VERB 907 912	ཕྱིན་
 A15045a	Tense T15045 Past
-#√15045	AnnotatorNotes T15045	[འགྲོ་][ཕྱིན་] 
+#15045l	AnnotatorNotes T15045	[འགྲོ་][ཕྱིན་] 
 T15046	SCONJ 912 914	ཏེ
 A15046a	Case T15046 Sem
 T15047	PUNCT 914 915	།
@@ -644,7 +644,7 @@ T15120	ADP 1188 1191	དུ་
 A15120a	Case T15120 Ter
 T15121	VERB 1191 1196	ཕྱིན་
 A15121a	Tense T15121 Past
-#√15121	AnnotatorNotes T15121	[འགྲོ་][ཕྱིན་] 
+#15121l	AnnotatorNotes T15121	[འགྲོ་][ཕྱིན་] 
 T15122	SCONJ 1196 1200	རུང་
 A15122a	Case T15122 Rung
 T15123	VERB 1200 1205	འབུལ་

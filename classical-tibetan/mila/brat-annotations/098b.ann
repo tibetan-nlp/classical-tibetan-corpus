@@ -3,7 +3,7 @@ T62328	PART 9 12	ཨེ་
 A62328a	Polarity T62328 Neg
 T62329	VERB 12 18	འབྱོན་
 A62329a	Tense T62329 Fut/Pres
-#√62329	AnnotatorNotes T62329	[འབྱོན་√1][འབྱོན་√2] 
+#62329l	AnnotatorNotes T62329	[འབྱོན་√1][འབྱོན་√2] 
 T62330	PART 18 21	མི་
 A62330a	Polarity T62330 Neg
 T62331	VERB 21 26	ཤེས་པ
@@ -15,7 +15,7 @@ T62333	NOUN 29 33	པུར་
 A62333a	Number T62333 Sing
 T62334	VERB 33 37	བཞག་
 A62334a	Tense T62334 Past
-#√62334	AnnotatorNotes T62334	[འཇོག་√1][བཞག་] 
+#62334l	AnnotatorNotes T62334	[འཇོག་√1][བཞག་] 
 T62335	SCONJ 37 41	རུང་
 A62335a	Case T62335 Rung
 T62336	NOUN 41 50	དངོས་མེད་
@@ -31,7 +31,7 @@ A62339a	Case T62339 Ter
 T62340	VERB 60 65	འདུག་
 N62340	Reference T62340 Hill:0875	འདུག་
 T62341	VERB 65 68	ཟེར
-#√62341	AnnotatorNotes T62341	[ཟེར་√1][ཟེར་√2] 
+#62341l	AnnotatorNotes T62341	[ཟེར་√1][ཟེར་√2] 
 T62342	PUNCT 68 69	།
 T62344	PROPN 70 84	རས་པ་ཞི་བ་འོད་
 T62345	ADP 84 88	ན་རེ
@@ -71,7 +71,7 @@ T62364	VERB 176 181	ཕེབས་
 N62364	Reference T62364 Hill:1086	ཕེབས་
 T62365	VERB 181 187	འབྱོན་
 A62365a	Tense T62365 Fut/Pres
-#√62365	AnnotatorNotes T62365	[འབྱོན་√1][འབྱོན་√2] 
+#62365l	AnnotatorNotes T62365	[འབྱོན་√1][འབྱོན་√2] 
 T62366	NOUN 187 190	ཐག་
 A62366a	Number T62366 Sing
 T62367	VERB 190 193	ཆོད
@@ -93,7 +93,7 @@ T62375	VERB 219 223	ཐོབ་
 T62376	VERB 223 229	ཟེར་བ་
 A62376a	Tense T62376 Fut/Pres
 A62376b	VerbForm T62376 Vnoun
-#√62376	AnnotatorNotes T62376	[ཟེར་√1][ཟེར་√2] 
+#62376l	AnnotatorNotes T62376	[ཟེར་√1][ཟེར་√2] 
 T62377	NOUN 229 231	ལྟ
 A62377a	NounType T62377 Rel
 T62378	ADP 231 233	ར་
@@ -181,7 +181,7 @@ T62422	ADP 414 419	ཀྱིས་
 A62422a	Case T62422 Agn
 T62423	VERB 419 424	བཏེག་
 A62423a	Tense T62423 Past
-#√62423	AnnotatorNotes T62423	[ཐེག་√2][འདེགས་] 
+#62423l	AnnotatorNotes T62423	[ཐེག་√2][འདེགས་] 
 T62424	SCONJ 424 427	ནས་
 A62424a	Case T62424 Ela
 T62425	NOUN 427 435	ཞིང་ཁམས་
@@ -337,7 +337,7 @@ T62503	PRON 762 767	ཁྱོད་
 A62503a	PronType T62503 Prs
 T62504	VERB 767 771	ཤོག་
 A62504a	Mood T62504 Imp
-#√62504	AnnotatorNotes T62504	[འཆགས་][འོང་][གཤེགས་] 
+#62504l	AnnotatorNotes T62504	[འཆགས་][འོང་][གཤེགས་] 
 T62505	VERB 771 776	བྱས་པ
 A62505a	Tense T62505 Past
 A62505b	VerbForm T62505 Vnoun
@@ -488,7 +488,7 @@ A62577a	Number T62577 Sing
 N62577	Reference T62577 Hill:1005	མནལ་
 T62578	VERB 1047 1052	སད་པ་
 A62578a	VerbForm T62578 Vnoun
-#√62578	AnnotatorNotes T62578	[སད་√1][སད་√2] 
+#62578l	AnnotatorNotes T62578	[སད་√1][སད་√2] 
 T62579	ADP 1052 1055	དང་
 A62579a	Case T62579 Com
 T62580	PUNCT 1055 1056	།

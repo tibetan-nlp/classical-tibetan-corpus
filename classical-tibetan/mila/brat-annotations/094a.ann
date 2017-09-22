@@ -14,7 +14,7 @@ A59316a	Case T59316 All
 T59317	VERB 24 31	ཕྱིན་པ་
 A59317a	Tense T59317 Past
 A59317b	VerbForm T59317 Vnoun
-#√59317	AnnotatorNotes T59317	[འགྲོ་][ཕྱིན་] 
+#59317l	AnnotatorNotes T59317	[འགྲོ་][ཕྱིན་] 
 T59318	DET 31 36	རྣམས་
 A59318a	Number T59318 Plur
 T59319	ADP 36 40	ན་རེ
@@ -34,7 +34,7 @@ N59327	Reference T59327 Hill:1086	ཕེབས་
 T59328	VERB 71 76	འདུག་
 N59328	Reference T59328 Hill:0875	འདུག་
 T59329	VERB 76 79	ཟེར
-#√59329	AnnotatorNotes T59329	[ཟེར་√1][ཟེར་√2] 
+#59329l	AnnotatorNotes T59329	[ཟེར་√1][ཟེར་√2] 
 T59330	PUNCT 79 80	།
 T59332	VERB 81 89	བགྲེས་པ་
 A59332a	VerbForm T59332 Vnoun
@@ -60,7 +60,7 @@ A59342a	Case T59342 Ela
 T59343	VERB 134 139	ཕེབས་
 N59343	Reference T59343 Hill:1086	ཕེབས་
 T59344	VERB 139 142	ཟེར
-#√59344	AnnotatorNotes T59344	[ཟེར་√1][ཟེར་√2] 
+#59344l	AnnotatorNotes T59344	[ཟེར་√1][ཟེར་√2] 
 T59345	PUNCT 142 143	།
 T59347	ADV 144 148	ཕྱི་
 A59347a	AdvType T59347 Tim
@@ -91,7 +91,7 @@ A59358b	VerbForm T59358 Vnoun
 T59359	AUX 208 212	ཡིན་
 N59359	Reference T59359 Hill:1619	ཡིན་
 T59360	VERB 212 215	ཟེར
-#√59360	AnnotatorNotes T59360	[ཟེར་√1][ཟེར་√2] 
+#59360l	AnnotatorNotes T59360	[ཟེར་√1][ཟེར་√2] 
 T59361	PUNCT 215 216	།
 T59363	PRON 217 219	ཁ་
 A59363a	PronType T59363 Ind
@@ -107,7 +107,7 @@ A59369a	Case T59369 Loc
 T59370	VERB 240 246	བཞུགས་
 N59370	Reference T59370 Hill:1549	བཞུགས་
 T59371	VERB 246 249	ཟེར
-#√59371	AnnotatorNotes T59371	[ཟེར་√1][ཟེར་√2] 
+#59371l	AnnotatorNotes T59371	[ཟེར་√1][ཟེར་√2] 
 T59372	PUNCT 249 250	།
 T59374	NOUN 251 258	ཆོས་ཉན་
 A59374a	Number T59374 Sing
@@ -133,13 +133,13 @@ A59386a	Case T59386 Impf
 T59387	VERB 302 308	བཞུགས་
 N59387	Reference T59387 Hill:1549	བཞུགས་
 T59388	VERB 308 311	ཟེར
-#√59388	AnnotatorNotes T59388	[ཟེར་√1][ཟེར་√2] 
+#59388l	AnnotatorNotes T59388	[ཟེར་√1][ཟེར་√2] 
 T59389	PUNCT 311 312	།
 T59391	NOUN 313 325	བསྙེན་བསྐུར་
 A59391a	Number T59391 Sing
 T59392	VERB 325 328	ཞུ་
 A59392a	Tense T59392 Past
-#√59392	AnnotatorNotes T59392	[འཇུ་√2][ཞུ་√2] 
+#59392l	AnnotatorNotes T59392	[འཇུ་√2][ཞུ་√2] 
 T59393	NOUN 328 331	མི་
 A59393a	Number T59393 Sing
 T59394	DET 331 336	རྣམས་
@@ -177,7 +177,7 @@ N59410	Reference T59410 Hill:0916	འདྲེན་
 T59411	VERB 402 406	ཡོད་
 N59411	Reference T59411 Hill:1632	ཡོད་
 T59412	VERB 406 409	ཟེར
-#√59412	AnnotatorNotes T59412	[ཟེར་√1][ཟེར་√2] 
+#59412l	AnnotatorNotes T59412	[ཟེར་√1][ཟེར་√2] 
 T59413	PUNCT 409 410	།
 T59415	DET 411 415	ཀུན་
 A59415a	Number T59415 Plur
@@ -207,7 +207,7 @@ A59428a	Case T59428 All
 T59429	VERB 457 462	ཞུས་པ
 A59429a	Tense T59429 Past
 A59429b	VerbForm T59429 Vnoun
-#√59429	AnnotatorNotes T59429	[འཇུ་√3][ཞུ་√1] 
+#59429l	AnnotatorNotes T59429	[འཇུ་√3][ཞུ་√1] 
 T59430	ADP 462 463	ས
 A59430a	Case T59430 Agn
 T59431	PUNCT 463 464	།
@@ -324,7 +324,7 @@ A59493a	Case T59493 Ter
 T59494	VERB 718 725	འབྱོན་པ
 A59494a	Tense T59494 Pres
 A59494b	VerbForm T59494 Vnoun
-#√59494	AnnotatorNotes T59494	[འབྱོན་√1][འབྱོན་√2] 
+#59494l	AnnotatorNotes T59494	[འབྱོན་√1][འབྱོན་√2] 
 T59495	ADP 725 727	ར་
 A59495a	Case T59495 Ter
 T59496	DET 727 731	ཀུན་
@@ -359,7 +359,7 @@ A59515a	Case T59515 Ter
 T59516	VERB 825 832	འབྱོན་པ
 A59516a	Tense T59516 Pres
 A59516b	VerbForm T59516 Vnoun
-#√59516	AnnotatorNotes T59516	[འབྱོན་√1][འབྱོན་√2] 
+#59516l	AnnotatorNotes T59516	[འབྱོན་√1][འབྱོན་√2] 
 T59517	ADP 832 835	འི་
 A59517a	Case T59517 Gen
 T59518	NOUN 835 845	ཐུགས་འདུན་
@@ -402,7 +402,7 @@ N59538	Reference T59538 Hill:1632	ཡོད་
 T59539	VERB 915 922	གསུང་བ་
 A59539a	Tense T59539 Fut/Pres
 A59539b	VerbForm T59539 Vnoun
-#√59539	AnnotatorNotes T59539	[གསུང་√1][གསུང་√2] 
+#59539l	AnnotatorNotes T59539	[གསུང་√1][གསུང་√2] 
 T59540	DET 922 925	དེ་
 A59540a	PronType T59540 Dem
 T59541	PRON 925 928	གང་
@@ -436,11 +436,11 @@ T59556	ADP 988 990	ར་
 A59556a	Case T59556 Ter
 T59557	VERB 990 993	ཞུ་
 A59557a	Tense T59557 Fut/Pres
-#√59557	AnnotatorNotes T59557	[ཞུ་√1][ཞུ་√2] 
+#59557l	AnnotatorNotes T59557	[ཞུ་√1][ཞུ་√2] 
 T59558	VERB 993 998	ཞུས་པ
 A59558a	Tense T59558 Past
 A59558b	VerbForm T59558 Vnoun
-#√59558	AnnotatorNotes T59558	[འཇུ་√3][ཞུ་√1] 
+#59558l	AnnotatorNotes T59558	[འཇུ་√3][ཞུ་√1] 
 T59559	ADP 998 999	ས
 A59559a	Case T59559 Agn
 T59560	PUNCT 999 1000	།

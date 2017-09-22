@@ -94,7 +94,7 @@ A64001b	VerbForm T64001 Vnoun
 N64001	Reference T64001 Hill:1168	བྱེད་
 T64002	VERB 208 212	ཐོང་
 A64002a	Mood T64002 Imp
-#√64002	AnnotatorNotes T64002	[གཏོང་√1][གཏོང་√2] 
+#64002l	AnnotatorNotes T64002	[གཏོང་√1][གཏོང་√2] 
 T64003	PART 212 216	ཤིག་
 A64003a	Mood T64003 Imp
 T64004	PROPN 216 224	རས་ཆུང་པ
@@ -161,7 +161,7 @@ T64048	NOUN 366 372	གདར་ཤ་
 A64048a	Number T64048 Sing
 T64049	VERB 372 376	ཆོད་
 A64049a	Mood T64049 Imp
-#√64049	AnnotatorNotes T64049	[གཅོད་][ཆོད་] 
+#64049l	AnnotatorNotes T64049	[གཅོད་][ཆོད་] 
 T64050	PART 376 380	ཅིག་
 A64050a	Mood T64050 Imp
 T64051	PROPN 380 388	རས་ཆུང་པ
@@ -206,7 +206,7 @@ A64078a	Tense T64078 Fut/Pres
 N64078	Reference T64078 Hill:0319	འགྲིམ་
 T64079	VERB 476 482	འགྲིམ་
 A64079a	Tense T64079 Pres
-#√64079	AnnotatorNotes T64079	[གྲིམ་][འགྲིམ་][འབྲིམ་] 
+#64079l	AnnotatorNotes T64079	[གྲིམ་][འགྲིམ་][འབྲིམ་] 
 T64080	SCONJ 482 484	ནས
 A64080a	Case T64080 Ela
 T64081	PUNCT 484 485	།
@@ -231,7 +231,7 @@ T64097	VERB 533 539	བཙན་ས་
 A64097a	VerbForm T64097 Vnoun
 T64098	VERB 539 544	ཟུངས་
 A64098a	Mood T64098 Imp
-#√64098	AnnotatorNotes T64098	[འཛིན་][གཟུང་] 
+#64098l	AnnotatorNotes T64098	[འཛིན་][གཟུང་] 
 T64099	PART 544 548	ཞིག་
 A64099a	Mood T64099 Imp
 T64100	PROPN 548 556	རས་ཆུང་པ
@@ -479,7 +479,7 @@ A64261b	VerbForm T64261 Vnoun
 N64261	Reference T64261 Hill:1869	གསོལ་
 T64262	VERB 1092 1095	ཐོབ
 A64262a	Mood T64262 Imp
-#√64262	AnnotatorNotes T64262	[སྟོབ་][འཐོབ་][འདེབས་] 
+#64262l	AnnotatorNotes T64262	[སྟོབ་][འཐོབ་][འདེབས་] 
 T64263	PUNCT 1095 1096	།
 T64265	PUNCT 1097 1098	།
 T64267	NOUN 1099 1120	ལྟ་བ་བསྒོམ་པ་སྤྱོད་པ་
@@ -506,7 +506,7 @@ T64278	ADP 1147 1150	སུ་
 A64278a	Case T64278 Ter
 T64279	VERB 1150 1154	ལོང་
 A64279a	Mood T64279 Imp
-#√64279	AnnotatorNotes T64279	[ལང་√1][ལེན་][ལོང་] 
+#64279l	AnnotatorNotes T64279	[ལང་√1][ལེན་][ལོང་] 
 T64280	PUNCT 1154 1155	།
 T64282	PUNCT 1156 1157	།
 T64284	NOUN 1158 1161	ཚེ་
@@ -540,7 +540,7 @@ T64299	SCONJ 1209 1212	སུ་
 A64299a	Case T64299 Ter
 T64300	VERB 1212 1215	ཆུག
 A64300a	Mood T64300 Imp
-#√64300	AnnotatorNotes T64300	[འཇུག་√2][གཞུག་] 
+#64300l	AnnotatorNotes T64300	[འཇུག་√2][གཞུག་] 
 T64301	PUNCT 1215 1216	།
 T64303	DET 1217 1220	དེ་
 A64303a	PronType T64303 Dem

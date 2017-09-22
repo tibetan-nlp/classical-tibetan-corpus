@@ -27,7 +27,7 @@ N2145	Reference T2145 Hill:0967	སྡོད་
 T2146	PART 47 50	དོ་
 A2146a	Mood T2146 Ind
 T2147	VERB 50 53	ཟེར
-#√2147	AnnotatorNotes T2147	[ཟེར་√1][ཟེར་√2] 
+#2147l	AnnotatorNotes T2147	[ཟེར་√1][ཟེར་√2] 
 T2148	PUNCT 53 54	།
 T2150	NOUN 55 62	དམ་བཅའ་
 A2150a	Number T2150 Sing
@@ -75,7 +75,7 @@ A2173a	Number T2173 Sing
 T2174	VERB 141 146	ལྟ་བ་
 A2174a	Tense T2174 Pres
 A2174b	VerbForm T2174 Vnoun
-#√2174	AnnotatorNotes T2174	[ལྟ་√1][ལྟ་√2] 
+#2174l	AnnotatorNotes T2174	[ལྟ་√1][ལྟ་√2] 
 T2175	ADP 146 149	དང་
 A2175a	Case T2175 Com
 T2176	NOUN 149 155	མཆི་མ་
@@ -246,7 +246,7 @@ N2257	Reference T2257 Hill:1719	ལོག་
 T2258	VERB 448 454	ཕྱིན་པ
 A2258a	Tense T2258 Past
 A2258b	VerbForm T2258 Vnoun
-#√2258	AnnotatorNotes T2258	[འགྲོ་][ཕྱིན་] 
+#2258l	AnnotatorNotes T2258	[འགྲོ་][ཕྱིན་] 
 T2259	ADP 454 455	ས
 A2259a	Case T2259 Agn
 T2260	PUNCT 455 456	།
@@ -270,13 +270,13 @@ T2270	SCONJ 498 501	ཏུ་
 A2270a	Case T2270 Ter
 T2271	VERB 501 505	སོང་
 A2271a	Tense T2271 Past
-#√2271	AnnotatorNotes T2271	[འགྲོ་][སོང་] 
+#2271l	AnnotatorNotes T2271	[འགྲོ་][སོང་] 
 T2272	VERB 505 510	འདུག་
 N2272	Reference T2272 Hill:0875	འདུག་
 T2273	VERB 510 515	ཟེར་བ
 A2273a	Tense T2273 Fut/Pres
 A2273b	VerbForm T2273 Vnoun
-#√2273	AnnotatorNotes T2273	[ཟེར་√1][ཟེར་√2] 
+#2273l	AnnotatorNotes T2273	[ཟེར་√1][ཟེར་√2] 
 T2274	ADP 515 518	འི་
 A2274a	Case T2274 Gen
 T2275	VERB 518 525	གྲགས་པ་
@@ -304,13 +304,13 @@ T2285	ADP 570 573	དུ་
 A2285a	Case T2285 Ter
 T2286	VERB 573 578	ཞུགས་
 A2286a	Tense T2286 Past
-#√2286	AnnotatorNotes T2286	[འཇུག་√1][ཞུགས་] 
+#2286l	AnnotatorNotes T2286	[འཇུག་√1][ཞུགས་] 
 T2287	SCONJ 578 581	ནས་
 A2287a	Case T2287 Ela
 T2288	VERB 581 587	ཕྱིན་པ
 A2288a	Tense T2288 Past
 A2288b	VerbForm T2288 Vnoun
-#√2288	AnnotatorNotes T2288	[འགྲོ་][ཕྱིན་] 
+#2288l	AnnotatorNotes T2288	[འགྲོ་][ཕྱིན་] 
 T2289	ADP 587 588	ས
 A2289a	Case T2289 Agn
 T2290	PUNCT 588 589	།
@@ -393,7 +393,7 @@ N2328	Reference T2328 Hill:0697	གཏོད་√1
 T2329	VERB 741 747	ཕྱིན་པ
 A2329a	Tense T2329 Past
 A2329b	VerbForm T2329 Vnoun
-#√2329	AnnotatorNotes T2329	[འགྲོ་][ཕྱིན་] 
+#2329l	AnnotatorNotes T2329	[འགྲོ་][ཕྱིན་] 
 T2330	ADP 747 748	ས
 A2330a	Case T2330 Agn
 T2331	PUNCT 748 749	།
@@ -502,7 +502,7 @@ A2382a	VerbForm T2382 Vnoun
 T2383	AUX 1005 1009	ཡིན་
 N2383	Reference T2383 Hill:1619	ཡིན་
 T2384	VERB 1009 1013	ཟེར་
-#√2384	AnnotatorNotes T2384	[ཟེར་√1][ཟེར་√2] 
+#2384l	AnnotatorNotes T2384	[ཟེར་√1][ཟེར་√2] 
 T2385	SCONJ 1013 1015	ཏེ
 A2385a	Case T2385 Sem
 T2386	PUNCT 1015 1016	།
@@ -543,7 +543,7 @@ N2404	Reference T2404 Hill:0697	གཏོད་√1
 T2405	VERB 1098 1104	ཕྱིན་པ
 A2405a	Tense T2405 Past
 A2405b	VerbForm T2405 Vnoun
-#√2405	AnnotatorNotes T2405	[འགྲོ་][ཕྱིན་] 
+#2405l	AnnotatorNotes T2405	[འགྲོ་][ཕྱིན་] 
 T2406	ADP 1104 1105	ས
 A2406a	Case T2406 Agn
 T2407	PUNCT 1105 1106	།
@@ -588,7 +588,7 @@ A2430a	Polarity T2430 Neg
 T2431	VERB 1203 1209	གཏོང་བ
 A2431a	Tense T2431 Pres
 A2431b	VerbForm T2431 Vnoun
-#√2431	AnnotatorNotes T2431	[གཏོང་√1][གཏོང་√2] 
+#2431l	AnnotatorNotes T2431	[གཏོང་√1][གཏོང་√2] 
 T2432	ADP 1209 1211	ར་
 A2432a	Case T2432 Ter
 T2433	VERB 1211 1215	འདུག

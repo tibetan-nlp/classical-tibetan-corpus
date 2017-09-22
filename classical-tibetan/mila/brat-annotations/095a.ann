@@ -39,7 +39,7 @@ A59899a	Number T59899 Sing
 N59899	Reference T59899 Hill:1295	སྦྱིན་
 T59900	VERB 73 78	གཏོང་
 A59900a	Tense T59900 Pres
-#√59900	AnnotatorNotes T59900	[གཏོང་√1][གཏོང་√2] 
+#59900l	AnnotatorNotes T59900	[གཏོང་√1][གཏོང་√2] 
 T59901	SCONJ 78 81	དང་
 A59901a	Case T59901 Com
 T59902	PUNCT 81 82	།
@@ -84,7 +84,7 @@ A59924a	Number T59924 Sing
 N59924	Reference T59924 Hill:1384	རྩི་
 T59925	VERB 175 179	ཞུས་
 A59925a	Tense T59925 Past
-#√59925	AnnotatorNotes T59925	[འཇུ་√3][ཞུ་√1] 
+#59925l	AnnotatorNotes T59925	[འཇུ་√3][ཞུ་√1] 
 T59926	VERB 179 184	དོགས་
 N59926	Reference T59926 Hill:0833	དོགས་
 T59927	SCONJ 184 188	ཀྱི་
@@ -130,7 +130,7 @@ A59948a	Case T59948 Ela
 T59949	VERB 270 274	ཟ་བ་
 A59949a	Tense T59949 Pres
 A59949b	VerbForm T59949 Vnoun
-#√59949	AnnotatorNotes T59949	[འཛའ་][ཟ་√1][ཟ་√2][ཟ་√3] 
+#59949l	AnnotatorNotes T59949	[འཛའ་][ཟ་√1][ཟ་√2][ཟ་√3] 
 T59950	AUX 274 278	ཡིན་
 N59950	Reference T59950 Hill:1619	ཡིན་
 T59951	PART 278 280	ནོ
@@ -180,7 +180,7 @@ A59975a	Number T59975 Sing
 T59976	VERB 355 361	བཏགས་པ
 A59976a	Tense T59976 Past
 A59976b	VerbForm T59976 Vnoun
-#√59976	AnnotatorNotes T59976	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#59976l	AnnotatorNotes T59976	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T59977	ADP 361 364	འི་
 A59977a	Case T59977 Gen
 T59978	NOUN 364 374	འཇིག་རྟེན་
@@ -229,7 +229,7 @@ A59994a	Mood T59994 Imp
 T59995	VERB 451 458	གསུངས་པ
 A59995a	Tense T59995 Past
 A59995b	VerbForm T59995 Vnoun
-#√59995	AnnotatorNotes T59995	[གསུང་√1][གསུང་√2] 
+#59995l	AnnotatorNotes T59995	[གསུང་√1][གསུང་√2] 
 T59996	ADP 458 459	ས
 A59996a	Case T59996 Agn
 T59997	PUNCT 459 460	།
@@ -269,7 +269,7 @@ A60015a	Polarity T60015 Xor
 T60016	VERB 533 539	ཞུས་པ་
 A60016a	Tense T60016 Past
 A60016b	VerbForm T60016 Vnoun
-#√60016	AnnotatorNotes T60016	[འཇུ་√3][ཞུ་√1] 
+#60016l	AnnotatorNotes T60016	[འཇུ་√3][ཞུ་√1] 
 T60017	ADP 539 540	ལ
 A60017a	Case T60017 All
 T60018	PUNCT 540 541	།
@@ -384,7 +384,7 @@ N60078	Reference T60078 Hill:0397	སྒྲོལ་
 T60079	VERB 755 761	ཟེར་བ་
 A60079a	Tense T60079 Fut/Pres
 A60079b	VerbForm T60079 Vnoun
-#√60079	AnnotatorNotes T60079	[ཟེར་√1][ཟེར་√2] 
+#60079l	AnnotatorNotes T60079	[ཟེར་√1][ཟེར་√2] 
 T60080	ADP 761 764	དང་
 A60080a	Case T60080 Com
 T60081	VERB 764 769	འདྲ་བ
@@ -456,7 +456,7 @@ T60115	PART 885 887	མ་
 A60115a	Polarity T60115 Neg
 T60116	VERB 887 890	ཟད་
 A60116a	Tense T60116 Past
-#√60116	AnnotatorNotes T60116	[འཛད་][ཟད་] 
+#60116l	AnnotatorNotes T60116	[འཛད་][ཟད་] 
 T60117	NOUN 890 893	བར་
 A60117a	NounType T60117 Rel
 T60118	ADP 893 896	དུ་
@@ -579,7 +579,7 @@ T60176	ADP 1129 1131	ལ་
 A60176a	Case T60176 All
 T60177	VERB 1131 1135	ཐོང་
 A60177a	Mood T60177 Imp
-#√60177	AnnotatorNotes T60177	[གཏོང་√1][གཏོང་√2] 
+#60177l	AnnotatorNotes T60177	[གཏོང་√1][གཏོང་√2] 
 T60178	PUNCT 1135 1136	།
 T60180	NOUN 1137 1141	ལུས་
 A60180a	Number T60180 Sing
@@ -613,7 +613,7 @@ T60192	ADP 1175 1178	སུ་
 A60192a	Case T60192 Ter
 T60193	VERB 1178 1182	ལོང་
 A60193a	Mood T60193 Imp
-#√60193	AnnotatorNotes T60193	[ལང་√1][ལེན་][ལོང་] 
+#60193l	AnnotatorNotes T60193	[ལང་√1][ལེན་][ལོང་] 
 T60194	PART 1182 1185	ཞིག
 A60194a	Mood T60194 Imp
 T60195	NOUN 1185 1193	སེམས་ཅན་

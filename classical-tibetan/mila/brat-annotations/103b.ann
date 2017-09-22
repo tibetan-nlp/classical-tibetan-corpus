@@ -96,13 +96,13 @@ T65692	NOUN 186 190	གདན་
 A65692a	Number T65692 Sing
 T65693	VERB 190 196	འདྲེན་
 A65693a	Tense T65693 Pres
-#√65693	AnnotatorNotes T65693	[བགྲང་][འདྲེན་] 
+#65693l	AnnotatorNotes T65693	[བགྲང་][འདྲེན་] 
 T65694	SCONJ 196 199	དུ་
 A65694a	Case T65694 Ter
 T65695	VERB 199 205	ཕྱིན་པ
 A65695a	Tense T65695 Past
 A65695b	VerbForm T65695 Vnoun
-#√65695	AnnotatorNotes T65695	[འགྲོ་][ཕྱིན་] 
+#65695l	AnnotatorNotes T65695	[འགྲོ་][ཕྱིན་] 
 T65696	ADP 205 206	ས
 A65696a	Case T65696 Agn
 T65697	PUNCT 206 207	།
@@ -258,7 +258,7 @@ A65766a	Case T65766 Agn
 T65767	VERB 485 492	བསྐོར་བ
 A65767a	Tense T65767 Fut
 A65767b	VerbForm T65767 Vnoun
-#√65767	AnnotatorNotes T65767	[སྐོར་√1][སྐོར་√2] 
+#65767l	AnnotatorNotes T65767	[སྐོར་√1][སྐོར་√2] 
 T65768	PUNCT 492 493	།
 T65770	NOUN 494 501	བང་རིམ་
 A65770a	Number T65770 Sing
@@ -377,7 +377,7 @@ T65824	DET 748 752	འདི་
 A65824a	PronType T65824 Dem
 T65825	VERB 752 758	གསུངས་
 A65825a	Tense T65825 Past
-#√65825	AnnotatorNotes T65825	[གསུང་√1][གསུང་√2] 
+#65825l	AnnotatorNotes T65825	[གསུང་√1][གསུང་√2] 
 T65826	PART 758 760	སོ
 A65826a	Mood T65826 Ind
 T65827	PUNCT 760 761	།
@@ -412,7 +412,7 @@ A65855a	Number T65855 Sing
 T65856	VERB 859 866	གདུང་བ་
 A65856a	Tense T65856 Fut/Pres
 A65856b	VerbForm T65856 Vnoun
-#√65856	AnnotatorNotes T65856	[གདུང་√1][གདུང་√2] 
+#65856l	AnnotatorNotes T65856	[གདུང་√1][གདུང་√2] 
 T65857	ADJ 866 873	དྲག་པོ་
 T65858	ADP 873 876	ཡིས
 A65858a	Case T65858 Agn
@@ -535,7 +535,7 @@ A65929a	Case T65929 Loc
 T65930	VERB 1083 1089	རྫོགས་
 N65930	Reference T65930 Hill:1502	རྫོགས་
 T65931	VERB 1089 1093	སངས་
-#√65931	AnnotatorNotes T65931	[སངས་√1][སངས་√2] 
+#65931l	AnnotatorNotes T65931	[སངས་√1][སངས་√2] 
 T65932	VERB 1093 1096	རྒྱ
 A65932a	Tense T65932 Fut/Pres
 N65932	Reference T65932 Hill:0339	རྒྱ་√1

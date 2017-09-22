@@ -7,7 +7,7 @@ A20895a	Reflex T20895 Yes
 T20896	VERB 32 38	ཟེར་བ་
 A20896a	Tense T20896 Fut/Pres
 A20896b	VerbForm T20896 Vnoun
-#√20896	AnnotatorNotes T20896	[ཟེར་√1][ཟེར་√2] 
+#20896l	AnnotatorNotes T20896	[ཟེར་√1][ཟེར་√2] 
 T20897	NOUN 38 40	ལྟ
 A20897a	NounType T20897 Rel
 T20898	ADP 40 42	ར་
@@ -36,10 +36,10 @@ T20910	ADP 78 80	ར་
 A20910a	Case T20910 Ter
 T20911	VERB 80 84	ལོང་
 A20911a	Mood T20911 Imp
-#√20911	AnnotatorNotes T20911	[ལང་√1][ལེན་][ལོང་] 
+#20911l	AnnotatorNotes T20911	[ལང་√1][ལེན་][ལོང་] 
 T20912	VERB 84 87	ཤོག
 A20912a	Mood T20912 Imp
-#√20912	AnnotatorNotes T20912	[འཆགས་][འོང་][གཤེགས་] 
+#20912l	AnnotatorNotes T20912	[འཆགས་][འོང་][གཤེགས་] 
 T20913	NOUN 87 92	རྗེས་
 A20913a	Number T20913 Sing
 T20914	ADP 92 95	སུ་
@@ -70,7 +70,7 @@ T20927	ADP 142 144	ས་
 A20927a	Case T20927 Agn
 T20928	VERB 144 150	གདུངས་
 A20928a	Tense T20928 Past
-#√20928	AnnotatorNotes T20928	[དུངས་][གདུང་√1][གདུང་√2] 
+#20928l	AnnotatorNotes T20928	[དུངས་][གདུང་√1][གདུང་√2] 
 T20929	VERB 150 156	འདུག་པ
 A20929a	VerbForm T20929 Vnoun
 N20929	Reference T20929 Hill:0875	འདུག་
@@ -306,7 +306,7 @@ A21041a	Polarity T21041 Neg
 T21042	SCONJ 613 616	དུ་
 A21042a	Case T21042 Ter
 T21043	VERB 616 620	སངས་
-#√21043	AnnotatorNotes T21043	[སངས་√1][སངས་√2] 
+#21043l	AnnotatorNotes T21043	[སངས་√1][སངས་√2] 
 T21044	VERB 620 626	རྒྱ་བ་
 A21044a	Tense T21044 Fut/Pres
 A21044b	VerbForm T21044 Vnoun
@@ -398,7 +398,7 @@ N21085	Reference T21085 Hill:0468	གཅོད་
 T21086	VERB 802 808	སོང་བ་
 A21086a	Tense T21086 Past
 A21086b	VerbForm T21086 Vnoun
-#√21086	AnnotatorNotes T21086	[འགྲོ་][སོང་] 
+#21086l	AnnotatorNotes T21086	[འགྲོ་][སོང་] 
 T21087	AUX 808 811	ཡིན
 N21087	Reference T21087 Hill:1619	ཡིན་
 T21088	PUNCT 811 812	།
@@ -410,7 +410,7 @@ T21092	ADP 820 823	སུ་
 A21092a	Case T21092 Ter
 T21093	VERB 823 828	བཟུང་
 A21093a	Tense T21093 Past
-#√21093	AnnotatorNotes T21093	[འཛིན་][གཟུང་] 
+#21093l	AnnotatorNotes T21093	[འཛིན་][གཟུང་] 
 T21094	SCONJ 828 831	ནས་
 A21094a	Case T21094 Ela
 T21095	NOUN 831 838	མི་རྒན་
@@ -463,7 +463,7 @@ A21117a	Case T21117 Ter
 T21118	VERB 926 933	འཇུག་པ་
 A21118a	Tense T21118 Pres
 A21118b	VerbForm T21118 Vnoun
-#√21118	AnnotatorNotes T21118	[འཇུག་√1][འཇུག་√2] 
+#21118l	AnnotatorNotes T21118	[འཇུག་√1][འཇུག་√2] 
 T21119	AUX 933 938	ཡིན་པ
 A21119a	VerbForm T21119 Vnoun
 T21120	ADP 938 940	ས་
@@ -530,7 +530,7 @@ T21151	PART 1045 1047	མ་
 A21151a	Polarity T21151 Neg
 T21152	VERB 1047 1050	སད་
 A21152a	Tense T21152 Past
-#√21152	AnnotatorNotes T21152	[སད་√1][སད་√2] 
+#21152l	AnnotatorNotes T21152	[སད་√1][སད་√2] 
 T21153	SCONJ 1050 1052	ན་
 A21153a	Case T21153 Loc
 T21154	VERB 1052 1056	དགའ་
@@ -681,7 +681,7 @@ T21223	NOUN 1311 1316	ཐུགས་
 A21223a	Number T21223 Sing
 T21224	VERB 1316 1322	བརྩེ་བ
 A21224a	VerbForm T21224 Vnoun
-#√21224	AnnotatorNotes T21224	[བརྩེ་√1][བརྩེ་√2] 
+#21224l	AnnotatorNotes T21224	[བརྩེ་√1][བརྩེ་√2] 
 T21225	ADP 1322 1324	ས་
 A21225a	Case T21225 Agn
 T21226	NOUN 1324 1332	སྤྱན་ཆབ་
@@ -733,7 +733,7 @@ T21246	NOUN 1417 1425	འཁོར་ལོ་
 A21246a	Number T21246 Sing
 T21247	VERB 1425 1431	བསྐོར་
 A21247a	Tense T21247 Fut
-#√21247	AnnotatorNotes T21247	[སྐོར་√1][སྐོར་√2] 
+#21247l	AnnotatorNotes T21247	[སྐོར་√1][སྐོར་√2] 
 T21248	PART 1431 1433	རོ
 A21248a	Mood T21248 Ind
 T21249	PUNCT 1433 1434	།

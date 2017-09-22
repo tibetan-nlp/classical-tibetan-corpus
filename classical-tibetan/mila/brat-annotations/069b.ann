@@ -71,7 +71,7 @@ T42460	ADP 136 138	ར་
 A42460a	Case T42460 Ter
 T42461	VERB 138 143	ཕྱིན་
 A42461a	Tense T42461 Past
-#√42461	AnnotatorNotes T42461	[འགྲོ་][ཕྱིན་] 
+#42461l	AnnotatorNotes T42461	[འགྲོ་][ཕྱིན་] 
 T42462	SCONJ 143 146	ཏེ་
 A42462a	Case T42462 Sem
 T42463	NOUN 146 150	ཆོས་
@@ -79,7 +79,7 @@ A42463a	Number T42463 Sing
 T42464	VERB 150 155	ཉན་པ་
 A42464a	Tense T42464 Pres
 A42464b	VerbForm T42464 Vnoun
-#√42464	AnnotatorNotes T42464	[ཉན་√1][ཉན་√2] 
+#42464l	AnnotatorNotes T42464	[ཉན་√1][ཉན་√2] 
 T42465	ADP 155 158	དང་
 A42465a	Case T42465 Com
 T42466	PUNCT 158 159	།
@@ -352,7 +352,7 @@ T42603	VERB 665 669	ཐོང་
 N42603	Reference T42603 Hill:0782	ཐོང་
 T42604	VERB 669 674	བཟུང་
 A42604a	Tense T42604 Past
-#√42604	AnnotatorNotes T42604	[འཛིན་][གཟུང་] 
+#42604l	AnnotatorNotes T42604	[འཛིན་][གཟུང་] 
 T42605	SCONJ 674 677	ནས་
 A42605a	Case T42605 Ela
 T42606	NOUN 677 681	ཞིང་
@@ -377,7 +377,7 @@ A42615a	PronType T42615 Prs
 T42616	VERB 704 711	འཕུར་བ་
 A42616a	Tense T42616 Fut/Pres
 A42616b	VerbForm T42616 Vnoun
-#√42616	AnnotatorNotes T42616	[འཕུར་√1][འཕུར་√2] 
+#42616l	AnnotatorNotes T42616	[འཕུར་√1][འཕུར་√2] 
 T42617	VERB 711 716	མཐོང་
 A42617a	Tense T42617 Past/Pres
 N42617	Reference T42617 Hill:0788	མཐོང་
@@ -399,12 +399,12 @@ T42626	PART 740 743	མི་
 A42626a	Polarity T42626 Neg
 T42627	VERB 743 748	འཕུར་
 A42627a	Tense T42627 Fut/Pres
-#√42627	AnnotatorNotes T42627	[འཕུར་√1][འཕུར་√2] 
+#42627l	AnnotatorNotes T42627	[འཕུར་√1][འཕུར་√2] 
 T42628	VERB 748 753	བྱུང་
 A42628a	Tense T42628 Past
 N42628	Reference T42628 Hill:1243	འབྱུང་
 T42629	VERB 753 756	ཟེར
-#√42629	AnnotatorNotes T42629	[ཟེར་√1][ཟེར་√2] 
+#42629l	AnnotatorNotes T42629	[ཟེར་√1][ཟེར་√2] 
 T42630	PUNCT 756 757	།
 T42632	NOUN 758 761	ལས་
 A42632a	Number T42632 Sing
@@ -417,12 +417,12 @@ A42634a	Tense T42634 Fut/Pres
 N42634	Reference T42634 Hill:1150	འཕྲོ་
 T42635	VERB 771 775	བོར་
 A42635a	Tense T42635 Past
-#√42635	AnnotatorNotes T42635	[བོར་][འབོར་] 
+#42635l	AnnotatorNotes T42635	[བོར་][འབོར་] 
 T42636	SCONJ 775 778	ནས་
 A42636a	Case T42636 Ela
 T42637	VERB 778 781	ལྟ་
 A42637a	Tense T42637 Pres
-#√42637	AnnotatorNotes T42637	[ལྟ་√1][ལྟ་√2] 
+#42637l	AnnotatorNotes T42637	[ལྟ་√1][ལྟ་√2] 
 T42638	SCONJ 781 785	ཞིང་
 A42638a	Case T42638 Impf
 T42639	VERB 785 792	འདུག་པ་
@@ -454,7 +454,7 @@ T42655	PROPN 835 850	མྱང་ཚ་དཀར་རྒྱན་
 T42656	VERB 850 855	ཟེར་བ
 A42656a	Tense T42656 Fut/Pres
 A42656b	VerbForm T42656 Vnoun
-#√42656	AnnotatorNotes T42656	[ཟེར་√1][ཟེར་√2] 
+#42656l	AnnotatorNotes T42656	[ཟེར་√1][ཟེར་√2] 
 T42657	ADP 855 858	འི་
 A42657a	Case T42657 Gen
 T42658	NOUN 858 866	བུད་མེད་
@@ -474,7 +474,7 @@ T42666	PROPN 891 896	མི་ལ་
 T42667	VERB 896 901	ཟེར་བ
 A42667a	Tense T42667 Fut/Pres
 A42667b	VerbForm T42667 Vnoun
-#√42667	AnnotatorNotes T42667	[ཟེར་√1][ཟེར་√2] 
+#42667l	AnnotatorNotes T42667	[ཟེར་√1][ཟེར་√2] 
 T42668	ADP 901 904	འི་
 A42668a	Case T42668 Gen
 T42669	VERB 904 910	གོག་པ་
@@ -487,7 +487,7 @@ A42671a	Polarity T42671 Neg
 T42672	VERB 916 923	ཕྱིད་པ་
 A42672a	Tense T42672 Past
 A42672b	VerbForm T42672 Vnoun
-#√42672	AnnotatorNotes T42672	[ཕྱིད་][འཕྱིད་][འབྱིད་√1][འབྱིད་√3] 
+#42672l	AnnotatorNotes T42672	[ཕྱིད་][འཕྱིད་][འབྱིད་√1][འབྱིད་√3] 
 T42673	DET 923 927	ཅིག་
 A42673a	PronType T42673 Ind
 T42674	VERB 927 933	ཡོད་པ་
@@ -513,7 +513,7 @@ A42683a	Polarity T42683 Neg
 T42684	VERB 969 975	ཕོག་པ་
 A42684a	Tense T42684 Past
 A42684b	VerbForm T42684 Vnoun
-#√42684	AnnotatorNotes T42684	[འཕོག་][འབོགས་] 
+#42684l	AnnotatorNotes T42684	[འཕོག་][འབོགས་] 
 T42685	VERB 975 980	གྱིས་
 A42685a	Mood T42685 Imp
 N42685	Reference T42685 Hill:0260	བགྱིད་
@@ -523,9 +523,9 @@ T42687	NOUN 982 990	སྨོན་སྣ་
 A42687a	Number T42687 Sing
 T42688	VERB 990 995	ཁྲིད་
 A42688a	Mood T42688 Imp
-#√42688	AnnotatorNotes T42688	[འཁྲིད་√1][འཁྲིད་√2] 
+#42688l	AnnotatorNotes T42688	[འཁྲིད་√1][འཁྲིད་√2] 
 T42689	VERB 995 998	ཟེར
-#√42689	AnnotatorNotes T42689	[ཟེར་√1][ཟེར་√2] 
+#42689l	AnnotatorNotes T42689	[ཟེར་√1][ཟེར་√2] 
 T42690	PUNCT 998 999	།
 T42692	NOUN 1000 1002	ཕ་
 A42692a	Number T42692 Sing
@@ -537,7 +537,7 @@ T42695	PART 1010 1012	མ་
 A42695a	Polarity T42695 Neg
 T42696	VERB 1012 1016	ཕོག་
 A42696a	Tense T42696 Past
-#√42696	AnnotatorNotes T42696	[འཕོག་][འབོགས་] 
+#42696l	AnnotatorNotes T42696	[འཕོག་][འབོགས་] 
 T42697	SCONJ 1016 1020	གིས་
 A42697a	Case T42697 Agn
 T42698	VERB 1020 1025	དོགས་
@@ -581,7 +581,7 @@ A42717a	Polarity T42717 Neg
 T42718	VERB 1091 1098	འཕུར་བ་
 A42718a	Tense T42718 Fut/Pres
 A42718b	VerbForm T42718 Vnoun
-#√42718	AnnotatorNotes T42718	[འཕུར་√1][འཕུར་√2] 
+#42718l	AnnotatorNotes T42718	[འཕུར་√1][འཕུར་√2] 
 T42719	ADP 1098 1101	ལས་
 A42719a	Case T42719 Abl
 T42720	VERB 1101 1106	ཆེ་བ་
@@ -599,10 +599,10 @@ A42723a	Case T42723 Agn
 T42724	VERB 1116 1121	ལྟོས་
 N42724	Reference T42724 Hill:0724	ལྟོས་
 T42725	VERB 1121 1125	ཟེར་
-#√42725	AnnotatorNotes T42725	[ཟེར་√1][ཟེར་√2] 
+#42725l	AnnotatorNotes T42725	[ཟེར་√1][ཟེར་√2] 
 T42726	VERB 1125 1128	ལྟ་
 A42726a	Tense T42726 Pres
-#√42726	AnnotatorNotes T42726	[ལྟ་√1][ལྟ་√2] 
+#42726l	AnnotatorNotes T42726	[ལྟ་√1][ལྟ་√2] 
 T42727	SCONJ 1128 1132	ཞིང་
 A42727a	Case T42727 Impf
 T42728	VERB 1132 1136	འདུག
@@ -645,7 +645,7 @@ A42747a	Number T42747 Sing
 N42747	Reference T42747 Hill:1081	ཕན་
 T42748	VERB 1192 1199	ཐོགས་པ་
 A42748a	VerbForm T42748 Vnoun
-#√42748	AnnotatorNotes T42748	[ཐོགས་√1][ཐོགས་√2] 
+#42748l	AnnotatorNotes T42748	[ཐོགས་√1][ཐོགས་√2] 
 T42749	VERB 1199 1205	འདུག་པ
 A42749a	VerbForm T42749 Vnoun
 N42749	Reference T42749 Hill:0875	འདུག་
@@ -696,7 +696,7 @@ T42771	ADP 1287 1289	ར་
 A42771a	Case T42771 Ter
 T42772	VERB 1289 1293	ཐོན་
 A42772a	Mood T42772 Imp
-#√42772	AnnotatorNotes T42772	[འཐོན་√2][འདོན་] 
+#42772l	AnnotatorNotes T42772	[འཐོན་√2][འདོན་] 
 T42773	PART 1293 1296	ཅིག
 A42773a	Mood T42773 Imp
 T42774	NOUN 1296 1305	སངས་རྒྱས་

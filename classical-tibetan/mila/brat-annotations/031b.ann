@@ -16,7 +16,7 @@ T14458	SCONJ 28 32	ཅིང་
 A14458a	Case T14458 Impf
 T14459	VERB 32 38	གཟིགས་
 A14459a	Tense T14459 Past/Pres
-#√14459	AnnotatorNotes T14459	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#14459l	AnnotatorNotes T14459	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T14460	SCONJ 38 40	ནས
 A14460a	Case T14460 Ela
 T14461	PUNCT 40 41	།
@@ -50,7 +50,7 @@ T14477	AUX 95 99	ལགས་
 T14478	VERB 99 104	ཞུས་པ
 A14478a	Tense T14478 Past
 A14478b	VerbForm T14478 Vnoun
-#√14478	AnnotatorNotes T14478	[འཇུ་√3][ཞུ་√1] 
+#14478l	AnnotatorNotes T14478	[འཇུ་√3][ཞུ་√1] 
 T14479	ADP 104 105	ས
 A14479a	Case T14479 Agn
 T14480	PUNCT 105 106	།
@@ -67,7 +67,7 @@ A14488a	Mood T14488 Imp
 N14488	Reference T14488 Hill:1231	འབོད་
 T14489	VERB 137 141	ཤོག་
 A14489a	Mood T14489 Imp
-#√14489	AnnotatorNotes T14489	[འཆགས་][འོང་][གཤེགས་] 
+#14489l	AnnotatorNotes T14489	[འཆགས་][འོང་][གཤེགས་] 
 T14490	VERB 141 146	གསུང་
 T14491	PUNCT 146 147	།
 T14493	NOUN 148 152	ཡུམ་
@@ -101,7 +101,7 @@ N14506	Reference T14506 Hill:1243	འབྱུང་
 T14507	VERB 205 212	གསུང་བ་
 A14507a	Tense T14507 Fut/Pres
 A14507b	VerbForm T14507 Vnoun
-#√14507	AnnotatorNotes T14507	[གསུང་√1][གསུང་√2] 
+#14507l	AnnotatorNotes T14507	[གསུང་√1][གསུང་√2] 
 T14508	ADP 212 213	ལ
 A14508a	Case T14508 All
 T14509	PUNCT 213 214	།
@@ -202,7 +202,7 @@ T14562	ADP 390 392	ལ་
 A14562a	Case T14562 All
 T14563	VERB 392 396	སོང་
 A14563a	Tense T14563 Past
-#√14563	AnnotatorNotes T14563	[འགྲོ་][སོང་] 
+#14563l	AnnotatorNotes T14563	[འགྲོ་][སོང་] 
 T14564	SCONJ 396 398	ན་
 A14564a	Case T14564 Loc
 T14565	VERB 398 404	དགོས་པ
@@ -233,7 +233,7 @@ N14575	Reference T14575 Hill:0260	བགྱིད་
 T14576	PART 436 440	ཤིག་
 A14576a	Mood T14576 Imp
 T14577	VERB 440 444	ཟེར་
-#√14577	AnnotatorNotes T14577	[ཟེར་√1][ཟེར་√2] 
+#14577l	AnnotatorNotes T14577	[ཟེར་√1][ཟེར་√2] 
 T14578	PRON 444 448	བདག་
 A14578a	PronType T14578 Prs
 T14579	PRON 448 451	རང་
@@ -311,7 +311,7 @@ T14614	ADP 582 584	ར་
 A14614a	Case T14614 Ter
 T14615	VERB 584 586	ཞུ
 A14615a	Tense T14615 Fut/Pres
-#√14615	AnnotatorNotes T14615	[ཞུ་√1][ཞུ་√2] 
+#14615l	AnnotatorNotes T14615	[ཞུ་√1][ཞུ་√2] 
 T14616	PUNCT 586 587	།
 T14618	ADV 588 590	སྔ
 A14618a	AdvType T14618 Tim
@@ -356,7 +356,7 @@ A14637a	Case T14637 Gen
 T14638	VERB 675 680	ཞུ་བ་
 A14638a	Tense T14638 Fut/Pres
 A14638b	VerbForm T14638 Vnoun
-#√14638	AnnotatorNotes T14638	[ཞུ་√1][ཞུ་√2] 
+#14638l	AnnotatorNotes T14638	[ཞུ་√1][ཞུ་√2] 
 T14639	VERB 680 685	འབུལ་
 A14639a	Tense T14639 Pres
 N14639	Reference T14639 Hill:1224	འབུལ་
@@ -404,7 +404,7 @@ T14662	PART 775 779	ཀྱང་
 T14663	VERB 779 784	ཞུ་བ་
 A14663a	Tense T14663 Fut/Pres
 A14663b	VerbForm T14663 Vnoun
-#√14663	AnnotatorNotes T14663	[ཞུ་√1][ཞུ་√2] 
+#14663l	AnnotatorNotes T14663	[ཞུ་√1][ཞུ་√2] 
 T14664	DET 784 788	གཞན་
 T14665	VERB 788 793	འབུལ་
 A14665a	Tense T14665 Pres
@@ -492,7 +492,7 @@ T14708	ADP 942 945	དུ་
 A14708a	Case T14708 Ter
 T14709	VERB 945 950	བཞེས་
 A14709a	Tense T14709 Past/Pres
-#√14709	AnnotatorNotes T14709	[བཞེས་√1][བཞེས་√2] 
+#14709l	AnnotatorNotes T14709	[བཞེས་√1][བཞེས་√2] 
 T14710	SCONJ 950 953	ནས་
 A14710a	Case T14710 Ela
 T14711	PROPN 953 963	བདག་མེད་མ་
@@ -550,7 +550,7 @@ A14741a	Mood T14741 Imp
 N14741	Reference T14741 Hill:0169	འཁྱེར་
 T14742	VERB 1063 1067	ཤོག་
 A14742a	Mood T14742 Imp
-#√14742	AnnotatorNotes T14742	[འཆགས་][འོང་][གཤེགས་] 
+#14742l	AnnotatorNotes T14742	[འཆགས་][འོང་][གཤེགས་] 
 T14743	NOUN 1067 1071	དབང་
 A14743a	Number T14743 Sing
 N14743	Reference T14743 Hill:1188	དབང་
@@ -600,7 +600,7 @@ A14766a	AdvType T14766 Tim
 T14767	VERB 1154 1159	ཞུ་བ་
 A14767a	Tense T14767 Fut/Pres
 A14767b	VerbForm T14767 Vnoun
-#√14767	AnnotatorNotes T14767	[ཞུ་√1][ཞུ་√2] 
+#14767l	AnnotatorNotes T14767	[ཞུ་√1][ཞུ་√2] 
 T14768	VERB 1159 1163	ཡོང་
 A14768a	Tense T14768 Fut/Pres
 N14768	Reference T14768 Hill:1630	ཡོང་
@@ -629,13 +629,13 @@ T14780	SCONJ 1200 1205	གྱིས་
 A14780a	Case T14780 Agn
 T14781	VERB 1205 1211	བཞེངས་
 A14781a	Tense T14781 Past
-#√14781	AnnotatorNotes T14781	[བཞེང་√1][བཞེང་√2] 
+#14781l	AnnotatorNotes T14781	[བཞེང་√1][བཞེང་√2] 
 T14782	SCONJ 1211 1213	ཏེ
 A14782a	Case T14782 Sem
 T14783	PUNCT 1213 1214	།
 T14785	VERB 1215 1219	ཐོན་
 A14785a	Mood T14785 Imp
-#√14785	AnnotatorNotes T14785	[འཐོན་√2][འདོན་] 
+#14785l	AnnotatorNotes T14785	[འཐོན་√2][འདོན་] 
 T14786	VERB 1219 1223	བྱས་
 A14786a	Tense T14786 Past
 N14786	Reference T14786 Hill:1168	བྱེད་

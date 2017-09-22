@@ -8,13 +8,13 @@ T16978	NOUN 10 14	ཆོས་
 A16978a	Number T16978 Sing
 T16979	VERB 14 16	ཞུ
 A16979a	Tense T16979 Fut/Pres
-#√16979	AnnotatorNotes T16979	[ཞུ་√1][ཞུ་√2] 
+#16979l	AnnotatorNotes T16979	[ཞུ་√1][ཞུ་√2] 
 T16980	SCONJ 16 18	ར་
 A16980a	Case T16980 Ter
 T16981	VERB 18 24	བཏང་བ་
 A16981a	Tense T16981 Past
 A16981b	VerbForm T16981 Vnoun
-#√16981	AnnotatorNotes T16981	[གཏོང་√1][གཏོང་√2] 
+#16981l	AnnotatorNotes T16981	[གཏོང་√1][གཏོང་√2] 
 T16982	AUX 24 29	ཡིན་པ
 A16982a	VerbForm T16982 Vnoun
 T16983	ADP 29 30	ས
@@ -131,7 +131,7 @@ A17042a	Case T17042 Ter
 T17043	DET 232 235	རང་
 T17044	VERB 235 240	གཏོང་
 A17044a	Tense T17044 Pres
-#√17044	AnnotatorNotes T17044	[གཏོང་√1][གཏོང་√2] 
+#17044l	AnnotatorNotes T17044	[གཏོང་√1][གཏོང་√2] 
 T17045	VERB 240 245	དགོས་
 A17045a	VerbType T17045 Aux
 N17045	Reference T17045 Hill:0248	དགོས་
@@ -215,7 +215,7 @@ A17085a	Polarity T17085 Neg
 T17086	VERB 421 427	བཅུག་པ
 A17086a	Tense T17086 Past
 A17086b	VerbForm T17086 Vnoun
-#√17086	AnnotatorNotes T17086	[འཇུག་√2][གཞུག་] 
+#17086l	AnnotatorNotes T17086	[འཇུག་√2][གཞུག་] 
 T17087	ADP 427 428	ས
 A17087a	Case T17087 Agn
 T17088	PUNCT 428 429	།
@@ -232,7 +232,7 @@ A17094a	Mood T17094 Imp
 N17094	Reference T17094 Hill:1225	འབེབས་
 T17095	VERB 448 451	ཤོག
 A17095a	Mood T17095 Imp
-#√17095	AnnotatorNotes T17095	[འཆགས་][འོང་][གཤེགས་] 
+#17095l	AnnotatorNotes T17095	[འཆགས་][འོང་][གཤེགས་] 
 T17096	DET 451 454	དེ་
 A17096a	PronType T17096 Dem
 T17097	ADP 454 457	ནས་
@@ -287,7 +287,7 @@ T17122	NOUN 530 536	སེར་བ་
 A17122a	Number T17122 Coll
 T17123	VERB 536 540	བཏང་
 A17123a	Tense T17123 Past
-#√17123	AnnotatorNotes T17123	[གཏོང་√1][གཏོང་√2] 
+#17123l	AnnotatorNotes T17123	[གཏོང་√1][གཏོང་√2] 
 T17124	SCONJ 540 542	ན་
 A17124a	Case T17124 Loc
 T17125	VERB 542 549	འོངས་པ་
@@ -333,7 +333,7 @@ T17142	PART 605 607	མ་
 A17142a	Polarity T17142 Neg
 T17143	VERB 607 611	བཏང་
 A17143a	Tense T17143 Past
-#√17143	AnnotatorNotes T17143	[གཏོང་√1][གཏོང་√2] 
+#17143l	AnnotatorNotes T17143	[གཏོང་√1][གཏོང་√2] 
 T17144	SCONJ 611 613	ན་
 A17144a	Case T17144 Loc
 T17145	PART 613 616	ནི་
@@ -390,7 +390,7 @@ T17171	NOUN 703 707	རྫས་
 A17171a	Number T17171 Sing
 T17172	VERB 707 712	བསགས་
 A17172a	Tense T17172 Past
-#√17172	AnnotatorNotes T17172	[གསོག་√1][གསོག་√3] 
+#17172l	AnnotatorNotes T17172	[གསོག་√1][གསོག་√3] 
 T17173	NOUN 712 717	སྔགས་
 A17173a	Number T17173 Sing
 T17174	ADP 717 722	ཀྱིས་
@@ -416,7 +416,7 @@ T17182	ADP 749 751	ར་
 A17182a	Case T17182 Ter
 T17183	VERB 751 756	ཕྱིན་
 A17183a	Tense T17183 Past
-#√17183	AnnotatorNotes T17183	[འགྲོ་][ཕྱིན་] 
+#17183l	AnnotatorNotes T17183	[འགྲོ་][ཕྱིན་] 
 T17184	SCONJ 756 759	ཏེ་
 A17184a	Case T17184 Sem
 T17185	NOUN 759 762	ལས་
@@ -432,7 +432,7 @@ T17189	NOUN 772 778	སེར་བ་
 A17189a	Number T17189 Coll
 T17190	VERB 778 782	འབབ་
 A17190a	Tense T17190 Fut/Pres
-#√17190	AnnotatorNotes T17190	[འབབ་√1][འབབ་√2] 
+#17190l	AnnotatorNotes T17190	[འབབ་√1][འབབ་√2] 
 T17191	SCONJ 782 785	ཏུ་
 A17191a	Case T17191 Ter
 T17192	VERB 785 789	ཆ་བ་
@@ -525,9 +525,9 @@ T17235	PRON 956 959	གང་
 A17235a	PronType T17235 Int
 T17236	VERB 959 961	ཟ་
 A17236a	Tense T17236 Pres
-#√17236	AnnotatorNotes T17236	[འཛའ་][ཟ་√1][ཟ་√2][ཟ་√3] 
+#17236l	AnnotatorNotes T17236	[འཛའ་][ཟ་√1][ཟ་√2][ཟ་√3] 
 T17237	VERB 961 965	ཟེར་
-#√17237	AnnotatorNotes T17237	[ཟེར་√1][ཟེར་√2] 
+#17237l	AnnotatorNotes T17237	[ཟེར་√1][ཟེར་√2] 
 T17238	VERB 965 968	ངུ་
 A17238a	Tense T17238 Fut/Pres
 N17238	Reference T17238 Hill:0407	ངུ་
@@ -551,7 +551,7 @@ A17247a	PronType T17247 Ind
 T17248	DET 993 996	རང་
 T17249	VERB 996 1001	བསགས་
 A17249a	Tense T17249 Past
-#√17249	AnnotatorNotes T17249	[གསོག་√1][གསོག་√3] 
+#17249l	AnnotatorNotes T17249	[གསོག་√1][གསོག་√3] 
 T17250	VERB 1001 1004	སྙམ
 N17250	Reference T17250 Hill:0640	སྙམ་
 T17251	PUNCT 1004 1005	།
@@ -601,7 +601,7 @@ N17273	Reference T17273 Hill:1632	ཡོད་
 T17274	SCONJ 1084 1087	དེ་
 A17274a	Case T17274 Sem
 T17275	VERB 1087 1090	ཟེར
-#√17275	AnnotatorNotes T17275	[ཟེར་√1][ཟེར་√2] 
+#17275l	AnnotatorNotes T17275	[ཟེར་√1][ཟེར་√2] 
 T17276	PUNCT 1090 1091	།
 T17278	NOUN 1092 1101	གྲུ་གསུམ་
 A17278a	Number T17278 Sing
@@ -660,5 +660,5 @@ A17302a	Tense T17302 Past
 N17302	Reference T17302 Hill:1789	སུབ་
 T17303	VERB 1209 1213	སོང་
 A17303a	Tense T17303 Past
-#√17303	AnnotatorNotes T17303	[འགྲོ་][སོང་] 
+#17303l	AnnotatorNotes T17303	[འགྲོ་][སོང་] 
 T17304	PUNCT 1213 1214	།

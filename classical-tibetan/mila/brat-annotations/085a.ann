@@ -17,19 +17,19 @@ T53111	PART 22 25	མི་
 A53111a	Polarity T53111 Neg
 T53112	VERB 25 26	ཟ
 A53112a	Tense T53112 Fut/Pres
-#√53112	AnnotatorNotes T53112	[འཛའ་][ཟ་√1][ཟ་√3] 
+#53112l	AnnotatorNotes T53112	[འཛའ་][ཟ་√1][ཟ་√3] 
 T53113	PUNCT 26 27	།
 T53115	NOUN 28 33	རྟིང་
 A53115a	NounType T53115 Rel
 T53116	VERB 33 37	སོང་
 A53116a	Mood T53116 Imp
-#√53116	AnnotatorNotes T53116	[འགྲོ་][སོང་] 
+#53116l	AnnotatorNotes T53116	[འགྲོ་][སོང་] 
 T53117	VERB 37 42	ཁྱེར་
 A53117a	Mood T53117 Imp
 N53117	Reference T53117 Hill:0169	འཁྱེར་
 T53118	VERB 42 46	ཤོག་
 A53118a	Mood T53118 Imp
-#√53118	AnnotatorNotes T53118	[འཆགས་][འོང་][གཤེགས་] 
+#53118l	AnnotatorNotes T53118	[འཆགས་][འོང་][གཤེགས་] 
 T53119	PART 46 50	ཅིག་
 A53119a	Mood T53119 Imp
 T53120	VERB 50 54	ཟ་བ་
@@ -42,7 +42,7 @@ A53122a	Mood T53122 Ind
 T53123	VERB 61 68	གསུངས་པ
 A53123a	Tense T53123 Past
 A53123b	VerbForm T53123 Vnoun
-#√53123	AnnotatorNotes T53123	[གསུང་√1][གསུང་√2] 
+#53123l	AnnotatorNotes T53123	[གསུང་√1][གསུང་√2] 
 T53124	ADP 68 69	ས
 A53124a	Case T53124 Agn
 T53125	PUNCT 69 70	།
@@ -81,7 +81,7 @@ T53141	VERB 137 141	ལོག་
 N53141	Reference T53141 Hill:1719	ལོག་
 T53142	VERB 141 146	ཕྱིན་
 A53142a	Tense T53142 Past
-#√53142	AnnotatorNotes T53142	[འགྲོ་][ཕྱིན་] 
+#53142l	AnnotatorNotes T53142	[འགྲོ་][ཕྱིན་] 
 T53143	SCONJ 146 148	ཏེ
 A53143a	Case T53143 Sem
 T53144	PUNCT 148 149	།
@@ -106,7 +106,7 @@ A53154a	Polarity T53154 Neg
 T53155	VERB 211 217	བཞེས་པ
 A53155a	Tense T53155 Fut/Pres
 A53155b	VerbForm T53155 Vnoun
-#√53155	AnnotatorNotes T53155	[བཞེས་√1][བཞེས་√2] 
+#53155l	AnnotatorNotes T53155	[བཞེས་√1][བཞེས་√2] 
 T53156	ADP 217 219	ར་
 A53156a	Case T53156 Ter
 T53157	VERB 219 224	འདུག་
@@ -122,7 +122,7 @@ A53162a	Number T53162 Plur
 T53163	VERB 243 248	བཤད་པ
 A53163a	Tense T53163 Fut/Past
 A53163b	VerbForm T53163 Vnoun
-#√53163	AnnotatorNotes T53163	[འཆད་√2][ཤད་] 
+#53163l	AnnotatorNotes T53163	[འཆད་√2][ཤད་] 
 T53164	ADP 248 250	ས་
 A53164a	Case T53164 Agn
 T53165	PRON 250 253	ཁོ་
@@ -145,13 +145,13 @@ A53174a	Mood T53174 Imp
 N53174	Reference T53174 Hill:0169	འཁྱེར་
 T53175	VERB 288 292	ཤོག་
 A53175a	Mood T53175 Imp
-#√53175	AnnotatorNotes T53175	[འཆགས་][འོང་][གཤེགས་] 
+#53175l	AnnotatorNotes T53175	[འཆགས་][འོང་][གཤེགས་] 
 T53176	PART 292 295	མི་
 A53176a	Polarity T53176 Neg
 T53177	VERB 295 300	ཟེར་བ
 A53177a	Tense T53177 Fut/Pres
 A53177b	VerbForm T53177 Vnoun
-#√53177	AnnotatorNotes T53177	[ཟེར་√1][ཟེར་√2] 
+#53177l	AnnotatorNotes T53177	[ཟེར་√1][ཟེར་√2] 
 T53178	ADP 300 302	ར་
 A53178a	Case T53178 Ter
 T53179	PRON 302 307	ཁྱོད་
@@ -167,12 +167,12 @@ T53183	SCONJ 317 320	ནས་
 A53183a	Case T53183 Ela
 T53184	VERB 320 321	ཟ
 A53184a	Tense T53184 Fut/Pres
-#√53184	AnnotatorNotes T53184	[འཛའ་][ཟ་√1][ཟ་√3] 
+#53184l	AnnotatorNotes T53184	[འཛའ་][ཟ་√1][ཟ་√3] 
 T53185	SCONJ 321 323	ར་
 A53185a	Case T53185 Ter
 T53186	VERB 323 328	བཅུག་
 A53186a	Tense T53186 Past
-#√53186	AnnotatorNotes T53186	[འཇུག་√2][གཞུག་] 
+#53186l	AnnotatorNotes T53186	[འཇུག་√2][གཞུག་] 
 T53187	VERB 328 332	ཡོང་
 A53187a	Tense T53187 Fut/Pres
 N53187	Reference T53187 Hill:1630	ཡོང་
@@ -201,11 +201,11 @@ A53198a	Mood T53198 Imp
 N53198	Reference T53198 Hill:0169	འཁྱེར་
 T53199	VERB 369 373	ཤོག་
 A53199a	Mood T53199 Imp
-#√53199	AnnotatorNotes T53199	[འཆགས་][འོང་][གཤེགས་] 
+#53199l	AnnotatorNotes T53199	[འཆགས་][འོང་][གཤེགས་] 
 T53200	VERB 373 379	ཟེར་བ་
 A53200a	Tense T53200 Fut/Pres
 A53200b	VerbForm T53200 Vnoun
-#√53200	AnnotatorNotes T53200	[ཟེར་√1][ཟེར་√2] 
+#53200l	AnnotatorNotes T53200	[ཟེར་√1][ཟེར་√2] 
 T53201	DET 379 382	དེ་
 A53201a	PronType T53201 Dem
 T53202	DET 382 384	ཀ་
@@ -250,7 +250,7 @@ T53222	ADP 449 451	ར་
 A53222a	Case T53222 Ter
 T53223	VERB 451 455	སོང་
 A53223a	Mood T53223 Imp
-#√53223	AnnotatorNotes T53223	[འགྲོ་][སོང་] 
+#53223l	AnnotatorNotes T53223	[འགྲོ་][སོང་] 
 T53224	VERB 455 461	ངེས་པ་
 A53224a	VerbForm T53224 Vnoun
 N53224	Reference T53224 Hill:0410	ངེས་
@@ -262,13 +262,13 @@ N53226	Reference T53226 Hill:0260	བགྱིད་
 T53227	PART 470 474	ཤིག་
 A53227a	Mood T53227 Imp
 T53228	VERB 474 478	ཟེར་
-#√53228	AnnotatorNotes T53228	[ཟེར་√1][ཟེར་√2] 
+#53228l	AnnotatorNotes T53228	[ཟེར་√1][ཟེར་√2] 
 T53229	NOUN 478 482	གཡུ་
 A53229a	Number T53229 Sing
 T53230	VERB 482 487	གཏང་བ
 A53230a	Tense T53230 Fut
 A53230b	VerbForm T53230 Vnoun
-#√53230	AnnotatorNotes T53230	[གཏོང་√1][གཏོང་√2] 
+#53230l	AnnotatorNotes T53230	[གཏོང་√1][གཏོང་√2] 
 T53231	ADP 487 488	ས
 A53231a	Case T53231 Agn
 T53232	PUNCT 488 489	།
@@ -373,7 +373,7 @@ A53288a	Polarity T53288 Neg
 T53289	VERB 672 678	ཚུགས་པ
 A53289a	Tense T53289 Fut/Pres
 A53289b	VerbForm T53289 Vnoun
-#√53289	AnnotatorNotes T53289	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
+#53289l	AnnotatorNotes T53289	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
 T53290	ADP 678 680	ར་
 A53290a	Case T53290 Ter
 T53291	VERB 680 686	འདུག་པ
@@ -509,7 +509,7 @@ A53355a	Case T53355 Ter
 T53356	VERB 903 909	བཤད་པ་
 A53356a	Tense T53356 Fut/Past
 A53356b	VerbForm T53356 Vnoun
-#√53356	AnnotatorNotes T53356	[འཆད་√2][ཤད་] 
+#53356l	AnnotatorNotes T53356	[འཆད་√2][ཤད་] 
 T53357	AUX 909 912	ཡིན
 N53357	Reference T53357 Hill:1619	ཡིན་
 T53358	PUNCT 912 913	།
@@ -589,7 +589,7 @@ A53397a	Number T53397 Coll
 T53398	VERB 1046 1050	ཆུང་
 T53399	VERB 1050 1054	བཟས་
 A53399a	Tense T53399 Past
-#√53399	AnnotatorNotes T53399	[ཟ་√2][ཟ་√3] 
+#53399l	AnnotatorNotes T53399	[ཟ་√2][ཟ་√3] 
 T53400	NOUN 1054 1058	ཁྱད་
 A53400a	Number T53400 Sing
 T53401	PART 1058 1061	མི་
@@ -623,7 +623,7 @@ T53414	PART 1104 1106	མ་
 A53414a	Polarity T53414 Neg
 T53415	VERB 1106 1109	ཟད་
 A53415a	Tense T53415 Past
-#√53415	AnnotatorNotes T53415	[འཛད་][ཟད་] 
+#53415l	AnnotatorNotes T53415	[འཛད་][ཟད་] 
 T53416	PRON 1109 1110	ང
 A53416a	PronType T53416 Prs
 T53417	ADP 1110 1113	འི་
@@ -686,7 +686,7 @@ A53442a	NumType T53442 Card
 A53442b	NumForm T53442 Word
 T53443	VERB 1211 1215	འཚང་
 A53443a	Tense T53443 Fut/Pres
-#√53443	AnnotatorNotes T53443	[ཚང་][འཚང་√1][འཚང་√3] 
+#53443l	AnnotatorNotes T53443	[ཚང་][འཚང་√1][འཚང་√3] 
 T53444	ADJ 1215 1221	གཅིག་པ
 T53445	ADP 1221 1223	ས་
 A53445a	Case T53445 Agn
@@ -695,13 +695,13 @@ A53446a	Mood T53446 Imp
 N53446	Reference T53446 Hill:1682	རེམ་
 T53447	VERB 1227 1231	ཤོག་
 A53447a	Mood T53447 Imp
-#√53447	AnnotatorNotes T53447	[འཆགས་][འོང་][གཤེགས་] 
+#53447l	AnnotatorNotes T53447	[འཆགས་][འོང་][གཤེགས་] 
 T53448	PART 1231 1235	ཅིག་
 A53448a	Mood T53448 Imp
 T53449	VERB 1235 1241	ཟེར་བ་
 A53449a	Tense T53449 Fut/Pres
 A53449b	VerbForm T53449 Vnoun
-#√53449	AnnotatorNotes T53449	[ཟེར་√1][ཟེར་√2] 
+#53449l	AnnotatorNotes T53449	[ཟེར་√1][ཟེར་√2] 
 T53450	ADP 1241 1242	ལ
 A53450a	Case T53450 All
 T53451	PUNCT 1242 1243	།

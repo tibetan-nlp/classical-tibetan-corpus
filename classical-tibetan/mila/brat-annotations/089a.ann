@@ -14,7 +14,7 @@ T55856	ADP 22 24	ར་
 A55856a	Case T55856 Ter
 T55857	VERB 24 27	ཤོག
 A55857a	Mood T55857 Imp
-#√55857	AnnotatorNotes T55857	[འཆགས་][འོང་][གཤེགས་] 
+#55857l	AnnotatorNotes T55857	[འཆགས་][འོང་][གཤེགས་] 
 T55858	PUNCT 27 28	།
 T55860	PRON 29 33	བདག་
 A55860a	PronType T55860 Prs
@@ -49,7 +49,7 @@ T55879	ADP 88 90	ར་
 A55879a	Case T55879 Ter
 T55880	VERB 90 94	སོང་
 A55880a	Tense T55880 Past
-#√55880	AnnotatorNotes T55880	[འགྲོ་][སོང་] 
+#55880l	AnnotatorNotes T55880	[འགྲོ་][སོང་] 
 T55881	NOUN 94 98	ཡུལ་
 A55881a	Number T55881 Sing
 T55882	ADP 98 101	དུ་
@@ -58,7 +58,7 @@ T55883	NOUN 101 111	བདེ་སྐྱིད་
 A55883a	Number T55883 Sing
 T55884	VERB 111 114	ཤོག
 A55884a	Mood T55884 Imp
-#√55884	AnnotatorNotes T55884	[འཆགས་][འོང་][གཤེགས་] 
+#55884l	AnnotatorNotes T55884	[འཆགས་][འོང་][གཤེགས་] 
 T55885	PUNCT 114 115	།
 T55887	NOUN 116 118	ས་
 A55887a	Number T55887 Sing
@@ -108,7 +108,7 @@ T55913	ADP 191 193	ར་
 A55913a	Case T55913 Ter
 T55914	VERB 193 196	ཤོག
 A55914a	Mood T55914 Imp
-#√55914	AnnotatorNotes T55914	[འཆགས་][འོང་][གཤེགས་] 
+#55914l	AnnotatorNotes T55914	[འཆགས་][འོང་][གཤེགས་] 
 T55915	PUNCT 196 197	།
 T55917	NOUN 198 205	ལྷ་ཀླུ་
 A55917a	Number T55917 Sing
@@ -151,7 +151,7 @@ T55940	PART 279 282	མི་
 A55940a	Polarity T55940 Neg
 T55941	VERB 282 288	སྐྱེལ་
 A55941a	Tense T55941 Pres
-#√55941	AnnotatorNotes T55941	[སྐྱེལ་√1][སྐྱེལ་√2] 
+#55941l	AnnotatorNotes T55941	[སྐྱེལ་√1][སྐྱེལ་√2] 
 T55942	SCONJ 288 292	ཞིང་
 A55942a	Case T55942 Impf
 T55943	PUNCT 292 293	།
@@ -172,7 +172,7 @@ T55951	ADP 318 320	ར་
 A55951a	Case T55951 Ter
 T55952	VERB 320 323	ཤོག
 A55952a	Mood T55952 Imp
-#√55952	AnnotatorNotes T55952	[འཆགས་][འོང་][གཤེགས་] 
+#55952l	AnnotatorNotes T55952	[འཆགས་][འོང་][གཤེགས་] 
 T55953	PUNCT 323 324	།
 T55955	NOUN 325 334	སྲོག་ཆགས་
 A55955a	Number T55955 Sing
@@ -206,7 +206,7 @@ T55974	PART 387 389	མ་
 A55974a	Polarity T55974 Neg
 T55975	VERB 389 393	ལུས་
 A55975a	Tense T55975 Past
-#√55975	AnnotatorNotes T55975	[ལུ་][ལུས་] 
+#55975l	AnnotatorNotes T55975	[ལུ་][ལུས་] 
 T55976	PRON 393 395	ང་
 A55976a	PronType T55976 Prs
 T55977	ADP 395 399	ཡིས་
@@ -214,18 +214,18 @@ A55977a	Case T55977 Agn
 T55978	VERB 399 406	འདྲེན་པ
 A55978a	Tense T55978 Pres
 A55978b	VerbForm T55978 Vnoun
-#√55978	AnnotatorNotes T55978	[བགྲང་][འདྲེན་] 
+#55978l	AnnotatorNotes T55978	[བགྲང་][འདྲེན་] 
 T55979	ADP 406 408	ར་
 A55979a	Case T55979 Ter
 T55980	VERB 408 411	ཤོག
 A55980a	Mood T55980 Imp
-#√55980	AnnotatorNotes T55980	[འཆགས་][འོང་][གཤེགས་] 
+#55980l	AnnotatorNotes T55980	[འཆགས་][འོང་][གཤེགས་] 
 T55981	PUNCT 411 412	།
 T55983	VERB 413 417	ཅེས་
 A55983a	Mood T55983 Qot
 T55984	VERB 417 423	གསུངས་
 A55984a	Tense T55984 Past
-#√55984	AnnotatorNotes T55984	[གསུང་√1][གསུང་√2] 
+#55984l	AnnotatorNotes T55984	[གསུང་√1][གསུང་√2] 
 T55985	SCONJ 423 425	ནས
 A55985a	Case T55985 Ela
 T55986	PUNCT 425 426	།
@@ -285,7 +285,7 @@ A56015a	Number T56015 Sing
 T56016	VERB 559 564	ཞུ་བ་
 A56016a	Tense T56016 Fut/Pres
 A56016b	VerbForm T56016 Vnoun
-#√56016	AnnotatorNotes T56016	[ཞུ་√1][ཞུ་√2] 
+#56016l	AnnotatorNotes T56016	[ཞུ་√1][ཞུ་√2] 
 T56017	ADP 564 567	དང་
 A56017a	Case T56017 Com
 T56018	PUNCT 567 568	།
@@ -363,7 +363,7 @@ T56054	SCONJ 698 700	ལ་
 A56054a	Case T56054 All
 T56055	VERB 700 704	སོང་
 A56055a	Tense T56055 Past
-#√56055	AnnotatorNotes T56055	[འགྲོ་][སོང་] 
+#56055l	AnnotatorNotes T56055	[འགྲོ་][སོང་] 
 T56056	PART 704 707	ངོ་
 A56056a	Mood T56056 Ind
 T56057	PUNCT 707 708	།
@@ -406,7 +406,7 @@ A56076a	Case T56076 Ela
 T56077	VERB 791 796	ཞུ་བ་
 A56077a	Tense T56077 Fut/Pres
 A56077b	VerbForm T56077 Vnoun
-#√56077	AnnotatorNotes T56077	[ཞུ་√1][ཞུ་√2] 
+#56077l	AnnotatorNotes T56077	[ཞུ་√1][ཞུ་√2] 
 T56078	NOUN 796 799	ནན་
 A56078a	Number T56078 Sing
 T56079	ADP 799 804	གྱིས་
@@ -499,7 +499,7 @@ A56124a	Number T56124 Sing
 T56125	VERB 986 993	གསུངས་པ
 A56125a	Tense T56125 Past
 A56125b	VerbForm T56125 Vnoun
-#√56125	AnnotatorNotes T56125	[གསུང་√1][གསུང་√2] 
+#56125l	AnnotatorNotes T56125	[གསུང་√1][གསུང་√2] 
 T56126	ADP 993 996	འི་
 A56126a	Case T56126 Gen
 T56127	NOUN 996 998	མཐ
@@ -544,7 +544,7 @@ T56147	SCONJ 1081 1084	དུ་
 A56147a	Case T56147 Ter
 T56148	VERB 1084 1088	ཆོད་
 A56148a	Mood T56148 Imp
-#√56148	AnnotatorNotes T56148	[གཅོད་][ཆོད་] 
+#56148l	AnnotatorNotes T56148	[གཅོད་][ཆོད་] 
 T56149	PART 1088 1091	ཅིག
 A56149a	Mood T56149 Imp
 T56150	PRON 1091 1097	ཁོ་བོ་
@@ -566,7 +566,7 @@ A56156a	Mood T56156 Ind
 T56157	VERB 1124 1131	གསུངས་པ
 A56157a	Tense T56157 Past
 A56157b	VerbForm T56157 Vnoun
-#√56157	AnnotatorNotes T56157	[གསུང་√1][གསུང་√2] 
+#56157l	AnnotatorNotes T56157	[གསུང་√1][གསུང་√2] 
 T56158	ADP 1131 1132	ས
 A56158a	Case T56158 Agn
 T56159	PUNCT 1132 1133	།
@@ -581,7 +581,7 @@ T56165	NOUN 1154 1164	ཚོགས་འཁོར་
 A56165a	Number T56165 Sing
 T56166	VERB 1164 1170	བསྐོར་
 A56166a	Tense T56166 Past
-#√56166	AnnotatorNotes T56166	[སྐོར་√1][སྐོར་√2] 
+#56166l	AnnotatorNotes T56166	[སྐོར་√1][སྐོར་√2] 
 T56167	SCONJ 1170 1173	ནས་
 A56167a	Case T56167 Ela
 T56168	NOUN 1173 1181	གདམས་ངག་
@@ -596,7 +596,7 @@ A56171a	Case T56171 Ter
 T56172	VERB 1195 1200	ཞུས་པ
 A56172a	Tense T56172 Past
 A56172b	VerbForm T56172 Vnoun
-#√56172	AnnotatorNotes T56172	[འཇུ་√3][ཞུ་√1] 
+#56172l	AnnotatorNotes T56172	[འཇུ་√3][ཞུ་√1] 
 T56173	ADP 1200 1203	འི་
 A56173a	Case T56173 Gen
 T56174	NOUN 1203 1212	ཚོགས་གྲལ་

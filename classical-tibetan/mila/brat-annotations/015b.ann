@@ -70,7 +70,7 @@ N3225	Reference T3225 Hill:1224	འབུལ་
 T3226	VERB 151 157	ཟེར་བ་
 A3226a	Tense T3226 Fut/Pres
 A3226b	VerbForm T3226 Vnoun
-#√3226	AnnotatorNotes T3226	[ཟེར་√1][ཟེར་√2] 
+#3226l	AnnotatorNotes T3226	[ཟེར་√1][ཟེར་√2] 
 T3227	PRON 157 162	ཁྱོད་
 A3227a	PronType T3227 Prs
 T3228	ADP 162 165	ལས་
@@ -111,7 +111,7 @@ A3243a	Tense T3243 Pres
 N3243	Reference T3243 Hill:1168	བྱེད་
 T3244	VERB 220 226	གསུངས་
 A3244a	Tense T3244 Past
-#√3244	AnnotatorNotes T3244	[གསུང་√1][གསུང་√2] 
+#3244l	AnnotatorNotes T3244	[གསུང་√1][གསུང་√2] 
 T3245	SCONJ 226 228	ནས
 A3245a	Case T3245 Ela
 T3246	PUNCT 228 229	།
@@ -167,13 +167,13 @@ T3270	ADP 316 319	དུ་
 A3270a	Case T3270 Ter
 T3271	VERB 319 321	ལྟ
 A3271a	Tense T3271 Pres
-#√3271	AnnotatorNotes T3271	[ལྟ་√1][ལྟ་√2] 
+#3271l	AnnotatorNotes T3271	[ལྟ་√1][ལྟ་√2] 
 T3272	SCONJ 321 323	ར་
 A3272a	Case T3272 Ter
 T3273	VERB 323 328	བཏང་བ
 A3273a	Tense T3273 Past
 A3273b	VerbForm T3273 Vnoun
-#√3273	AnnotatorNotes T3273	[གཏོང་√1][གཏོང་√2] 
+#3273l	AnnotatorNotes T3273	[གཏོང་√1][གཏོང་√2] 
 T3274	ADP 328 329	ས
 A3274a	Case T3274 Agn
 T3275	PUNCT 329 330	།
@@ -225,7 +225,7 @@ T3301	PART 425 428	འོ་
 A3301a	Mood T3301 Ind
 T3302	VERB 428 431	ཞུ་
 A3302a	Tense T3302 Fut/Pres
-#√3302	AnnotatorNotes T3302	[ཞུ་√1][ཞུ་√2] 
+#3302l	AnnotatorNotes T3302	[ཞུ་√1][ཞུ་√2] 
 T3303	SCONJ 431 435	ཞིང་
 A3303a	Case T3303 Impf
 T3304	VERB 435 442	འདུག་པ་
@@ -540,7 +540,7 @@ A3457a	Case T3457 Ela
 T3458	VERB 1039 1046	གཏོང་བ་
 A3458a	Tense T3458 Pres
 A3458b	VerbForm T3458 Vnoun
-#√3458	AnnotatorNotes T3458	[གཏོང་√1][གཏོང་√2] 
+#3458l	AnnotatorNotes T3458	[གཏོང་√1][གཏོང་√2] 
 T3459	AUX 1046 1050	ཡིན་
 N3459	Reference T3459 Hill:1619	ཡིན་
 T3460	VERB 1050 1055	གསུང་
@@ -683,7 +683,7 @@ T3536	ADP 1367 1369	ར་
 A3536a	Case T3536 Ter
 T3537	VERB 1369 1373	ཞུས་
 A3537a	Tense T3537 Past
-#√3537	AnnotatorNotes T3537	[འཇུ་√3][ཞུ་√1] 
+#3537l	AnnotatorNotes T3537	[འཇུ་√3][ཞུ་√1] 
 T3538	SCONJ 1373 1376	ཏེ་
 A3538a	Case T3538 Sem
 T3539	NOUN 1376 1380	མཐུ་
@@ -700,11 +700,11 @@ T3543	ADP 1394 1396	ར་
 A3543a	Case T3543 Ter
 T3544	VERB 1396 1399	ཞུ་
 A3544a	Tense T3544 Fut/Pres
-#√3544	AnnotatorNotes T3544	[ཞུ་√1][ཞུ་√2] 
+#3544l	AnnotatorNotes T3544	[ཞུ་√1][ཞུ་√2] 
 T3545	VERB 1399 1404	ཞུས་པ
 A3545a	Tense T3545 Past
 A3545b	VerbForm T3545 Vnoun
-#√3545	AnnotatorNotes T3545	[འཇུ་√3][ཞུ་√1] 
+#3545l	AnnotatorNotes T3545	[འཇུ་√3][ཞུ་√1] 
 T3546	ADP 1404 1405	ས
 A3546a	Case T3546 Agn
 T3547	PUNCT 1405 1406	།

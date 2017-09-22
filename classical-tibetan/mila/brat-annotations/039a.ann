@@ -25,13 +25,13 @@ T19807	AUX 38 42	ལགས་
 T19808	VERB 42 47	ཞུས་པ
 A19808a	Tense T19808 Past
 A19808b	VerbForm T19808 Vnoun
-#√19808	AnnotatorNotes T19808	[འཇུ་√3][ཞུ་√1] 
+#19808l	AnnotatorNotes T19808	[འཇུ་√3][ཞུ་√1] 
 T19809	ADP 47 48	ས
 A19809a	Case T19809 Agn
 T19810	PUNCT 48 49	།
 T19814	VERB 58 64	བཞེངས་
 A19814a	Tense T19814 Past
-#√19814	AnnotatorNotes T19814	[བཞེང་√1][བཞེང་√2] 
+#19814l	AnnotatorNotes T19814	[བཞེང་√1][བཞེང་√2] 
 T19815	SCONJ 64 66	ཏེ
 A19815a	Case T19815 Sem
 T19816	PUNCT 66 67	།
@@ -81,7 +81,7 @@ A19839a	Case T19839 Sem
 T19840	PUNCT 150 151	།
 T19842	VERB 152 158	བཞེངས་
 A19842a	Tense T19842 Past
-#√19842	AnnotatorNotes T19842	[བཞེང་√1][བཞེང་√2] 
+#19842l	AnnotatorNotes T19842	[བཞེང་√1][བཞེང་√2] 
 T19843	SCONJ 158 161	ནས་
 A19843a	Case T19843 Ela
 T19844	DET 161 164	ཕྱི
@@ -162,7 +162,7 @@ T19883	PROPN 297 316	རྔོག་སྟོན་ཆོས་རྡོར་
 T19884	VERB 316 321	ཟེར་བ
 A19884a	Tense T19884 Fut/Pres
 A19884b	VerbForm T19884 Vnoun
-#√19884	AnnotatorNotes T19884	[ཟེར་√1][ཟེར་√2] 
+#19884l	AnnotatorNotes T19884	[ཟེར་√1][ཟེར་√2] 
 T19885	ADP 321 324	འི་
 A19885a	Case T19885 Gen
 T19886	PART 324 326	མ་
@@ -201,10 +201,10 @@ A19902a	NounType T19902 Rel
 T19903	DET 394 397	རང་
 T19904	VERB 397 401	ལོང་
 A19904a	Mood T19904 Imp
-#√19904	AnnotatorNotes T19904	[ལང་√1][ལེན་][ལོང་] 
+#19904l	AnnotatorNotes T19904	[ལང་√1][ལེན་][ལོང་] 
 T19905	VERB 401 405	ཤོག་
 A19905a	Mood T19905 Imp
-#√19905	AnnotatorNotes T19905	[འཆགས་][འོང་][གཤེགས་] 
+#19905l	AnnotatorNotes T19905	[འཆགས་][འོང་][གཤེགས་] 
 T19906	PART 405 409	ཅིག་
 A19906a	Mood T19906 Imp
 T19907	VERB 409 414	གསུང་
@@ -342,7 +342,7 @@ A19968a	Case T19968 Ter
 T19969	VERB 638 643	ཞུ་བ་
 A19969a	Tense T19969 Fut/Pres
 A19969b	VerbForm T19969 Vnoun
-#√19969	AnnotatorNotes T19969	[ཞུ་√1][ཞུ་√2] 
+#19969l	AnnotatorNotes T19969	[ཞུ་√1][ཞུ་√2] 
 T19970	VERB 643 648	ཕུལ་བ
 A19970a	Tense T19970 Past
 A19970b	VerbForm T19970 Vnoun
@@ -458,7 +458,7 @@ A20022a	Mood T20022 Ind
 T20023	VERB 811 818	གསུང་བ་
 A20023a	Tense T20023 Fut/Pres
 A20023b	VerbForm T20023 Vnoun
-#√20023	AnnotatorNotes T20023	[གསུང་√1][གསུང་√2] 
+#20023l	AnnotatorNotes T20023	[གསུང་√1][གསུང་√2] 
 T20024	ADP 818 819	ལ
 A20024a	Case T20024 All
 T20025	PUNCT 819 820	།
@@ -594,7 +594,7 @@ T20084	ADP 1037 1039	ར་
 A20084a	Case T20084 Ter
 T20085	VERB 1039 1042	ཞུ་
 A20085a	Tense T20085 Fut/Pres
-#√20085	AnnotatorNotes T20085	[ཞུ་√1][ཞུ་√2] 
+#20085l	AnnotatorNotes T20085	[ཞུ་√1][ཞུ་√2] 
 T20086	VERB 1042 1046	བྱས་
 A20086a	Tense T20086 Past
 N20086	Reference T20086 Hill:1168	བྱེད་
@@ -616,7 +616,7 @@ T20094	PRON 1070 1072	ང་
 A20094a	PronType T20094 Prs
 T20095	VERB 1072 1077	བཟུང་
 A20095a	Tense T20095 Past
-#√20095	AnnotatorNotes T20095	[འཛིན་][གཟུང་] 
+#20095l	AnnotatorNotes T20095	[འཛིན་][གཟུང་] 
 T20096	SCONJ 1077 1080	སྟེ
 A20096a	Case T20096 Sem
 T20097	PUNCT 1080 1081	།
@@ -624,7 +624,7 @@ T20099	NOUN 1082 1090	སྤྱན་ཆབ་
 A20099a	Number T20099 Sing
 T20100	VERB 1090 1095	གསིལ་
 A20100a	Tense T20100 Fut/Pres
-#√20100	AnnotatorNotes T20100	[གསིལ་√1][གསིལ་√2] 
+#20100l	AnnotatorNotes T20100	[གསིལ་√1][གསིལ་√2] 
 T20101	SCONJ 1095 1099	ཞིང་
 A20101a	Case T20101 Impf
 T20102	PUNCT 1099 1100	།
@@ -687,7 +687,7 @@ A20133a	Polarity T20133 Neg
 T20134	VERB 1239 1243	བབ་པ
 A20134a	Tense T20134 Past
 A20134b	VerbForm T20134 Vnoun
-#√20134	AnnotatorNotes T20134	[འབབ་√1][འབབ་√2] 
+#20134l	AnnotatorNotes T20134	[འབབ་√1][འབབ་√2] 
 T20135	ADP 1243 1245	ར་
 A20135a	Case T20135 Ter
 T20136	VERB 1245 1251	འཕོ་བ་

@@ -173,7 +173,7 @@ A54869a	Mood T54869 Imp
 N54869	Reference T54869 Hill:0312	འགྱོད་
 T54870	VERB 307 311	ཚངས་
 A54870a	Mood T54870 Imp
-#√54870	AnnotatorNotes T54870	[ཚངས་][འཚང་√1][འཚང་√2] 
+#54870l	AnnotatorNotes T54870	[ཚངས་][འཚང་√1][འཚང་√2] 
 T54871	VERB 311 315	གྱིས
 A54871a	Mood T54871 Imp
 N54871	Reference T54871 Hill:0260	བགྱིད་
@@ -190,7 +190,7 @@ T54879	NOUN 335 338	དམ་
 A54879a	Number T54879 Sing
 T54880	VERB 338 342	བཅས་
 A54880a	Tense T54880 Past
-#√54880	AnnotatorNotes T54880	[བཅས་][འཆའ་√1][འཆའ་√2] 
+#54880l	AnnotatorNotes T54880	[བཅས་][འཆའ་√1][འཆའ་√2] 
 T54881	SCONJ 342 343	ན
 A54881a	Case T54881 Loc
 T54882	PUNCT 343 344	།
@@ -231,7 +231,7 @@ A54907a	Tense T54907 Fut/Past
 N54907	Reference T54907 Hill:0697	གཏོད་√1
 T54908	VERB 414 419	ཚུགས་
 A54908a	Tense T54908 Past/Pres
-#√54908	AnnotatorNotes T54908	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
+#54908l	AnnotatorNotes T54908	[ཚུགས་√1][ཚུགས་√2][འཚུགས་] 
 T54909	VERB 419 425	མེད་པ་
 A54909a	Polarity T54909 Neg
 A54909b	VerbForm T54909 Vnoun
@@ -295,7 +295,7 @@ A54946a	Number T54946 Sing
 N54946	Reference T54946 Hill:1416	ཚོགས་
 T54947	VERB 525 529	སོག་
 A54947a	Mood T54947 Imp
-#√54947	AnnotatorNotes T54947	[གསོག་√1][གསོག་√2][གསོག་√3] 
+#54947l	AnnotatorNotes T54947	[གསོག་√1][གསོག་√2][གསོག་√3] 
 T54948	NOUN 529 535	སྒྲིབ་
 A54948a	Number T54948 Sing
 N54948	Reference T54948 Hill:0381	སྒྲིབ་
@@ -325,7 +325,7 @@ A54960a	Mood T54960 Imp
 N54960	Reference T54960 Hill:1204	འབད་
 T54961	VERB 573 577	འཚལ་
 A54961a	Tense T54961 Fut/Pres
-#√54961	AnnotatorNotes T54961	[འཚལ་√1][འཚལ་√2] 
+#54961l	AnnotatorNotes T54961	[འཚལ་√1][འཚལ་√2] 
 T54962	PART 577 579	ལོ
 A54962a	Mood T54962 Ind
 T54963	PUNCT 579 580	།
@@ -358,7 +358,7 @@ T54981	PART 626 628	མ་
 A54981a	Polarity T54981 Neg
 T54982	VERB 628 631	ཟད་
 A54982a	Tense T54982 Past
-#√54982	AnnotatorNotes T54982	[འཛད་][ཟད་] 
+#54982l	AnnotatorNotes T54982	[འཛད་][ཟད་] 
 T54983	SCONJ 631 633	དེ
 A54983a	Case T54983 Sem
 T54984	PUNCT 633 634	།
@@ -438,7 +438,7 @@ A55032a	Mood T55032 Qot
 T55033	VERB 784 791	གསུངས་པ
 A55033a	Tense T55033 Past
 A55033b	VerbForm T55033 Vnoun
-#√55033	AnnotatorNotes T55033	[གསུང་√1][གསུང་√2] 
+#55033l	AnnotatorNotes T55033	[གསུང་√1][གསུང་√2] 
 T55034	ADP 791 792	ས
 A55034a	Case T55034 Agn
 T55035	PUNCT 792 793	།
@@ -489,7 +489,7 @@ T55058	NOUN 874 878	དོན་
 A55058a	Number T55058 Sing
 T55059	VERB 878 883	ཕྱིན་
 A55059a	Tense T55059 Past
-#√55059	AnnotatorNotes T55059	[འགྲོ་][ཕྱིན་] 
+#55059l	AnnotatorNotes T55059	[འགྲོ་][ཕྱིན་] 
 T55060	PRON 883 886	ཅི་
 A55060a	PronType T55060 Int
 T55061	PART 886 888	མ་
@@ -497,7 +497,7 @@ A55061a	Polarity T55061 Neg
 T55062	VERB 888 894	ལོག་པ་
 A55062a	Tense T55062 Past
 A55062b	VerbForm T55062 Vnoun
-#√55062	AnnotatorNotes T55062	[ལྡོག་][ལོག་] 
+#55062l	AnnotatorNotes T55062	[ལྡོག་][ལོག་] 
 T55063	NOUN 894 898	གཏན་
 A55063a	Number T55063 Sing
 N55063	Reference T55063 Hill:0677	གཏན་
@@ -519,7 +519,7 @@ A55072a	Polarity T55072 Neg
 T55073	VERB 930 936	རྟོག་པ
 A55073a	Tense T55073 Pres
 A55073b	VerbForm T55073 Vnoun
-#√55073	AnnotatorNotes T55073	[རྟོག་][རྟོགས་] 
+#55073l	AnnotatorNotes T55073	[རྟོག་][རྟོགས་] 
 T55074	ADP 936 939	འི་
 A55074a	Case T55074 Gen
 T55075	NOUN 939 943	ཉམས་

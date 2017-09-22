@@ -87,7 +87,7 @@ A8868a	Case T8868 Ter
 T8869	VERB 184 189	བཞག་པ
 A8869a	Tense T8869 Past
 A8869b	VerbForm T8869 Vnoun
-#√8869	AnnotatorNotes T8869	[འཇོག་√1][བཞག་] 
+#8869l	AnnotatorNotes T8869	[འཇོག་√1][བཞག་] 
 T8870	ADP 189 191	ས་
 A8870a	Case T8870 Agn
 T8871	NOUN 191 201	མཆོད་རྟེན་
@@ -164,7 +164,7 @@ A8908a	Polarity T8908 Xor
 T8909	VERB 355 360	ཞུས་པ
 A8909a	Tense T8909 Past
 A8909b	VerbForm T8909 Vnoun
-#√8909	AnnotatorNotes T8909	[འཇུ་√3][ཞུ་√1] 
+#8909l	AnnotatorNotes T8909	[འཇུ་√3][ཞུ་√1] 
 T8910	ADP 360 361	ས
 A8910a	Case T8910 Agn
 T8911	PUNCT 361 362	།
@@ -312,13 +312,13 @@ T8982	ADP 623 625	ར་
 A8982a	Case T8982 Ter
 T8983	VERB 625 628	ཞུ་
 A8983a	Tense T8983 Fut/Pres
-#√8983	AnnotatorNotes T8983	[ཞུ་√1][ཞུ་√2] 
+#8983l	AnnotatorNotes T8983	[ཞུ་√1][ཞུ་√2] 
 T8984	VERB 628 632	ཞེས་
 A8984a	Mood T8984 Qot
 T8985	VERB 632 637	ཞུ་བ་
 A8985a	Tense T8985 Fut/Pres
 A8985b	VerbForm T8985 Vnoun
-#√8985	AnnotatorNotes T8985	[ཞུ་√1][ཞུ་√2] 
+#8985l	AnnotatorNotes T8985	[ཞུ་√1][ཞུ་√2] 
 T8986	VERB 637 641	ཕུལ་
 A8986a	Tense T8986 Past
 N8986	Reference T8986 Hill:1224	འབུལ་
@@ -330,7 +330,7 @@ A8990a	Polarity T8990 Neg
 T8991	VERB 649 654	གསན་པ
 A8991a	Tense T8991 Past
 A8991b	VerbForm T8991 Vnoun
-#√8991	AnnotatorNotes T8991	[གཟོན་][གསན་] 
+#8991l	AnnotatorNotes T8991	[གཟོན་][གསན་] 
 T8992	ADP 654 656	ར་
 A8992a	Case T8992 Ter
 T8993	NOUN 656 661	བླ་མ་
@@ -354,7 +354,7 @@ A9001a	Mood T9001 Imp
 N9001	Reference T9001 Hill:0169	འཁྱེར་
 T9002	VERB 690 694	ཤོག་
 A9002a	Mood T9002 Imp
-#√9002	AnnotatorNotes T9002	[འཆགས་][འོང་][གཤེགས་] 
+#9002l	AnnotatorNotes T9002	[འཆགས་][འོང་][གཤེགས་] 
 T9003	VERB 694 699	གསུང་
 T9004	PUNCT 699 700	།
 T9006	NOUN 701 707	བུམ་པ་
@@ -367,7 +367,7 @@ N9008	Reference T9008 Hill:0169	འཁྱེར་
 T9009	VERB 715 721	ཕྱིན་པ
 A9009a	Tense T9009 Past
 A9009b	VerbForm T9009 Vnoun
-#√9009	AnnotatorNotes T9009	[འགྲོ་][ཕྱིན་] 
+#9009l	AnnotatorNotes T9009	[འགྲོ་][ཕྱིན་] 
 T9010	ADP 721 722	ས
 A9010a	Case T9010 Agn
 T9011	PUNCT 722 723	།
@@ -392,7 +392,7 @@ A9020a	Mood T9020 Imp
 N9020	Reference T9020 Hill:0169	འཁྱེར་
 T9021	VERB 760 764	ཤོག་
 A9021a	Mood T9021 Imp
-#√9021	AnnotatorNotes T9021	[འཆགས་][འོང་][གཤེགས་] 
+#9021l	AnnotatorNotes T9021	[འཆགས་][འོང་][གཤེགས་] 
 T9022	VERB 764 769	གསུང་
 T9023	PUNCT 769 770	།
 T9025	ADV 771 774	ཡང་
@@ -407,7 +407,7 @@ N9028	Reference T9028 Hill:0169	འཁྱེར་
 T9029	VERB 788 794	ཕྱིན་པ
 A9029a	Tense T9029 Past
 A9029b	VerbForm T9029 Vnoun
-#√9029	AnnotatorNotes T9029	[འགྲོ་][ཕྱིན་] 
+#9029l	AnnotatorNotes T9029	[འགྲོ་][ཕྱིན་] 
 T9030	ADP 794 795	ས
 A9030a	Case T9030 Agn
 T9031	PUNCT 795 796	།
@@ -451,7 +451,7 @@ T9051	PUNCT 861 862	།
 T9053	NOUN 863 867	ཕུད་
 A9053a	Number T9053 Sing
 T9054	VERB 867 872	བཞེས་
-#√9054	AnnotatorNotes T9054	[བཞེས་√1][བཞེས་√2] 
+#9054l	AnnotatorNotes T9054	[བཞེས་√1][བཞེས་√2] 
 T9055	SCONJ 872 876	རུང་
 A9055a	Case T9055 Rung
 T9056	VERB 876 883	བཞུགས་པ
@@ -496,13 +496,13 @@ T9077	VERB 959 963	ཞེས་
 A9077a	Mood T9077 Qot
 T9078	VERB 963 968	འདྲི་
 A9078a	Tense T9078 Pres
-#√9078	AnnotatorNotes T9078	[འདྲི་][འབྲི་√1] 
+#9078l	AnnotatorNotes T9078	[འདྲི་][འབྲི་√1] 
 T9079	SCONJ 968 972	ཞིང་
 A9079a	Case T9079 Impf
 T9080	VERB 972 978	ཕྱིན་པ
 A9080a	Tense T9080 Past
 A9080b	VerbForm T9080 Vnoun
-#√9080	AnnotatorNotes T9080	[འགྲོ་][ཕྱིན་] 
+#9080l	AnnotatorNotes T9080	[འགྲོ་][ཕྱིན་] 
 T9081	ADP 978 979	ས
 A9081a	Case T9081 Agn
 T9082	PUNCT 979 980	།
@@ -513,7 +513,7 @@ N9085	Reference T9085 Hill:1632	ཡོད་
 T9086	VERB 991 997	ཟེར་བ་
 A9086a	Tense T9086 Fut/Pres
 A9086b	VerbForm T9086 Vnoun
-#√9086	AnnotatorNotes T9086	[ཟེར་√1][ཟེར་√2] 
+#9086l	AnnotatorNotes T9086	[ཟེར་√1][ཟེར་√2] 
 T9087	DET 997 1001	ཅིག་
 A9087a	PronType T9087 Ind
 T9088	PART 1001 1005	ཀྱང་
@@ -575,7 +575,7 @@ T9114	PROPN 1088 1093	མར་པ་
 T9115	VERB 1093 1099	ཟེར་བ་
 A9115a	Tense T9115 Fut/Pres
 A9115b	VerbForm T9115 Vnoun
-#√9115	AnnotatorNotes T9115	[ཟེར་√1][ཟེར་√2] 
+#9115l	AnnotatorNotes T9115	[ཟེར་√1][ཟེར་√2] 
 T9116	PART 1099 1102	ནི་
 T9117	VERB 1102 1105	ཡོད
 N9117	Reference T9117 Hill:1632	ཡོད་
@@ -588,12 +588,12 @@ A9122a	Number T9122 Sing
 T9123	VERB 1128 1134	ཟེར་བ་
 A9123a	Tense T9123 Fut/Pres
 A9123b	VerbForm T9123 Vnoun
-#√9123	AnnotatorNotes T9123	[ཟེར་√1][ཟེར་√2] 
+#9123l	AnnotatorNotes T9123	[ཟེར་√1][ཟེར་√2] 
 T9124	PART 1134 1137	ནི་
 T9125	VERB 1137 1141	མེད་
 A9125a	Polarity T9125 Neg
 T9126	VERB 1141 1144	ཟེར
-#√9126	AnnotatorNotes T9126	[ཟེར་√1][ཟེར་√2] 
+#9126l	AnnotatorNotes T9126	[ཟེར་√1][ཟེར་√2] 
 T9127	PUNCT 1144 1145	།
 T9129	ADV 1146 1149	འོ་
 A9129a	PronType T9129 Dem
@@ -619,7 +619,7 @@ A9140a	PronType T9140 Dem
 T9141	AUX 1195 1199	ཡིན་
 N9141	Reference T9141 Hill:1619	ཡིན་
 T9142	VERB 1199 1203	ཟེར་
-#√9142	AnnotatorNotes T9142	[ཟེར་√1][ཟེར་√2] 
+#9142l	AnnotatorNotes T9142	[ཟེར་√1][ཟེར་√2] 
 T9143	VERB 1203 1208	བསྟན་
 A9143a	Tense T9143 Fut/Past
 N9143	Reference T9143 Hill:0746	སྟོན་
@@ -646,14 +646,14 @@ T9155	PROPN 1239 1244	མར་པ་
 T9156	VERB 1244 1250	ཟེར་བ་
 A9156a	Tense T9156 Fut/Pres
 A9156b	VerbForm T9156 Vnoun
-#√9156	AnnotatorNotes T9156	[ཟེར་√1][ཟེར་√2] 
+#9156l	AnnotatorNotes T9156	[ཟེར་√1][ཟེར་√2] 
 T9157	DET 1250 1253	དེ་
 A9157a	PronType T9157 Dem
 T9158	DET 1253 1255	ཀ་
 T9159	VERB 1255 1259	ཡོད་
 N9159	Reference T9159 Hill:1632	ཡོད་
 T9160	VERB 1259 1262	ཟེར
-#√9160	AnnotatorNotes T9160	[ཟེར་√1][ཟེར་√2] 
+#9160l	AnnotatorNotes T9160	[ཟེར་√1][ཟེར་√2] 
 T9161	PUNCT 1262 1263	།
 T9163	DET 1264 1267	དེ་
 A9163a	PronType T9163 Dem

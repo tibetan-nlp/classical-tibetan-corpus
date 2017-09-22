@@ -22,7 +22,7 @@ A13721a	Polarity T13721 Neg
 T13722	VERB 34 39	སོས་བ
 A13722a	Tense T13722 Past
 A13722b	VerbForm T13722 Vnoun
-#√13722	AnnotatorNotes T13722	[སོས་][གསོ་√1] 
+#13722l	AnnotatorNotes T13722	[སོས་][གསོ་√1] 
 T13723	ADP 39 41	ར་
 A13723a	Case T13723 Ter
 T13724	NOUN 41 44	ལས་
@@ -113,7 +113,7 @@ A13762a	Number T13762 Sing
 T13765	VERB 182 188	སོས་པ་
 A13765a	Tense T13765 Past
 A13765b	VerbForm T13765 Vnoun
-#√13765	AnnotatorNotes T13765	[སོས་][གསོ་√1] 
+#13765l	AnnotatorNotes T13765	[སོས་][གསོ་√1] 
 T13766	ADP 188 191	དང་
 A13766a	Case T13766 Com
 T13767	PUNCT 191 192	།
@@ -148,7 +148,7 @@ N13784	Reference T13784 Hill:1660	རན་
 T13785	VERB 251 257	གསུང་བ
 A13785a	Tense T13785 Fut/Pres
 A13785b	VerbForm T13785 Vnoun
-#√13785	AnnotatorNotes T13785	[གསུང་√1][གསུང་√2] 
+#13785l	AnnotatorNotes T13785	[གསུང་√1][གསུང་√2] 
 T13786	ADP 257 259	ས་
 A13786a	Case T13786 Agn
 T13787	VERB 259 269	བྱེད་གྲབས་
@@ -252,14 +252,14 @@ T13838	PRON 454 456	ང་
 A13838a	PronType T13838 Prs
 T13839	VERB 456 461	གཏོང་
 A13839a	Tense T13839 Pres
-#√13839	AnnotatorNotes T13839	[གཏོང་√1][གཏོང་√2] 
+#13839l	AnnotatorNotes T13839	[གཏོང་√1][གཏོང་√2] 
 T13840	VERB 461 467	གྲོགས་
 T13841	VERB 467 472	མཛོད་
 A13841a	Mood T13841 Imp
 N13841	Reference T13841 Hill:1465	མཛད་
 T13842	VERB 472 476	ཟེར་
 A13842a	Tense T13842 Fut/Pres
-#√13842	AnnotatorNotes T13842	[ཟེར་√1][ཟེར་√2] 
+#13842l	AnnotatorNotes T13842	[ཟེར་√1][ཟེར་√2] 
 T13843	SCONJ 476 480	ཞིང་
 A13843a	Case T13843 Impf
 T13844	VERB 480 487	འགྲོ་བ་
@@ -291,7 +291,7 @@ T13856	ADP 515 517	ལ་
 A13856a	Case T13856 All
 T13857	VERB 517 521	ཞུས་
 A13857a	Tense T13857 Past
-#√13857	AnnotatorNotes T13857	[འཇུ་√3][ཞུ་√1] 
+#13857l	AnnotatorNotes T13857	[འཇུ་√3][ཞུ་√1] 
 T13858	SCONJ 521 524	ནས་
 A13858a	Case T13858 Ela
 T13859	NOUN 524 528	ཆོས་
@@ -341,7 +341,7 @@ A13881a	Number T13881 Sing
 T13882	ADP 593 595	ས་
 A13882a	Case T13882 Agn
 T13883	VERB 595 601	གཟིགས་
-#√13883	AnnotatorNotes T13883	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#13883l	AnnotatorNotes T13883	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T13884	SCONJ 601 603	ཏེ
 A13884a	Case T13884 Sem
 T13885	PUNCT 603 604	།
@@ -460,7 +460,7 @@ T13945	VERB 823 828	འགྲོ་
 A13945a	Tense T13945 Fut/Pres
 N13945	Reference T13945 Hill:0331	འགྲོ་
 T13946	VERB 828 832	ཟེར་
-#√13946	AnnotatorNotes T13946	[ཟེར་√1][ཟེར་√2] 
+#13946l	AnnotatorNotes T13946	[ཟེར་√1][ཟེར་√2] 
 T13947	VERB 832 835	ཆས་
 N13947	Reference T13947 Hill:0481	ཆ་
 T13948	VERB 835 841	གདའ་བ་
@@ -503,7 +503,7 @@ T13964	AUX 900 904	ལགས་
 T13965	VERB 904 909	ཞུས་པ
 A13965a	Tense T13965 Past
 A13965b	VerbForm T13965 Vnoun
-#√13965	AnnotatorNotes T13965	[འཇུ་√3][ཞུ་√1] 
+#13965l	AnnotatorNotes T13965	[འཇུ་√3][ཞུ་√1] 
 T13966	ADP 909 911	ས་
 A13966a	Case T13966 Agn
 T13967	VERB 911 914	གོ་
@@ -532,7 +532,7 @@ A13980a	Number T13980 Sing
 T13981	ADJ 954 960	མང་པོ་
 T13982	VERB 960 966	བརྒྱབ་
 A13982a	Tense T13982 Past
-#√13982	AnnotatorNotes T13982	[རྒྱག་√1][རྒྱག་√2] 
+#13982l	AnnotatorNotes T13982	[རྒྱག་√1][རྒྱག་√2] 
 T13983	SCONJ 966 968	ནས
 A13983a	Case T13983 Ela
 T13984	PUNCT 968 969	།
@@ -598,7 +598,7 @@ T14013	PART 1063 1065	མ་
 A14013a	Polarity T14013 Neg
 T14014	VERB 1065 1069	སོང་
 A14014a	Tense T14014 Past
-#√14014	AnnotatorNotes T14014	[འགྲོ་][སོང་] 
+#14014l	AnnotatorNotes T14014	[འགྲོ་][སོང་] 
 T14015	SCONJ 1069 1071	ན་
 A14015a	Case T14015 Loc
 T14017	ADP 1079 1082	འི་
@@ -668,7 +668,7 @@ T14048	NOUN 1186 1195	རྒྱུ་མཚན་
 A14048a	Number T14048 Sing
 T14049	VERB 1195 1199	ཤོད་
 A14049a	Mood T14049 Imp
-#√14049	AnnotatorNotes T14049	[འཆད་√2][ཤད་] 
+#14049l	AnnotatorNotes T14049	[འཆད་√2][ཤད་] 
 T14050	VERB 1199 1204	གསུང་
 T14051	PUNCT 1204 1205	།
 T14053	VERB 1206 1213	བསྒྱེལ་
@@ -693,11 +693,11 @@ T14062	ADP 1241 1244	དུ་
 A14062a	Case T14062 Ter
 T14063	VERB 1244 1250	བསྣམས་
 A14063a	Tense T14063 Past
-#√14063	AnnotatorNotes T14063	[སྣོམ་√1][སྣོམ་√2] 
+#14063l	AnnotatorNotes T14063	[སྣོམ་√1][སྣོམ་√2] 
 T14064	VERB 1250 1256	སོང་བ་
 A14064a	Tense T14064 Past
 A14064b	VerbForm T14064 Vnoun
-#√14064	AnnotatorNotes T14064	[འགྲོ་][སོང་] 
+#14064l	AnnotatorNotes T14064	[འགྲོ་][སོང་] 
 T14065	ADP 1256 1259	དང་
 A14065a	Case T14065 Com
 T14066	PUNCT 1259 1260	།

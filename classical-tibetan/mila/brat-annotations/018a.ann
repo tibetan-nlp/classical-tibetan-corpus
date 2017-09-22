@@ -8,7 +8,7 @@ T5066	NUM 20 25	གཅིག་
 A5066a	NumType T5066 Card
 A5066b	NumForm T5066 Word
 T5067	VERB 25 29	ཐུབ་
-#√5067	AnnotatorNotes T5067	[ཐུབ་√2][ཐུབ་√3] 
+#5067l	AnnotatorNotes T5067	[ཐུབ་√2][ཐུབ་√3] 
 T5068	SCONJ 29 32	སྟེ
 A5068a	Case T5068 Sem
 T5069	PUNCT 32 33	།
@@ -37,7 +37,7 @@ A5080a	Number T5080 Sing
 T5081	VERB 81 88	སྐོར་བ་
 A5081a	Tense T5081 Pres
 A5081b	VerbForm T5081 Vnoun
-#√5081	AnnotatorNotes T5081	[སྐོར་√1][སྐོར་√2] 
+#5081l	AnnotatorNotes T5081	[སྐོར་√1][སྐོར་√2] 
 T5082	ADP 88 90	ལ་
 A5082a	Case T5082 All
 T5083	NOUN 90 98	གོས་ལྷམ་
@@ -439,7 +439,7 @@ A5285a	Tense T5285 Fut/Past
 N5285	Reference T5285 Hill:0046	སྐུར་
 T5286	VERB 906 910	ཐོང་
 A5286a	Mood T5286 Imp
-#√5286	AnnotatorNotes T5286	[གཏོང་√1][གཏོང་√2] 
+#5286l	AnnotatorNotes T5286	[གཏོང་√1][གཏོང་√2] 
 T5287	PUNCT 910 911	།
 T5289	PRON 912 913	ང
 A5289a	PronType T5289 Prs
@@ -478,7 +478,7 @@ A5303a	Case T5303 Agn
 T5304	VERB 965 969	སླ་བ
 A5304a	Tense T5304 Pres
 A5304b	VerbForm T5304 Vnoun
-#√5304	AnnotatorNotes T5304	[སླ་√1][སླ་√2] 
+#5304l	AnnotatorNotes T5304	[སླ་√1][སླ་√2] 
 T5305	ADP 969 971	ར་
 A5305a	Case T5305 Ter
 T5306	VERB 971 977	འདུག་པ
@@ -526,10 +526,10 @@ T5324	ADP 1056 1059	སུ་
 A5324a	Case T5324 Ter
 T5325	VERB 1059 1063	ཐོན་
 A5325a	Mood T5325 Imp
-#√5325	AnnotatorNotes T5325	[འཐོན་√2][འདོན་] 
+#5325l	AnnotatorNotes T5325	[འཐོན་√2][འདོན་] 
 T5326	VERB 1063 1066	ཤོག
 A5326a	Mood T5326 Imp
-#√5326	AnnotatorNotes T5326	[འཆགས་][འོང་][གཤེགས་] 
+#5326l	AnnotatorNotes T5326	[འཆགས་][འོང་][གཤེགས་] 
 T5327	PRON 1066 1067	ང
 A5327a	PronType T5327 Prs
 T5328	ADP 1067 1069	ས་

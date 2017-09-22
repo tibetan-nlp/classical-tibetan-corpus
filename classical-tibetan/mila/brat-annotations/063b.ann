@@ -71,7 +71,7 @@ A37909a	Case T37909 Ter
 T37910	VERB 120 125	སོང་བ
 A37910a	Tense T37910 Past
 A37910b	VerbForm T37910 Vnoun
-#√37910	AnnotatorNotes T37910	[འགྲོ་][སོང་] 
+#37910l	AnnotatorNotes T37910	[འགྲོ་][སོང་] 
 T37911	PUNCT 125 126	།
 T37913	NOUN 127 129	ཟྭ
 A37913a	Number T37913 Sing
@@ -129,7 +129,7 @@ A37939a	Case T37939 Ter
 T37940	VERB 226 231	བཞག་པ
 A37940a	Tense T37940 Past
 A37940b	VerbForm T37940 Vnoun
-#√37940	AnnotatorNotes T37940	[འཇོག་√1][བཞག་] 
+#37940l	AnnotatorNotes T37940	[འཇོག་√1][བཞག་] 
 T37941	ADP 231 232	ས
 A37941a	Case T37941 Agn
 T37942	PUNCT 232 233	།
@@ -177,7 +177,7 @@ T37964	SCONJ 315 318	ནས་
 A37964a	Case T37964 Ela
 T37965	VERB 318 321	ལྟ་
 A37965a	Tense T37965 Pres
-#√37965	AnnotatorNotes T37965	[ལྟ་√1][ལྟ་√2] 
+#37965l	AnnotatorNotes T37965	[ལྟ་√1][ལྟ་√2] 
 T37966	VERB 321 327	སྙམ་པ་
 A37966a	VerbForm T37966 Vnoun
 N37966	Reference T37966 Hill:0640	སྙམ་
@@ -193,7 +193,7 @@ T37972	DET 339 343	ཤིག་
 A37972a	PronType T37972 Ind
 T37973	VERB 343 346	ལྟ་
 A37973a	Tense T37973 Pres
-#√37973	AnnotatorNotes T37973	[ལྟ་√1][ལྟ་√2] 
+#37973l	AnnotatorNotes T37973	[ལྟ་√1][ལྟ་√2] 
 T37974	PART 346 348	མ་
 A37974a	Polarity T37974 Neg
 T37975	VERB 348 352	རན་པ
@@ -213,7 +213,7 @@ T37980	SCONJ 368 371	ནས་
 A37980a	Case T37980 Ela
 T37981	VERB 371 374	བཞག
 A37981a	Tense T37981 Past
-#√37981	AnnotatorNotes T37981	[འཇོག་√1][བཞག་] 
+#37981l	AnnotatorNotes T37981	[འཇོག་√1][བཞག་] 
 T37982	DET 374 377	དེ་
 A37982a	PronType T37982 Dem
 T37983	ADP 377 380	ནས་
@@ -229,7 +229,7 @@ A37986a	PronType T37986 Tsam
 T37987	VERB 391 397	ལོན་པ་
 A37987a	Tense T37987 Past/Pres
 A37987b	VerbForm T37987 Vnoun
-#√37987	AnnotatorNotes T37987	[ལན་][ལོན་√1][ལོན་√2] 
+#37987l	AnnotatorNotes T37987	[ལན་][ལོན་√1][ལོན་√2] 
 T37988	ADP 397 400	དང་
 A37988a	Case T37988 Com
 T37989	PUNCT 400 401	།
@@ -278,13 +278,13 @@ T38010	VERB 483 488	འདུག་
 A38010a	Mood T38010 Imp
 N38010	Reference T38010 Hill:0875	འདུག་
 T38011	VERB 488 492	ཟེར་
-#√38011	AnnotatorNotes T38011	[ཟེར་√1][ཟེར་√2] 
+#38011l	AnnotatorNotes T38011	[ཟེར་√1][ཟེར་√2] 
 T38012	VERB 492 497	བྲོས་
 A38012a	Tense T38012 Past
 N38012	Reference T38012 Hill:1275	འབྲོས་
 T38013	VERB 497 501	སོང་
 A38013a	Tense T38013 Past
-#√38013	AnnotatorNotes T38013	[འགྲོ་][སོང་] 
+#38013l	AnnotatorNotes T38013	[འགྲོ་][སོང་] 
 T38014	PUNCT 501 502	།
 T38016	NOUN 503 506	མི་
 A38016a	Number T38016 Sing
@@ -320,13 +320,13 @@ T38031	SCONJ 563 567	སྟེ་
 A38031a	Case T38031 Sem
 T38032	VERB 567 570	ལྟ་
 A38032a	Tense T38032 Pres
-#√38032	AnnotatorNotes T38032	[ལྟ་√1][ལྟ་√2] 
+#38032l	AnnotatorNotes T38032	[ལྟ་√1][ལྟ་√2] 
 T38033	SCONJ 570 573	རུ་
 A38033a	Case T38033 Ter
 T38034	SCONJ 573 577	རུང་
 A38034a	Case T38034 Rung
 T38035	VERB 577 580	ཟེར
-#√38035	AnnotatorNotes T38035	[ཟེར་√1][ཟེར་√2] 
+#38035l	AnnotatorNotes T38035	[ཟེར་√1][ཟེར་√2] 
 T38036	PUNCT 580 581	།
 T38038	DET 582 584	ཚུ
 A38038a	PronType T38038 Dem
@@ -347,7 +347,7 @@ T38045	DET 605 612	ཐམས་ཅད་
 A38045a	Number T38045 Plur
 T38046	VERB 612 618	གཡེངས་
 A38046a	Tense T38046 Past
-#√38046	AnnotatorNotes T38046	[གཡེང་√1][གཡེང་√2] 
+#38046l	AnnotatorNotes T38046	[གཡེང་√1][གཡེང་√2] 
 T38047	SCONJ 618 620	ཏེ
 A38047a	Case T38047 Sem
 T38048	PUNCT 620 621	།
@@ -377,7 +377,7 @@ T38062	SCONJ 668 670	ར་
 A38062a	Case T38062 Ter
 T38063	VERB 670 674	ཐོང་
 A38063a	Mood T38063 Imp
-#√38063	AnnotatorNotes T38063	[གཏོང་√1][གཏོང་√2] 
+#38063l	AnnotatorNotes T38063	[གཏོང་√1][གཏོང་√2] 
 T38064	PUNCT 674 675	།
 T38066	NOUN 676 679	ཕྱི
 A38066a	NounType T38066 Rel
@@ -395,7 +395,7 @@ T38073	PART 702 705	མི་
 A38073a	Polarity T38073 Neg
 T38074	VERB 705 709	བཏང་
 A38074a	Tense T38074 Past
-#√38074	AnnotatorNotes T38074	[གཏོང་√1][གཏོང་√2] 
+#38074l	AnnotatorNotes T38074	[གཏོང་√1][གཏོང་√2] 
 T38075	SCONJ 709 711	ན་
 A38075a	Case T38075 Loc
 T38076	VERB 711 718	གསོད་པ་
@@ -405,7 +405,7 @@ N38076	Reference T38076 Hill:1863	གསོད་
 T38077	AUX 718 722	ཡིན་
 N38077	Reference T38077 Hill:1619	ཡིན་
 T38078	VERB 722 726	ཟེར་
-#√38078	AnnotatorNotes T38078	[ཟེར་√1][ཟེར་√2] 
+#38078l	AnnotatorNotes T38078	[ཟེར་√1][ཟེར་√2] 
 T38079	VERB 726 733	བསྡིགས་
 A38079a	Tense T38079 Past
 N38079	Reference T38079 Hill:0958	སྡིག་
@@ -442,7 +442,7 @@ A38096a	Number T38096 Sing
 T38097	VERB 789 797	འདེགས་པ་
 A38097a	Tense T38097 Pres
 A38097b	VerbForm T38097 Vnoun
-#√38097	AnnotatorNotes T38097	[ཐེག་√2][འདེགས་] 
+#38097l	AnnotatorNotes T38097	[ཐེག་√2][འདེགས་] 
 T38098	PART 797 800	ཡང་
 T38099	VERB 800 806	ཡོད་པ་
 A38099a	VerbForm T38099 Vnoun
@@ -486,7 +486,7 @@ A38115a	Number T38115 Sing
 T38116	VERB 867 873	བཏེག་པ
 A38116a	Tense T38116 Past
 A38116b	VerbForm T38116 Vnoun
-#√38116	AnnotatorNotes T38116	[ཐེག་√2][འདེགས་] 
+#38116l	AnnotatorNotes T38116	[ཐེག་√2][འདེགས་] 
 T38117	ADP 873 875	ས་
 A38117a	Case T38117 Agn
 T38118	PRON 875 878	ཅི་
@@ -513,9 +513,9 @@ T38130	ADP 912 914	ན་
 A38130a	Case T38130 Loc
 T38131	VERB 914 920	འདེགས་
 A38131a	Tense T38131 Pres
-#√38131	AnnotatorNotes T38131	[ཐེག་√2][འདེགས་] 
+#38131l	AnnotatorNotes T38131	[ཐེག་√2][འདེགས་] 
 T38132	VERB 920 923	ཟེར
-#√38132	AnnotatorNotes T38132	[ཟེར་√1][ཟེར་√2] 
+#38132l	AnnotatorNotes T38132	[ཟེར་√1][ཟེར་√2] 
 T38133	PUNCT 923 924	།
 T38135	NOUN 925 928	པང་
 A38135a	Number T38135 Sing
@@ -537,7 +537,7 @@ A38142a	PronType T38142 Dem
 T38143	VERB 949 956	བརྡབས་པ
 A38143a	Tense T38143 Past
 A38143b	VerbForm T38143 Vnoun
-#√38143	AnnotatorNotes T38143	[རྡེབ་][བརྡབ་] 
+#38143l	AnnotatorNotes T38143	[རྡེབ་][བརྡབ་] 
 T38144	ADP 956 957	ས
 A38144a	Case T38144 Agn
 T38145	PUNCT 957 958	།
@@ -685,7 +685,7 @@ T38215	VERB 1232 1237	བྱེད་
 A38215a	Tense T38215 Pres
 N38215	Reference T38215 Hill:1168	བྱེད་
 T38216	VERB 1237 1240	ཟེར
-#√38216	AnnotatorNotes T38216	[ཟེར་√1][ཟེར་√2] 
+#38216l	AnnotatorNotes T38216	[ཟེར་√1][ཟེར་√2] 
 T38217	PUNCT 1240 1241	།
 T38219	PRON 1242 1244	ང་
 A38219a	PronType T38219 Prs
@@ -729,13 +729,13 @@ T38238	ADP 1325 1328	ཏུ་
 A38238a	Case T38238 Ter
 T38239	VERB 1328 1332	ཆུག་
 A38239a	Mood T38239 Imp
-#√38239	AnnotatorNotes T38239	[འཇུག་√2][གཞུག་] 
+#38239l	AnnotatorNotes T38239	[འཇུག་√2][གཞུག་] 
 T38240	PART 1332 1336	ཅིག་
 A38240a	Mood T38240 Imp
 T38241	VERB 1336 1342	ཟེར་བ་
 A38241a	Tense T38241 Fut/Pres
 A38241b	VerbForm T38241 Vnoun
-#√38241	AnnotatorNotes T38241	[ཟེར་√1][ཟེར་√2] 
+#38241l	AnnotatorNotes T38241	[ཟེར་√1][ཟེར་√2] 
 T38242	ADP 1342 1343	ལ
 A38242a	Case T38242 All
 T38243	PUNCT 1343 1344	།

@@ -18,18 +18,18 @@ T15888	NOUN 25 29	ཕྱག་
 A15888a	Number T15888 Sing
 T15889	VERB 29 33	འཚལ་
 A15889a	Tense T15889 Fut/Pres
-#√15889	AnnotatorNotes T15889	[འཚལ་√1][འཚལ་√2] 
+#15889l	AnnotatorNotes T15889	[འཚལ་√1][འཚལ་√2] 
 T15890	SCONJ 33 36	དུ་
 A15890a	Case T15890 Ter
 T15891	VERB 36 41	གཏོང་
 A15891a	Tense T15891 Pres
-#√15891	AnnotatorNotes T15891	[གཏོང་√1][གཏོང་√2] 
+#15891l	AnnotatorNotes T15891	[གཏོང་√1][གཏོང་√2] 
 T15892	SCONJ 41 42	ན
 A15892a	Case T15892 Loc
 T15893	PART 42 45	འང་
 T15894	VERB 45 49	ཐོང་
 A15894a	Mood T15894 Imp
-#√15894	AnnotatorNotes T15894	[གཏོང་√1][གཏོང་√2] 
+#15894l	AnnotatorNotes T15894	[གཏོང་√1][གཏོང་√2] 
 T15895	VERB 49 54	གསུང་
 T15896	NOUN 54 58	ཕྱག་
 A15896a	Number T15896 Sing
@@ -41,7 +41,7 @@ A15898a	Case T15898 All
 T15899	VERB 65 71	ཕྱིན་པ
 A15899a	Tense T15899 Past
 A15899b	VerbForm T15899 Vnoun
-#√15899	AnnotatorNotes T15899	[འགྲོ་][ཕྱིན་] 
+#15899l	AnnotatorNotes T15899	[འགྲོ་][ཕྱིན་] 
 T15900	ADP 71 72	ས
 A15900a	Case T15900 Agn
 T15901	PUNCT 72 73	།
@@ -93,7 +93,7 @@ A15926a	Number T15926 Sing
 T15927	PART 158 162	ཀྱང་
 T15928	VERB 162 167	གཏོང་
 A15928a	Tense T15928 Pres
-#√15928	AnnotatorNotes T15928	[གཏོང་√1][གཏོང་√2] 
+#15928l	AnnotatorNotes T15928	[གཏོང་√1][གཏོང་√2] 
 T15929	VERB 167 173	དགོས་པ
 A15929a	VerbForm T15929 Vnoun
 A15929b	VerbType T15929 Aux
@@ -113,7 +113,7 @@ A15937a	NumType T15937 Card
 A15937b	NumForm T15937 Word
 T15938	VERB 193 196	ཁོལ
 A15938a	Mood T15938 Imp
-#√15938	AnnotatorNotes T15938	[འཁལ་][འཁོལ་√2][འཁོལ་√3][འགེལ་] 
+#15938l	AnnotatorNotes T15938	[འཁལ་][འཁོལ་√2][འཁོལ་√3][འགེལ་] 
 T15939	PUNCT 196 197	།
 T15941	DET 198 201	དེ་
 A15941a	PronType T15941 Dem
@@ -165,11 +165,11 @@ T15962	ADP 280 282	ས་
 A15962a	Case T15962 Agn
 T15963	VERB 282 286	སོང་
 A15963a	Mood T15963 Imp
-#√15963	AnnotatorNotes T15963	[འགྲོ་][སོང་] 
+#15963l	AnnotatorNotes T15963	[འགྲོ་][སོང་] 
 T15964	VERB 286 292	གསུང་པ
 A15964a	Tense T15964 Fut/Pres
 A15964b	VerbForm T15964 Vnoun
-#√15964	AnnotatorNotes T15964	[གསུང་√1][གསུང་√2] 
+#15964l	AnnotatorNotes T15964	[གསུང་√1][གསུང་√2] 
 T15965	ADP 292 293	ས
 A15965a	Case T15965 Agn
 T15966	PUNCT 293 294	།
@@ -178,7 +178,7 @@ A15968a	Number T15968 Sing
 N15968	Reference T15968 Hill:1704	ལན་
 T15969	VERB 298 301	ཞུ་
 A15969a	Tense T15969 Fut/Pres
-#√15969	AnnotatorNotes T15969	[ཞུ་√1][ཞུ་√2] 
+#15969l	AnnotatorNotes T15969	[ཞུ་√1][ཞུ་√2] 
 T15970	PART 301 303	མ་
 A15970a	Polarity T15970 Neg
 T15971	VERB 303 308	ནུས་པ
@@ -307,7 +307,7 @@ T16035	ADP 519 521	ར་
 A16035a	Case T16035 Ter
 T16036	VERB 521 523	ཞུ
 A16036a	Tense T16036 Fut/Pres
-#√16036	AnnotatorNotes T16036	[ཞུ་√1][ཞུ་√2] 
+#16036l	AnnotatorNotes T16036	[ཞུ་√1][ཞུ་√2] 
 T16037	PUNCT 523 524	།
 T16039	NOUN 525 532	ཡབ་ཡུམ་
 A16039a	Number T16039 Sing
@@ -560,7 +560,7 @@ A16166b	NumForm T16166 Word
 T16167	VERB 991 998	བཙོས་པ་
 A16167a	Tense T16167 Past
 A16167b	VerbForm T16167 Vnoun
-#√16167	AnnotatorNotes T16167	[འཚོ་√2][འཚོད་] 
+#16167l	AnnotatorNotes T16167	[འཚོ་√2][འཚོད་] 
 T16168	ADP 998 999	ལ
 A16168a	Case T16168 All
 T16169	PUNCT 999 1000	།
@@ -584,7 +584,7 @@ T16180	ADV 1034 1037	ཡང་
 A16180a	PronType T16180 Dem
 T16181	VERB 1037 1043	བསིངས་
 A16181a	Tense T16181 Past
-#√16181	AnnotatorNotes T16181	[སིང་][གསིང་] 
+#16181l	AnnotatorNotes T16181	[སིང་][གསིང་] 
 T16182	VERB 1043 1048	བྱས་པ
 A16182a	Tense T16182 Past
 A16182b	VerbForm T16182 Vnoun
@@ -621,12 +621,12 @@ T16198	SCONJ 1102 1105	ནས་
 A16198a	Case T16198 Ela
 T16199	VERB 1105 1111	འདྲེན་
 A16199a	Tense T16199 Pres
-#√16199	AnnotatorNotes T16199	[བགྲང་][འདྲེན་] 
+#16199l	AnnotatorNotes T16199	[བགྲང་][འདྲེན་] 
 T16200	SCONJ 1111 1114	དུ་
 A16200a	Case T16200 Ter
 T16201	VERB 1114 1119	བཅུག་
 A16201a	Tense T16201 Past
-#√16201	AnnotatorNotes T16201	[འཇུག་√2][གཞུག་] 
+#16201l	AnnotatorNotes T16201	[འཇུག་√2][གཞུག་] 
 T16202	NOUN 1119 1123	ཡུམ་
 A16202a	Number T16202 Sing
 N16202	Reference T16202 Hill:1623	ཡུམ་
@@ -658,7 +658,7 @@ T16217	PUNCT 1174 1175	།
 T16219	VERB 1176 1181	སླ་བ་
 A16219a	Tense T16219 Pres
 A16219b	VerbForm T16219 Vnoun
-#√16219	AnnotatorNotes T16219	[སླ་√1][སླ་√2] 
+#16219l	AnnotatorNotes T16219	[སླ་√1][སླ་√2] 
 T16220	ADP 1181 1184	ནས་
 A16220a	Case T16220 Ela
 T16221	NOUN 1184 1188	ཡུམ་

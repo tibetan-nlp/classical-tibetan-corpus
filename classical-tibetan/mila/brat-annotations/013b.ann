@@ -104,7 +104,7 @@ A1844a	Number T1844 Sing
 T1845	VERB 199 204	བཙལ་བ
 A1845a	Tense T1845 Fut
 A1845b	VerbForm T1845 Vnoun
-#√1845	AnnotatorNotes T1845	[འཚལ་√1][འཚོལ་] 
+#1845l	AnnotatorNotes T1845	[འཚལ་√1][འཚོལ་] 
 T1846	ADP 204 205	ས
 A1846a	Case T1846 Agn
 T1847	PUNCT 205 206	།
@@ -116,7 +116,7 @@ N1851	Reference T1851 Hill:1619	ཡིན་
 T1852	VERB 226 231	ཟེར་བ
 A1852a	Tense T1852 Fut/Pres
 A1852b	VerbForm T1852 Vnoun
-#√1852	AnnotatorNotes T1852	[ཟེར་√1][ཟེར་√2] 
+#1852l	AnnotatorNotes T1852	[ཟེར་√1][ཟེར་√2] 
 T1853	ADP 231 234	འི་
 A1853a	Case T1853 Gen
 T1854	NOUN 234 244	གཅེས་ཕྲུག་
@@ -150,7 +150,7 @@ N1865	Reference T1865 Hill:0331	འགྲོ་
 T1866	AUX 293 297	ཡིན་
 N1866	Reference T1866 Hill:1619	ཡིན་
 T1867	VERB 297 301	ཟེར་
-#√1867	AnnotatorNotes T1867	[ཟེར་√1][ཟེར་√2] 
+#1867l	AnnotatorNotes T1867	[ཟེར་√1][ཟེར་√2] 
 T1868	VERB 301 306	སླེབ་
 A1868a	Tense T1868 Fut/Pres
 N1868	Reference T1868 Hill:1833	སླེབ་√1
@@ -199,7 +199,7 @@ N1888	Reference T1888 Hill:1669	རུང་
 T1889	VERB 376 382	ཟེར་བ་
 A1889a	Tense T1889 Fut/Pres
 A1889b	VerbForm T1889 Vnoun
-#√1889	AnnotatorNotes T1889	[ཟེར་√1][ཟེར་√2] 
+#1889l	AnnotatorNotes T1889	[ཟེར་√1][ཟེར་√2] 
 T1890	ADP 382 385	དང་
 A1890a	Case T1890 Com
 T1891	PUNCT 385 386	།
@@ -211,7 +211,7 @@ A1895a	Tense T1895 Fut/Past
 N1895	Reference T1895 Hill:0182	འཁྲིད་√2
 T1896	VERB 406 411	ཕྱིན་
 A1896a	Tense T1896 Past
-#√1896	AnnotatorNotes T1896	[འགྲོ་][ཕྱིན་] 
+#1896l	AnnotatorNotes T1896	[འགྲོ་][ཕྱིན་] 
 T1897	SCONJ 411 414	ནས་
 A1897a	Case T1897 Ela
 T1898	NOUN 414 417	ཞག་
@@ -300,7 +300,7 @@ A1939a	Mood T1939 Imp
 N1939	Reference T1939 Hill:1839	སློབ་
 T1940	VERB 580 584	ཤོག་
 A1940a	Mood T1940 Imp
-#√1940	AnnotatorNotes T1940	[འཆགས་][འོང་][གཤེགས་] 
+#1940l	AnnotatorNotes T1940	[འཆགས་][འོང་][གཤེགས་] 
 T1941	PART 584 587	ཅིག
 A1941a	Mood T1941 Imp
 T1942	DET 587 590	འདི
@@ -327,7 +327,7 @@ A1951a	Mood T1951 Ind
 T1952	VERB 630 636	ཟེར་བ་
 A1952a	Tense T1952 Fut/Pres
 A1952b	VerbForm T1952 Vnoun
-#√1952	AnnotatorNotes T1952	[ཟེར་√1][ཟེར་√2] 
+#1952l	AnnotatorNotes T1952	[ཟེར་√1][ཟེར་√2] 
 T1953	VERB 636 640	བྱས་
 A1953a	Tense T1953 Past
 N1953	Reference T1953 Hill:1168	བྱེད་
@@ -397,13 +397,13 @@ T1986	ADP 737 740	དུ་
 A1986a	Case T1986 Ter
 T1987	VERB 740 746	སྐྱེལ་
 A1987a	Tense T1987 Pres
-#√1987	AnnotatorNotes T1987	[སྐྱེལ་√1][སྐྱེལ་√2] 
+#1987l	AnnotatorNotes T1987	[སྐྱེལ་√1][སྐྱེལ་√2] 
 T1988	SCONJ 746 749	དུ་
 A1988a	Case T1988 Ter
 T1989	VERB 749 755	ཕྱིན་པ
 A1989a	Tense T1989 Past
 A1989b	VerbForm T1989 Vnoun
-#√1989	AnnotatorNotes T1989	[འགྲོ་][ཕྱིན་] 
+#1989l	AnnotatorNotes T1989	[འགྲོ་][ཕྱིན་] 
 T1990	ADP 755 758	འི་
 A1990a	Case T1990 Gen
 T1991	NOUN 758 764	ལམ་བར་
@@ -499,7 +499,7 @@ T2037	ADP 911 914	ནས་
 A2037a	Case T2037 Ela
 T2038	VERB 914 919	བཟུང་
 A2038a	Tense T2038 Past
-#√2038	AnnotatorNotes T2038	[འཛིན་][གཟུང་] 
+#2038l	AnnotatorNotes T2038	[འཛིན་][གཟུང་] 
 T2039	SCONJ 919 923	སྟེ་
 A2039a	Case T2039 Sem
 T2040	VERB 923 927	བཅང་
@@ -561,7 +561,7 @@ A2069a	Number T2069 Sing
 T2070	VERB 1026 1032	ཐོན་པ་
 A2070a	Tense T2070 Past
 A2070b	VerbForm T2070 Vnoun
-#√2070	AnnotatorNotes T2070	[འཐོན་√1][འཐོན་√2] 
+#2070l	AnnotatorNotes T2070	[འཐོན་√1][འཐོན་√2] 
 T2071	DET 1032 1036	ཅིག་
 A2071a	PronType T2071 Ind
 T2072	PRON 1036 1038	ཅི
@@ -574,7 +574,7 @@ A2075a	Mood T2075 Imp
 N2075	Reference T2075 Hill:0260	བགྱིད་
 T2076	VERB 1049 1053	ཤོག་
 A2076a	Mood T2076 Imp
-#√2076	AnnotatorNotes T2076	[འཆགས་][འོང་][གཤེགས་] 
+#2076l	AnnotatorNotes T2076	[འཆགས་][འོང་][གཤེགས་] 
 T2077	PART 1053 1056	ཅིག
 A2077a	Mood T2077 Imp
 T2078	PRON 1056 1060	ཁོང་
@@ -630,7 +630,7 @@ A2103a	Number T2103 Sing
 N2103	Reference T2103 Hill:0959	སྡུག་
 T2104	VERB 1161 1166	ཐུག་པ
 A2104a	VerbForm T2104 Vnoun
-#√2104	AnnotatorNotes T2104	[ཐུག་√1][ཐུག་√2] 
+#2104l	AnnotatorNotes T2104	[ཐུག་√1][ཐུག་√2] 
 T2105	ADP 1166 1169	འི་
 A2105a	Case T2105 Gen
 T2106	NOUN 1169 1173	མཐུ་
@@ -647,7 +647,7 @@ T2111	VERB 1194 1201	བསྐྱེད་
 A2111a	Mood T2111 Imp
 T2112	VERB 1201 1205	ཤོག་
 A2112a	Mood T2112 Imp
-#√2112	AnnotatorNotes T2112	[འཆགས་][འོང་][གཤེགས་] 
+#2112l	AnnotatorNotes T2112	[འཆགས་][འོང་][གཤེགས་] 
 T2113	PART 1205 1209	ཅིག་
 A2113a	Mood T2113 Imp
 T2114	ADV 1209 1213	རྒྱ་
@@ -678,7 +678,7 @@ A2125a	Polarity T2125 Neg
 T2126	VERB 1252 1257	ཐོན་པ
 A2126a	Tense T2126 Past
 A2126b	VerbForm T2126 Vnoun
-#√2126	AnnotatorNotes T2126	[འཐོན་√1][འཐོན་√2] 
+#2126l	AnnotatorNotes T2126	[འཐོན་√1][འཐོན་√2] 
 T2127	ADP 1257 1259	ར་
 A2127a	Case T2127 Ter
 T2128	VERB 1259 1263	ལོག་

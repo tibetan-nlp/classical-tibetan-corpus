@@ -27,7 +27,7 @@ A9892a	Case T9892 Ter
 T9893	VERB 55 60	ཞུས་པ
 A9893a	Tense T9893 Past
 A9893b	VerbForm T9893 Vnoun
-#√9893	AnnotatorNotes T9893	[འཇུ་√3][ཞུ་√1] 
+#9893l	AnnotatorNotes T9893	[འཇུ་√3][ཞུ་√1] 
 T9894	ADP 60 61	ས
 A9894a	Case T9894 Agn
 T9895	PUNCT 61 62	།
@@ -110,7 +110,7 @@ A9940a	NumType T9940 Card
 A9940b	NumForm T9940 Word
 T9941	VERB 218 223	འདོམས
 A9941a	Mood T9941 Imp
-#√9941	AnnotatorNotes T9941	[འདེམ་][འདོམས་] 
+#9941l	AnnotatorNotes T9941	[འདེམ་][འདོམས་] 
 T9942	PUNCT 223 224	།
 T9944	PRON 225 226	ང
 A9944a	PronType T9944 Prs
@@ -124,7 +124,7 @@ A9947b	VerbForm T9947 Vnoun
 N9947	Reference T9947 Hill:0742	སྟེར་
 T9948	VERB 239 243	འདམ་
 A9948a	Tense T9948 Pres
-#√9948	AnnotatorNotes T9948	[འདམ་][འདེམ་] 
+#9948l	AnnotatorNotes T9948	[འདམ་][འདེམ་] 
 T9949	SCONJ 243 245	ན་
 A9949a	Case T9949 Loc
 T9950	NOUN 245 248	ཚེ་
@@ -134,7 +134,7 @@ A9951a	PronType T9951 Dem
 T9952	ADP 251 253	ར་
 A9952a	Case T9952 Ter
 T9953	VERB 253 257	སངས་
-#√9953	AnnotatorNotes T9953	[སངས་√1][སངས་√2] 
+#9953l	AnnotatorNotes T9953	[སངས་√1][སངས་√2] 
 T9954	VERB 257 261	རྒྱ་
 T9955	PART 261 264	མི་
 A9955a	Polarity T9955 Neg
@@ -193,10 +193,10 @@ T9984	ADP 368 370	ར་
 A9984a	Case T9984 Ter
 T9985	VERB 370 373	ཞུ་
 A9985a	Tense T9985 Fut/Pres
-#√9985	AnnotatorNotes T9985	[ཞུ་√1][ཞུ་√2] 
+#9985l	AnnotatorNotes T9985	[ཞུ་√1][ཞུ་√2] 
 T9986	VERB 373 377	ཞུས་
 A9986a	Tense T9986 Past
-#√9986	AnnotatorNotes T9986	[འཇུ་√3][ཞུ་√1] 
+#9986l	AnnotatorNotes T9986	[འཇུ་√3][ཞུ་√1] 
 T9987	SCONJ 377 379	ནས
 A9987a	Case T9987 Ela
 T9988	PUNCT 379 380	།
@@ -235,7 +235,7 @@ T10005	ADP 445 447	ར་
 A10005a	Case T10005 Ter
 T10006	VERB 447 450	ཐོན
 A10006a	Mood T10006 Imp
-#√10006	AnnotatorNotes T10006	[འཐོན་√2][འདོན་] 
+#10006l	AnnotatorNotes T10006	[འཐོན་√2][འདོན་] 
 T10007	PUNCT 450 451	།
 T10009	PRON 452 453	ང
 A10009a	PronType T10009 Prs
@@ -442,7 +442,7 @@ A10125a	Polarity T10125 Neg
 T10126	VERB 860 866	གོས་པ་
 A10126a	Tense T10126 Past
 A10126b	VerbForm T10126 Vnoun
-#√10126	AnnotatorNotes T10126	[གོས་][འགོ་] 
+#10126l	AnnotatorNotes T10126	[གོས་][འགོ་] 
 T10127	NUM 866 871	གཅིག་
 A10127a	NumType T10127 Card
 A10127b	NumForm T10127 Word
@@ -564,7 +564,7 @@ T10184	NOUN 1057 1062	བླ་མ་
 A10184a	Number T10184 Sing
 T10185	VERB 1062 1069	བཞེས་པ་
 A10185a	VerbForm T10185 Vnoun
-#√10185	AnnotatorNotes T10185	[བཞེས་√1][བཞེས་√2] 
+#10185l	AnnotatorNotes T10185	[བཞེས་√1][བཞེས་√2] 
 T10186	VERB 1069 1073	མཛད་
 N10186	Reference T10186 Hill:1465	མཛད་
 T10187	SCONJ 1073 1077	ཅིང་
@@ -580,7 +580,7 @@ T10192	ADP 1090 1092	ལ་
 A10192a	Case T10192 All
 T10193	VERB 1092 1098	བཞེངས་
 A10193a	Tense T10193 Past
-#√10193	AnnotatorNotes T10193	[བཞེང་√1][བཞེང་√2] 
+#10193l	AnnotatorNotes T10193	[བཞེང་√1][བཞེང་√2] 
 T10194	SCONJ 1098 1101	ནས་
 A10194a	Case T10194 Ela
 T10195	NOUN 1101 1108	བན་ཆུང་
@@ -642,6 +642,6 @@ T10227	ADP 1215 1217	ར་
 A10227a	Case T10227 Ter
 T10228	VERB 1217 1221	ཐོན་
 A10228a	Mood T10228 Imp
-#√10228	AnnotatorNotes T10228	[འཐོན་√2][འདོན་] 
+#10228l	AnnotatorNotes T10228	[འཐོན་√2][འདོན་] 
 T10229	VERB 1221 1226	གསུང་
 T10230	PUNCT 1226 1227	།

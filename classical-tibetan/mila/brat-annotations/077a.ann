@@ -30,7 +30,7 @@ T47983	ADV 73 81	ཕྱོ་ཕྱོ་
 A47983a	AdvType T47983 Mim
 T47984	VERB 81 85	ཟེར་
 A47984a	Tense T47984 Fut/Pres
-#√47984	AnnotatorNotes T47984	[ཟེར་√1][ཟེར་√2] 
+#47984l	AnnotatorNotes T47984	[ཟེར་√1][ཟེར་√2] 
 T47985	SCONJ 85 89	ཞིང་
 A47985a	Case T47985 Impf
 T47987	ADP 94 97	དུ་
@@ -122,7 +122,7 @@ T48044	NOUN 264 274	རྐང་འདྲེན་
 A48044a	Number T48044 Sing
 T48045	VERB 274 278	ཟེར་
 A48045a	Tense T48045 Fut/Pres
-#√48045	AnnotatorNotes T48045	[ཟེར་√1][ཟེར་√2] 
+#48045l	AnnotatorNotes T48045	[ཟེར་√1][ཟེར་√2] 
 T48046	SCONJ 278 282	ཞིང་
 A48046a	Case T48046 Impf
 T48047	VERB 282 288	འབར་བ་
@@ -156,7 +156,7 @@ T48065	NOUN 344 354	སྙིང་རླུང་
 A48065a	Number T48065 Sing
 T48066	VERB 354 358	སླང་
 A48066a	Tense T48066 Fut/Pres
-#√48066	AnnotatorNotes T48066	[སླང་][སློང་] 
+#48066l	AnnotatorNotes T48066	[སླང་][སློང་] 
 T48067	PUNCT 358 359	།
 T48069	PUNCT 360 361	།
 T48071	NOUN 362 373	དབུགས་སྟོད་
@@ -174,7 +174,7 @@ T48076	PART 388 390	མ་
 A48076a	Polarity T48076 Neg
 T48077	VERB 390 393	ཐོན
 A48077a	Tense T48077 Past
-#√48077	AnnotatorNotes T48077	[འཐོན་√1][འཐོན་√2] 
+#48077l	AnnotatorNotes T48077	[འཐོན་√1][འཐོན་√2] 
 T48078	PUNCT 393 394	།
 T48080	PUNCT 395 396	།
 T48082	DET 397 400	དེ་
@@ -282,7 +282,7 @@ N48148	Reference T48148 Hill:1833	སླེབ་√1
 T48149	VERB 601 605	ཡོད་
 N48149	Reference T48149 Hill:1632	ཡོད་
 T48150	VERB 605 608	ཟེར
-#√48150	AnnotatorNotes T48150	[ཟེར་√1][ཟེར་√2] 
+#48150l	AnnotatorNotes T48150	[ཟེར་√1][ཟེར་√2] 
 T48151	PUNCT 608 609	།
 T48153	PUNCT 610 611	།
 T48155	NOUN 612 622	ཁྱིམ་མཛེས་
@@ -337,7 +337,7 @@ T48185	NOUN 713 718	ཟམ་པ་
 A48185a	Number T48185 Sing
 T48186	VERB 718 723	བཙུགས
 A48186a	Tense T48186 Past
-#√48186	AnnotatorNotes T48186	[གཙུག་][འཛུགས་][ཟུག་] 
+#48186l	AnnotatorNotes T48186	[གཙུག་][འཛུགས་][ཟུག་] 
 T48187	PUNCT 723 724	།
 T48189	PUNCT 725 726	།
 T48191	NOUN 727 732	སྙིང་
@@ -460,7 +460,7 @@ A48268a	Tense T48268 Past
 N48268	Reference T48268 Hill:1090	ཕོད་
 T48269	VERB 944 950	བརྩེ་བ
 A48269a	VerbForm T48269 Vnoun
-#√48269	AnnotatorNotes T48269	[བརྩེ་√1][བརྩེ་√2] 
+#48269l	AnnotatorNotes T48269	[བརྩེ་√1][བརྩེ་√2] 
 T48270	ADP 950 952	ས་
 A48270a	Case T48270 Agn
 T48271	VERB 952 956	ཕྲད་
@@ -497,10 +497,10 @@ A48290a	Number T48290 Sing
 N48290	Reference T48290 Hill:1793	སེམས་
 T48291	VERB 1020 1024	གསོ་
 A48291a	Tense T48291 Fut/Pres
-#√48291	AnnotatorNotes T48291	[གསོ་√1][གསོ་√2] 
+#48291l	AnnotatorNotes T48291	[གསོ་√1][གསོ་√2] 
 T48292	VERB 1024 1028	བཏང་
 A48292a	Tense T48292 Past
-#√48292	AnnotatorNotes T48292	[གཏོང་√1][གཏོང་√2] 
+#48292l	AnnotatorNotes T48292	[གཏོང་√1][གཏོང་√2] 
 T48293	PUNCT 1028 1029	།
 T48295	PUNCT 1030 1031	།
 T48297	NOUN 1032 1035	རོ་
@@ -541,7 +541,7 @@ T48318	ADP 1109 1111	ར་
 A48318a	Case T48318 Ter
 T48319	VERB 1111 1116	ཁུམས་
 A48319a	Tense T48319 Past
-#√48319	AnnotatorNotes T48319	[འཁུམ་][འཁུམས་] 
+#48319l	AnnotatorNotes T48319	[འཁུམ་][འཁུམས་] 
 T48320	AUX 1116 1120	ལགས་
 T48321	PART 1120 1124	ཀྱང་
 T48322	PUNCT 1124 1125	།
@@ -601,7 +601,7 @@ T48360	ADP 1229 1231	ར་
 A48360a	Case T48360 Ter
 T48361	VERB 1231 1235	ལོག་
 A48361a	Mood T48361 Imp
-#√48361	AnnotatorNotes T48361	[ལྡོག་][ལོག་] 
+#48361l	AnnotatorNotes T48361	[ལྡོག་][ལོག་] 
 T48362	SCONJ 1235 1236	ལ
 A48362a	Case T48362 All
 T48363	PUNCT 1236 1237	།
@@ -639,7 +639,7 @@ A48381a	Number T48381 Sing
 T48382	ADJ 1288 1294	མང་པོ་
 T48383	VERB 1294 1299	གཏོང་
 A48383a	Tense T48383 Pres
-#√48383	AnnotatorNotes T48383	[གཏོང་√1][གཏོང་√2] 
+#48383l	AnnotatorNotes T48383	[གཏོང་√1][གཏོང་√2] 
 T48384	SCONJ 1299 1303	ཞིང་
 A48384a	Case T48384 Impf
 T48385	NOUN 1303 1307	ཕྱག་
@@ -651,7 +651,7 @@ T48387	SCONJ 1310 1313	དུ་
 A48387a	Case T48387 Ter
 T48388	VERB 1313 1316	བཙལ
 A48388a	Tense T48388 Fut/Past
-#√48388	AnnotatorNotes T48388	[འཚལ་√1][འཚོལ་] 
+#48388l	AnnotatorNotes T48388	[འཚལ་√1][འཚོལ་] 
 T48389	PUNCT 1316 1317	།
 T48391	ADV 1318 1320	སྔ
 A48391a	AdvType T48391 Tim
@@ -668,12 +668,12 @@ A48396a	VerbForm T48396 Vnoun
 N48396	Reference T48396 Hill:1604	བཟོད་
 T48397	VERB 1345 1351	བཞེས་པ
 A48397a	VerbForm T48397 Vnoun
-#√48397	AnnotatorNotes T48397	[བཞེས་√1][བཞེས་√2] 
+#48397l	AnnotatorNotes T48397	[བཞེས་√1][བཞེས་√2] 
 T48398	ADP 1351 1353	ར་
 A48398a	Case T48398 Ter
 T48399	VERB 1353 1356	ཞུ་
 A48399a	Tense T48399 Fut/Pres
-#√48399	AnnotatorNotes T48399	[ཞུ་√1][ཞུ་√2] 
+#48399l	AnnotatorNotes T48399	[ཞུ་√1][ཞུ་√2] 
 T48400	VERB 1356 1360	ཞེས་
 A48400a	Mood T48400 Qot
 T48401	NOUN 1360 1365	ཁ་ཞེ་

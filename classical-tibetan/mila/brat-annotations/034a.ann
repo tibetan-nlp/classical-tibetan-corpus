@@ -29,7 +29,7 @@ A16268a	Case T16268 Ter
 T16269	VERB 51 56	སོང་བ
 A16269a	Tense T16269 Past
 A16269b	VerbForm T16269 Vnoun
-#√16269	AnnotatorNotes T16269	[འགྲོ་][སོང་] 
+#16269l	AnnotatorNotes T16269	[འགྲོ་][སོང་] 
 T16270	ADP 56 59	འི་
 A16270a	Case T16270 Gen
 T16271	NOUN 59 61	ཚེ
@@ -211,7 +211,7 @@ T16364	NOUN 390 394	ཆོས་
 A16364a	Number T16364 Sing
 T16365	VERB 394 398	ཞུས་
 A16365a	Mood T16365 Imp
-#√16365	AnnotatorNotes T16365	[འཇུ་√3][ཞུ་√1] 
+#16365l	AnnotatorNotes T16365	[འཇུ་√3][ཞུ་√1] 
 T16366	PART 398 402	ཤིག་
 A16366a	Mood T16366 Imp
 T16367	VERB 402 407	གསུང་
@@ -244,7 +244,7 @@ T16381	SCONJ 451 454	ནས་
 A16381a	Case T16381 Ela
 T16382	VERB 454 458	ཕྱིན
 A16382a	Tense T16382 Past
-#√16382	AnnotatorNotes T16382	[འགྲོ་][ཕྱིན་] 
+#16382l	AnnotatorNotes T16382	[འགྲོ་][ཕྱིན་] 
 T16383	PUNCT 458 459	།
 T16385	DET 460 463	དེ་
 A16385a	PronType T16385 Dem
@@ -260,7 +260,7 @@ A16389a	PronType T16389 Tsam
 T16390	VERB 477 483	སོང་བ་
 A16390a	Tense T16390 Past
 A16390b	VerbForm T16390 Vnoun
-#√16390	AnnotatorNotes T16390	[འགྲོ་][སོང་] 
+#16390l	AnnotatorNotes T16390	[འགྲོ་][སོང་] 
 T16391	ADP 483 486	དང་
 A16391a	Case T16391 Com
 T16392	PUNCT 486 487	།
@@ -299,7 +299,7 @@ N16409	Reference T16409 Hill:0875	འདུག་
 T16410	VERB 541 548	གསུང་བ་
 A16410a	Tense T16410 Fut/Pres
 A16410b	VerbForm T16410 Vnoun
-#√16410	AnnotatorNotes T16410	[གསུང་√1][གསུང་√2] 
+#16410l	AnnotatorNotes T16410	[གསུང་√1][གསུང་√2] 
 T16411	ADP 548 549	ལ
 A16411a	Case T16411 All
 T16412	PUNCT 549 550	།
@@ -332,7 +332,7 @@ A16426a	Polarity T16426 Neg
 T16427	VERB 596 601	ཞུས་པ
 A16427a	Tense T16427 Past
 A16427b	VerbForm T16427 Vnoun
-#√16427	AnnotatorNotes T16427	[འཇུ་√3][ཞུ་√1] 
+#16427l	AnnotatorNotes T16427	[འཇུ་√3][ཞུ་√1] 
 T16428	ADP 601 602	ས
 A16428a	Case T16428 Agn
 T16429	PUNCT 602 603	།
@@ -342,7 +342,7 @@ T16432	ADP 605 607	ར་
 A16432a	Case T16432 Ter
 T16433	VERB 607 611	སོང་
 A16433a	Tense T16433 Past
-#√16433	AnnotatorNotes T16433	[འགྲོ་][སོང་] 
+#16433l	AnnotatorNotes T16433	[འགྲོ་][སོང་] 
 T16434	VERB 611 616	གསུང་
 T16435	PUNCT 616 617	།
 T16437	PRON 618 621	ཁོ་
@@ -408,7 +408,7 @@ T16465	VERB 724 729	འགྲོ་
 A16465a	Tense T16465 Fut/Pres
 N16465	Reference T16465 Hill:0331	འགྲོ་
 T16466	VERB 729 733	ཟེར་
-#√16466	AnnotatorNotes T16466	[ཟེར་√1][ཟེར་√2] 
+#16466l	AnnotatorNotes T16466	[ཟེར་√1][ཟེར་√2] 
 T16467	VERB 733 738	ཆས་པ་
 A16467a	VerbForm T16467 Vnoun
 N16467	Reference T16467 Hill:0481	ཆ་
@@ -421,7 +421,7 @@ T16472	ADP 744 746	ལ་
 A16472a	Case T16472 All
 T16473	VERB 746 750	ཞུས་
 A16473a	Tense T16473 Past
-#√16473	AnnotatorNotes T16473	[འཇུ་√3][ཞུ་√1] 
+#16473l	AnnotatorNotes T16473	[འཇུ་√3][ཞུ་√1] 
 T16474	SCONJ 750 754	རུང་
 A16474a	Case T16474 Rung
 T16475	PART 754 757	ནི་
@@ -467,7 +467,7 @@ T16493	PART 827 829	མ་
 A16493a	Polarity T16493 Neg
 T16494	VERB 829 832	ཞུས
 A16494a	Tense T16494 Past
-#√16494	AnnotatorNotes T16494	[འཇུ་√3][ཞུ་√1] 
+#16494l	AnnotatorNotes T16494	[འཇུ་√3][ཞུ་√1] 
 T16495	PUNCT 832 833	།
 T16497	PRON 834 835	ང
 A16497a	PronType T16497 Prs
@@ -494,11 +494,11 @@ T16506	ADP 863 865	ར་
 A16506a	Case T16506 Ter
 T16507	VERB 865 869	སོང་
 A16507a	Tense T16507 Past
-#√16507	AnnotatorNotes T16507	[འགྲོ་][སོང་] 
+#16507l	AnnotatorNotes T16507	[འགྲོ་][སོང་] 
 T16508	VERB 869 874	ཞུས་པ
 A16508a	Tense T16508 Past
 A16508b	VerbForm T16508 Vnoun
-#√16508	AnnotatorNotes T16508	[འཇུ་√3][ཞུ་√1] 
+#16508l	AnnotatorNotes T16508	[འཇུ་√3][ཞུ་√1] 
 T16509	ADP 874 875	ས
 A16509a	Case T16509 Agn
 T16510	PUNCT 875 876	།
@@ -524,18 +524,18 @@ T16520	ADP 909 911	ལ་
 A16520a	Case T16520 All
 T16521	VERB 911 915	སོང་
 A16521a	Tense T16521 Past
-#√16521	AnnotatorNotes T16521	[འགྲོ་][སོང་] 
+#16521l	AnnotatorNotes T16521	[འགྲོ་][སོང་] 
 T16522	VERB 915 920	གསུང་
 T16523	PUNCT 920 921	།
 T16525	ADV 922 927	ཁ་སང་
 A16525a	AdvType T16525 Tim
 T16526	VERB 927 931	སོང་
 A16526a	Tense T16526 Past
-#√16526	AnnotatorNotes T16526	[འགྲོ་][སོང་] 
+#16526l	AnnotatorNotes T16526	[འགྲོ་][སོང་] 
 T16527	VERB 931 936	ཞུས་པ
 A16527a	Tense T16527 Past
 A16527b	VerbForm T16527 Vnoun
-#√16527	AnnotatorNotes T16527	[འཇུ་√3][ཞུ་√1] 
+#16527l	AnnotatorNotes T16527	[འཇུ་√3][ཞུ་√1] 
 T16528	ADP 936 937	ས
 A16528a	Case T16528 Agn
 T16529	PUNCT 937 938	།
@@ -582,7 +582,7 @@ A16550a	Polarity T16550 Neg
 T16551	VERB 1002 1007	སོང་བ
 A16551a	Tense T16551 Past
 A16551b	VerbForm T16551 Vnoun
-#√16551	AnnotatorNotes T16551	[འགྲོ་][སོང་] 
+#16551l	AnnotatorNotes T16551	[འགྲོ་][སོང་] 
 T16552	ADP 1007 1009	ར་
 A16552a	Case T16552 Ter
 T16553	VERB 1009 1014	འདུག་

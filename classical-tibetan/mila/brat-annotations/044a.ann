@@ -6,7 +6,7 @@ T23253	ADP 4 6	ན་
 A23253a	Case T23253 Loc
 T23254	VERB 6 14	དམིགས་པ་
 A23254a	VerbForm T23254 Vnoun
-#√23254	AnnotatorNotes T23254	[དམིགས་√1][དམིགས་√2] 
+#23254l	AnnotatorNotes T23254	[དམིགས་√1][དམིགས་√2] 
 T23255	ADP 14 16	ལ་
 A23255a	Case T23255 All
 T23256	VERB 16 22	བརྟེན་
@@ -198,7 +198,7 @@ T23355	ADP 464 467	དུ་
 A23355a	Case T23355 Ter
 T23356	VERB 467 474	དམིགས་པ
 A23356a	VerbForm T23356 Vnoun
-#√23356	AnnotatorNotes T23356	[དམིགས་√1][དམིགས་√2] 
+#23356l	AnnotatorNotes T23356	[དམིགས་√1][དམིགས་√2] 
 T23357	ADP 474 477	འི་
 A23357a	Case T23357 Gen
 T23358	NOUN 477 489	སེམས་བསྐྱེད་
@@ -219,7 +219,7 @@ A23365a	Case T23365 Ter
 T23366	VERB 511 516	ལྟ་བ་
 A23366a	Tense T23366 Pres
 A23366b	VerbForm T23366 Vnoun
-#√23366	AnnotatorNotes T23366	[ལྟ་√1][ལྟ་√2] 
+#23366l	AnnotatorNotes T23366	[ལྟ་√1][ལྟ་√2] 
 T23367	NOUN 516 521	རྣམ་པ
 A23367a	Number T23367 Sing
 T23368	ADP 521 523	ར་
@@ -249,7 +249,7 @@ A23380a	Case T23380 Ter
 T23381	VERB 570 577	བསྔོ་བ་
 A23381a	Tense T23381 Fut
 A23381b	VerbForm T23381 Vnoun
-#√23381	AnnotatorNotes T23381	[སྔོ་√1][སྔོ་√2] 
+#23381l	AnnotatorNotes T23381	[སྔོ་√1][སྔོ་√2] 
 T23382	NOUN 577 585	སྨོན་ལམ་
 A23382a	Number T23382 Sing
 T23383	ADP 585 589	གྱི་
@@ -314,7 +314,7 @@ A23410a	Tense T23410 Fut/Pres
 N23410	Reference T23410 Hill:1081	ཕན་
 T23411	VERB 689 691	ཟ་
 A23411a	Tense T23411 Pres
-#√23411	AnnotatorNotes T23411	[འཛའ་][ཟ་√1][ཟ་√2][ཟ་√3] 
+#23411l	AnnotatorNotes T23411	[འཛའ་][ཟ་√1][ཟ་√2][ཟ་√3] 
 T23412	VERB 691 698	དགོས་པ་
 A23412a	VerbForm T23412 Vnoun
 A23412b	VerbType T23412 Aux
@@ -437,7 +437,7 @@ A23475a	Polarity T23475 Neg
 T23476	VERB 934 941	རྟོག་པ་
 A23476a	Tense T23476 Pres
 A23476b	VerbForm T23476 Vnoun
-#√23476	AnnotatorNotes T23476	[རྟོག་][རྟོགས་] 
+#23476l	AnnotatorNotes T23476	[རྟོག་][རྟོགས་] 
 T23477	DET 941 946	རྣམས་
 A23477a	Number T23477 Plur
 T23478	NOUN 946 950	དབང་
@@ -465,7 +465,7 @@ A23486a	Case T23486 Gen
 T23487	VERB 1002 1007	ལྟ་བ་
 A23487a	Tense T23487 Pres
 A23487b	VerbForm T23487 Vnoun
-#√23487	AnnotatorNotes T23487	[ལྟ་√1][ལྟ་√2] 
+#23487l	AnnotatorNotes T23487	[ལྟ་√1][ལྟ་√2] 
 T23488	AUX 1007 1012	ཡིན་པ
 A23488a	VerbForm T23488 Vnoun
 T23489	ADP 1012 1014	ར་
@@ -530,7 +530,7 @@ T23519	NOUN 1103 1114	སྣང་བ་གདོང་
 A23519a	Number T23519 Sing
 T23520	VERB 1114 1118	འདེད
 A23520a	Tense T23520 Fut/Pres
-#√23520	AnnotatorNotes T23520	[འདེད་√1][འདེད་√2] 
+#23520l	AnnotatorNotes T23520	[འདེད་√1][འདེད་√2] 
 T23521	PUNCT 1118 1119	།
 T23523	NOUN 1120 1128	འཆི་ནུས་
 A23523a	Number T23523 Sing
@@ -538,7 +538,7 @@ T23524	NOUN 1128 1132	ཐོག་
 A23524a	Number T23524 Sing
 T23525	VERB 1132 1136	འགེལ
 A23525a	Tense T23525 Pres
-#√23525	AnnotatorNotes T23525	[འཁེལ་][འགེལ་] 
+#23525l	AnnotatorNotes T23525	[འཁེལ་][འགེལ་] 
 T23526	PUNCT 1136 1137	།
 T23528	NOUN 1138 1146	ཅི་བྱུང་
 A23528a	Number T23528 Sing
@@ -600,7 +600,7 @@ T23557	PRON 1266 1274	ཇི་སྲིད་
 A23557a	PronType T23557 Int
 T23558	VERB 1274 1277	འཚོ
 A23558a	Tense T23558 Pres
-#√23558	AnnotatorNotes T23558	[འཚོ་√1][འཚོ་√2][སོས་][གསོ་√1][གསོ་√2] 
+#23558l	AnnotatorNotes T23558	[འཚོ་√1][འཚོ་√2][སོས་][གསོ་√1][གསོ་√2] 
 T23559	ADP 1277 1280	འི་
 A23559a	Case T23559 Gen
 T23560	NOUN 1280 1283	བར་
@@ -618,7 +618,7 @@ A23566a	Number T23566 Sing
 T23567	ADP 1299 1301	ར་
 A23567a	Case T23567 Ter
 T23568	VERB 1301 1305	ཐུག་
-#√23568	AnnotatorNotes T23568	[ཐུག་√1][ཐུག་√2] 
+#23568l	AnnotatorNotes T23568	[ཐུག་√1][ཐུག་√2] 
 T23569	ADP 1305 1308	གི་
 A23569a	Case T23569 Gen
 T23570	VERB 1308 1316	རྟོགས་པ་
@@ -641,7 +641,7 @@ T23577	ADP 1348 1350	ར་
 A23577a	Case T23577 Ter
 T23578	VERB 1350 1352	ཞུ
 A23578a	Tense T23578 Fut/Pres
-#√23578	AnnotatorNotes T23578	[ཞུ་√1][ཞུ་√2] 
+#23578l	AnnotatorNotes T23578	[ཞུ་√1][ཞུ་√2] 
 T23579	PUNCT 1352 1353	།
 T23581	PUNCT 1354 1355	།
 T23583	PUNCT 1356 1357	།

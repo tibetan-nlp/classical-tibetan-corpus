@@ -94,7 +94,7 @@ A22977a	Case T22977 Ter
 T22978	VERB 193 200	བསྔོ་བ་
 A22978a	Tense T22978 Fut
 A22978b	VerbForm T22978 Vnoun
-#√22978	AnnotatorNotes T22978	[སྔོ་√1][སྔོ་√2] 
+#22978l	AnnotatorNotes T22978	[སྔོ་√1][སྔོ་√2] 
 T22979	NOUN 200 208	ཐེག་ཆེན་
 A22979a	Number T22979 Sing
 T22980	NOUN 208 213	སེམས་
@@ -143,7 +143,7 @@ A23001a	Case T23001 All
 T23002	VERB 286 291	ལྟ་བ་
 A23002a	Tense T23002 Pres
 A23002b	VerbForm T23002 Vnoun
-#√23002	AnnotatorNotes T23002	[ལྟ་√1][ལྟ་√2] 
+#23002l	AnnotatorNotes T23002	[ལྟ་√1][ལྟ་√2] 
 T23003	ADJ 291 298	རྣམ་དག་
 T23004	ADP 298 302	གིས་
 A23004a	Case T23004 Agn
@@ -151,7 +151,7 @@ T23005	NOUN 302 306	གཞི་
 A23005a	Number T23005 Sing
 T23006	VERB 306 311	བཟུང་
 A23006a	Tense T23006 Past
-#√23006	AnnotatorNotes T23006	[འཛིན་][གཟུང་] 
+#23006l	AnnotatorNotes T23006	[འཛིན་][གཟུང་] 
 T23007	SCONJ 311 314	ནས་
 A23007a	Case T23007 Ela
 T23008	NOUN 314 334	བླ་མེད་རྡོ་རྗེ་ཐེག་པ
@@ -175,7 +175,7 @@ T23017	PART 356 359	ཡང་
 T23018	VERB 359 364	ལྟ་བ་
 A23018a	Tense T23018 Pres
 A23018b	VerbForm T23018 Vnoun
-#√23018	AnnotatorNotes T23018	[ལྟ་√1][ལྟ་√2] 
+#23018l	AnnotatorNotes T23018	[ལྟ་√1][ལྟ་√2] 
 T23019	ADJ 364 371	རྣམ་དག་
 T23020	VERB 371 378	རྟོགས་པ
 A23020a	VerbForm T23020 Vnoun
@@ -259,7 +259,7 @@ T23058	ADJ 516 522	ཟབ་མོ་
 T23059	VERB 522 527	ལྟ་བ་
 A23059a	Tense T23059 Pres
 A23059b	VerbForm T23059 Vnoun
-#√23059	AnnotatorNotes T23059	[ལྟ་√1][ལྟ་√2] 
+#23059l	AnnotatorNotes T23059	[ལྟ་√1][ལྟ་√2] 
 T23060	ADP 527 529	ལ་
 A23060a	Case T23060 All
 T23061	VERB 529 534	དབང་བ
@@ -336,7 +336,7 @@ A23098a	Case T23098 Ela
 T23099	VERB 684 689	བཙལ་བ
 A23099a	Tense T23099 Fut
 A23099b	VerbForm T23099 Vnoun
-#√23099	AnnotatorNotes T23099	[འཚལ་√1][འཚོལ་] 
+#23099l	AnnotatorNotes T23099	[འཚལ་√1][འཚོལ་] 
 T23100	ADP 689 691	ས་
 A23100a	Case T23100 Agn
 T23101	NOUN 691 695	བདག་
@@ -408,7 +408,7 @@ A23134a	Case T23134 Ela
 T23135	VERB 810 815	བཞག་པ
 A23135a	Tense T23135 Past
 A23135b	VerbForm T23135 Vnoun
-#√23135	AnnotatorNotes T23135	[འཇོག་√1][བཞག་] 
+#23135l	AnnotatorNotes T23135	[འཇོག་√1][བཞག་] 
 T23136	ADP 815 818	འི་
 A23136a	Case T23136 Gen
 T23137	NOUN 818 820	ཚེ
@@ -431,7 +431,7 @@ T23146	VERB 860 864	ལྷན་
 N23146	Reference T23146 Hill:1904	ལྷན་
 T23147	VERB 864 868	སོང་
 A23147a	Tense T23147 Past
-#√23147	AnnotatorNotes T23147	[འགྲོ་][སོང་] 
+#23147l	AnnotatorNotes T23147	[འགྲོ་][སོང་] 
 T23148	SCONJ 868 871	སྟེ
 A23148a	Case T23148 Sem
 T23149	PUNCT 871 872	།
@@ -453,7 +453,7 @@ T23157	DET 899 902	ཙམ་
 A23157a	PronType T23157 Tsam
 T23158	VERB 902 906	སོང་
 A23158a	Tense T23158 Past
-#√23158	AnnotatorNotes T23158	[འགྲོ་][སོང་] 
+#23158l	AnnotatorNotes T23158	[འགྲོ་][སོང་] 
 T23159	PART 906 909	ཡང་
 T23160	PRON 909 912	རང་
 A23160a	Reflex T23160 Yes
@@ -514,7 +514,7 @@ A23185a	Polarity T23185 Neg
 T23186	VERB 1024 1029	སོང་བ
 A23186a	Tense T23186 Past
 A23186b	VerbForm T23186 Vnoun
-#√23186	AnnotatorNotes T23186	[འགྲོ་][སོང་] 
+#23186l	AnnotatorNotes T23186	[འགྲོ་][སོང་] 
 T23187	ADP 1029 1031	ར་
 A23187a	Case T23187 Ter
 T23188	VERB 1031 1036	རིག་པ
@@ -547,7 +547,7 @@ A23202a	Case T23202 All
 T23203	VERB 1082 1089	རྟོག་པ་
 A23203a	Tense T23203 Pres
 A23203b	VerbForm T23203 Vnoun
-#√23203	AnnotatorNotes T23203	[རྟོག་][རྟོགས་] 
+#23203l	AnnotatorNotes T23203	[རྟོག་][རྟོགས་] 
 T23204	VERB 1089 1094	མེད་པ
 A23204a	Polarity T23204 Neg
 A23204b	VerbForm T23204 Vnoun

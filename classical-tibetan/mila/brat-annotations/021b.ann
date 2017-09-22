@@ -20,7 +20,7 @@ T7490	ADP 30 32	ས་
 A7490a	Case T7490 Agn
 T7491	VERB 32 36	བཏང་
 A7491a	Tense T7491 Past
-#√7491	AnnotatorNotes T7491	[གཏོང་√1][གཏོང་√2] 
+#7491l	AnnotatorNotes T7491	[གཏོང་√1][གཏོང་√2] 
 T7492	SCONJ 36 40	སྟེ་
 A7492a	Case T7492 Sem
 T7493	NOUN 40 49	སྙིང་རུས་
@@ -78,7 +78,7 @@ T7516	SCONJ 138 141	དུ་
 A7516a	Case T7516 Ter
 T7517	VERB 141 145	སོང་
 A7517a	Tense T7517 Past
-#√7517	AnnotatorNotes T7517	[འགྲོ་][སོང་] 
+#7517l	AnnotatorNotes T7517	[འགྲོ་][སོང་] 
 T7518	SCONJ 145 148	ནས་
 A7518a	Case T7518 Ela
 T7519	NOUN 148 150	མཐ
@@ -87,7 +87,7 @@ T7520	ADP 150 152	ར་
 A7520a	Case T7520 Ter
 T7521	VERB 152 157	ཕྱིན་
 A7521a	Tense T7521 Past
-#√7521	AnnotatorNotes T7521	[འགྲོ་][ཕྱིན་] 
+#7521l	AnnotatorNotes T7521	[འགྲོ་][ཕྱིན་] 
 T7522	SCONJ 157 160	ཏེ་
 A7522a	Case T7522 Sem
 T7523	NOUN 160 171	སྒྲུབ་འབྲས་
@@ -189,7 +189,7 @@ N7573	Reference T7573 Hill:1465	མཛད་
 T7574	VERB 373 380	གསུང་བ་
 A7574a	Tense T7574 Fut/Pres
 A7574b	VerbForm T7574 Vnoun
-#√7574	AnnotatorNotes T7574	[གསུང་√1][གསུང་√2] 
+#7574l	AnnotatorNotes T7574	[གསུང་√1][གསུང་√2] 
 T7575	VERB 380 384	དམ་པ
 A7575a	VerbForm T7575 Vnoun
 T7576	ADP 384 387	འི་
@@ -233,7 +233,7 @@ N7593	Reference T7593 Hill:1243	འབྱུང་
 T7594	VERB 454 459	ཞུས་པ
 A7594a	Tense T7594 Past
 A7594b	VerbForm T7594 Vnoun
-#√7594	AnnotatorNotes T7594	[འཇུ་√3][ཞུ་√1] 
+#7594l	AnnotatorNotes T7594	[འཇུ་√3][ཞུ་√1] 
 T7595	ADP 459 460	ས
 A7595a	Case T7595 Agn
 T7596	PUNCT 460 461	།
@@ -287,7 +287,7 @@ N7621	Reference T7621 Hill:0839	དྲན་
 T7622	PUNCT 542 543	།
 T7624	VERB 544 549	ཕྱིན་
 A7624a	Tense T7624 Past
-#√7624	AnnotatorNotes T7624	[འགྲོ་][ཕྱིན་] 
+#7624l	AnnotatorNotes T7624	[འགྲོ་][ཕྱིན་] 
 T7625	SCONJ 549 551	ན་
 A7625a	Case T7625 Loc
 T7626	VERB 551 556	སྡོད་
@@ -344,7 +344,7 @@ T7651	VERB 649 654	འགྲོ་
 A7651a	Tense T7651 Fut/Pres
 N7651	Reference T7651 Hill:0331	འགྲོ་
 T7652	VERB 654 658	ཟེར་
-#√7652	AnnotatorNotes T7652	[ཟེར་√1][ཟེར་√2] 
+#7652l	AnnotatorNotes T7652	[ཟེར་√1][ཟེར་√2] 
 T7653	PART 658 661	ནི་
 T7654	PART 661 663	མ་
 A7654a	Polarity T7654 Neg
@@ -407,7 +407,7 @@ T7680	NOUN 759 765	རྒྱུན་
 A7680a	Number T7680 Sing
 T7681	VERB 765 769	ཆགས་
 A7681a	Tense T7681 Fut/Pres
-#√7681	AnnotatorNotes T7681	[ཆགས་√1][ཆགས་√2] 
+#7681l	AnnotatorNotes T7681	[ཆགས་√1][ཆགས་√2] 
 T7682	SCONJ 769 772	སུ་
 A7682a	Case T7682 Ter
 T7683	VERB 772 777	ཡོད་པ
@@ -501,7 +501,7 @@ A7725a	Tense T7725 Past
 N7725	Reference T7725 Hill:0916	འདྲེན་
 T7726	VERB 931 935	སོང་
 A7726a	Tense T7726 Past
-#√7726	AnnotatorNotes T7726	[འགྲོ་][སོང་] 
+#7726l	AnnotatorNotes T7726	[འགྲོ་][སོང་] 
 T7727	PUNCT 935 936	།
 T7729	DET 937 940	དེ་
 A7729a	PronType T7729 Dem
@@ -515,7 +515,7 @@ A7732b	NumForm T7732 Word
 T7733	VERB 951 957	ལོན་པ་
 A7733a	Tense T7733 Past/Pres
 A7733b	VerbForm T7733 Vnoun
-#√7733	AnnotatorNotes T7733	[ལན་][ལོན་√1][ལོན་√2] 
+#7733l	AnnotatorNotes T7733	[ལན་][ལོན་√1][ལོན་√2] 
 T7734	ADP 957 960	དང་
 A7734a	Case T7734 Com
 T7735	PUNCT 960 961	།
@@ -557,7 +557,7 @@ T7756	AUX 1045 1049	ལགས་
 T7757	VERB 1049 1054	ཞུས་པ
 A7757a	Tense T7757 Past
 A7757b	VerbForm T7757 Vnoun
-#√7757	AnnotatorNotes T7757	[འཇུ་√3][ཞུ་√1] 
+#7757l	AnnotatorNotes T7757	[འཇུ་√3][ཞུ་√1] 
 T7758	ADP 1054 1055	ས
 A7758a	Case T7758 Agn
 T7759	PUNCT 1055 1056	།
@@ -592,7 +592,7 @@ N7774	Reference T7774 Hill:0521	འཆི་
 T7775	VERB 1119 1124	སོང་བ
 A7775a	Tense T7775 Past
 A7775b	VerbForm T7775 Vnoun
-#√7775	AnnotatorNotes T7775	[འགྲོ་][སོང་] 
+#7775l	AnnotatorNotes T7775	[འགྲོ་][སོང་] 
 T7776	ADP 1124 1126	ས་
 A7776a	Case T7776 Agn
 T7777	NOUN 1126 1133	འཁོར་བ་
@@ -675,5 +675,5 @@ N7816	Reference T7816 Hill:0958	སྡིག་
 T7817	ADJ 1291 1298	ཆེན་པོ་
 T7818	VERB 1298 1302	བསགས
 A7818a	Tense T7818 Past
-#√7818	AnnotatorNotes T7818	[གསོག་√1][གསོག་√3] 
+#7818l	AnnotatorNotes T7818	[གསོག་√1][གསོག་√3] 
 T7819	PUNCT 1302 1303	།

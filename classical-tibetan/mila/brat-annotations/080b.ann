@@ -101,7 +101,7 @@ T50313	ADP 189 191	ས་
 A50313a	Case T50313 Agn
 T50314	VERB 191 195	བཏང་
 A50314a	Tense T50314 Past
-#√50314	AnnotatorNotes T50314	[གཏོང་√1][གཏོང་√2] 
+#50314l	AnnotatorNotes T50314	[གཏོང་√1][གཏོང་√2] 
 T50315	SCONJ 195 198	སྟེ
 A50315a	Case T50315 Sem
 T50316	PUNCT 198 199	།
@@ -256,7 +256,7 @@ A50391a	PronType T50391 Int
 T50392	VERB 507 512	ལྟ་བ་
 A50392a	Tense T50392 Pres
 A50392b	VerbForm T50392 Vnoun
-#√50392	AnnotatorNotes T50392	[ལྟ་√1][ལྟ་√2] 
+#50392l	AnnotatorNotes T50392	[ལྟ་√1][ལྟ་√2] 
 T50393	NOUN 512 517	ཡི་གེ
 A50393a	Number T50393 Sing
 T50394	ADP 517 519	ར་
@@ -309,7 +309,7 @@ A50414a	Case T50414 Ela
 T50415	VERB 611 619	གསུངས་པ་
 A50415a	Tense T50415 Past
 A50415b	VerbForm T50415 Vnoun
-#√50415	AnnotatorNotes T50415	[གསུང་√1][གསུང་√2] 
+#50415l	AnnotatorNotes T50415	[གསུང་√1][གསུང་√2] 
 T50416	NOUN 619 622	མདོ
 A50416a	Number T50416 Sing
 T50417	ADP 622 624	ར་
@@ -347,7 +347,7 @@ T50431	ADP 679 681	ར་
 A50431a	Case T50431 Ter
 T50432	VERB 681 685	ཕྱེ་
 A50432a	Tense T50432 Past
-#√50432	AnnotatorNotes T50432	[འབྱེ་][འབྱེད་] 
+#50432l	AnnotatorNotes T50432	[འབྱེ་][འབྱེད་] 
 T50433	SCONJ 685 687	ན་
 A50433a	Case T50433 Loc
 T50434	NOUN 687 692	སྐོར་
@@ -384,12 +384,12 @@ A50449a	Case T50449 All
 T50450	VERB 745 751	བཏགས་པ
 A50450a	Tense T50450 Past
 A50450b	VerbForm T50450 Vnoun
-#√50450	AnnotatorNotes T50450	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#50450l	AnnotatorNotes T50450	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T50451	ADP 751 754	འི་
 A50451a	Case T50451 Gen
 T50452	VERB 754 758	སྐོར
 A50452a	Tense T50452 Pres
-#√50452	AnnotatorNotes T50452	[སྐོར་√1][སྐོར་√2] 
+#50452l	AnnotatorNotes T50452	[སྐོར་√1][སྐོར་√2] 
 T50453	PUNCT 758 759	།
 T50455	ADJ 760 768	སྐལ་ལྡན་
 T50456	NOUN 768 777	ཐུགས་སྲས་
@@ -408,7 +408,7 @@ T50461	ADP 800 803	འི་
 A50461a	Case T50461 Gen
 T50462	VERB 803 807	སྐོར
 A50462a	Tense T50462 Pres
-#√50462	AnnotatorNotes T50462	[སྐོར་√1][སྐོར་√2] 
+#50462l	AnnotatorNotes T50462	[སྐོར་√1][སྐོར་√2] 
 T50463	PUNCT 807 808	།
 T50465	NOUN 809 811	ཁ་
 A50465a	Number T50465 Sing
@@ -436,7 +436,7 @@ A50474a	Number T50474 Sing
 T50475	VERB 855 862	བསྐོར་བ
 A50475a	Tense T50475 Fut
 A50475b	VerbForm T50475 Vnoun
-#√50475	AnnotatorNotes T50475	[སྐོར་√1][སྐོར་√2] 
+#50475l	AnnotatorNotes T50475	[སྐོར་√1][སྐོར་√2] 
 T50476	ADP 862 865	འི་
 A50476a	Case T50476 Gen
 T50477	NOUN 865 870	སྐོར་
@@ -457,7 +457,7 @@ T50486	ADP 890 892	ར་
 A50486a	Case T50486 Ter
 T50487	VERB 892 896	ཕྱེ་
 A50487a	Tense T50487 Past
-#√50487	AnnotatorNotes T50487	[འབྱེ་][འབྱེད་] 
+#50487l	AnnotatorNotes T50487	[འབྱེ་][འབྱེད་] 
 T50488	NOUN 896 899	ཚེ་
 A50488a	NounType T50488 Rel
 T50489	ADP 899 900	ན
@@ -479,7 +479,7 @@ T50498	ADP 925 927	ལ་
 A50498a	Case T50498 All
 T50499	VERB 927 932	བཏགས་
 A50499a	Tense T50499 Past
-#√50499	AnnotatorNotes T50499	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#50499l	AnnotatorNotes T50499	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T50500	NOUN 932 936	ཚུལ་
 A50500a	Number T50500 Sing
 T50501	PART 936 938	ནི
@@ -501,7 +501,7 @@ A50511a	Case T50511 All
 T50512	VERB 994 1001	བཏགས་པ་
 A50512a	Tense T50512 Past
 A50512b	VerbForm T50512 Vnoun
-#√50512	AnnotatorNotes T50512	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#50512l	AnnotatorNotes T50512	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T50513	NOUN 1001 1006	བླ་མ་
 A50513a	Number T50513 Sing
 T50514	NOUN 1006 1010	དྲན་
@@ -516,7 +516,7 @@ T50517	NOUN 1018 1023	སྐོར་
 A50517a	Number T50517 Sing
 T50518	VERB 1023 1028	གསུངས
 A50518a	Tense T50518 Past
-#√50518	AnnotatorNotes T50518	[གསུང་√1][གསུང་√2] 
+#50518l	AnnotatorNotes T50518	[གསུང་√1][གསུང་√2] 
 T50519	PUNCT 1028 1029	།
 T50521	DET 1030 1033	དེ་
 A50521a	PronType T50521 Dem
@@ -554,7 +554,7 @@ A50538a	Case T50538 All
 T50539	VERB 1096 1103	བཏགས་པ་
 A50539a	Tense T50539 Past
 A50539b	VerbForm T50539 Vnoun
-#√50539	AnnotatorNotes T50539	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#50539l	AnnotatorNotes T50539	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T50540	PROPN 1103 1117	ལ་ཕྱི་ཆུ་བཟངས་
 T50541	ADP 1117 1121	ཀྱི་
 A50541a	Case T50541 Gen
@@ -562,7 +562,7 @@ T50542	NOUN 1121 1126	སྐོར་
 A50542a	Number T50542 Sing
 T50543	VERB 1126 1131	གསུངས
 A50543a	Tense T50543 Past
-#√50543	AnnotatorNotes T50543	[གསུང་√1][གསུང་√2] 
+#50543l	AnnotatorNotes T50543	[གསུང་√1][གསུང་√2] 
 T50544	PUNCT 1131 1132	།
 T50546	DET 1133 1135	དེ
 A50546a	PronType T50546 Dem
@@ -601,7 +601,7 @@ A50562a	Case T50562 Gen
 T50563	PROPN 1199 1215	གངས་མགུར་ཆེན་མོ་
 T50564	VERB 1215 1220	གསུངས
 A50564a	Tense T50564 Past
-#√50564	AnnotatorNotes T50564	[གསུང་√1][གསུང་√2] 
+#50564l	AnnotatorNotes T50564	[གསུང་√1][གསུང་√2] 
 T50565	PUNCT 1220 1221	།
 T50567	DET 1222 1225	དེ་
 A50567a	PronType T50567 Dem

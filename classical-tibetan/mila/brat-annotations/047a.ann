@@ -44,7 +44,7 @@ T25510	ADP 98 102	ཡིས་
 A25510a	Case T25510 Agn
 T25511	VERB 102 106	བཤད་
 A25511a	Tense T25511 Fut/Past
-#√25511	AnnotatorNotes T25511	[འཆད་√2][ཤད་] 
+#25511l	AnnotatorNotes T25511	[འཆད་√2][ཤད་] 
 T25512	SCONJ 106 111	ཀྱིས་
 A25512a	Case T25512 Agn
 T25513	VERB 111 114	ཉོན
@@ -81,7 +81,7 @@ T25536	NOUN 188 195	གངས་རི་
 A25536a	Number T25536 Sing
 T25537	VERB 195 201	ཆགས་པ་
 A25537a	VerbForm T25537 Vnoun
-#√25537	AnnotatorNotes T25537	[ཆགས་√1][ཆགས་√2] 
+#25537l	AnnotatorNotes T25537	[ཆགས་√1][ཆགས་√2] 
 T25538	DET 201 203	དེ
 A25538a	PronType T25538 Dem
 T25539	PUNCT 203 204	།
@@ -124,7 +124,7 @@ T25567	PUNCT 293 294	།
 T25569	VERB 295 300	ལྟ་བ་
 A25569a	Tense T25569 Pres
 A25569b	VerbForm T25569 Vnoun
-#√25569	AnnotatorNotes T25569	[ལྟ་√1][ལྟ་√2] 
+#25569l	AnnotatorNotes T25569	[ལྟ་√1][ལྟ་√2] 
 T25570	NOUN 300 308	འགྲན་ཟླ་
 A25570a	Number T25570 Sing
 T25571	VERB 308 314	མེད་པ་
@@ -220,7 +220,7 @@ A25631a	Number T25631 Sing
 T25632	VERB 513 519	འབབ་པ་
 A25632a	Tense T25632 Fut/Pres
 A25632b	VerbForm T25632 Vnoun
-#√25632	AnnotatorNotes T25632	[འབབ་√1][འབབ་√2] 
+#25632l	AnnotatorNotes T25632	[འབབ་√1][འབབ་√2] 
 T25633	DET 519 521	དེ
 A25633a	PronType T25633 Dem
 T25634	PUNCT 521 522	།
@@ -281,7 +281,7 @@ A25669a	Case T25669 Ter
 T25670	VERB 634 640	འབབ་པ་
 A25670a	Tense T25670 Fut/Pres
 A25670b	VerbForm T25670 Vnoun
-#√25670	AnnotatorNotes T25670	[འབབ་√1][འབབ་√2] 
+#25670l	AnnotatorNotes T25670	[འབབ་√1][འབབ་√2] 
 T25671	DET 640 642	དེ
 A25671a	PronType T25671 Dem
 T25672	PUNCT 642 643	།
@@ -357,7 +357,7 @@ A25726a	Number T25726 Sing
 T25727	VERB 845 853	བཙུགས་པ་
 A25727a	Tense T25727 Past
 A25727b	VerbForm T25727 Vnoun
-#√25727	AnnotatorNotes T25727	[གཙུག་][འཛུགས་][ཟུག་] 
+#25727l	AnnotatorNotes T25727	[གཙུག་][འཛུགས་][ཟུག་] 
 T25728	DET 853 855	དེ
 A25728a	PronType T25728 Dem
 T25729	PUNCT 855 856	།
@@ -465,7 +465,7 @@ T25800	ADP 1087 1090	དུ་
 A25800a	Case T25800 Ter
 T25801	VERB 1090 1098	གཟིགས་པ་
 A25801a	VerbForm T25801 Vnoun
-#√25801	AnnotatorNotes T25801	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#25801l	AnnotatorNotes T25801	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T25802	DET 1098 1100	དེ
 A25802a	PronType T25802 Dem
 T25803	PUNCT 1100 1101	།
@@ -479,7 +479,7 @@ A25809a	Number T25809 Sing
 T25810	VERB 1121 1127	འཚལ་བ་
 A25810a	Tense T25810 Fut/Pres
 A25810b	VerbForm T25810 Vnoun
-#√25810	AnnotatorNotes T25810	[འཚལ་√1][འཚལ་√2] 
+#25810l	AnnotatorNotes T25810	[འཚལ་√1][འཚལ་√2] 
 T25811	AUX 1127 1130	ཡིན
 N25811	Reference T25811 Hill:1619	ཡིན་
 T25812	PUNCT 1130 1131	།
@@ -547,7 +547,7 @@ A25855a	Number T25855 Sing
 T25856	VERB 1273 1281	བཙུགས་པ་
 A25856a	Tense T25856 Past
 A25856b	VerbForm T25856 Vnoun
-#√25856	AnnotatorNotes T25856	[གཙུག་][འཛུགས་][ཟུག་] 
+#25856l	AnnotatorNotes T25856	[གཙུག་][འཛུགས་][ཟུག་] 
 T25857	DET 1281 1283	དེ
 A25857a	PronType T25857 Dem
 T25858	PUNCT 1283 1284	།

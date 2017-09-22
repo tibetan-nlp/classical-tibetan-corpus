@@ -39,7 +39,7 @@ T18449	SCONJ 70 72	ལ་
 A18449a	Case T18449 All
 T18450	VERB 72 76	ཤོག་
 A18450a	Mood T18450 Imp
-#√18450	AnnotatorNotes T18450	[འཆགས་][འོང་][གཤེགས་] 
+#18450l	AnnotatorNotes T18450	[འཆགས་][འོང་][གཤེགས་] 
 T18451	VERB 76 81	བྱ་བ་
 A18451a	Tense T18451 Fut
 A18451b	VerbForm T18451 Vnoun
@@ -129,7 +129,7 @@ A18499a	Mood T18499 Imp
 T18500	VERB 240 247	གསུང་བ་
 A18500a	Tense T18500 Fut/Pres
 A18500b	VerbForm T18500 Vnoun
-#√18500	AnnotatorNotes T18500	[གསུང་√1][གསུང་√2] 
+#18500l	AnnotatorNotes T18500	[གསུང་√1][གསུང་√2] 
 T18501	NOUN 247 249	ལྟ
 A18501a	NounType T18501 Rel
 T18502	ADP 249 251	ར་
@@ -168,7 +168,7 @@ T18521	PART 322 324	མ་
 A18521a	Polarity T18521 Neg
 T18522	VERB 324 329	གཏོགས
 A18522a	Tense T18522 Past
-#√18522	AnnotatorNotes T18522	[གཏོག་√1][གཏོགས་] 
+#18522l	AnnotatorNotes T18522	[གཏོག་√1][གཏོགས་] 
 T18523	PUNCT 329 330	།
 T18525	NOUN 331 345	སྐུ་གསུང་ཐུགས་
 A18525a	Number T18525 Sing
@@ -231,7 +231,7 @@ T18555	ADP 477 479	ས་
 A18555a	Case T18555 Agn
 T18556	VERB 479 483	ཞོག་
 A18556a	Mood T18556 Imp
-#√18556	AnnotatorNotes T18556	[འཇོག་√1][འཇོག་√2] 
+#18556l	AnnotatorNotes T18556	[འཇོག་√1][འཇོག་√2] 
 T18557	VERB 483 488	གསུང་
 T18558	PUNCT 488 489	།
 T18560	DET 490 493	དེ་
@@ -240,7 +240,7 @@ T18561	PART 493 495	མ་
 A18561a	Polarity T18561 Neg
 T18562	VERB 495 501	གཏོགས་
 A18562a	Tense T18562 Past
-#√18562	AnnotatorNotes T18562	[གཏོག་√1][གཏོགས་] 
+#18562l	AnnotatorNotes T18562	[གཏོག་√1][གཏོགས་] 
 T18563	NOUN 501 508	ཕྱི་ནང་
 A18563a	Number T18563 Sing
 T18564	ADP 508 511	གི་
@@ -448,7 +448,7 @@ T18667	VERB 904 908	ཡོད་
 N18667	Reference T18667 Hill:1632	ཡོད་
 T18668	VERB 908 912	ཞུས་
 A18668a	Mood T18668 Imp
-#√18668	AnnotatorNotes T18668	[འཇུ་√3][ཞུ་√1] 
+#18668l	AnnotatorNotes T18668	[འཇུ་√3][ཞུ་√1] 
 T18669	SCONJ 912 914	ལ་
 A18669a	Case T18669 All
 T18670	NOUN 914 917	ཆང་
@@ -466,11 +466,11 @@ T18675	SCONJ 933 935	ལ་
 A18675a	Case T18675 All
 T18676	VERB 935 939	ཤོག་
 A18676a	Mood T18676 Imp
-#√18676	AnnotatorNotes T18676	[འཆགས་][འོང་][གཤེགས་] 
+#18676l	AnnotatorNotes T18676	[འཆགས་][འོང་][གཤེགས་] 
 T18677	VERB 939 945	གསུང་པ
 A18677a	Tense T18677 Fut/Pres
 A18677b	VerbForm T18677 Vnoun
-#√18677	AnnotatorNotes T18677	[གསུང་√1][གསུང་√2] 
+#18677l	AnnotatorNotes T18677	[གསུང་√1][གསུང་√2] 
 T18678	ADP 945 946	ས
 A18678a	Case T18678 Agn
 T18679	PUNCT 946 947	།
@@ -485,7 +485,7 @@ A18684a	Case T18684 All
 T18685	VERB 958 964	ཕྱིན་པ
 A18685a	Tense T18685 Past
 A18685b	VerbForm T18685 Vnoun
-#√18685	AnnotatorNotes T18685	[འགྲོ་][ཕྱིན་] 
+#18685l	AnnotatorNotes T18685	[འགྲོ་][ཕྱིན་] 
 T18686	ADP 964 965	ས
 A18686a	Case T18686 Agn
 T18687	PUNCT 965 966	།
@@ -521,7 +521,7 @@ A18704a	Number T18704 Sing
 T18705	PROPN 1015 1022	རྔོག་པ་
 T18706	VERB 1022 1028	འབྱོན་
 A18706a	Tense T18706 Fut/Pres
-#√18706	AnnotatorNotes T18706	[འབྱོན་√1][འབྱོན་√2] 
+#18706l	AnnotatorNotes T18706	[འབྱོན་√1][འབྱོན་√2] 
 T18707	SCONJ 1028 1032	ཞིང་
 A18707a	Case T18707 Impf
 T18708	VERB 1032 1038	བདོག་པ
@@ -540,11 +540,11 @@ T18713	ADP 1056 1058	ར་
 A18713a	Case T18713 Ter
 T18714	VERB 1058 1061	ཞུ་
 A18714a	Tense T18714 Fut/Pres
-#√18714	AnnotatorNotes T18714	[ཞུ་√1][ཞུ་√2] 
+#18714l	AnnotatorNotes T18714	[ཞུ་√1][ཞུ་√2] 
 T18715	VERB 1061 1066	ཞུས་པ
 A18715a	Tense T18715 Past
 A18715b	VerbForm T18715 Vnoun
-#√18715	AnnotatorNotes T18715	[འཇུ་√3][ཞུ་√1] 
+#18715l	AnnotatorNotes T18715	[འཇུ་√3][ཞུ་√1] 
 T18716	ADP 1066 1067	ས
 A18716a	Case T18716 Agn
 T18717	PUNCT 1067 1068	།
@@ -580,22 +580,22 @@ A18731a	NounType T18731 Rel
 N18731	Reference T18731 Hill:0039	སྐད་
 T18732	VERB 1125 1129	ཞུས་
 A18732a	Mood T18732 Imp
-#√18732	AnnotatorNotes T18732	[འཇུ་√3][ཞུ་√1] 
+#18732l	AnnotatorNotes T18732	[འཇུ་√3][ཞུ་√1] 
 T18733	VERB 1129 1133	ཤོག་
 A18733a	Mood T18733 Imp
-#√18733	AnnotatorNotes T18733	[འཆགས་][འོང་][གཤེགས་] 
+#18733l	AnnotatorNotes T18733	[འཆགས་][འོང་][གཤེགས་] 
 T18734	PART 1133 1137	ཅིག་
 A18734a	Mood T18734 Imp
 T18735	VERB 1137 1142	གསུང་
 T18736	VERB 1142 1144	ཞུ
 A18736a	Tense T18736 Fut/Pres
-#√18736	AnnotatorNotes T18736	[ཞུ་√1][ཞུ་√2] 
+#18736l	AnnotatorNotes T18736	[ཞུ་√1][ཞུ་√2] 
 T18737	SCONJ 1144 1146	ར་
 A18737a	Case T18737 Ter
 T18738	VERB 1146 1152	ཕྱིན་པ
 A18738a	Tense T18738 Past
 A18738b	VerbForm T18738 Vnoun
-#√18738	AnnotatorNotes T18738	[འགྲོ་][ཕྱིན་] 
+#18738l	AnnotatorNotes T18738	[འགྲོ་][ཕྱིན་] 
 T18739	ADP 1152 1153	ས
 A18739a	Case T18739 Agn
 T18740	PUNCT 1153 1154	།
@@ -618,7 +618,7 @@ T18749	ADP 1187 1189	ལ་
 A18749a	Case T18749 All
 T18750	VERB 1189 1195	གཟིགས་
 A18750a	Tense T18750 Past/Pres
-#√18750	AnnotatorNotes T18750	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#18750l	AnnotatorNotes T18750	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T18751	SCONJ 1195 1198	ནས་
 A18751a	Case T18751 Ela
 T18752	NOUN 1198 1206	ཐུགས་དམ་
@@ -657,10 +657,10 @@ N18766	Reference T18766 Hill:0978	ནུབ་
 T18767	ADP 1252 1255	ཏུ་
 A18767a	Case T18767 Ter
 T18768	VERB 1255 1261	གཟིགས་
-#√18768	AnnotatorNotes T18768	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#18768l	AnnotatorNotes T18768	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T18769	VERB 1261 1265	སོང་
 A18769a	Tense T18769 Past
-#√18769	AnnotatorNotes T18769	[འགྲོ་][སོང་] 
+#18769l	AnnotatorNotes T18769	[འགྲོ་][སོང་] 
 T18770	PUNCT 1265 1266	།
 T18772	NOUN 1267 1271	ནུབ་
 A18772a	Number T18772 Sing
@@ -670,7 +670,7 @@ A18773a	Case T18773 Ela
 T18774	VERB 1274 1279	བཙལ་བ
 A18774a	Tense T18774 Fut
 A18774b	VerbForm T18774 Vnoun
-#√18774	AnnotatorNotes T18774	[འཚལ་√1][འཚོལ་] 
+#18774l	AnnotatorNotes T18774	[འཚལ་√1][འཚོལ་] 
 T18775	ADP 1279 1281	ས་
 A18775a	Case T18775 Agn
 T18776	NOUN 1281 1284	ལྷོ
@@ -678,11 +678,11 @@ A18776a	Number T18776 Sing
 T18777	ADP 1284 1286	ར་
 A18777a	Case T18777 Ter
 T18778	VERB 1286 1292	གཟིགས་
-#√18778	AnnotatorNotes T18778	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#18778l	AnnotatorNotes T18778	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T18779	VERB 1292 1298	སོང་བ་
 A18779a	Tense T18779 Past
 A18779b	VerbForm T18779 Vnoun
-#√18779	AnnotatorNotes T18779	[འགྲོ་][སོང་] 
+#18779l	AnnotatorNotes T18779	[འགྲོ་][སོང་] 
 T18780	ADP 1298 1299	ལ
 A18780a	Case T18780 All
 T18781	PUNCT 1299 1300	།

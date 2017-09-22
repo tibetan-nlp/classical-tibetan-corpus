@@ -145,7 +145,7 @@ T40984	PRON 243 246	ཅི་
 A40984a	PronType T40984 Int
 T40985	VERB 246 252	འབྱོར་
 A40985a	Tense T40985 Fut/Pres
-#√40985	AnnotatorNotes T40985	[འབྱོར་√1][འབྱོར་√2] 
+#40985l	AnnotatorNotes T40985	[འབྱོར་√1][འབྱོར་√2] 
 T40986	VERB 252 256	བྱས་
 A40986a	Tense T40986 Past
 N40986	Reference T40986 Hill:1168	བྱེད་
@@ -159,7 +159,7 @@ A40989a	Case T40989 Ter
 T40990	VERB 266 270	ཡོང་
 N40990	Reference T40990 Hill:1630	ཡོང་
 T40991	VERB 270 273	ཟེར
-#√40991	AnnotatorNotes T40991	[ཟེར་√1][ཟེར་√2] 
+#40991l	AnnotatorNotes T40991	[ཟེར་√1][ཟེར་√2] 
 T40992	PUNCT 273 274	།
 T40994	PROPN 275 283	མཛེས་སེ་
 T40995	ADP 283 287	ན་རེ
@@ -168,7 +168,7 @@ T40996	PUNCT 287 288	།
 T40998	VERB 289 294	འཚོ་བ
 A40998a	Tense T40998 Fut/Pres
 A40998b	VerbForm T40998 Vnoun
-#√40998	AnnotatorNotes T40998	[འཚོ་√1][འཚོ་√2] 
+#40998l	AnnotatorNotes T40998	[འཚོ་√1][འཚོ་√2] 
 T40999	ADP 294 297	འི་
 A40999a	Case T40999 Gen
 T41000	NOUN 297 308	བསོད་སྙོམས་
@@ -202,7 +202,7 @@ N41015	Reference T41015 Hill:1630	ཡོང་
 T41016	VERB 354 359	ཟེར་བ
 A41016a	Tense T41016 Fut/Pres
 A41016b	VerbForm T41016 Vnoun
-#√41016	AnnotatorNotes T41016	[ཟེར་√1][ཟེར་√2] 
+#41016l	AnnotatorNotes T41016	[ཟེར་√1][ཟེར་√2] 
 T41017	ADP 359 360	ས
 A41017a	Case T41017 Agn
 T41018	PUNCT 360 361	།
@@ -277,7 +277,7 @@ T41053	ADP 488 490	ས་
 A41053a	Case T41053 Agn
 T41054	VERB 490 494	བཏང་
 A41054a	Tense T41054 Past
-#√41054	AnnotatorNotes T41054	[གཏོང་√1][གཏོང་√2] 
+#41054l	AnnotatorNotes T41054	[གཏོང་√1][གཏོང་√2] 
 T41055	SCONJ 494 497	ནས་
 A41055a	Case T41055 Ela
 T41056	VERB 497 502	འབད་པ
@@ -393,7 +393,7 @@ A41111a	Polarity T41111 Neg
 T41112	VERB 714 718	ཉན་པ
 A41112a	Tense T41112 Pres
 A41112b	VerbForm T41112 Vnoun
-#√41112	AnnotatorNotes T41112	[ཉན་√1][ཉན་√2] 
+#41112l	AnnotatorNotes T41112	[ཉན་√1][ཉན་√2] 
 T41113	ADP 718 720	ས་
 A41113a	Case T41113 Agn
 T41114	NOUN 720 731	བསོད་སྙོམས་
@@ -474,7 +474,7 @@ A41154a	Polarity T41154 Xor
 T41155	VERB 869 875	ཟེར་བ་
 A41155a	Tense T41155 Fut/Pres
 A41155b	VerbForm T41155 Vnoun
-#√41155	AnnotatorNotes T41155	[ཟེར་√1][ཟེར་√2] 
+#41155l	AnnotatorNotes T41155	[ཟེར་√1][ཟེར་√2] 
 T41156	ADP 875 876	ལ
 A41156a	Case T41156 All
 T41157	PUNCT 876 877	།

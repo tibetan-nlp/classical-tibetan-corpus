@@ -55,7 +55,7 @@ A39806a	Number T39806 Sing
 T39807	ADJ 103 109	མང་པོ་
 T39808	VERB 109 115	འདྲེན་
 A39808a	Tense T39808 Pres
-#√39808	AnnotatorNotes T39808	[བགྲང་][འདྲེན་] 
+#39808l	AnnotatorNotes T39808	[བགྲང་][འདྲེན་] 
 T39809	SCONJ 115 119	གྱི་
 A39809a	Case T39809 Gen
 T39810	VERB 119 124	འདུག་
@@ -102,12 +102,12 @@ A39830a	Tense T39830 Fut/Pres
 N39830	Reference T39830 Hill:1669	རུང་
 T39831	VERB 207 211	ཟེར་
 A39831a	Tense T39831 Past/Pres
-#√39831	AnnotatorNotes T39831	[ཟེར་√1][ཟེར་√2] 
+#39831l	AnnotatorNotes T39831	[ཟེར་√1][ཟེར་√2] 
 T39832	SCONJ 211 214	ནས་
 A39832a	Case T39832 Ela
 T39833	VERB 214 218	སོང་
 A39833a	Tense T39833 Past
-#√39833	AnnotatorNotes T39833	[འགྲོ་][སོང་] 
+#39833l	AnnotatorNotes T39833	[འགྲོ་][སོང་] 
 T39834	PART 218 221	ངོ་
 A39834a	Mood T39834 Ind
 T39835	PUNCT 221 222	།
@@ -277,7 +277,7 @@ A39923a	Number T39923 Sing
 T39924	ADP 549 551	ལ་
 A39924a	Case T39924 All
 T39925	VERB 551 554	ཟེར
-#√39925	AnnotatorNotes T39925	[ཟེར་√1][ཟེར་√2] 
+#39925l	AnnotatorNotes T39925	[ཟེར་√1][ཟེར་√2] 
 T39926	PUNCT 554 555	།
 T39928	NUM 556 561	གཅིག་
 A39928a	NumType T39928 Card
@@ -328,7 +328,7 @@ N39951	Reference T39951 Hill:1619	ཡིན་
 T39952	VERB 649 654	ཟེར་བ
 A39952a	Tense T39952 Fut/Pres
 A39952b	VerbForm T39952 Vnoun
-#√39952	AnnotatorNotes T39952	[ཟེར་√1][ཟེར་√2] 
+#39952l	AnnotatorNotes T39952	[ཟེར་√1][ཟེར་√2] 
 T39953	ADP 654 655	ས
 A39953a	Case T39953 Agn
 T39954	PUNCT 655 656	།
@@ -356,7 +356,7 @@ T39969	ADP 689 691	ར་
 A39969a	Case T39969 Ter
 T39970	VERB 691 694	ལངས
 A39970a	Tense T39970 Past
-#√39970	AnnotatorNotes T39970	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
+#39970l	AnnotatorNotes T39970	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
 T39971	PUNCT 694 695	།
 T39973	NOUN 696 702	ཇོ་ཇོ་
 A39973a	Number T39973 Sing
@@ -395,7 +395,7 @@ N39987	Reference T39987 Hill:0248	དགོས་
 T39988	VERB 756 761	འདུག་
 N39988	Reference T39988 Hill:0875	འདུག་
 T39989	VERB 761 764	ཟེར
-#√39989	AnnotatorNotes T39989	[ཟེར་√1][ཟེར་√2] 
+#39989l	AnnotatorNotes T39989	[ཟེར་√1][ཟེར་√2] 
 T39990	PUNCT 764 765	།
 T39992	VERB 766 769	མང་
 A39992a	Tense T39992 Pres
@@ -457,7 +457,7 @@ T40021	ADP 869 871	ར་
 A40021a	Case T40021 Ter
 T40022	VERB 871 875	སོང་
 A40022a	Mood T40022 Imp
-#√40022	AnnotatorNotes T40022	[འགྲོ་][སོང་] 
+#40022l	AnnotatorNotes T40022	[འགྲོ་][སོང་] 
 T40023	SCONJ 875 877	ལ་
 A40023a	Case T40023 All
 T40024	PART 877 880	ཨེ་
@@ -469,7 +469,7 @@ A40026a	Mood T40026 Imp
 N40026	Reference T40026 Hill:0715	ལྟ་√1
 T40027	VERB 890 893	ཤོག
 A40027a	Mood T40027 Imp
-#√40027	AnnotatorNotes T40027	[འཆགས་][འོང་][གཤེགས་] 
+#40027l	AnnotatorNotes T40027	[འཆགས་][འོང་][གཤེགས་] 
 T40028	VERB 893 898	འདུག་
 N40028	Reference T40028 Hill:0875	འདུག་
 T40029	SCONJ 898 900	ན་
@@ -491,7 +491,7 @@ N40035	Reference T40035 Hill:0331	འགྲོ་
 T40036	VERB 925 930	ཟེར་བ
 A40036a	Tense T40036 Fut/Pres
 A40036b	VerbForm T40036 Vnoun
-#√40036	AnnotatorNotes T40036	[ཟེར་√1][ཟེར་√2] 
+#40036l	AnnotatorNotes T40036	[ཟེར་√1][ཟེར་√2] 
 T40037	ADP 930 932	ས་
 A40037a	Case T40037 Agn
 T40038	VERB 932 937	བདེན་
@@ -576,7 +576,7 @@ A40080a	Case T40080 Agn
 T40081	VERB 1096 1103	གདུངས་པ
 A40081a	Tense T40081 Past
 A40081b	VerbForm T40081 Vnoun
-#√40081	AnnotatorNotes T40081	[དུངས་][གདུང་√1][གདུང་√2] 
+#40081l	AnnotatorNotes T40081	[དུངས་][གདུང་√1][གདུང་√2] 
 T40082	ADP 1103 1106	འི་
 A40082a	Case T40082 Gen
 T40083	NOUN 1106 1109	ལུས
@@ -605,13 +605,13 @@ A40095a	Case T40095 Ter
 T40096	VERB 1151 1156	ཐོན་པ
 A40096a	Tense T40096 Past
 A40096b	VerbForm T40096 Vnoun
-#√40096	AnnotatorNotes T40096	[འཐོན་√1][འཐོན་√2] 
+#40096l	AnnotatorNotes T40096	[འཐོན་√1][འཐོན་√2] 
 T40097	PUNCT 1156 1157	།
 T40099	NOUN 1158 1163	མདོག་
 A40099a	Number T40099 Sing
 T40100	VERB 1163 1167	སྔོ་
 A40100a	Tense T40100 Pres
-#√40100	AnnotatorNotes T40100	[སྔོ་√1][སྔོ་√2] 
+#40100l	AnnotatorNotes T40100	[སྔོ་√1][སྔོ་√2] 
 T40101	SCONJ 1167 1169	ལ་
 A40101a	Case T40101 All
 T40102	NOUN 1169 1171	ཤ་

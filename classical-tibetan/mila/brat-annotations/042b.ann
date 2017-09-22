@@ -4,7 +4,7 @@ N22233	Reference T22233 Hill:0640	སྙམ་
 T22234	VERB 7 13	ཕྱིན་པ
 A22234a	Tense T22234 Past
 A22234b	VerbForm T22234 Vnoun
-#√22234	AnnotatorNotes T22234	[འགྲོ་][ཕྱིན་] 
+#22234l	AnnotatorNotes T22234	[འགྲོ་][ཕྱིན་] 
 T22235	ADP 13 14	ས
 A22235a	Case T22235 Agn
 T22236	PUNCT 14 15	།
@@ -48,7 +48,7 @@ A22257a	Number T22257 Sing
 T22258	VERB 123 130	བསྐོར་བ
 A22258a	Tense T22258 Fut
 A22258b	VerbForm T22258 Vnoun
-#√22258	AnnotatorNotes T22258	[སྐོར་√1][སྐོར་√2] 
+#22258l	AnnotatorNotes T22258	[སྐོར་√1][སྐོར་√2] 
 T22259	ADP 130 133	འི་
 A22259a	Case T22259 Gen
 T22260	NOUN 133 135	ཚེ
@@ -108,13 +108,13 @@ T22288	SCONJ 238 240	ལ་
 A22288a	Case T22288 All
 T22289	VERB 240 244	ཤོད་
 A22289a	Mood T22289 Imp
-#√22289	AnnotatorNotes T22289	[འཆད་√2][ཤད་] 
+#22289l	AnnotatorNotes T22289	[འཆད་√2][ཤད་] 
 T22290	PART 244 248	ཅིག་
 A22290a	Mood T22290 Imp
 T22291	VERB 248 255	གསུང་བ་
 A22291a	Tense T22291 Fut/Pres
 A22291b	VerbForm T22291 Vnoun
-#√22291	AnnotatorNotes T22291	[གསུང་√1][གསུང་√2] 
+#22291l	AnnotatorNotes T22291	[གསུང་√1][གསུང་√2] 
 T22292	ADP 255 256	ལ
 A22292a	Case T22292 All
 T22293	PUNCT 256 257	།
@@ -145,7 +145,7 @@ T22308	NOUN 304 311	པུས་མོ་
 A22308a	Number T22308 Sing
 T22309	VERB 311 317	བཙུགས་
 A22309a	Tense T22309 Past
-#√22309	AnnotatorNotes T22309	[གཙུག་][འཛུགས་][ཟུག་] 
+#22309l	AnnotatorNotes T22309	[གཙུག་][འཛུགས་][ཟུག་] 
 T22310	NOUN 317 323	ཐལ་མོ་
 A22310a	Number T22310 Sing
 T22311	VERB 323 328	སྦྱར་
@@ -457,7 +457,7 @@ T22513	NOUN 1060 1064	ཕྱག་
 A22513a	Number T22513 Sing
 T22514	VERB 1064 1068	འཚལ་
 A22514a	Tense T22514 Fut/Pres
-#√22514	AnnotatorNotes T22514	[འཚལ་√1][འཚལ་√2] 
+#22514l	AnnotatorNotes T22514	[འཚལ་√1][འཚལ་√2] 
 T22515	PART 1068 1070	ལོ
 A22515a	Mood T22515 Ind
 T22516	PUNCT 1070 1071	།
@@ -536,7 +536,7 @@ A22568a	Number T22568 Sing
 T22569	ADJ 1235 1243	རྒྱ་ཆེན་
 T22570	VERB 1243 1248	སྐོར་
 A22570a	Tense T22570 Pres
-#√22570	AnnotatorNotes T22570	[སྐོར་√1][སྐོར་√2] 
+#22570l	AnnotatorNotes T22570	[སྐོར་√1][སྐོར་√2] 
 T22571	SCONJ 1248 1251	དུ་
 A22571a	Case T22571 Ter
 T22572	VERB 1251 1255	གསོལ
@@ -549,7 +549,7 @@ T22578	PART 1266 1268	མ་
 A22578a	Polarity T22578 Neg
 T22579	VERB 1268 1274	སྟོངས་
 A22579a	Tense T22579 Past
-#√22579	AnnotatorNotes T22579	[སྟོང་][སྟོངས་] 
+#22579l	AnnotatorNotes T22579	[སྟོང་][སྟོངས་] 
 T22580	NOUN 1274 1277	བར་
 A22580a	NounType T22580 Rel
 T22581	ADP 1277 1280	དུ་
@@ -576,7 +576,7 @@ T22597	ADP 1337 1340	དུ་
 A22597a	Case T22597 Ter
 T22598	VERB 1340 1344	བསྔོ
 A22598a	Tense T22598 Fut
-#√22598	AnnotatorNotes T22598	[སྔོ་√1][སྔོ་√2] 
+#22598l	AnnotatorNotes T22598	[སྔོ་√1][སྔོ་√2] 
 T22599	PUNCT 1344 1345	།
 T22601	PUNCT 1346 1347	།
 T22603	DET 1348 1351	དེ་

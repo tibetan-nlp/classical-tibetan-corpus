@@ -62,7 +62,7 @@ A58621a	Number T58621 Sing
 T58622	ADJ 133 140	དྲག་པོ་
 T58623	VERB 140 145	གཏོང་
 A58623a	Tense T58623 Pres
-#√58623	AnnotatorNotes T58623	[གཏོང་√1][གཏོང་√2] 
+#58623l	AnnotatorNotes T58623	[གཏོང་√1][གཏོང་√2] 
 T58624	SCONJ 145 149	ཞིང་
 A58624a	Case T58624 Impf
 T58625	PUNCT 149 150	།
@@ -99,7 +99,7 @@ A58646a	Reflex T58646 Yes
 T58647	VERB 239 246	གསུང་བ་
 A58647a	Tense T58647 Fut/Pres
 A58647b	VerbForm T58647 Vnoun
-#√58647	AnnotatorNotes T58647	[གསུང་√1][གསུང་√2] 
+#58647l	AnnotatorNotes T58647	[གསུང་√1][གསུང་√2] 
 T58648	NOUN 246 251	བཞིན་
 A58648a	NounType T58648 Rel
 T58649	NOUN 251 258	ཕུང་པོ་
@@ -120,7 +120,7 @@ T58655	SCONJ 278 282	གིས་
 A58655a	Case T58655 Agn
 T58656	VERB 282 289	བསྐྱོད་
 A58656a	Tense T58656 Past
-#√58656	AnnotatorNotes T58656	[སྐྱོད་√1][སྐྱོད་√2] 
+#58656l	AnnotatorNotes T58656	[སྐྱོད་√1][སྐྱོད་√2] 
 T58657	SCONJ 289 292	ནས་
 A58657a	Case T58657 Ela
 T58658	VERB 292 300	བགྱིས་པ་
@@ -189,7 +189,7 @@ T58688	VERB 422 426	ཞེས་
 A58688a	Mood T58688 Qot
 T58689	VERB 426 429	ཞུ་
 A58689a	Tense T58689 Fut/Pres
-#√58689	AnnotatorNotes T58689	[ཞུ་√1][ཞུ་√2] 
+#58689l	AnnotatorNotes T58689	[ཞུ་√1][ཞུ་√2] 
 T58690	SCONJ 429 433	ཞིང་
 A58690a	Case T58690 Impf
 T58691	PUNCT 433 434	།
@@ -237,7 +237,7 @@ T58715	ADP 516 518	ར་
 A58715a	Case T58715 Ter
 T58716	VERB 518 523	བཞེས་
 A58716a	Tense T58716 Past/Pres
-#√58716	AnnotatorNotes T58716	[བཞེས་√1][བཞེས་√2] 
+#58716l	AnnotatorNotes T58716	[བཞེས་√1][བཞེས་√2] 
 T58717	SCONJ 523 525	ནས
 A58717a	Case T58717 Ela
 T58718	PUNCT 525 526	།
@@ -375,7 +375,7 @@ T58779	DET 759 763	འདི་
 A58779a	PronType T58779 Dem
 T58780	VERB 763 769	གསུངས་
 A58780a	Tense T58780 Past
-#√58780	AnnotatorNotes T58780	[གསུང་√1][གསུང་√2] 
+#58780l	AnnotatorNotes T58780	[གསུང་√1][གསུང་√2] 
 T58781	PART 769 771	སོ
 A58781a	Mood T58781 Ind
 T58782	PUNCT 771 772	།
@@ -424,7 +424,7 @@ T58810	ADP 854 856	ར་
 A58810a	Case T58810 Ter
 T58811	VERB 856 859	ཤོག
 A58811a	Mood T58811 Imp
-#√58811	AnnotatorNotes T58811	[འཆགས་][འོང་][གཤེགས་] 
+#58811l	AnnotatorNotes T58811	[འཆགས་][འོང་][གཤེགས་] 
 T58812	PUNCT 859 860	།
 T58814	PRON 861 863	ང་
 A58814a	PronType T58814 Prs
@@ -463,7 +463,7 @@ T58834	ADP 941 943	ར་
 A58834a	Case T58834 Ter
 T58835	VERB 943 946	ཤོག
 A58835a	Mood T58835 Imp
-#√58835	AnnotatorNotes T58835	[འཆགས་][འོང་][གཤེགས་] 
+#58835l	AnnotatorNotes T58835	[འཆགས་][འོང་][གཤེགས་] 
 T58836	PUNCT 946 947	།
 T58838	PRON 948 953	ཁྱོད་
 A58838a	PronType T58838 Prs
@@ -493,7 +493,7 @@ T58852	ADP 1005 1007	ར་
 A58852a	Case T58852 Ter
 T58853	VERB 1007 1010	ཤོག
 A58853a	Mood T58853 Imp
-#√58853	AnnotatorNotes T58853	[འཆགས་][འོང་][གཤེགས་] 
+#58853l	AnnotatorNotes T58853	[འཆགས་][འོང་][གཤེགས་] 
 T58854	PUNCT 1010 1011	།
 T58856	NOUN 1012 1017	བླ་མ་
 A58856a	Number T58856 Sing
@@ -547,7 +547,7 @@ T58886	ADP 1115 1117	ར་
 A58886a	Case T58886 Ter
 T58887	VERB 1117 1120	ཤོག
 A58887a	Mood T58887 Imp
-#√58887	AnnotatorNotes T58887	[འཆགས་][འོང་][གཤེགས་] 
+#58887l	AnnotatorNotes T58887	[འཆགས་][འོང་][གཤེགས་] 
 T58888	PUNCT 1120 1121	།
 T58890	NOUN 1122 1126	དུས་
 A58890a	Number T58890 Sing
@@ -578,7 +578,7 @@ T58904	ADP 1171 1173	ར་
 A58904a	Case T58904 Ter
 T58905	VERB 1173 1176	ཤོག
 A58905a	Mood T58905 Imp
-#√58905	AnnotatorNotes T58905	[འཆགས་][འོང་][གཤེགས་] 
+#58905l	AnnotatorNotes T58905	[འཆགས་][འོང་][གཤེགས་] 
 T58906	PUNCT 1176 1177	།
 T58908	VERB 1178 1183	སྐྱེ་
 A58908a	Tense T58908 Fut/Pres

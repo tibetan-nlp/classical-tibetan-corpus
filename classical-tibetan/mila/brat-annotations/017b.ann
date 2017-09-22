@@ -86,7 +86,7 @@ N4716	Reference T4716 Hill:0494	ཆོག་
 T4717	VERB 156 160	མོད་
 A4717a	VerbType T4717 Aux
 T4718	VERB 160 164	ཟེར་
-#√4718	AnnotatorNotes T4718	[ཟེར་√1][ཟེར་√2] 
+#4718l	AnnotatorNotes T4718	[ཟེར་√1][ཟེར་√2] 
 T4719	ADJ 164 170	མང་པོ་
 T4720	VERB 170 174	འབར་
 A4720a	Tense T4720 Fut/Pres
@@ -240,15 +240,15 @@ T4794	SCONJ 427 430	དུ་
 A4794a	Case T4794 Ter
 T4795	VERB 430 434	ཆུག་
 A4795a	Mood T4795 Imp
-#√4795	AnnotatorNotes T4795	[འཇུག་√2][གཞུག་] 
+#4795l	AnnotatorNotes T4795	[འཇུག་√2][གཞུག་] 
 T4796	VERB 434 438	ཟེར་
-#√4796	AnnotatorNotes T4796	[ཟེར་√1][ཟེར་√2] 
+#4796l	AnnotatorNotes T4796	[ཟེར་√1][ཟེར་√2] 
 T4797	VERB 438 442	ཐོན་
 A4797a	Tense T4797 Fut/Past
 N4797	Reference T4797 Hill:0814	འཐོན་√1
 T4798	VERB 442 446	སོང་
 A4798a	Tense T4798 Past
-#√4798	AnnotatorNotes T4798	[འགྲོ་][སོང་] 
+#4798l	AnnotatorNotes T4798	[འགྲོ་][སོང་] 
 T4799	NOUN 446 451	རྟེང་
 A4799a	NounType T4799 Rel
 T4800	NOUN 451 455	སྒོ་
@@ -267,7 +267,7 @@ A4805a	Number T4805 Sing
 T4806	ADJ 476 482	མང་པོ་
 T4807	VERB 482 487	གཏོང་
 A4807a	Tense T4807 Pres
-#√4807	AnnotatorNotes T4807	[གཏོང་√1][གཏོང་√2] 
+#4807l	AnnotatorNotes T4807	[གཏོང་√1][གཏོང་√2] 
 T4808	SCONJ 487 491	ཞིང་
 A4808a	Case T4808 Impf
 T4809	VERB 491 496	ཡོད་པ
@@ -384,7 +384,7 @@ N4862	Reference T4862 Hill:1168	བྱེད་
 T4863	VERB 678 683	བཏང་བ
 A4863a	Tense T4863 Past
 A4863b	VerbForm T4863 Vnoun
-#√4863	AnnotatorNotes T4863	[གཏོང་√1][གཏོང་√2] 
+#4863l	AnnotatorNotes T4863	[གཏོང་√1][གཏོང་√2] 
 T4864	ADP 683 684	ས
 A4864a	Case T4864 Agn
 T4865	PUNCT 684 685	།
@@ -468,7 +468,7 @@ A4907a	Number T4907 Sing
 T4908	VERB 829 834	བཏང་བ
 A4908a	Tense T4908 Past
 A4908b	VerbForm T4908 Vnoun
-#√4908	AnnotatorNotes T4908	[གཏོང་√1][གཏོང་√2] 
+#4908l	AnnotatorNotes T4908	[གཏོང་√1][གཏོང་√2] 
 T4909	ADP 834 836	ས་
 A4909a	Case T4909 Agn
 T4910	PART 836 839	ནི་
@@ -511,7 +511,7 @@ N4929	Reference T4929 Hill:0398	བརྒྱགས་
 T4930	VERB 901 909	སྐྱེལ་བ་
 A4930a	Tense T4930 Pres
 A4930b	VerbForm T4930 Vnoun
-#√4930	AnnotatorNotes T4930	[སྐྱེལ་√1][སྐྱེལ་√2] 
+#4930l	AnnotatorNotes T4930	[སྐྱེལ་√1][སྐྱེལ་√2] 
 T4931	ADP 909 912	དང་
 A4931a	Case T4931 Com
 T4932	NOUN 912 916	ཁ་ཏ་
@@ -519,7 +519,7 @@ A4932a	Number T4932 Sing
 T4933	VERB 916 923	འཇུག་པ་
 A4933a	Tense T4933 Pres
 A4933b	VerbForm T4933 Vnoun
-#√4933	AnnotatorNotes T4933	[འཇུག་√1][འཇུག་√2] 
+#4933l	AnnotatorNotes T4933	[འཇུག་√1][འཇུག་√2] 
 T4934	ADP 923 925	ལ་
 A4934a	Case T4934 All
 T4935	VERB 925 929	ཡོང་
@@ -542,7 +542,7 @@ A4943a	Number T4943 Sing
 T4944	PROPN 968 974	བལ་པོ་
 T4945	VERB 974 980	བསྐོར་
 A4945a	Tense T4945 Past
-#√4945	AnnotatorNotes T4945	[སྐོར་√1][སྐོར་√2] 
+#4945l	AnnotatorNotes T4945	[སྐོར་√1][སྐོར་√2] 
 T4946	SCONJ 980 983	ནས་
 A4946a	Case T4946 Ela
 T4947	VERB 983 987	ལོག་

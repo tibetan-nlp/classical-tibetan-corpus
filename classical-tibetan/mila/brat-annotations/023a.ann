@@ -10,7 +10,7 @@ A8500a	Number T8500 Plur
 T8501	VERB 16 21	གཡོ་བ
 A8501a	Tense T8501 Fut/Pres
 A8501b	VerbForm T8501 Vnoun
-#√8501	AnnotatorNotes T8501	[གཡོ་√1][གཡོ་√2] 
+#8501l	AnnotatorNotes T8501	[གཡོ་√1][གཡོ་√2] 
 T8502	ADP 21 24	འི་
 A8502a	Case T8502 Gen
 T8503	VERB 24 29	བདེ་བ
@@ -128,7 +128,7 @@ A8555a	Case T8555 Impf
 T8556	VERB 222 228	ཕྱིན་པ
 A8556a	Tense T8556 Past
 A8556b	VerbForm T8556 Vnoun
-#√8556	AnnotatorNotes T8556	[འགྲོ་][ཕྱིན་] 
+#8556l	AnnotatorNotes T8556	[འགྲོ་][ཕྱིན་] 
 T8557	ADP 228 229	ས
 A8557a	Case T8557 Agn
 T8558	PUNCT 229 230	།
@@ -425,7 +425,7 @@ T8710	NOUN 859 863	ཕྱག་
 A8710a	Number T8710 Sing
 T8711	VERB 863 867	འཚལ་
 A8711a	Tense T8711 Fut/Pres
-#√8711	AnnotatorNotes T8711	[འཚལ་√1][འཚལ་√2] 
+#8711l	AnnotatorNotes T8711	[འཚལ་√1][འཚལ་√2] 
 T8712	SCONJ 867 871	ཞིང་
 A8712a	Case T8712 Impf
 T8713	NOUN 871 882	མཆོད་བསྟོད་
@@ -480,7 +480,7 @@ A8736a	Number T8736 Sing
 N8736	Reference T8736 Hill:1005	མནལ་
 T8737	VERB 986 991	སད་པ་
 A8737a	VerbForm T8737 Vnoun
-#√8737	AnnotatorNotes T8737	[སད་√1][སད་√2] 
+#8737l	AnnotatorNotes T8737	[སད་√1][སད་√2] 
 T8738	ADP 991 994	དང་
 A8738a	Case T8738 Com
 T8739	PUNCT 994 995	།
@@ -514,7 +514,7 @@ A8753a	VerbForm T8753 Vnoun
 N8753	Reference T8753 Hill:1403	ཚ་
 T8754	VERB 1046 1052	འདྲེན་
 A8754a	Tense T8754 Pres
-#√8754	AnnotatorNotes T8754	[བགྲང་][འདྲེན་] 
+#8754l	AnnotatorNotes T8754	[བགྲང་][འདྲེན་] 
 T8755	SCONJ 1052 1055	དུ་
 A8755a	Case T8755 Ter
 T8756	VERB 1055 1060	བྱུང་
@@ -551,7 +551,7 @@ N8777	Reference T8777 Hill:1619	ཡིན་
 T8778	VERB 1123 1128	ཟེར་བ
 A8778a	Tense T8778 Fut/Pres
 A8778b	VerbForm T8778 Vnoun
-#√8778	AnnotatorNotes T8778	[ཟེར་√1][ཟེར་√2] 
+#8778l	AnnotatorNotes T8778	[ཟེར་√1][ཟེར་√2] 
 T8779	ADP 1128 1131	འི་
 A8779a	Case T8779 Gen
 T8780	NOUN 1131 1139	བུད་མེད་
@@ -630,11 +630,11 @@ T8816	ADP 1284 1286	ར་
 A8816a	Case T8816 Ter
 T8817	VERB 1286 1290	ཞོག་
 A8817a	Mood T8817 Imp
-#√8817	AnnotatorNotes T8817	[འཇོག་√1][འཇོག་√2] 
+#8817l	AnnotatorNotes T8817	[འཇོག་√1][འཇོག་√2] 
 T8818	VERB 1290 1296	ཟེར་བ་
 A8818a	Tense T8818 Fut/Pres
 A8818b	VerbForm T8818 Vnoun
-#√8818	AnnotatorNotes T8818	[ཟེར་√1][ཟེར་√2] 
+#8818l	AnnotatorNotes T8818	[ཟེར་√1][ཟེར་√2] 
 T8819	ADP 1296 1297	ལ
 A8819a	Case T8819 All
 T8820	PUNCT 1297 1298	།

@@ -43,7 +43,7 @@ T35668	VERB 76 81	བྱེད་
 A35668a	Tense T35668 Pres
 N35668	Reference T35668 Hill:1168	བྱེད་
 T35669	VERB 81 85	ཟེར་
-#√35669	AnnotatorNotes T35669	[ཟེར་√1][ཟེར་√2] 
+#35669l	AnnotatorNotes T35669	[ཟེར་√1][ཟེར་√2] 
 T35670	SCONJ 85 87	ཏེ
 A35670a	Case T35670 Sem
 T35671	PUNCT 87 88	།
@@ -61,7 +61,7 @@ A35677a	Case T35677 Odd
 T35678	VERB 110 115	ཟེར་བ
 A35678a	Tense T35678 Fut/Pres
 A35678b	VerbForm T35678 Vnoun
-#√35678	AnnotatorNotes T35678	[ཟེར་√1][ཟེར་√2] 
+#35678l	AnnotatorNotes T35678	[ཟེར་√1][ཟེར་√2] 
 T35679	ADP 115 116	ས
 A35679a	Case T35679 Agn
 T35680	PUNCT 116 117	།
@@ -90,7 +90,7 @@ T35693	NOUN 154 158	ཞིང་
 A35693a	Number T35693 Sing
 T35694	VERB 158 162	ཐོབ་
 A35694a	Mood T35694 Imp
-#√35694	AnnotatorNotes T35694	[སྟོབ་][འཐོབ་][འདེབས་] 
+#35694l	AnnotatorNotes T35694	[སྟོབ་][འཐོབ་][འདེབས་] 
 T35695	SCONJ 162 164	ལ་
 A35695a	Case T35695 All
 T35696	NOUN 164 171	བརྒྱགས་
@@ -98,7 +98,7 @@ A35696a	Number T35696 Sing
 N35696	Reference T35696 Hill:0398	བརྒྱགས་
 T35697	VERB 171 177	སྐྱོལ་
 A35697a	Mood T35697 Imp
-#√35697	AnnotatorNotes T35697	[སྐྱེལ་√1][སྐྱེལ་√2] 
+#35697l	AnnotatorNotes T35697	[སྐྱེལ་√1][སྐྱེལ་√2] 
 T35698	PART 177 181	ཅིག་
 A35698a	Mood T35698 Imp
 T35699	VERB 181 186	བྱས་པ
@@ -144,13 +144,13 @@ T35722	DET 247 251	ཅིག་
 A35722a	PronType T35722 Ind
 T35723	VERB 251 257	སྐྱོལ་
 A35723a	Mood T35723 Imp
-#√35723	AnnotatorNotes T35723	[སྐྱེལ་√1][སྐྱེལ་√2] 
+#35723l	AnnotatorNotes T35723	[སྐྱེལ་√1][སྐྱེལ་√2] 
 T35724	SCONJ 257 260	དང་
 A35724a	Case T35724 Com
 T35725	VERB 260 266	ཟེར་བ་
 A35725a	Tense T35725 Fut/Pres
 A35725b	VerbForm T35725 Vnoun
-#√35725	AnnotatorNotes T35725	[ཟེར་√1][ཟེར་√2] 
+#35725l	AnnotatorNotes T35725	[ཟེར་√1][ཟེར་√2] 
 T35726	ADP 266 267	ལ
 A35726a	Case T35726 All
 T35727	PUNCT 267 268	།
@@ -204,7 +204,7 @@ T35752	VERB 355 359	ལོག་
 N35752	Reference T35752 Hill:1719	ལོག་
 T35753	VERB 359 363	སོང་
 A35753a	Tense T35753 Past
-#√35753	AnnotatorNotes T35753	[འགྲོ་][སོང་] 
+#35753l	AnnotatorNotes T35753	[འགྲོ་][སོང་] 
 T35754	PUNCT 363 364	།
 T35756	PUNCT 365 366	།
 T35758	DET 367 370	དེ་
@@ -309,7 +309,7 @@ T35806	ADV 539 541	ད་
 A35806a	AdvType T35806 Tim
 T35807	VERB 541 545	བཞག་
 A35807a	Tense T35807 Past
-#√35807	AnnotatorNotes T35807	[འཇོག་√1][བཞག་] 
+#35807l	AnnotatorNotes T35807	[འཇོག་√1][བཞག་] 
 T35808	PART 545 548	གམ་
 A35808a	Polarity T35808 Xor
 T35809	VERB 548 554	སྙམ་པ་
@@ -345,7 +345,7 @@ T35826	SCONJ 621 623	ལ་
 A35826a	Case T35826 All
 T35827	VERB 623 628	རྨོས་
 A35827a	Mood T35827 Imp
-#√35827	AnnotatorNotes T35827	[རྨ་√2][རྨེད་][རྨོད་] 
+#35827l	AnnotatorNotes T35827	[རྨ་√2][རྨེད་][རྨོད་] 
 T35828	PART 628 631	ཤིག
 A35828a	Mood T35828 Imp
 T35829	ADJ 631 635	ཐ་བ་
@@ -412,7 +412,7 @@ A35860a	Number T35860 Sing
 N35860	Reference T35860 Hill:0612	གཉིད་
 T35861	VERB 741 746	སད་པ་
 A35861a	VerbForm T35861 Vnoun
-#√35861	AnnotatorNotes T35861	[སད་√1][སད་√2] 
+#35861l	AnnotatorNotes T35861	[སད་√1][སད་√2] 
 T35862	ADP 746 749	དང་
 A35862a	Case T35862 Com
 T35863	NOUN 749 754	སེམས་

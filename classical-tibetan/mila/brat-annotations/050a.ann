@@ -11,7 +11,7 @@ A27835a	Case T27835 Agn
 T27836	VERB 29 34	འཚོ་བ
 A27836a	Tense T27836 Fut/Pres
 A27836b	VerbForm T27836 Vnoun
-#√27836	AnnotatorNotes T27836	[འཚོ་√1][འཚོ་√2] 
+#27836l	AnnotatorNotes T27836	[འཚོ་√1][འཚོ་√2] 
 T27837	ADP 34 37	འི་
 A27837a	Case T27837 Gen
 T27838	NOUN 37 48	རྟེན་འབྲེལ་
@@ -24,7 +24,7 @@ A27842a	AdvType T27842 Tim
 T27843	VERB 55 62	གཏོང་བ་
 A27843a	Tense T27843 Pres
 A27843b	VerbForm T27843 Vnoun
-#√27843	AnnotatorNotes T27843	[གཏོང་√1][གཏོང་√2] 
+#27843l	AnnotatorNotes T27843	[གཏོང་√1][གཏོང་√2] 
 T27844	ADP 62 65	ལས་
 A27844a	Case T27844 Abl
 T27845	VERB 65 69	འོས་
@@ -52,7 +52,7 @@ T27856	PART 114 118	ཤིག་
 A27856a	Mood T27856 Imp
 T27857	VERB 118 123	གསུངས
 A27857a	Tense T27857 Past
-#√27857	AnnotatorNotes T27857	[གསུང་√1][གསུང་√2] 
+#27857l	AnnotatorNotes T27857	[གསུང་√1][གསུང་√2] 
 T27858	PUNCT 123 124	།
 T27860	NOUN 125 129	བླ་མ
 A27860a	Number T27860 Sing
@@ -62,7 +62,7 @@ T27862	NOUN 131 142	དཀྱིལ་འཁོར་
 A27862a	Number T27862 Sing
 T27863	VERB 142 147	བཞེངས
 A27863a	Tense T27863 Past
-#√27863	AnnotatorNotes T27863	[བཞེང་√1][བཞེང་√2] 
+#27863l	AnnotatorNotes T27863	[བཞེང་√1][བཞེང་√2] 
 T27864	PUNCT 147 148	།
 T27866	NOUN 149 153	ཡུམ་
 A27866a	Number T27866 Sing
@@ -106,7 +106,7 @@ A27886a	Polarity T27886 Neg
 T27887	VERB 249 255	གྲགས་པ
 A27887a	Tense T27887 Past
 A27887b	VerbForm T27887 Vnoun
-#√27887	AnnotatorNotes T27887	[གྲག་][གྲགས་√1] 
+#27887l	AnnotatorNotes T27887	[གྲག་][གྲགས་√1] 
 T27888	ADP 255 258	འི་
 A27888a	Case T27888 Gen
 T27889	NOUN 258 269	ཆིག་བརྒྱུད་
@@ -237,7 +237,7 @@ T27951	ADP 514 516	ས་
 A27951a	Case T27951 Agn
 T27952	VERB 516 520	ཐོབ་
 A27952a	Mood T27952 Imp
-#√27952	AnnotatorNotes T27952	[སྟོབ་][འཐོབ་][འདེབས་] 
+#27952l	AnnotatorNotes T27952	[སྟོབ་][འཐོབ་][འདེབས་] 
 T27953	SCONJ 520 522	ལ་
 A27953a	Case T27953 All
 T27954	VERB 522 527	བྱིན་
@@ -304,7 +304,7 @@ T27982	ADP 634 637	སུ་
 A27982a	Case T27982 Ter
 T27983	VERB 637 641	ལོང་
 A27983a	Mood T27983 Imp
-#√27983	AnnotatorNotes T27983	[ལང་√1][ལེན་][ལོང་] 
+#27983l	AnnotatorNotes T27983	[ལང་√1][ལེན་][ལོང་] 
 T27984	PUNCT 641 642	།
 T27986	ADJ 643 651	སྐལ་ལྡན་
 T27987	ADP 651 655	གྱི་
@@ -407,7 +407,7 @@ A28032a	Polarity T28032 Neg
 T28033	VERB 829 835	ཐོགས་པ
 A28033a	Tense T28033 Fut/Pres
 A28033b	VerbForm T28033 Vnoun
-#√28033	AnnotatorNotes T28033	[ཐོགས་√1][ཐོགས་√2] 
+#28033l	AnnotatorNotes T28033	[ཐོགས་√1][ཐོགས་√2] 
 T28034	ADP 835 836	ས
 A28034a	Case T28034 Agn
 T28035	PUNCT 836 837	།
@@ -505,7 +505,7 @@ T28082	ADP 1019 1021	ས་
 A28082a	Case T28082 Agn
 T28083	VERB 1021 1026	ཕྱིན་
 A28083a	Tense T28083 Past
-#√28083	AnnotatorNotes T28083	[འགྲོ་][ཕྱིན་] 
+#28083l	AnnotatorNotes T28083	[འགྲོ་][ཕྱིན་] 
 T28084	SCONJ 1026 1028	ནས
 A28084a	Case T28084 Ela
 T28085	PUNCT 1028 1029	།
@@ -520,12 +520,12 @@ T28091	ADP 1052 1054	ལ་
 A28091a	Case T28091 All
 T28092	VERB 1054 1058	ཞུས་
 A28092a	Tense T28092 Past
-#√28092	AnnotatorNotes T28092	[འཇུ་√3][ཞུ་√1] 
+#28092l	AnnotatorNotes T28092	[འཇུ་√3][ཞུ་√1] 
 T28093	SCONJ 1058 1060	ན་
 A28093a	Case T28093 Loc
 T28094	VERB 1060 1065	ལོངས་
 A28094a	Tense T28094 Past
-#√28094	AnnotatorNotes T28094	[ལང་√3][ལེན་][ལོང་] 
+#28094l	AnnotatorNotes T28094	[ལང་√3][ལེན་][ལོང་] 
 T28095	SCONJ 1065 1069	ཤིང་
 A28095a	Case T28095 Impf
 T28096	NOUN 1069 1077	སེམས་ཅན་
@@ -537,7 +537,7 @@ A28098a	Number T28098 Sing
 N28098	Reference T28098 Hill:1081	ཕན་
 T28099	VERB 1082 1089	ཐོགས་པ་
 A28099a	VerbForm T28099 Vnoun
-#√28099	AnnotatorNotes T28099	[ཐོགས་√1][ཐོགས་√2] 
+#28099l	AnnotatorNotes T28099	[ཐོགས་√1][ཐོགས་√2] 
 T28100	VERB 1089 1094	ཡོད་པ
 A28100a	VerbForm T28100 Vnoun
 N28100	Reference T28100 Hill:1632	ཡོད་
@@ -552,7 +552,7 @@ T28106	PRON 1107 1110	ཅི་
 A28106a	PronType T28106 Int
 T28107	VERB 1110 1115	ལོངས་
 A28107a	Mood T28107 Imp
-#√28107	AnnotatorNotes T28107	[ལང་√1][ལང་√2][ལེན་] 
+#28107l	AnnotatorNotes T28107	[ལང་√1][ལང་√2][ལེན་] 
 T28108	VERB 1115 1119	གྱིས
 A28108a	Mood T28108 Imp
 N28108	Reference T28108 Hill:0260	བགྱིད་
@@ -666,7 +666,7 @@ T28160	NOUN 1318 1327	རྒྱལ་མཚན་
 A28160a	Number T28160 Sing
 T28161	VERB 1327 1332	ཚུགས་
 A28161a	Mood T28161 Imp
-#√28161	AnnotatorNotes T28161	[གཙུག་][ཚུགས་√1][འཛུགས་] 
+#28161l	AnnotatorNotes T28161	[གཙུག་][ཚུགས་√1][འཛུགས་] 
 T28162	PART 1332 1335	ཅིག
 A28162a	Mood T28162 Imp
 T28163	PRON 1335 1336	ང

@@ -37,7 +37,7 @@ A32672a	Case T32672 Ter
 T32673	VERB 75 81	ཕྱིན་པ
 A32673a	Tense T32673 Past
 A32673b	VerbForm T32673 Vnoun
-#√32673	AnnotatorNotes T32673	[འགྲོ་][ཕྱིན་] 
+#32673l	AnnotatorNotes T32673	[འགྲོ་][ཕྱིན་] 
 T32674	ADP 81 82	ས
 A32674a	Case T32674 Agn
 T32675	PUNCT 82 83	།
@@ -105,7 +105,7 @@ T32710	DET 218 222	ཞིག་
 A32710a	PronType T32710 Ind
 T32711	VERB 222 226	ཐོབ་
 A32711a	Mood T32711 Imp
-#√32711	AnnotatorNotes T32711	[སྟོབ་][འཐོབ་][འདེབས་] 
+#32711l	AnnotatorNotes T32711	[སྟོབ་][འཐོབ་][འདེབས་] 
 T32712	SCONJ 226 228	ལ་
 A32712a	Case T32712 All
 T32713	VERB 228 233	སློང་
@@ -156,7 +156,7 @@ N32734	Reference T32734 Hill:1168	བྱེད་
 T32735	PART 310 313	འོ་
 A32735a	Mood T32735 Ind
 T32736	VERB 313 316	ཟེར
-#√32736	AnnotatorNotes T32736	[ཟེར་√1][ཟེར་√2] 
+#32736l	AnnotatorNotes T32736	[ཟེར་√1][ཟེར་√2] 
 T32737	PUNCT 316 317	།
 T32739	PRON 318 320	ང་
 A32739a	PronType T32739 Prs
@@ -191,7 +191,7 @@ A32752a	Case T32752 Loc
 T32753	VERB 365 370	ལེགས་
 N32753	Reference T32753 Hill:1715	ལེགས་
 T32754	VERB 370 373	ཟེར
-#√32754	AnnotatorNotes T32754	[ཟེར་√1][ཟེར་√2] 
+#32754l	AnnotatorNotes T32754	[ཟེར་√1][ཟེར་√2] 
 T32755	PUNCT 373 374	།
 T32757	PRON 375 377	ང་
 A32757a	PronType T32757 Prs
@@ -296,7 +296,7 @@ A32808a	Number T32808 Sing
 T32809	VERB 573 577	མཛད་
 N32809	Reference T32809 Hill:1465	མཛད་
 T32810	VERB 577 580	ཟེར
-#√32810	AnnotatorNotes T32810	[ཟེར་√1][ཟེར་√2] 
+#32810l	AnnotatorNotes T32810	[ཟེར་√1][ཟེར་√2] 
 T32811	PUNCT 580 581	།
 T32813	PRON 582 584	ང་
 A32813a	PronType T32813 Prs
@@ -353,7 +353,7 @@ T32837	VERB 683 688	འབུལ་
 A32837a	Tense T32837 Pres
 N32837	Reference T32837 Hill:1224	འབུལ་
 T32838	VERB 688 692	ཟེར་
-#√32838	AnnotatorNotes T32838	[ཟེར་√1][ཟེར་√2] 
+#32838l	AnnotatorNotes T32838	[ཟེར་√1][ཟེར་√2] 
 T32839	VERB 692 696	བསྡད
 A32839a	Tense T32839 Fut/Past
 T32840	PUNCT 696 697	།
@@ -388,7 +388,7 @@ T32856	ADP 747 749	ལ་
 A32856a	Case T32856 All
 T32857	VERB 749 752	བབ་
 A32857a	Tense T32857 Past
-#√32857	AnnotatorNotes T32857	[འབབ་√1][འབབ་√2] 
+#32857l	AnnotatorNotes T32857	[འབབ་√1][འབབ་√2] 
 T32858	SCONJ 752 755	ནས་
 A32858a	Case T32858 Ela
 T32859	NOUN 755 759	ཆོས་
@@ -442,7 +442,7 @@ T32885	SCONJ 858 861	ཏུ་
 A32885a	Case T32885 Ter
 T32886	VERB 861 866	འདྲི་
 A32886a	Tense T32886 Pres
-#√32886	AnnotatorNotes T32886	[འདྲི་][འབྲི་√1] 
+#32886l	AnnotatorNotes T32886	[འདྲི་][འབྲི་√1] 
 T32887	SCONJ 866 869	རུ་
 A32887a	Case T32887 Ter
 T32888	VERB 869 875	བྱུང་བ
@@ -473,7 +473,7 @@ A32902a	Number T32902 Plur
 T32903	VERB 931 936	བཤད་པ
 A32903a	Tense T32903 Fut/Past
 A32903b	VerbForm T32903 Vnoun
-#√32903	AnnotatorNotes T32903	[འཆད་√2][ཤད་] 
+#32903l	AnnotatorNotes T32903	[འཆད་√2][ཤད་] 
 T32904	ADP 936 937	ས
 A32904a	Case T32904 Agn
 T32905	PUNCT 937 938	།
@@ -504,7 +504,7 @@ T32919	DET 982 986	ཞིག་
 A32919a	PronType T32919 Ind
 T32920	VERB 986 991	གསོས་
 A32920a	Tense T32920 Past
-#√32920	AnnotatorNotes T32920	[གསོ་√1][གསོ་√2] 
+#32920l	AnnotatorNotes T32920	[གསོ་√1][གསོ་√2] 
 T32921	VERB 991 994	བྱས
 A32921a	Tense T32921 Past
 N32921	Reference T32921 Hill:1168	བྱེད་
@@ -516,7 +516,7 @@ T32926	ADP 1007 1010	ཏུ་
 A32926a	Case T32926 Ter
 T32927	VERB 1010 1015	བཞེས་
 A32927a	Tense T32927 Past/Pres
-#√32927	AnnotatorNotes T32927	[བཞེས་√1][བཞེས་√2] 
+#32927l	AnnotatorNotes T32927	[བཞེས་√1][བཞེས་√2] 
 T32928	SCONJ 1015 1018	ནས་
 A32928a	Case T32928 Ela
 T32929	NOUN 1018 1022	བླ་མ
@@ -534,7 +534,7 @@ N32933	Reference T32933 Hill:0218	གྲག་
 T32934	VERB 1045 1050	ཟེར་བ
 A32934a	Tense T32934 Fut/Pres
 A32934b	VerbForm T32934 Vnoun
-#√32934	AnnotatorNotes T32934	[ཟེར་√1][ཟེར་√2] 
+#32934l	AnnotatorNotes T32934	[ཟེར་√1][ཟེར་√2] 
 T32935	ADP 1050 1051	ས
 A32935a	Case T32935 Agn
 T32936	PUNCT 1051 1052	།
@@ -558,7 +558,7 @@ A32946a	Number T32946 Sing
 N32946	Reference T32946 Hill:1623	ཡུམ་
 T32947	VERB 1086 1092	བཞེས་པ
 A32947a	VerbForm T32947 Vnoun
-#√32947	AnnotatorNotes T32947	[བཞེས་√1][བཞེས་√2] 
+#32947l	AnnotatorNotes T32947	[བཞེས་√1][བཞེས་√2] 
 T32948	ADP 1092 1094	ར་
 A32948a	Case T32948 Ter
 T32949	VERB 1094 1097	གདའ

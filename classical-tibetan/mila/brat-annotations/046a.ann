@@ -81,11 +81,11 @@ T24727	ADP 166 168	ར་
 A24727a	Case T24727 Ter
 T24728	VERB 168 171	ཞུ་
 A24728a	Tense T24728 Fut/Pres
-#√24728	AnnotatorNotes T24728	[ཞུ་√1][ཞུ་√2] 
+#24728l	AnnotatorNotes T24728	[ཞུ་√1][ཞུ་√2] 
 T24729	VERB 171 176	ཞུས་པ
 A24729a	Tense T24729 Past
 A24729b	VerbForm T24729 Vnoun
-#√24729	AnnotatorNotes T24729	[འཇུ་√3][ཞུ་√1] 
+#24729l	AnnotatorNotes T24729	[འཇུ་√3][ཞུ་√1] 
 T24730	ADP 176 177	ས
 A24730a	Case T24730 Agn
 T24731	PUNCT 177 178	།
@@ -167,7 +167,7 @@ T24776	SCONJ 372 374	ལ་
 A24776a	Case T24776 All
 T24777	VERB 374 378	ཤོག་
 A24777a	Mood T24777 Imp
-#√24777	AnnotatorNotes T24777	[འཆགས་][འོང་][གཤེགས་] 
+#24777l	AnnotatorNotes T24777	[འཆགས་][འོང་][གཤེགས་] 
 T24778	PART 378 382	ཅིག་
 A24778a	Mood T24778 Imp
 T24779	VERB 382 387	གསུང་
@@ -186,13 +186,13 @@ T24787	NOUN 410 417	རྨི་ལམ་
 A24787a	Number T24787 Sing
 T24788	VERB 417 422	བཟུང་
 A24788a	Tense T24788 Past
-#√24788	AnnotatorNotes T24788	[འཛིན་][གཟུང་] 
+#24788l	AnnotatorNotes T24788	[འཛིན་][གཟུང་] 
 T24789	SCONJ 422 425	ནས་
 A24789a	Case T24789 Ela
 T24790	VERB 425 430	ཞུས་པ
 A24790a	Tense T24790 Past
 A24790b	VerbForm T24790 Vnoun
-#√24790	AnnotatorNotes T24790	[འཇུ་√3][ཞུ་√1] 
+#24790l	AnnotatorNotes T24790	[འཇུ་√3][ཞུ་√1] 
 T24791	ADP 430 431	ས
 A24791a	Case T24791 Agn
 T24792	PUNCT 431 432	།
@@ -325,12 +325,12 @@ A24869a	Case T24869 All
 T24870	VERB 686 691	གསན་པ
 A24870a	Tense T24870 Past/Pres
 A24870b	VerbForm T24870 Vnoun
-#√24870	AnnotatorNotes T24870	[གཟོན་][གསན་] 
+#24870l	AnnotatorNotes T24870	[གཟོན་][གསན་] 
 T24871	ADP 691 693	ར་
 A24871a	Case T24871 Ter
 T24872	VERB 693 695	ཞུ
 A24872a	Tense T24872 Fut/Pres
-#√24872	AnnotatorNotes T24872	[ཞུ་√1][ཞུ་√2] 
+#24872l	AnnotatorNotes T24872	[ཞུ་√1][ཞུ་√2] 
 T24873	PUNCT 695 696	།
 T24875	PUNCT 697 698	།
 T24877	NOUN 699 708	འཛམ་གླིང་
@@ -350,7 +350,7 @@ T24887	NOUN 734 751	ལྷུན་སྟུག་གངས་རི་
 A24887a	Number T24887 Sing
 T24888	VERB 751 757	ཆགས་པ་
 A24888a	VerbForm T24888 Vnoun
-#√24888	AnnotatorNotes T24888	[ཆགས་√1][ཆགས་√2] 
+#24888l	AnnotatorNotes T24888	[ཆགས་√1][ཆགས་√2] 
 T24889	VERB 757 760	རྨི
 A24889a	Tense T24889 Fut/Pres
 N24889	Reference T24889 Hill:1348	རྨི་
@@ -427,7 +427,7 @@ A24933a	Number T24933 Sing
 T24934	VERB 894 900	འབབ་པ་
 A24934a	Tense T24934 Fut/Pres
 A24934b	VerbForm T24934 Vnoun
-#√24934	AnnotatorNotes T24934	[འབབ་√1][འབབ་√2] 
+#24934l	AnnotatorNotes T24934	[འབབ་√1][འབབ་√2] 
 T24935	VERB 900 903	རྨི
 A24935a	Tense T24935 Fut/Pres
 N24935	Reference T24935 Hill:1348	རྨི་
@@ -464,7 +464,7 @@ A24954a	Case T24954 Ter
 T24955	VERB 952 957	འབབ་པ
 A24955a	Tense T24955 Fut/Pres
 A24955b	VerbForm T24955 Vnoun
-#√24955	AnnotatorNotes T24955	[འབབ་√1][འབབ་√2] 
+#24955l	AnnotatorNotes T24955	[འབབ་√1][འབབ་√2] 
 T24956	ADP 957 959	ར་
 A24956a	Case T24956 Ter
 T24957	VERB 959 962	རྨི
@@ -515,7 +515,7 @@ A24985a	Case T24985 All
 T24986	VERB 1052 1058	ཞུས་པ་
 A24986a	Tense T24986 Past
 A24986b	VerbForm T24986 Vnoun
-#√24986	AnnotatorNotes T24986	[འཇུ་√3][ཞུ་√1] 
+#24986l	AnnotatorNotes T24986	[འཇུ་√3][ཞུ་√1] 
 T24987	AUX 1058 1061	ལགས
 T24988	PUNCT 1061 1062	།
 T24990	PUNCT 1063 1064	།
@@ -535,7 +535,7 @@ A25001a	Number T25001 Sing
 T25002	VERB 1111 1118	བཙུགས་པ
 A25002a	Tense T25002 Past
 A25002b	VerbForm T25002 Vnoun
-#√25002	AnnotatorNotes T25002	[གཙུག་][འཛུགས་][ཟུག་] 
+#25002l	AnnotatorNotes T25002	[གཙུག་][འཛུགས་][ཟུག་] 
 T25003	ADP 1118 1120	ར་
 A25003a	Case T25003 Ter
 T25004	VERB 1120 1123	རྨི
@@ -599,7 +599,7 @@ T25040	ADP 1234 1237	དུ་
 A25040a	Case T25040 Ter
 T25041	VERB 1237 1245	གཟིགས་པ་
 A25041a	VerbForm T25041 Vnoun
-#√25041	AnnotatorNotes T25041	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+#25041l	AnnotatorNotes T25041	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
 T25042	VERB 1245 1248	རྨི
 A25042a	Tense T25042 Fut/Pres
 N25042	Reference T25042 Hill:1348	རྨི་
@@ -633,7 +633,7 @@ A25060a	Case T25060 All
 T25061	VERB 1316 1322	ཞུས་པ་
 A25061a	Tense T25061 Past
 A25061b	VerbForm T25061 Vnoun
-#√25061	AnnotatorNotes T25061	[འཇུ་√3][ཞུ་√1] 
+#25061l	AnnotatorNotes T25061	[འཇུ་√3][ཞུ་√1] 
 T25062	AUX 1322 1325	ལགས
 T25063	PUNCT 1325 1326	།
 T25065	PUNCT 1327 1328	།
@@ -646,7 +646,7 @@ A25069a	Number T25069 Sing
 T25070	VERB 1342 1350	བཙུགས་པ་
 A25070a	Tense T25070 Past
 A25070b	VerbForm T25070 Vnoun
-#√25070	AnnotatorNotes T25070	[གཙུག་][འཛུགས་][ཟུག་] 
+#25070l	AnnotatorNotes T25070	[གཙུག་][འཛུགས་][ཟུག་] 
 T25071	VERB 1350 1353	རྨི
 A25071a	Tense T25071 Fut/Pres
 N25071	Reference T25071 Hill:1348	རྨི་

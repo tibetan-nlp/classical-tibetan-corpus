@@ -87,7 +87,7 @@ N43152	Reference T43152 Hill:0492	ཆེ་
 T43153	PUNCT 154 155	།
 T43155	PUNCT 156 157	།
 T43157	VERB 158 162	ཟེར་
-#√43157	AnnotatorNotes T43157	[ཟེར་√1][ཟེར་√2] 
+#43157l	AnnotatorNotes T43157	[ཟེར་√1][ཟེར་√2] 
 T43158	NOUN 162 166	གླུ་
 A43158a	Number T43158 Sing
 T43159	VERB 166 170	ལེན་
@@ -188,7 +188,7 @@ A43205a	Number T43205 Sing
 N43205	Reference T43205 Hill:1714	ལུས་
 T43206	VERB 332 336	སྔོ་
 A43206a	Tense T43206 Pres
-#√43206	AnnotatorNotes T43206	[སྔོ་√1][སྔོ་√2] 
+#43206l	AnnotatorNotes T43206	[སྔོ་√1][སྔོ་√2] 
 T43207	SCONJ 336 338	ལ་
 A43207a	Case T43207 All
 T43208	VERB 338 344	རིད་པ་
@@ -206,7 +206,7 @@ N43212	Reference T43212 Hill:1243	འབྱུང་
 T43213	VERB 359 365	ཟེར་བ་
 A43213a	Tense T43213 Fut/Pres
 A43213b	VerbForm T43213 Vnoun
-#√43213	AnnotatorNotes T43213	[ཟེར་√1][ཟེར་√2] 
+#43213l	AnnotatorNotes T43213	[ཟེར་√1][ཟེར་√2] 
 T43214	ADP 365 366	ལ
 A43214a	Case T43214 All
 T43215	PUNCT 366 367	།
@@ -228,7 +228,7 @@ A43223a	Number T43223 Plur
 T43224	VERB 401 406	བཤད་པ
 A43224a	Tense T43224 Fut/Past
 A43224b	VerbForm T43224 Vnoun
-#√43224	AnnotatorNotes T43224	[འཆད་√2][ཤད་] 
+#43224l	AnnotatorNotes T43224	[འཆད་√2][ཤད་] 
 T43225	ADP 406 407	ས
 A43225a	Case T43225 Agn
 T43226	PUNCT 407 408	།
@@ -246,9 +246,9 @@ T43233	ADP 425 427	ར་
 A43233a	Case T43233 Ter
 T43234	VERB 427 431	ཤོག་
 A43234a	Mood T43234 Imp
-#√43234	AnnotatorNotes T43234	[འཆགས་][འོང་][གཤེགས་] 
+#43234l	AnnotatorNotes T43234	[འཆགས་][འོང་][གཤེགས་] 
 T43235	VERB 431 435	ཟེར་
-#√43235	AnnotatorNotes T43235	[ཟེར་√1][ཟེར་√2] 
+#43235l	AnnotatorNotes T43235	[ཟེར་√1][ཟེར་√2] 
 T43236	VERB 435 439	ཚ་བ་
 A43236a	VerbForm T43236 Vnoun
 N43236	Reference T43236 Hill:1403	ཚ་
@@ -343,7 +343,7 @@ A43283a	VerbForm T43283 Vnoun
 N43283	Reference T43283 Hill:0898	འདྲ་√2
 T43284	VERB 623 628	བཏགས་
 A43284a	Tense T43284 Past
-#√43284	AnnotatorNotes T43284	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#43284l	AnnotatorNotes T43284	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T43285	SCONJ 628 630	ནས
 A43285a	Case T43285 Ela
 T43286	PUNCT 630 631	།
@@ -409,7 +409,7 @@ A43315a	Number T43315 Sing
 T43316	VERB 743 748	ཐོན་པ
 A43316a	Tense T43316 Past
 A43316b	VerbForm T43316 Vnoun
-#√43316	AnnotatorNotes T43316	[འཐོན་√1][འཐོན་√2] 
+#43316l	AnnotatorNotes T43316	[འཐོན་√1][འཐོན་√2] 
 T43317	ADP 748 750	ས་
 A43317a	Case T43317 Agn
 T43318	VERB 750 756	སྐྱིད་
@@ -474,7 +474,7 @@ N43346	Reference T43346 Hill:1168	བྱེད་
 T43347	VERB 865 869	གྲག་
 N43347	Reference T43347 Hill:0218	གྲག་
 T43348	VERB 869 872	ཟེར
-#√43348	AnnotatorNotes T43348	[ཟེར་√1][ཟེར་√2] 
+#43348l	AnnotatorNotes T43348	[ཟེར་√1][ཟེར་√2] 
 T43349	PUNCT 872 873	།
 T43351	NOUN 874 880	རྒན་པ་
 A43351a	Number T43351 Sing
@@ -567,13 +567,13 @@ T43401	DET 1059 1063	ཞིག་
 A43401a	PronType T43401 Ind
 T43402	VERB 1063 1068	ལོངས་
 A43402a	Mood T43402 Imp
-#√43402	AnnotatorNotes T43402	[ལང་√1][ལང་√2][ལེན་] 
+#43402l	AnnotatorNotes T43402	[ལང་√1][ལང་√2][ལེན་] 
 T43403	SCONJ 1068 1071	དང་
 A43403a	Case T43403 Com
 T43404	VERB 1071 1076	ཟེར་བ
 A43404a	Tense T43404 Fut/Pres
 A43404b	VerbForm T43404 Vnoun
-#√43404	AnnotatorNotes T43404	[ཟེར་√1][ཟེར་√2] 
+#43404l	AnnotatorNotes T43404	[ཟེར་√1][ཟེར་√2] 
 T43405	ADP 1076 1077	ས
 A43405a	Case T43405 Agn
 T43406	PUNCT 1077 1078	།

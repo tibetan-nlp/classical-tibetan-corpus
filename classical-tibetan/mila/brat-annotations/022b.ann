@@ -65,7 +65,7 @@ T8194	DET 148 152	ཅིག་
 A8194a	PronType T8194 Ind
 T8195	VERB 152 155	ཞུ་
 A8195a	Tense T8195 Fut/Pres
-#√8195	AnnotatorNotes T8195	[ཞུ་√1][ཞུ་√2] 
+#8195l	AnnotatorNotes T8195	[ཞུ་√1][ཞུ་√2] 
 T8196	VERB 155 160	བྱས་པ
 A8196a	Tense T8196 Past
 A8196b	VerbForm T8196 Vnoun
@@ -128,7 +128,7 @@ A8231a	Case T8231 Loc
 T8232	ADV 272 276	ཉིན་
 A8232a	AdvType T8232 Tim
 T8233	VERB 276 280	སངས་
-#√8233	AnnotatorNotes T8233	[སངས་√1][སངས་√2] 
+#8233l	AnnotatorNotes T8233	[སངས་√1][སངས་√2] 
 T8234	VERB 280 283	རྒྱ
 A8234a	Tense T8234 Fut/Pres
 N8234	Reference T8234 Hill:0339	རྒྱ་√1
@@ -145,7 +145,7 @@ T8240	ADV 298 302	ནུབ་
 A8240a	AdvType T8240 Tim
 N8240	Reference T8240 Hill:0978	ནུབ་
 T8241	VERB 302 306	སངས་
-#√8241	AnnotatorNotes T8241	[སངས་√1][སངས་√2] 
+#8241l	AnnotatorNotes T8241	[སངས་√1][སངས་√2] 
 T8242	VERB 306 309	རྒྱ
 A8242a	Tense T8242 Fut/Pres
 N8242	Reference T8242 Hill:0339	རྒྱ་√1
@@ -290,7 +290,7 @@ A8313a	Case T8313 Loc
 T8314	ADV 572 576	ཉིན་
 A8314a	AdvType T8314 Tim
 T8315	VERB 576 580	སངས་
-#√8315	AnnotatorNotes T8315	[སངས་√1][སངས་√2] 
+#8315l	AnnotatorNotes T8315	[སངས་√1][སངས་√2] 
 T8316	VERB 580 583	རྒྱ
 A8316a	Tense T8316 Fut/Pres
 N8316	Reference T8316 Hill:0339	རྒྱ་√1
@@ -307,7 +307,7 @@ T8322	ADV 598 602	ནུབ་
 A8322a	AdvType T8322 Tim
 N8322	Reference T8322 Hill:0978	ནུབ་
 T8323	VERB 602 606	སངས་
-#√8323	AnnotatorNotes T8323	[སངས་√1][སངས་√2] 
+#8323l	AnnotatorNotes T8323	[སངས་√1][སངས་√2] 
 T8324	VERB 606 609	རྒྱ
 A8324a	Tense T8324 Fut/Pres
 N8324	Reference T8324 Hill:0339	རྒྱ་√1
@@ -390,7 +390,7 @@ A8363a	Case T8363 Ter
 T8364	VERB 773 778	སོང་བ
 A8364a	Tense T8364 Past
 A8364b	VerbForm T8364 Vnoun
-#√8364	AnnotatorNotes T8364	[འགྲོ་][སོང་] 
+#8364l	AnnotatorNotes T8364	[འགྲོ་][སོང་] 
 T8365	ADP 778 781	འི་
 A8365a	Case T8365 Gen
 T8366	NOUN 781 783	ཚེ
@@ -403,7 +403,7 @@ A8370a	Number T8370 Plur
 T8371	VERB 792 798	སོང་བ་
 A8371a	Tense T8371 Past
 A8371b	VerbForm T8371 Vnoun
-#√8371	AnnotatorNotes T8371	[འགྲོ་][སོང་] 
+#8371l	AnnotatorNotes T8371	[འགྲོ་][སོང་] 
 T8372	ADP 798 801	དང་
 A8372a	Case T8372 Com
 T8373	PUNCT 801 802	།
@@ -436,7 +436,7 @@ N8388	Reference T8388 Hill:1619	ཡིན་
 T8389	VERB 859 865	ཟེར་བ་
 A8389a	Tense T8389 Fut/Pres
 A8389b	VerbForm T8389 Vnoun
-#√8389	AnnotatorNotes T8389	[ཟེར་√1][ཟེར་√2] 
+#8389l	AnnotatorNotes T8389	[ཟེར་√1][ཟེར་√2] 
 T8390	VERB 865 871	བདེན་པ
 A8390a	Tense T8390 Past/Pres
 A8390b	VerbForm T8390 Vnoun
@@ -462,7 +462,7 @@ A8400a	Number T8400 Sing
 T8401	VERB 907 913	ཆེས་པ་
 A8401a	Tense T8401 Past
 A8401b	VerbForm T8401 Vnoun
-#√8401	AnnotatorNotes T8401	[ཆེ་][ཆེས་][འཆེ་] 
+#8401l	AnnotatorNotes T8401	[ཆེ་][ཆེས་][འཆེ་] 
 T8402	DET 913 917	ཅིག་
 A8402a	PronType T8402 Ind
 T8403	VERB 917 922	བྱུང་
@@ -593,7 +593,7 @@ T8469	ADP 1213 1215	ར་
 A8469a	Case T8469 Ter
 T8470	VERB 1215 1219	སོང་
 A8470a	Mood T8470 Imp
-#√8470	AnnotatorNotes T8470	[འགྲོ་][སོང་] 
+#8470l	AnnotatorNotes T8470	[འགྲོ་][སོང་] 
 T8471	PART 1219 1223	ཞིག་
 A8471a	Mood T8471 Imp
 T8472	VERB 1223 1228	གསུང་

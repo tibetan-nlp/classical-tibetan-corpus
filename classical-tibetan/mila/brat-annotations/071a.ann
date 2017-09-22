@@ -79,20 +79,20 @@ T43536	PUNCT 146 147	།
 T43538	PUNCT 148 149	།
 T43540	VERB 150 155	གཏོད་
 A43540a	Tense T43540 Fut/Pres
-#√43540	AnnotatorNotes T43540	[གཏོད་√1][གཏོད་√2] 
+#43540l	AnnotatorNotes T43540	[གཏོད་√1][གཏོད་√2] 
 T43541	SCONJ 155 157	ན་
 A43541a	Case T43541 Loc
 T43542	VERB 157 163	ཕུར་བ་
 A43542a	Tense T43542 Past
 A43542b	VerbForm T43542 Vnoun
-#√43542	AnnotatorNotes T43542	[འཕུར་√1][འཕུར་√2] 
+#43542l	AnnotatorNotes T43542	[འཕུར་√1][འཕུར་√2] 
 T43543	PRON 163 166	གང་
 A43543a	PronType T43543 Int
 T43544	ADP 166 170	གིས་
 A43544a	Case T43544 Agn
 T43545	VERB 170 175	གཏོང་
 A43545a	Tense T43545 Pres
-#√43545	AnnotatorNotes T43545	[གཏོང་√1][གཏོང་√2] 
+#43545l	AnnotatorNotes T43545	[གཏོང་√1][གཏོང་√2] 
 T43546	PUNCT 175 176	།
 T43548	PUNCT 177 178	།
 T43550	VERB 179 185	ལྟོགས་
@@ -167,7 +167,7 @@ T43589	PUNCT 294 295	།
 T43591	PUNCT 296 297	།
 T43593	VERB 298 303	གཏོང་
 A43593a	Tense T43593 Pres
-#√43593	AnnotatorNotes T43593	[གཏོང་√1][གཏོང་√2] 
+#43593l	AnnotatorNotes T43593	[གཏོང་√1][གཏོང་√2] 
 T43594	SCONJ 303 305	ན་
 A43594a	Case T43594 Loc
 T43595	NOUN 305 314	ཏིང་འཛིན་
@@ -179,7 +179,7 @@ T43598	ADP 324 326	ས་
 A43598a	Case T43598 Agn
 T43599	VERB 326 331	གཏོང་
 A43599a	Tense T43599 Pres
-#√43599	AnnotatorNotes T43599	[གཏོང་√1][གཏོང་√2] 
+#43599l	AnnotatorNotes T43599	[གཏོང་√1][གཏོང་√2] 
 T43600	PUNCT 331 332	།
 T43602	PUNCT 333 334	།
 T43604	VERB 335 341	ལྟོགས་
@@ -226,7 +226,7 @@ T43627	ADP 420 422	ར་
 A43627a	Case T43627 Ter
 T43628	VERB 422 426	འཇུག
 A43628a	Tense T43628 Pres
-#√43628	AnnotatorNotes T43628	[འཇུག་√1][འཇུག་√2] 
+#43628l	AnnotatorNotes T43628	[འཇུག་√1][འཇུག་√2] 
 T43629	PUNCT 426 427	།
 T43631	NOUN 428 436	ཐབས་ཤེས་
 A43631a	Number T43631 Sing
@@ -256,7 +256,7 @@ T43644	NOUN 483 488	སྨེད་
 A43644a	Number T43644 Sing
 T43645	VERB 488 492	བཅུག
 A43645a	Tense T43645 Past
-#√43645	AnnotatorNotes T43645	[འཇུག་√2][གཞུག་] 
+#43645l	AnnotatorNotes T43645	[འཇུག་√2][གཞུག་] 
 T43646	PUNCT 492 493	།
 T43648	NOUN 494 504	སྲོག་རྩོལ་
 A43648a	Number T43648 Sing
@@ -333,7 +333,7 @@ T43694	PUNCT 659 660	།
 T43696	VERB 661 665	ལྟ་བ
 A43696a	Tense T43696 Pres
 A43696b	VerbForm T43696 Vnoun
-#√43696	AnnotatorNotes T43696	[ལྟ་√1][ལྟ་√2] 
+#43696l	AnnotatorNotes T43696	[ལྟ་√1][ལྟ་√2] 
 T43697	ADP 665 668	འི་
 A43697a	Case T43697 Gen
 T43698	NOUN 668 678	མདུང་རིངས་
@@ -343,7 +343,7 @@ A43699a	Number T43699 Sing
 T43700	ADP 681 684	ཏུ་
 A43700a	Case T43700 Ter
 T43701	VERB 684 688	ཐོགས
-#√43701	AnnotatorNotes T43701	[ཐོགས་√1][ཐོགས་√2] 
+#43701l	AnnotatorNotes T43701	[ཐོགས་√1][ཐོགས་√2] 
 T43702	PUNCT 688 689	།
 T43704	PUNCT 690 691	།
 T43706	NOUN 692 699	ཤེས་རབ་
@@ -356,7 +356,7 @@ T43709	ADP 714 716	ལ་
 A43709a	Case T43709 All
 T43710	VERB 716 720	བཏགས
 A43710a	Tense T43710 Past
-#√43710	AnnotatorNotes T43710	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
+#43710l	AnnotatorNotes T43710	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་] 
 T43711	PUNCT 720 721	།
 T43713	PUNCT 722 723	།
 T43715	NOUN 724 732	ཀུན་གཞི་
@@ -414,7 +414,7 @@ T43746	NOUN 837 843	མདེའུ་
 A43746a	Number T43746 Sing
 T43747	VERB 843 848	བཙུགས
 A43747a	Tense T43747 Past
-#√43747	AnnotatorNotes T43747	[གཙུག་][འཛུགས་][ཟུག་] 
+#43747l	AnnotatorNotes T43747	[གཙུག་][འཛུགས་][ཟུག་] 
 T43748	PUNCT 848 849	།
 T43750	PUNCT 850 851	།
 T43752	NOUN 852 863	སྟོང་པ་ཉིད་
@@ -530,7 +530,7 @@ T43822	NOUN 1077 1085	སེམས་ཅན་
 A43822a	Number T43822 Sing
 T43823	VERB 1085 1091	སྐྱོང་
 A43823a	Tense T43823 Pres
-#√43823	AnnotatorNotes T43823	[སྐྱོང་√1][སྐྱོང་√2] 
+#43823l	AnnotatorNotes T43823	[སྐྱོང་√1][སྐྱོང་√2] 
 T43824	PUNCT 1091 1092	།
 T43826	PUNCT 1093 1094	།
 T43828	NOUN 1095 1098	རྟ་
@@ -549,7 +549,7 @@ N43834	Reference T43834 Hill:0349	རྒྱུག་√1
 T43835	PUNCT 1125 1126	།
 T43837	VERB 1127 1132	སྙོག་
 A43837a	Tense T43837 Pres
-#√43837	AnnotatorNotes T43837	[སྙོག་√1][སྙོག་√2] 
+#43837l	AnnotatorNotes T43837	[སྙོག་√1][སྙོག་√2] 
 T43838	PART 1132 1135	ནི་
 T43839	VERB 1135 1141	རྒྱལ་བ
 A43839a	Tense T43839 Fut/Pres
@@ -561,7 +561,7 @@ T43841	NOUN 1144 1151	གོ་འཕང་
 A43841a	Number T43841 Sing
 T43842	VERB 1151 1155	སྙོག
 A43842a	Tense T43842 Pres
-#√43842	AnnotatorNotes T43842	[སྙོག་√1][སྙོག་√2] 
+#43842l	AnnotatorNotes T43842	[སྙོག་√1][སྙོག་√2] 
 T43843	PUNCT 1155 1156	།
 T43846	NOUN 1162 1166	སྨད་
 A43846a	NounType T43846 Rel
@@ -662,7 +662,7 @@ T43905	SCONJ 1358 1361	ནས་
 A43905a	Case T43905 Ela
 T43906	VERB 1361 1365	སོང་
 A43906a	Tense T43906 Past
-#√43906	AnnotatorNotes T43906	[འགྲོ་][སོང་] 
+#43906l	AnnotatorNotes T43906	[འགྲོ་][སོང་] 
 T43907	PART 1365 1368	ངོ་
 A43907a	Mood T43907 Ind
 T43908	PUNCT 1368 1369	།

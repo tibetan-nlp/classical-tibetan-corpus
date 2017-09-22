@@ -29,16 +29,16 @@ T49997	DET 70 73	རེ་
 T49998	VERB 73 79	གསུང་བ
 A49998a	Tense T49998 Fut/Pres
 A49998b	VerbForm T49998 Vnoun
-#√49998	AnnotatorNotes T49998	[གསུང་√1][གསུང་√2] 
+#49998l	AnnotatorNotes T49998	[གསུང་√1][གསུང་√2] 
 T49999	ADP 79 81	ར་
 A49999a	Case T49999 Ter
 T50000	VERB 81 84	ཞུ་
 A50000a	Tense T50000 Fut/Pres
-#√50000	AnnotatorNotes T50000	[ཞུ་√1][ཞུ་√2] 
+#50000l	AnnotatorNotes T50000	[ཞུ་√1][ཞུ་√2] 
 T50001	VERB 84 89	ཞུས་པ
 A50001a	Tense T50001 Past
 A50001b	VerbForm T50001 Vnoun
-#√50001	AnnotatorNotes T50001	[འཇུ་√3][ཞུ་√1] 
+#50001l	AnnotatorNotes T50001	[འཇུ་√3][ཞུ་√1] 
 T50002	ADP 89 90	ས
 A50002a	Case T50002 Agn
 T50003	PUNCT 90 91	།
@@ -79,7 +79,7 @@ A50035a	Polarity T50035 Neg
 T50036	VERB 275 282	གྲགས་པ་
 A50036a	Tense T50036 Past
 A50036b	VerbForm T50036 Vnoun
-#√50036	AnnotatorNotes T50036	[གྲག་][གྲགས་√1] 
+#50036l	AnnotatorNotes T50036	[གྲག་][གྲགས་√1] 
 T50037	DET 282 285	ནང་
 A50037a	PronType T50037 Dem
 T50038	ADP 285 288	གི་
@@ -201,7 +201,7 @@ A50137a	Polarity T50137 Neg
 T50138	VERB 807 814	གྲགས་པ་
 A50138a	Tense T50138 Past
 A50138b	VerbForm T50138 Vnoun
-#√50138	AnnotatorNotes T50138	[གྲག་][གྲགས་√1] 
+#50138l	AnnotatorNotes T50138	[གྲག་][གྲགས་√1] 
 T50139	NUM 814 818	བཞི་
 A50139a	NumType T50139 Card
 A50139b	NumForm T50139 Word
@@ -283,7 +283,7 @@ A50183a	Mood T50183 Imp
 T50184	VERB 1016 1022	གསུང་པ
 A50184a	Tense T50184 Fut/Pres
 A50184b	VerbForm T50184 Vnoun
-#√50184	AnnotatorNotes T50184	[གསུང་√1][གསུང་√2] 
+#50184l	AnnotatorNotes T50184	[གསུང་√1][གསུང་√2] 
 T50185	ADP 1022 1023	ས
 A50185a	Case T50185 Agn
 T50186	PUNCT 1023 1024	།
@@ -340,7 +340,7 @@ A50211a	Case T50211 Abl
 T50212	VERB 1133 1139	འདས་པ་
 A50212a	Tense T50212 Past
 A50212b	VerbForm T50212 Vnoun
-#√50212	AnnotatorNotes T50212	[འདའ་][ཟླ་] 
+#50212l	AnnotatorNotes T50212	[འདའ་][ཟླ་] 
 T50213	NOUN 1139 1145	རྒྱུད་
 A50213a	Number T50213 Sing
 N50213	Reference T50213 Hill:0353	རྒྱུད་
@@ -431,7 +431,7 @@ T50255	ADP 1296 1299	དུ་
 A50255a	Case T50255 Ter
 T50256	VERB 1299 1305	བསྔོས་
 A50256a	Tense T50256 Past
-#√50256	AnnotatorNotes T50256	[སྔོ་√1][སྔོ་√2] 
+#50256l	AnnotatorNotes T50256	[སྔོ་√1][སྔོ་√2] 
 T50257	SCONJ 1305 1307	ནས
 A50257a	Case T50257 Ela
 T50258	PUNCT 1307 1308	།
