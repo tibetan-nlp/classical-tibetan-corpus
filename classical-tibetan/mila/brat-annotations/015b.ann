@@ -23,7 +23,6 @@ N3204	Reference T3204 Hill:1224	འབུལ་
 T3205	NUM 50 55	སྟོང་
 A3205a	NumType T3205 Card
 A3205b	NumForm T3205 Word
-N3205	Reference T3205 Hill:0743	སྟོང་
 T3206	VERB 55 59	འབུལ
 A3206a	Tense T3206 Pres
 N3206	Reference T3206 Hill:1224	འབུལ་
@@ -49,7 +48,6 @@ N3216	Reference T3216 Hill:1224	འབུལ་
 T3217	NUM 110 115	སྟོང་
 A3217a	NumType T3217 Card
 A3217b	NumForm T3217 Word
-N3217	Reference T3217 Hill:0743	སྟོང་
 T3218	VERB 115 120	འབུལ་
 A3218a	Tense T3218 Pres
 N3218	Reference T3218 Hill:1224	འབུལ་
@@ -244,9 +242,9 @@ T3311	ADP 453 456	འི་
 A3311a	Case T3311 Gen
 T3312	NOUN 456 459	ཞལ་
 A3312a	Number T3312 Sing
-N3312	Reference T3312 Hill:1507	ཞལ་
 T3313	ADP 459 461	ནས
 A3313a	Case T3313 Ela
+#3313l	AnnotatorNotes T3313	 quote.B
 T3314	PUNCT 461 462	།
 T3316	ADJ 463 469	དང་པོ་
 A3316a	NumType T3316 Ord
@@ -371,7 +369,6 @@ A3376b	VerbForm T3376 Vnoun
 N3376	Reference T3376 Hill:1168	བྱེད་
 T3377	NOUN 742 746	སྨན་
 A3377a	Number T3377 Coll
-N3377	Reference T3377 Hill:1359	སྨན་
 T3378	PART 746 749	ཡང་
 T3379	VERB 749 753	ཤེས་
 N3379	Reference T3379 Hill:1743	ཤེས་
@@ -603,7 +600,6 @@ T3490	NOUN 1171 1180	ཕྱག་རྟགས་
 A3490a	Number T3490 Sing
 T3491	NOUN 1180 1185	རྟེན་
 A3491a	Number T3491 Sing
-N3491	Reference T3491 Hill:0708	རྟེན་
 T3492	ADP 1185 1188	དང་
 A3492a	Case T3492 Com
 T3493	VERB 1188 1194	བཅས་པ་
@@ -658,7 +654,6 @@ T3523	NOUN 1306 1315	ཕྱག་རྟགས་
 A3523a	Number T3523 Sing
 T3524	NOUN 1315 1320	རྟེན་
 A3524a	Number T3524 Sing
-N3524	Reference T3524 Hill:0708	རྟེན་
 T3525	ADP 1320 1323	དང་
 A3525a	Case T3525 Com
 T3526	VERB 1323 1329	བཅས་པ་
@@ -714,7 +709,7 @@ T3550	ADP 1411 1414	འི་
 A3550a	Case T3550 Gen
 T3551	NOUN 1414 1417	ཞལ་
 A3551a	Number T3551 Sing
-N3551	Reference T3551 Hill:1507	ཞལ་
 T3552	ADP 1417 1419	ནས
 A3552a	Case T3552 Ela
+#3552l	AnnotatorNotes T3552	 quote.B
 T3553	PUNCT 1419 1420	།

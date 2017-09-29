@@ -4,7 +4,6 @@ T686	ADP 5 9	ཀྱི་
 A686a	Case T686 Gen
 T687	NOUN 9 13	ནོར་
 A687a	Number T687 Coll
-N687	Reference T687 Hill:0994	ནོར་
 T688	PART 13 16	རམ་
 A688a	Polarity T688 Xor
 T689	DET 16 19	དེ་
@@ -140,7 +139,6 @@ T757	ADP 250 253	འི་
 A757a	Case T757 Gen
 T758	NOUN 253 258	སེམས་
 A758a	Number T758 Sing
-N758	Reference T758 Hill:1793	སེམས་
 T759	VERB 258 262	གསོ་
 A759a	Tense T759 Fut/Pres
 #759l	AnnotatorNotes T759	[གསོ་√1][གསོ་√2] 
@@ -263,6 +261,7 @@ T820	NOUN 479 484	ཨ་ཞང་
 A820a	Number T820 Sing
 T821	ADP 484 489	ན་རེ་
 A821a	Case T821 Qot
+#821l	AnnotatorNotes T821	 quote.B
 T822	DET 489 492	དེ་
 A822a	PronType T822 Dem
 T823	DET 492 494	ཀ་
@@ -321,17 +320,14 @@ T850	PRON 580 583	ཅི་
 A850a	PronType T850 Int
 T851	NOUN 583 586	ཕན་
 A851a	Number T851 Sing
-N851	Reference T851 Hill:1081	ཕན་
 T852	VERB 586 593	བྱེད་པ་
 A852a	Tense T852 Pres
 A852b	VerbForm T852 Vnoun
 N852	Reference T852 Hill:1168	བྱེད་
 T853	NOUN 593 596	ལས་
 A853a	Number T853 Sing
-N853	Reference T853 Hill:1707	ལས་
 T854	NOUN 596 600	འོས་
 A854a	Number T854 Sing
-N854	Reference T854 Hill:1613	འོས་
 T855	VERB 600 603	མེད
 A855a	Polarity T855 Neg
 T856	PUNCT 603 604	།
@@ -375,13 +371,13 @@ T875	NOUN 660 664	ཨ་མ་
 A875a	Number T875 Sing
 T876	ADP 664 669	ན་རེ་
 A876a	Case T876 Qot
+#876l	AnnotatorNotes T876	 quote.B
 T877	PRON 669 672	རང་
 A877a	Reflex T877 Yes
 T878	ADP 672 675	གི་
 A878a	Case T878 Gen
 T879	NOUN 675 679	ནོར་
 A879a	Number T879 Coll
-N879	Reference T879 Hill:0994	ནོར་
 T880	ADP 679 681	ལ་
 A880a	Case T880 All
 T881	VERB 681 690	དབང་རྒྱུ་
@@ -404,7 +400,6 @@ T887	ADP 712 715	འི་
 A887a	Case T887 Gen
 T888	NOUN 715 719	ནོར་
 A888a	Number T888 Coll
-N888	Reference T888 Hill:0994	ནོར་
 T889	ADP 719 724	གྱིས་
 A889a	Case T889 Agn
 T890	NOUN 724 729	བུ་ཚ་
@@ -431,12 +426,10 @@ T901	ADP 758 761	གི་
 A901a	Case T901 Gen
 T902	NOUN 761 765	ནོར་
 A902a	Number T902 Coll
-N902	Reference T902 Hill:0994	ནོར་
 T903	ADP 765 769	གྱི་
 A903a	Case T903 Gen
 T904	NOUN 769 771	ཆ་
 A904a	Number T904 Sing
-N904	Reference T904 Hill:0481	ཆ་
 T905	NUM 771 776	གཅིག་
 A905a	NumType T905 Card
 A905b	NumForm T905 Word
@@ -518,7 +511,6 @@ T946	ADP 940 944	ཀྱི་
 A946a	Case T946 Gen
 T947	NOUN 944 949	མངོན་
 A947a	Number T947 Sing
-N947	Reference T947 Hill:0421	མངོན་
 T948	NOUN 949 953	བློ་
 A948a	Number T948 Sing
 T949	VERB 953 959	འཆར་བ་
@@ -644,7 +636,6 @@ T1009	ADP 1205 1207	ས་
 A1009a	Case T1009 Agn
 T1010	NOUN 1207 1214	བརྒྱགས་
 A1010a	Number T1010 Sing
-N1010	Reference T1010 Hill:0398	བརྒྱགས་
 T1011	NOUN 1214 1222	ཆུ་སྡོར་
 A1011a	Number T1011 Coll
 T1012	NOUN 1222 1232	མེ་ཤིང་ཡན་
@@ -671,7 +662,6 @@ T1021	PRON 1267 1270	རང་
 A1021a	Reflex T1021 Yes
 T1022	NOUN 1270 1275	སེམས་
 A1022a	Number T1022 Sing
-N1022	Reference T1022 Hill:1793	སེམས་
 T1023	VERB 1275 1279	གསོ་
 A1023a	Tense T1023 Fut/Pres
 #1023l	AnnotatorNotes T1023	[གསོ་√1][གསོ་√2] 
@@ -704,7 +694,6 @@ T1037	ADP 1328 1331	དང་
 A1037a	Case T1037 Com
 T1038	NOUN 1331 1336	སྤྲང་
 A1038a	Number T1038 Sing
-N1038	Reference T1038 Hill:1070	སྤྲང་
 T1039	ADP 1336 1339	དུ་
 A1039a	Case T1039 Ter
 T1040	PART 1339 1342	མི་
