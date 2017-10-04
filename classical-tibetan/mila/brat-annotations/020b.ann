@@ -4,6 +4,7 @@ T6798	DET 7 12	རྣམས་
 A6798a	Number T6798 Plur
 T6799	ADP 12 16	ན་རེ
 A6799a	Case T6799 Qot
+#6799l	AnnotatorNotes T6799	 quote.B
 T6800	PUNCT 16 17	།
 T6802	PROPN 18 28	ཐོས་པ་དགའ་
 T6803	PRON 28 31	ཁོ་
@@ -88,6 +89,7 @@ T6842	NOUN 151 160	གྲོགས་པོ་
 A6842a	Number T6842 Sing
 T6843	ADP 160 164	ན་རེ
 A6843a	Case T6843 Qot
+#6843l	AnnotatorNotes T6843	 quote.B
 T6844	PUNCT 164 165	།
 T6846	PRON 166 171	ཁྱོད་
 A6846a	PronType T6846 Prs
@@ -152,7 +154,6 @@ T6877	ADP 264 267	འི་
 A6877a	Case T6877 Gen
 T6878	ADV 267 271	ནུབ་
 A6878a	AdvType T6878 Tim
-N6878	Reference T6878 Hill:0978	ནུབ་
 T6879	PROPN 271 277	དིང་རི
 T6880	ADP 277 280	འི་
 A6880a	Case T6880 Gen
@@ -172,7 +173,6 @@ T6888	PRON 306 309	ཁོ་
 A6888a	PronType T6888 Prs
 T6889	NOUN 309 313	རྩལ་
 A6889a	Number T6889 Sing
-N6889	Reference T6889 Hill:1383	རྩལ་
 T6890	VERB 313 318	ཆེ་བ་
 A6890a	Tense T6890 Pres
 A6890b	VerbForm T6890 Vnoun
@@ -208,7 +208,6 @@ T6903	ADP 357 360	དང་
 A6903a	Case T6903 Com
 T6904	NOUN 360 363	ལན་
 A6904a	Number T6904 Sing
-N6904	Reference T6904 Hill:1704	ལན་
 T6905	DET 363 367	ཅིག་
 A6905a	PronType T6905 Ind
 T6906	VERB 367 371	ཕྲད་
@@ -349,7 +348,6 @@ A6972a	Tense T6972 Past
 #6972l	AnnotatorNotes T6972	[འཇུག་√2][གཞུག་] 
 T6973	NOUN 590 595	མཚོན་
 A6973a	Number T6973 Sing
-N6973	Reference T6973 Hill:1424	མཚོན་
 T6974	VERB 595 600	རྒྱབ་
 A6974a	Tense T6974 Pres
 N6974	Reference T6974 Hill:0341	རྒྱག་√1
@@ -361,7 +359,6 @@ T6976	ADP 606 609	འི་
 A6976a	Case T6976 Gen
 T6977	NOUN 609 612	ལན་
 A6977a	Number T6977 Sing
-N6977	Reference T6977 Hill:1704	ལན་
 T6978	ADP 612 615	དུ་
 A6978a	Case T6978 Ter
 T6979	NOUN 615 619	རྡོ་
