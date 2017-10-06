@@ -2,13 +2,17 @@ T6797	NOUN 0 7	གཞོན་པ་
 A6797a	Number T6797 Sing
 T6798	DET 7 12	རྣམས་
 A6798a	Number T6798 Plur
+N6798	Reference T6798 Nonverbs:0305	རྣམས་√d
 T6799	ADP 12 16	ན་རེ
 A6799a	Case T6799 Qot
-#6799l	AnnotatorNotes T6799	 quote.B
+N6799	Reference T6799 Nonverbs:0041	ན་རེ་√case
 T6800	PUNCT 16 17	།
+N6800	Reference T6800 Nonverbs:0529	།
 T6802	PROPN 18 28	ཐོས་པ་དགའ་
+N6802	Reference T6802 Nonverbs:0570	ཐོས་པ་དགའ་
 T6803	PRON 28 31	ཁོ་
 A6803a	PronType T6803 Prs
+N6803	Reference T6803 Nonverbs:0214	ཁོ་√p
 T6804	AUX 31 35	ཡིན་
 N6804	Reference T6804 Hill:1619	ཡིན་
 T6805	NOUN 35 38	ཐག་
@@ -16,12 +20,16 @@ A6805a	Number T6805 Sing
 T6806	VERB 38 41	ཆོད
 N6806	Reference T6806 Hill:0496	ཆོད་
 T6807	PUNCT 41 42	།
+N6807	Reference T6807 Nonverbs:0529	།
 T6809	PRON 43 45	ཁོ
 A6809a	PronType T6809 Prs
+N6809	Reference T6809 Nonverbs:0214	ཁོ་√p
 T6810	ADP 45 47	ས་
 A6810a	Case T6810 Agn
+N6810	Reference T6810 Nonverbs:0026	གྱིས་√case
 T6811	PRON 47 53	འུ་ཅག་
 A6811a	PronType T6811 Prs
+N6811	Reference T6811 Nonverbs:0220	འུ་ཅག་√p
 T6812	VERB 53 60	མཐོང་བ་
 A6812a	VerbForm T6812 Vnoun
 N6812	Reference T6812 Hill:0788	མཐོང་
@@ -30,11 +38,14 @@ A6813a	Polarity T6813 Neg
 A6813b	VerbForm T6813 Vnoun
 T6814	ADP 65 66	ས
 A6814a	Case T6814 Agn
+N6814	Reference T6814 Nonverbs:0026	གྱིས་√case
 T6815	PUNCT 66 67	།
+N6815	Reference T6815 Nonverbs:0529	།
 T6817	NOUN 68 72	ཡུལ་
 A6817a	Number T6817 Sing
 T6818	ADP 72 75	ནས་
 A6818a	Case T6818 Ela
+N6818	Reference T6818 Nonverbs:0037	ནས་√case
 T6819	NOUN 75 79	དམག་
 A6819a	Number T6819 Sing
 T6820	VERB 79 84	གཡབས་
@@ -42,28 +53,36 @@ A6820a	Tense T6820 Past
 N6820	Reference T6820 Hill:1654	གཡོབ་
 T6821	SCONJ 84 87	ཏེ་
 A6821a	Case T6821 Sem
+N6821	Reference T6821 Nonverbs:0165	ཏེ་√cv
 T6822	PART 87 89	མ་
 A6822a	Polarity T6822 Neg
+N6822	Reference T6822 Nonverbs:0339	མ་√neg
 T6823	VERB 89 93	བསད་
 A6823a	Tense T6823 Past
 N6823	Reference T6823 Hill:1863	གསོད་
 T6824	SCONJ 93 95	ན་
 A6824a	Case T6824 Loc
+N6824	Reference T6824 Nonverbs:0123	ན་√cv
 T6825	DET 95 98	འདི
 A6825a	PronType T6825 Dem
+N6825	Reference T6825 Nonverbs:0235	འདི་√d
 T6826	ADP 98 100	ས་
 A6826a	Case T6826 Agn
+N6826	Reference T6826 Nonverbs:0026	གྱིས་√case
 T6827	ADV 100 106	ད་དུང་
 A6827a	AdvType T6827 Tim
+N6827	Reference T6827 Nonverbs:0429	ད་དུང་
 T6828	NOUN 106 110	ཡུལ་
 A6828a	Number T6828 Sing
 T6829	DET 110 114	འདི་
 A6829a	PronType T6829 Dem
+N6829	Reference T6829 Nonverbs:0235	འདི་√d
 T6830	VERB 114 118	ཕུང་
 A6830a	Tense T6830 Past
 N6830	Reference T6830 Hill:1108	འཕུང་
 T6831	SCONJ 118 121	དུ་
 A6831a	Case T6831 Ter
+N6831	Reference T6831 Nonverbs:0173	དུ་√cv
 T6832	VERB 121 126	འཇུག་
 A6832a	Tense T6832 Pres
 #6832l	AnnotatorNotes T6832	[འཇུག་√1][འཇུག་√2] 
@@ -72,6 +91,7 @@ A6833a	Tense T6833 Fut/Pres
 #6833l	AnnotatorNotes T6833	[ཟེར་√1][ཟེར་√2] 
 T6834	SCONJ 130 134	ཞིང་
 A6834a	Case T6834 Impf
+N6834	Reference T6834 Nonverbs:0121	ཅིང་√cv
 T6835	VERB 134 138	ལོག་
 N6835	Reference T6835 Hill:1719	ལོག་
 T6836	VERB 138 144	སོང་བ་
@@ -80,49 +100,66 @@ A6836b	VerbForm T6836 Vnoun
 #6836l	AnnotatorNotes T6836	[འགྲོ་][སོང་] 
 T6837	ADP 144 145	ལ
 A6837a	Case T6837 All
+N6837	Reference T6837 Nonverbs:0028	ལ་√case
 T6838	PUNCT 145 146	།
+N6838	Reference T6838 Nonverbs:0529	།
 T6840	PRON 147 148	ང
 A6840a	PronType T6840 Prs
+N6840	Reference T6840 Nonverbs:0201	ང་√p
 T6841	ADP 148 151	འི་
 A6841a	Case T6841 Gen
+N6841	Reference T6841 Nonverbs:0012	གྱི་√case
 T6842	NOUN 151 160	གྲོགས་པོ་
 A6842a	Number T6842 Sing
 T6843	ADP 160 164	ན་རེ
 A6843a	Case T6843 Qot
-#6843l	AnnotatorNotes T6843	 quote.B
+N6843	Reference T6843 Nonverbs:0041	ན་རེ་√case
 T6844	PUNCT 164 165	།
+N6844	Reference T6844 Nonverbs:0529	།
 T6846	PRON 166 171	ཁྱོད་
 A6846a	PronType T6846 Prs
+N6846	Reference T6846 Nonverbs:0221	ཁྱོད་√p
 T6847	PRON 171 174	རང་
 A6847a	Reflex T6847 Yes
+N6847	Reference T6847 Nonverbs:0230	རང་√p
 T6848	ADV 174 179	སྔོན་
 A6848a	AdvType T6848 Tim
+N6848	Reference T6848 Nonverbs:0484	སྔོན་
 T6849	ADP 179 181	ལ་
 A6849a	Case T6849 All
+N6849	Reference T6849 Nonverbs:0028	ལ་√case
 T6850	VERB 181 185	སོང་
 A6850a	Mood T6850 Imp
 #6850l	AnnotatorNotes T6850	[འགྲོ་][སོང་] 
 T6851	PUNCT 185 186	།
+N6851	Reference T6851 Nonverbs:0529	།
 T6853	PRON 187 188	ང
 A6853a	PronType T6853 Prs
+N6853	Reference T6853 Nonverbs:0201	ང་√p
 T6854	ADP 188 190	ས་
 A6854a	Case T6854 Agn
+N6854	Reference T6854 Nonverbs:0026	གྱིས་√case
 T6855	PRON 190 195	ཁྱོད་
 A6855a	PronType T6855 Prs
+N6855	Reference T6855 Nonverbs:0221	ཁྱོད་√p
 T6856	PRON 195 198	རང་
 A6856a	Reflex T6856 Yes
+N6856	Reference T6856 Nonverbs:0230	རང་√p
 T6857	AUX 198 204	ཡིན་པ་
 A6857a	VerbForm T6857 Vnoun
 T6858	NOUN 204 206	ལྟ
 A6858a	NounType T6858 Rel
 T6859	ADP 206 208	ར་
 A6859a	Case T6859 Ter
+N6859	Reference T6859 Nonverbs:0051	དུ་√case
 T6860	VERB 208 212	བྱས་
 A6860a	Tense T6860 Past
 N6860	Reference T6860 Hill:1168	བྱེད་
 T6861	SCONJ 212 214	ཏེ
 A6861a	Case T6861 Sem
+N6861	Reference T6861 Nonverbs:0165	ཏེ་√cv
 T6862	PUNCT 214 215	།
+N6862	Reference T6862 Nonverbs:0529	།
 T6864	NOUN 216 225	སྙིང་ཚིམ་
 A6864a	Number T6864 Sing
 T6865	VERB 225 229	བཏབ་
@@ -130,21 +167,26 @@ A6865a	Tense T6865 Past
 N6865	Reference T6865 Hill:0887	འདེབས་
 T6866	SCONJ 229 231	ལ་
 A6866a	Case T6866 All
+N6866	Reference T6866 Nonverbs:0064	ལ་√cv
 T6867	VERB 231 235	འོང་
 A6867a	Tense T6867 Fut/Pres
 N6867	Reference T6867 Hill:1609	འོང་
 T6868	SCONJ 235 239	གིས་
 A6868a	Case T6868 Agn
+N6868	Reference T6868 Nonverbs:0062	གྱིས་√cv
 T6869	VERB 239 242	ཟེར
 #6869l	AnnotatorNotes T6869	[ཟེར་√1][ཟེར་√2] 
 T6870	PUNCT 242 243	།
+N6870	Reference T6870 Nonverbs:0529	།
 T6872	PRON 244 248	ངེད་
 A6872a	PronType T6872 Prs
+N6872	Reference T6872 Nonverbs:0204	ངེད་√p
 T6873	NUM 248 253	གཉིས་
 A6873a	NumType T6873 Card
 A6873b	NumForm T6873 Word
 T6874	ADP 253 258	ཀྱིས་
 A6874a	Case T6874 Agn
+N6874	Reference T6874 Nonverbs:0026	གྱིས་√case
 T6875	NOUN 258 261	ཞག་
 A6875a	Number T6875 Sing
 T6876	NUM 261 264	བཞི
@@ -152,25 +194,32 @@ A6876a	NumType T6876 Card
 A6876b	NumForm T6876 Word
 T6877	ADP 264 267	འི་
 A6877a	Case T6877 Gen
+N6877	Reference T6877 Nonverbs:0012	གྱི་√case
 T6878	ADV 267 271	ནུབ་
 A6878a	AdvType T6878 Tim
+N6878	Reference T6878 Nonverbs:0440	ནུབ་
 T6879	PROPN 271 277	དིང་རི
 T6880	ADP 277 280	འི་
 A6880a	Case T6880 Gen
+N6880	Reference T6880 Nonverbs:0012	གྱི་√case
 T6881	NOUN 280 289	མགྲོན་ཁང་
 A6881a	Number T6881 Sing
 T6882	ADP 289 292	དུ་
 A6882a	Case T6882 Ter
+N6882	Reference T6882 Nonverbs:0051	དུ་√case
 T6883	VERB 292 297	འཛོམ་
 N6883	Reference T6883 Hill:1496	འཛོམ་
 T6884	NOUN 297 301	དུས་
 A6884a	NounType T6884 Rel
+N6884	Reference T6884 Nonverbs:0461	དུས་
 T6885	VERB 301 304	བྱས
 A6885a	Tense T6885 Past
 N6885	Reference T6885 Hill:1168	བྱེད་
 T6886	PUNCT 304 305	།
+N6886	Reference T6886 Nonverbs:0529	།
 T6888	PRON 306 309	ཁོ་
 A6888a	PronType T6888 Prs
+N6888	Reference T6888 Nonverbs:0214	ཁོ་√p
 T6889	NOUN 309 313	རྩལ་
 A6889a	Number T6889 Sing
 T6890	VERB 313 318	ཆེ་བ་
@@ -184,32 +233,41 @@ A6892a	VerbForm T6892 Vnoun
 N6892	Reference T6892 Hill:1632	ཡོད་
 T6893	ADP 329 331	ས་
 A6893a	Case T6893 Agn
+N6893	Reference T6893 Nonverbs:0026	གྱིས་√case
 T6894	NOUN 331 333	ཡ་
 A6894a	Number T6894 Sing
+N6894	Reference T6894 Nonverbs:0378	ཡ་
 T6895	PART 333 336	མི་
 A6895a	Polarity T6895 Neg
+N6895	Reference T6895 Nonverbs:0337	མི་√neg
 T6896	VERB 336 339	ང་བ
 A6896a	Tense T6896 Fut/Pres
 A6896b	VerbForm T6896 Vnoun
 T6897	ADP 339 341	ར་
 A6897a	Case T6897 Ter
+N6897	Reference T6897 Nonverbs:0051	དུ་√case
 T6898	VERB 341 344	བཞག
 A6898a	Tense T6898 Past
 #6898l	AnnotatorNotes T6898	[འཇོག་√1][བཞག་] 
 T6899	PRON 344 346	ང་
 A6899a	PronType T6899 Prs
+N6899	Reference T6899 Nonverbs:0201	ང་√p
 T6900	DET 346 349	དེ་
 A6900a	PronType T6900 Dem
+N6900	Reference T6900 Nonverbs:0233	དེ་√d
 T6901	NOUN 349 353	དུས་
 A6901a	Number T6901 Sing
+N6901	Reference T6901 Nonverbs:0461	དུས་
 T6902	NOUN 353 357	ཨ་མ་
 A6902a	Number T6902 Sing
 T6903	ADP 357 360	དང་
 A6903a	Case T6903 Com
+N6903	Reference T6903 Nonverbs:0031	དང་√case
 T6904	NOUN 360 363	ལན་
 A6904a	Number T6904 Sing
 T6905	DET 363 367	ཅིག་
 A6905a	PronType T6905 Ind
+N6905	Reference T6905 Nonverbs:0296	ཅིག་√d
 T6906	VERB 367 371	ཕྲད་
 A6906a	Tense T6906 Fut/Past
 N6906	Reference T6906 Hill:1140	འཕྲད་
@@ -218,25 +276,31 @@ A6907a	VerbForm T6907 Vnoun
 N6907	Reference T6907 Hill:0640	སྙམ་
 T6908	ADP 377 379	ལས
 A6908a	Case T6908 Abl
+N6908	Reference T6908 Nonverbs:0014	ལས་√case
 T6909	PUNCT 379 380	།
+N6909	Reference T6909 Nonverbs:0529	།
 T6911	NOUN 381 384	དགྲ
 A6911a	Number T6911 Sing
 T6912	ADP 384 386	ས་
 A6912a	Case T6912 Agn
+N6912	Reference T6912 Nonverbs:0026	གྱིས་√case
 T6913	VERB 386 392	འཇིགས་
 N6913	Reference T6913 Hill:0558	འཇིགས་
 T6914	SCONJ 392 395	ཏེ་
 A6914a	Case T6914 Sem
+N6914	Reference T6914 Nonverbs:0165	ཏེ་√cv
 T6915	VERB 395 400	མྱུར་
 A6915a	Tense T6915 Pres
 N6915	Reference T6915 Hill:1325	མྱུར་
 T6916	SCONJ 400 403	དུ་
 A6916a	Case T6916 Ter
+N6916	Reference T6916 Nonverbs:0173	དུ་√cv
 T6917	VERB 403 408	བྲོས་
 A6917a	Tense T6917 Past
 N6917	Reference T6917 Hill:1275	འབྲོས་
 T6918	SCONJ 408 411	ཏེ་
 A6918a	Case T6918 Sem
+N6918	Reference T6918 Nonverbs:0165	ཏེ་√cv
 T6919	PROPN 411 418	གཉཱ་ནཾ་
 T6920	VERB 418 423	སྐོར་
 A6920a	Tense T6920 Pres
@@ -247,50 +311,65 @@ A6921b	VerbForm T6921 Vnoun
 #6921l	AnnotatorNotes T6921	[འགྲོ་][ཕྱིན་] 
 T6922	ADP 429 430	ས
 A6922a	Case T6922 Agn
+N6922	Reference T6922 Nonverbs:0026	གྱིས་√case
 T6923	PUNCT 430 431	།
+N6923	Reference T6923 Nonverbs:0529	།
 T6925	NOUN 432 438	རྐང་བ་
 A6925a	Number T6925 Sing
 T6926	ADP 438 440	ལ་
 A6926a	Case T6926 All
+N6926	Reference T6926 Nonverbs:0028	ལ་√case
 T6927	NOUN 440 443	ཁྱི
 A6927a	Number T6927 Sing
 T6928	ADP 443 445	ས་
 A6928a	Case T6928 Agn
+N6928	Reference T6928 Nonverbs:0026	གྱིས་√case
 T6929	VERB 445 449	ཕུག་
 A6929a	Tense T6929 Past
 #6929l	AnnotatorNotes T6929	[འབིགས་√1][འབུགས་] 
 T6930	SCONJ 449 453	སྟེ་
 A6930a	Case T6930 Sem
+N6930	Reference T6930 Nonverbs:0165	ཏེ་√cv
 T6931	VERB 453 458	འཛོམ་
 N6931	Reference T6931 Hill:1496	འཛོམ་
 T6932	NOUN 458 462	དུས་
 A6932a	NounType T6932 Rel
+N6932	Reference T6932 Nonverbs:0461	དུས་
 T6933	NOUN 462 463	ས
 A6933a	Number T6933 Sing
 T6934	ADP 463 465	ར་
 A6934a	Case T6934 Ter
+N6934	Reference T6934 Nonverbs:0051	དུ་√case
 T6935	NOUN 465 469	དུས་
 A6935a	Number T6935 Sing
+N6935	Reference T6935 Nonverbs:0461	དུས་
 T6936	ADP 469 471	ལ་
 A6936a	Case T6936 All
+N6936	Reference T6936 Nonverbs:0028	ལ་√case
 T6937	PART 471 473	མ་
 A6937a	Polarity T6937 Neg
+N6937	Reference T6937 Nonverbs:0339	མ་√neg
 T6938	VERB 473 477	སླེབ
 A6938a	Tense T6938 Pres
 #6938l	AnnotatorNotes T6938	[སླེབ་√1][སླེབ་√2] 
 T6939	PUNCT 477 478	།
+N6939	Reference T6939 Nonverbs:0529	།
 T6941	NOUN 479 488	གྲོགས་པོ་
 A6941a	Number T6941 Sing
 T6942	PRON 488 491	ཁོ་
 A6942a	PronType T6942 Prs
+N6942	Reference T6942 Nonverbs:0214	ཁོ་√p
 T6943	DET 491 493	ཚོ
 A6943a	Number T6943 Plur
+N6943	Reference T6943 Nonverbs:0324	ཚོ་√d
 T6944	ADP 493 496	འི་
 A6944a	Case T6944 Gen
+N6944	Reference T6944 Nonverbs:0012	གྱི་√case
 T6945	NOUN 496 500	དམག་
 A6945a	Number T6945 Sing
 T6946	ADP 500 504	གིས་
 A6946a	Case T6946 Agn
+N6946	Reference T6946 Nonverbs:0026	གྱིས་√case
 T6947	VERB 504 509	སྐོར་
 A6947a	Tense T6947 Pres
 #6947l	AnnotatorNotes T6947	[སྐོར་√1][སྐོར་√2] 
@@ -300,7 +379,9 @@ A6948b	VerbForm T6948 Vnoun
 N6948	Reference T6948 Hill:1243	འབྱུང་
 T6949	ADP 516 517	ལ
 A6949a	Case T6949 All
+N6949	Reference T6949 Nonverbs:0028	ལ་√case
 T6950	PUNCT 517 518	།
+N6950	Reference T6950 Nonverbs:0529	།
 T6952	NOUN 519 525	དཀྱིལ་
 A6952a	Number T6952 Sing
 T6953	VERB 525 530	གཤགས་
@@ -308,17 +389,21 @@ A6953a	Tense T6953 Past
 #6953l	AnnotatorNotes T6953	[གཤགས་][གཤེགས་][གཤོག་] 
 T6954	SCONJ 530 533	ནས་
 A6954a	Case T6954 Ela
+N6954	Reference T6954 Nonverbs:0074	ནས་√cv
 T6955	VERB 533 538	འོངས་
 A6955a	Tense T6955 Past
 N6955	Reference T6955 Hill:1609	འོང་
 T6956	SCONJ 538 540	ཏེ
 A6956a	Case T6956 Sem
+N6956	Reference T6956 Nonverbs:0165	ཏེ་√cv
 T6957	PUNCT 540 541	།
+N6957	Reference T6957 Nonverbs:0529	།
 T6959	VERB 542 546	ཉེ་བ
 A6959a	VerbForm T6959 Vnoun
 N6959	Reference T6959 Hill:0605	ཉེ་
 T6960	ADP 546 549	འི་
 A6960a	Case T6960 Gen
+N6960	Reference T6960 Nonverbs:0012	གྱི་√case
 T6961	NOUN 549 552	ཚེ་
 A6961a	NounType T6961 Rel
 T6962	VERB 552 559	མགྱོགས་
@@ -326,16 +411,19 @@ A6962a	Tense T6962 Past
 N6962	Reference T6962 Hill:0273	མགྱོག་
 T6963	SCONJ 559 562	སུ་
 A6963a	Case T6963 Ter
+N6963	Reference T6963 Nonverbs:0173	དུ་√cv
 T6964	VERB 562 566	ཕྱིན
 A6964a	Tense T6964 Past
 #6964l	AnnotatorNotes T6964	[འགྲོ་][ཕྱིན་] 
 T6965	PUNCT 566 567	།
+N6965	Reference T6965 Nonverbs:0529	།
 T6967	VERB 568 574	འགྱང་བ
 A6967a	Tense T6967 Fut/Pres
 A6967b	VerbForm T6967 Vnoun
 N6967	Reference T6967 Hill:0299	འགྱང་
 T6968	ADP 574 577	འི་
 A6968a	Case T6968 Gen
+N6968	Reference T6968 Nonverbs:0012	གྱི་√case
 T6969	NOUN 577 580	ཚེ་
 A6969a	NounType T6969 Rel
 T6970	VERB 580 583	དལ་
@@ -343,6 +431,7 @@ A6970a	Tense T6970 Past
 N6970	Reference T6970 Hill:0872	འདལ་√2
 T6971	SCONJ 583 586	དུ་
 A6971a	Case T6971 Ter
+N6971	Reference T6971 Nonverbs:0173	དུ་√cv
 T6972	VERB 586 590	བཅུག
 A6972a	Tense T6972 Past
 #6972l	AnnotatorNotes T6972	[འཇུག་√2][གཞུག་] 
@@ -357,39 +446,52 @@ A6975b	VerbForm T6975 Vnoun
 N6975	Reference T6975 Hill:1243	འབྱུང་
 T6976	ADP 606 609	འི་
 A6976a	Case T6976 Gen
+N6976	Reference T6976 Nonverbs:0012	གྱི་√case
 T6977	NOUN 609 612	ལན་
 A6977a	Number T6977 Sing
 T6978	ADP 612 615	དུ་
 A6978a	Case T6978 Ter
+N6978	Reference T6978 Nonverbs:0051	དུ་√case
 T6979	NOUN 615 619	རྡོ་
 A6979a	Number T6979 Sing
 T6980	ADJ 619 626	ཆེན་པོ་
 T6981	DET 626 629	རེ་
+N6981	Reference T6981 Nonverbs:0265	རེ་√d
 T6982	DET 629 632	ཙམ་
 A6982a	PronType T6982 Tsam
+N6982	Reference T6982 Nonverbs:0333	ཙམ་√d
 T6983	VERB 632 637	འཕངས་
 A6983a	Tense T6983 Past
 N6983	Reference T6983 Hill:1113	འཕེན་
 T6984	SCONJ 637 639	ནས
 A6984a	Case T6984 Ela
+N6984	Reference T6984 Nonverbs:0074	ནས་√cv
 T6985	PUNCT 639 640	།
+N6985	Reference T6985 Nonverbs:0529	།
 T6987	PRON 641 643	ང་
 A6987a	PronType T6987 Prs
+N6987	Reference T6987 Nonverbs:0201	ང་√p
 T6988	ADP 643 645	ལ་
 A6988a	Case T6988 All
+N6988	Reference T6988 Nonverbs:0028	ལ་√case
 T6989	ADV 645 650	སྒོས་
 A6989a	PronType T6989 Dem
+N6989	Reference T6989 Nonverbs:0423	སྒོས་
 T6990	ADP 650 653	སུ་
 A6990a	Case T6990 Ter
+N6990	Reference T6990 Nonverbs:0051	དུ་√case
 T6991	PRON 653 656	སུ་
 A6991a	PronType T6991 Int
+N6991	Reference T6991 Nonverbs:0190	སུ་√p
 T6992	VERB 656 663	བདོས་པ་
 A6992a	Tense T6992 Past
 A6992b	VerbForm T6992 Vnoun
 T6993	DET 663 666	དེ་
 A6993a	PronType T6993 Dem
+N6993	Reference T6993 Nonverbs:0233	དེ་√d
 T6994	ADP 666 668	ལ་
 A6994a	Case T6994 All
+N6994	Reference T6994 Nonverbs:0028	ལ་√case
 T6995	NOUN 668 672	མཐུ་
 A6995a	Number T6995 Sing
 T6996	VERB 672 679	གཏོང་བ་
@@ -399,22 +501,30 @@ A6996b	VerbForm T6996 Vnoun
 T6997	AUX 679 682	ཡིན
 N6997	Reference T6997 Hill:1619	ཡིན་
 T6998	PUNCT 682 683	།
+N6998	Reference T6998 Nonverbs:0529	།
 T7000	PRON 684 685	ང
 A7000a	PronType T7000 Prs
+N7000	Reference T7000 Nonverbs:0201	ང་√p
 T7001	ADP 685 687	ས་
 A7001a	Case T7001 Agn
+N7001	Reference T7001 Nonverbs:0026	གྱིས་√case
 T7002	ADV 687 692	སྔ་སོ
 A7002a	AdvType T7002 Tim
+N7002	Reference T7002 Nonverbs:0525	སྔ་སོ་
 T7003	ADP 692 694	ར་
 A7003a	Case T7003 Ter
+N7003	Reference T7003 Nonverbs:0051	དུ་√case
 T7004	NOUN 694 697	མི་
 A7004a	Number T7004 Sing
 T7005	DET 697 700	དེ་
 A7005a	PronType T7005 Dem
+N7005	Reference T7005 Nonverbs:0233	དེ་√d
 T7006	DET 700 703	ཙམ་
 A7006a	PronType T7006 Tsam
+N7006	Reference T7006 Nonverbs:0333	ཙམ་√d
 T7007	DET 703 707	ཞིག་
 A7007a	PronType T7007 Ind
+N7007	Reference T7007 Nonverbs:0296	ཅིག་√d
 T7008	VERB 707 711	བསད་
 A7008a	Tense T7008 Past
 N7008	Reference T7008 Hill:1863	གསོད་
@@ -426,21 +536,28 @@ A7011a	Polarity T7011 Neg
 N7011	Reference T7011 Hill:1312	མིན་
 T7012	PART 727 729	ནམ
 A7012a	Polarity T7012 Xor
+N7012	Reference T7012 Nonverbs:0158	འམ་√cv
 T7013	PUNCT 729 730	།
+N7013	Reference T7013 Nonverbs:0529	།
 T7015	ADV 731 735	ད་ལོ
 A7015a	AdvType T7015 Tim
+N7015	Reference T7015 Nonverbs:0473	ད་ལོ་
 T7016	ADP 735 738	འི་
 A7016a	Case T7016 Gen
+N7016	Reference T7016 Nonverbs:0012	གྱི་√case
 T7017	NOUN 738 746	ལོ་ལེགས་
 A7017a	Number T7017 Sing
 T7018	ADP 746 748	ལ་
 A7018a	Case T7018 All
+N7018	Reference T7018 Nonverbs:0028	ལ་√case
 T7019	NOUN 748 757	འབྲུ་མིག་
 A7019a	Number T7019 Sing
 T7020	ADP 757 761	གིས་
 A7020a	Case T7020 Agn
+N7020	Reference T7020 Nonverbs:0026	གྱིས་√case
 T7021	PART 761 764	མི་
 A7021a	Polarity T7021 Neg
+N7021	Reference T7021 Nonverbs:0337	མི་√neg
 T7022	VERB 764 771	མཐོང་བ་
 A7022a	Tense T7022 Fut/Pres
 A7022b	VerbForm T7022 Vnoun
@@ -449,9 +566,12 @@ T7023	VERB 771 775	བཅོས
 A7023a	Tense T7023 Fut/Past
 #7023l	AnnotatorNotes T7023	[བཅོ་][འཆོས་√1] 
 T7024	PUNCT 775 776	།
+N7024	Reference T7024 Nonverbs:0529	།
 T7026	DET 777 780	དེ་
 A7026a	PronType T7026 Dem
+N7026	Reference T7026 Nonverbs:0233	དེ་√d
 T7027	PART 780 783	ཡང་
+N7027	Reference T7027 Nonverbs:0352	འང་√cl
 T7028	NOUN 783 788	སྙིང་
 A7028a	Number T7028 Sing
 T7029	ADJ 788 795	ཚིམ་པོ་
@@ -460,47 +580,62 @@ A7030a	Polarity T7030 Neg
 N7030	Reference T7030 Hill:1312	མིན་
 T7031	PART 799 801	ནམ
 A7031a	Polarity T7031 Xor
+N7031	Reference T7031 Nonverbs:0158	འམ་√cv
 T7032	PUNCT 801 802	།
+N7032	Reference T7032 Nonverbs:0529	།
 T7034	ADV 803 805	ད་
 A7034a	AdvType T7034 Tim
+N7034	Reference T7034 Nonverbs:0493	ད་
 T7035	AUX 805 810	ཡིན་པ
 A7035a	VerbForm T7035 Vnoun
 T7036	ADP 810 812	ས་
 A7036a	Case T7036 Agn
+N7036	Reference T7036 Nonverbs:0026	གྱིས་√case
 T7037	PART 812 816	ཀྱང་
+N7037	Reference T7037 Nonverbs:0352	འང་√cl
 T7038	PRON 816 817	ང
 A7038a	PronType T7038 Prs
+N7038	Reference T7038 Nonverbs:0201	ང་√p
 T7039	ADP 817 820	འི་
 A7039a	Case T7039 Gen
+N7039	Reference T7039 Nonverbs:0012	གྱི་√case
 T7040	NOUN 820 824	ཨ་མ་
 A7040a	Number T7040 Sing
 T7041	ADP 824 827	དང་
 A7041a	Case T7041 Com
+N7041	Reference T7041 Nonverbs:0031	དང་√case
 T7042	NOUN 827 835	སྲིང་མོ་
 A7042a	Number T7042 Sing
 T7043	ADP 835 837	ལ་
 A7043a	Case T7043 All
+N7043	Reference T7043 Nonverbs:0028	ལ་√case
 T7044	NOUN 837 843	གཤའ་མ་
 A7044a	Number T7044 Sing
 T7045	PART 843 845	མ་
 A7045a	Polarity T7045 Neg
+N7045	Reference T7045 Nonverbs:0339	མ་√neg
 T7046	VERB 845 849	བྱས་
 A7046a	Tense T7046 Past
 N7046	Reference T7046 Hill:1168	བྱེད་
 T7047	SCONJ 849 851	ན་
 A7047a	Case T7047 Loc
+N7047	Reference T7047 Nonverbs:0123	ན་√cv
 T7048	PRON 851 853	ང་
 A7048a	PronType T7048 Prs
+N7048	Reference T7048 Nonverbs:0201	ང་√p
 T7049	NOUN 853 859	ལུང་བ་
 A7049a	Number T7049 Sing
 T7050	DET 859 862	འདི
 A7050a	PronType T7050 Dem
+N7050	Reference T7050 Nonverbs:0235	འདི་√d
 T7051	ADP 862 865	འི་
 A7051a	Case T7051 Gen
+N7051	Reference T7051 Nonverbs:0012	གྱི་√case
 T7052	NOUN 865 868	ཕུ་
 A7052a	NounType T7052 Rel
 T7053	ADP 868 871	རུ་
 A7053a	Case T7053 Ter
+N7053	Reference T7053 Nonverbs:0051	དུ་√case
 T7054	VERB 871 875	གཏད་
 A7054a	Tense T7054 Fut/Past
 N7054	Reference T7054 Hill:0697	གཏོད་√1
@@ -509,8 +644,10 @@ A7055a	Tense T7055 Pres
 #7055l	AnnotatorNotes T7055	[འཇུག་√1][འཇུག་√2] 
 T7056	NOUN 879 883	མདའ་
 A7056a	Number T7056 Sing
+N7056	Reference T7056 Nonverbs:0591	མདའ་
 T7057	ADP 883 886	རུ་
 A7057a	Case T7057 Ter
+N7057	Reference T7057 Nonverbs:0051	དུ་√case
 T7058	VERB 886 890	སེལ་
 A7058a	Tense T7058 Pres
 N7058	Reference T7058 Hill:1795	སེལ་
@@ -523,89 +660,117 @@ A7061b	VerbForm T7061 Vnoun
 N7061	Reference T7061 Hill:0521	འཆི་
 T7062	ADP 901 904	འི་
 A7062a	Case T7062 Gen
+N7062	Reference T7062 Nonverbs:0012	གྱི་√case
 T7063	NOUN 904 910	ལྷག་མ་
 A7063a	Number T7063 Sing
 T7064	DET 910 915	རྣམས་
 A7064a	Number T7064 Plur
+N7064	Reference T7064 Nonverbs:0305	རྣམས་√d
 T7065	PART 915 919	ཀྱང་
+N7065	Reference T7065 Nonverbs:0352	འང་√cl
 T7066	NOUN 919 934	རབས་དགུ་བརྒྱུད་
 A7066a	Number T7066 Sing
 T7067	ADP 934 937	ནས་
 A7067a	Case T7067 Ela
+N7067	Reference T7067 Nonverbs:0037	ནས་√case
 T7068	VERB 937 941	བཅད་
 A7068a	Tense T7068 Past
 N7068	Reference T7068 Hill:0468	གཅོད་
 T7069	SCONJ 941 943	དེ
 A7069a	Case T7069 Sem
+N7069	Reference T7069 Nonverbs:0165	ཏེ་√cv
 T7070	PUNCT 943 944	།
+N7070	Reference T7070 Nonverbs:0529	།
 T7072	NOUN 945 949	ཡུལ་
 A7072a	Number T7072 Sing
 T7073	DET 949 953	འདི་
 A7073a	PronType T7073 Dem
+N7073	Reference T7073 Nonverbs:0235	འདི་√d
 T7075	ADP 968 970	ལ་
 A7075a	Case T7075 All
+N7075	Reference T7075 Nonverbs:0028	ལ་√case
 T7076	PART 970 972	མ་
 A7076a	Polarity T7076 Neg
+N7076	Reference T7076 Nonverbs:0339	མ་√neg
 T7077	VERB 972 977	ཐོངས་
 A7077a	Tense T7077 Past
 T7078	SCONJ 977 979	ན་
 A7078a	Case T7078 Loc
+N7078	Reference T7078 Nonverbs:0123	ན་√cv
 T7079	PRON 979 981	ང་
 A7079a	PronType T7079 Prs
+N7079	Reference T7079 Nonverbs:0201	ང་√p
 T7080	VERB 981 986	མིན་པ
 A7080a	Tense T7080 Pres
 A7080b	VerbForm T7080 Vnoun
 N7080	Reference T7080 Hill:1312	མིན་
 T7081	ADP 986 987	ས
 A7081a	Case T7081 Agn
+N7081	Reference T7081 Nonverbs:0026	གྱིས་√case
 T7082	PUNCT 987 988	།
+N7082	Reference T7082 Nonverbs:0529	།
 T7084	PRON 989 994	ཁྱོད་
 A7084a	PronType T7084 Prs
+N7084	Reference T7084 Nonverbs:0221	ཁྱོད་√p
 T7085	DET 994 997	ཚོ་
 A7085a	Number T7085 Plur
+N7085	Reference T7085 Nonverbs:0324	ཚོ་√d
 T7086	VERB 997 1002	སྒུར་
 A7086a	Mood T7086 Imp
 N7086	Reference T7086 Hill:0363	སྒུར་
 T7087	PART 1002 1006	ཅིག་
 A7087a	Mood T7087 Imp
+N7087	Reference T7087 Nonverbs:0115	ཅིག་√cv
 T7088	VERB 1006 1011	སྒུར་
 A7088a	Mood T7088 Imp
 N7088	Reference T7088 Hill:0363	སྒུར་
 T7089	PART 1011 1015	ཅིག་
 A7089a	Mood T7089 Imp
+N7089	Reference T7089 Nonverbs:0115	ཅིག་√cv
 T7090	VERB 1015 1019	ཟེར་
 A7090a	Tense T7090 Fut/Pres
 #7090l	AnnotatorNotes T7090	[ཟེར་√1][ཟེར་√2] 
 T7091	SCONJ 1019 1023	ཞིང་
 A7091a	Case T7091 Impf
+N7091	Reference T7091 Nonverbs:0121	ཅིང་√cv
 T7092	DET 1023 1028	ཡོངས་
 A7092a	Number T7092 Plur
+N7092	Reference T7092 Nonverbs:0301	ཡོངས་√d
 T7093	VERB 1028 1035	འདུག་པ་
 A7093a	VerbForm T7093 Vnoun
 N7093	Reference T7093 Hill:0875	འདུག་
 T7094	ADP 1035 1036	ལ
 A7094a	Case T7094 All
+N7094	Reference T7094 Nonverbs:0028	ལ་√case
 T7095	PUNCT 1036 1037	།
+N7095	Reference T7095 Nonverbs:0529	།
 T7097	PRON 1038 1042	ཁོང་
 A7097a	PronType T7097 Prs
+N7097	Reference T7097 Nonverbs:0205	ཁོང་√p
 T7098	DET 1042 1045	ཚོ་
 A7098a	Number T7098 Plur
+N7098	Reference T7098 Nonverbs:0324	ཚོ་√d
 T7099	VERB 1045 1050	སྐྲག་
 A7099a	Tense T7099 Past/Pres
 N7099	Reference T7099 Hill:0091	སྐྲག་
 T7100	SCONJ 1050 1053	ནས་
 A7100a	Case T7100 Ela
+N7100	Reference T7100 Nonverbs:0074	ནས་√cv
 T7101	PRON 1053 1058	ཁྱོད་
 A7101a	PronType T7101 Prs
+N7101	Reference T7101 Nonverbs:0221	ཁྱོད་√p
 T7102	ADP 1058 1063	ཀྱིས་
 A7102a	Case T7102 Agn
+N7102	Reference T7102 Nonverbs:0026	གྱིས་√case
 T7103	VERB 1063 1066	ལན་
 A7103a	Mood T7103 Imp
 N7103	Reference T7103 Hill:1704	ལན་
 T7104	PRON 1066 1071	ཁྱོད་
 A7104a	PronType T7104 Prs
+N7104	Reference T7104 Nonverbs:0221	ཁྱོད་√p
 T7105	ADP 1071 1076	ཀྱིས་
 A7105a	Case T7105 Agn
+N7105	Reference T7105 Nonverbs:0026	གྱིས་√case
 T7106	VERB 1076 1079	ལན་
 A7106a	Mood T7106 Imp
 N7106	Reference T7106 Hill:1704	ལན་
@@ -616,6 +781,7 @@ A7108a	NumType T7108 Card
 A7108b	NumForm T7108 Word
 T7109	ADP 1088 1090	ལ་
 A7109a	Case T7109 All
+N7109	Reference T7109 Nonverbs:0028	ལ་√case
 T7110	NUM 1090 1095	གཅིག་
 A7110a	NumType T7110 Card
 A7110b	NumForm T7110 Word
@@ -626,6 +792,7 @@ A7112a	Tense T7112 Fut/Pres
 N7112	Reference T7112 Hill:0871	འདལ་√1
 T7113	SCONJ 1104 1108	ཞིང་
 A7113a	Case T7113 Impf
+N7113	Reference T7113 Nonverbs:0121	ཅིང་√cv
 T7114	VERB 1108 1112	ལོག་
 N7114	Reference T7114 Hill:1719	ལོག་
 T7115	VERB 1112 1116	སོང་
@@ -634,30 +801,40 @@ A7115a	Tense T7115 Past
 T7116	VERB 1116 1119	ཟེར
 #7116l	AnnotatorNotes T7116	[ཟེར་√1][ཟེར་√2] 
 T7117	PUNCT 1119 1120	།
+N7117	Reference T7117 Nonverbs:0529	།
 T7119	DET 1121 1123	དེ
 A7119a	PronType T7119 Dem
+N7119	Reference T7119 Nonverbs:0233	དེ་√d
 T7120	ADP 1123 1125	ར་
 A7120a	Case T7120 Ter
+N7120	Reference T7120 Nonverbs:0051	དུ་√case
 T7121	NOUN 1125 1133	གྲོགས་པོ
 A7121a	Number T7121 Sing
 T7122	ADP 1133 1135	ས་
 A7122a	Case T7122 Agn
+N7122	Reference T7122 Nonverbs:0026	གྱིས་√case
 T7123	PRON 1135 1136	ང
 A7123a	PronType T7123 Prs
+N7123	Reference T7123 Nonverbs:0201	ང་√p
 T7124	ADP 1136 1139	འི་
 A7124a	Case T7124 Gen
+N7124	Reference T7124 Nonverbs:0012	གྱི་√case
 T7125	ADV 1139 1144	སྔོན་
 A7125a	AdvType T7125 Tim
+N7125	Reference T7125 Nonverbs:0484	སྔོན་
 T7126	ADP 1144 1146	ལ་
 A7126a	Case T7126 All
+N7126	Reference T7126 Nonverbs:0028	ལ་√case
 T7127	PROPN 1146 1152	དིང་རི
 T7128	ADP 1152 1154	ར་
 A7128a	Case T7128 Ter
+N7128	Reference T7128 Nonverbs:0051	དུ་√case
 T7129	VERB 1154 1159	སླེབ་
 A7129a	Tense T7129 Pres
 #7129l	AnnotatorNotes T7129	[སླེབ་√1][སླེབ་√2] 
 T7130	SCONJ 1159 1162	ནས་
 A7130a	Case T7130 Ela
+N7130	Reference T7130 Nonverbs:0074	ནས་√cv
 T7131	NOUN 1162 1165	ཁང་
 A7131a	Number T7131 Sing
 T7132	VERB 1165 1172	གཉེར་བ་
@@ -666,33 +843,41 @@ A7132b	VerbForm T7132 Vnoun
 N7132	Reference T7132 Hill:0616	གཉེར་
 T7133	ADP 1172 1174	ལ་
 A7133a	Case T7133 All
+N7133	Reference T7133 Nonverbs:0028	ལ་√case
 T7134	NOUN 1174 1186	རྣལ་འབྱོར་པ་
 A7134a	Number T7134 Sing
 T7135	DET 1186 1190	འདི་
 A7135a	PronType T7135 Dem
+N7135	Reference T7135 Nonverbs:0235	འདི་√d
 T7136	NOUN 1190 1194	འདྲ་
 A7136a	NounType T7136 Rel
 T7137	DET 1194 1198	ཞིག་
 A7137a	PronType T7137 Ind
+N7137	Reference T7137 Nonverbs:0296	ཅིག་√d
 T7138	VERB 1198 1203	བྱུང་
 A7138a	Tense T7138 Past
 N7138	Reference T7138 Hill:1243	འབྱུང་
 T7139	PART 1203 1206	ངེ་
 A7139a	Polarity T7139 Xor
+N7139	Reference T7139 Nonverbs:0158	འམ་√cv
 T7140	VERB 1206 1212	དྲིས་པ
 A7140a	Tense T7140 Past
 A7140b	VerbForm T7140 Vnoun
 N7140	Reference T7140 Hill:0901	འདྲི་
 T7141	ADP 1212 1213	ས
 A7141a	Case T7141 Agn
+N7141	Reference T7141 Nonverbs:0026	གྱིས་√case
 T7142	PUNCT 1213 1214	།
+N7142	Reference T7142 Nonverbs:0529	།
 T7144	PART 1215 1217	མ་
 A7144a	Polarity T7144 Neg
+N7144	Reference T7144 Nonverbs:0339	མ་√neg
 T7145	VERB 1217 1222	བྱུང་
 A7145a	Tense T7145 Past
 N7145	Reference T7145 Hill:1243	འབྱུང་
 T7146	PRON 1222 1227	ཁྱེད་
 A7146a	PronType T7146 Prs
+N7146	Reference T7146 Nonverbs:0227	ཁྱེད་√p
 T7147	NOUN 1227 1239	རྣལ་འབྱོར་པ་
 A7147a	Number T7147 Sing
 T7148	VERB 1239 1244	བྱ་བ་
@@ -708,20 +893,25 @@ N7150	Reference T7150 Hill:0492	ཆེ་
 T7151	AUX 1258 1261	ཡིན
 N7151	Reference T7151 Hill:1619	ཡིན་
 T7152	PUNCT 1261 1262	།
+N7152	Reference T7152 Nonverbs:0529	།
 T7154	NOUN 1263 1267	ཡུལ་
 A7154a	Number T7154 Sing
 T7155	DET 1267 1272	ཕ་གི་
 A7155a	PronType T7155 Dem
+N7155	Reference T7155 Nonverbs:0249	ཕ་གི་√d
 T7156	ADP 1272 1274	ན་
 A7156a	Case T7156 Loc
+N7156	Reference T7156 Nonverbs:0039	ན་√case
 T7157	NOUN 1274 1282	ཆང་སྟོན་
 A7157a	Number T7157 Sing
 T7158	VERB 1282 1286	ཡོད་
 N7158	Reference T7158 Hill:1632	ཡོད་
 T7159	DET 1286 1288	དེ
 A7159a	PronType T7159 Dem
+N7159	Reference T7159 Nonverbs:0233	དེ་√d
 T7160	ADP 1288 1290	ར་
 A7160a	Case T7160 Ter
+N7160	Reference T7160 Nonverbs:0051	དུ་√case
 T7161	VERB 1290 1294	སོང་
 A7161a	Mood T7161 Imp
 #7161l	AnnotatorNotes T7161	[འགྲོ་][སོང་] 
@@ -731,18 +921,23 @@ T7163	VERB 1299 1303	མེད་
 A7163a	Polarity T7163 Neg
 T7164	SCONJ 1303 1305	ན་
 A7164a	Case T7164 Loc
+N7164	Reference T7164 Nonverbs:0123	ན་√cv
 T7165	PRON 1305 1306	ང
 A7165a	PronType T7165 Prs
+N7165	Reference T7165 Nonverbs:0201	ང་√p
 T7166	ADP 1306 1308	ས་
 A7166a	Case T7166 Agn
+N7166	Reference T7166 Nonverbs:0026	གྱིས་√case
 T7167	VERB 1308 1313	གཡར་བ
 A7167a	Tense T7167 Fut/Pres
 A7167b	VerbForm T7167 Vnoun
 N7167	Reference T7167 Hill:1655	གཡོར་√1
 T7168	ADP 1313 1315	ས་
 A7168a	Case T7168 Agn
+N7168	Reference T7168 Nonverbs:0026	གྱིས་√case
 T7169	VERB 1315 1319	ཆོག་
 N7169	Reference T7169 Hill:0494	ཆོག་
 T7170	VERB 1319 1322	ཟེར
 #7170l	AnnotatorNotes T7170	[ཟེར་√1][ཟེར་√2] 
 T7171	PUNCT 1322 1323	།
+N7171	Reference T7171 Nonverbs:0529	།
