@@ -1,7 +1,7 @@
 # 1. GETTING STARTED 
 
 # Sentence delimiters
-DELIMITERS = "<།>"; 
+DELIMITERS = punc; 
 
 # Remove auxiliaries unless they are the only reading
 REMOVE (".*√x"r);
@@ -120,6 +120,9 @@ LIST n.v.xxx = n.v.aux n.v.cop n.v.cop.neg n.v.fut n.v.imp n.v.neg n.v.past n.v.
 LIST PostVerbal_PART = cv.fin cv.imp cv.ques;
 SET Head_NOUN = (NOUN) - (n.rel) OR (PRON) - (p.refl) OR (PROPN);
 SET Dependent_DET = (DET) - (d.dem); 
+
+# Add sentence boundary after final g
+DELIMIT ("<.*ག>"r) (NOT 1 (ADP) OR (SCONJ));
 
 
 # 3. DEPENDENCIES - PARENTS 
