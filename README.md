@@ -130,35 +130,32 @@ file advances the break forward until it immediately precedes the following sent
 Subsequent derived formats, including Niceline CG, also follow this practice,
 which makes the texts easier for later tools to process.
 
-## Niceline CG with Universal Dependencies
-The file `minimal-dependencies.txt` is a script that uses the
+## Niceline CG with Universal POS tags 
+The file `tidc2upos.txt` is a script that uses the
 [Constraint Grammar](http://visl.sdu.dk/constraint_grammar.html) formalism to add
 universal POS tags and universal features to our text corpus.
 Note that CG3 does not directly implement feature-value tags,
 so the universal features just come out as complex tags, for example
 `NumType=Card|NumForm=Digit`.
 
-In addition, the script adds minimal syntactic dependencies to the texts.
-We add only those dependencies that can be inferred from the
-POS tags. For example, if a case marker follows a count noun, then it depends on that count
-noun. We know this because case markers are not free-standing words in Tibetan. (Complications may arise
-in regards to nominal compounds but we ignore that now.)
+In addition, the script adds self-referential dependency tags for each word.
+This makes it easier to convert the resulting Niceline file to CoNNL-U format.
 
 For the output of this process, see `mila-vislcg-UD.txt` and similarly named files.
 
 To apply the grammar to the input yourself, first install VISL CG3 and then compile the grammar:
 
-`cg-comp minimal-dependencies.txt minimal-dependencies.cg`
+`cg-comp tidc2upos.txt tidc2upos.cg`
 
 Then, apply the grammar to the input, specifying an output file:
 
-`vislcg3 -g minimal-dependencies.cg -I mila-vislcg.txt -O mila-vislcg-UD.txt`
+`vislcg3 -g tidc2upos.cg -I mila-vislcg.txt -O mila-vislcg-UD.txt`
 
 Alternatively, the output can be piped to a different format using the
 [cg-conv](http://beta.visl.sdu.dk/cg3/chunked/cmdreference.html#cg-conv) tool.
 This repository, for example, includes the output of the following command:
 
-`vislcg3 -g minimal-dependencies.cg -I mila-vislcg.txt | cg-conv -N > mila-niceline-UD.txt`
+`vislcg3 -g tidc2upos.cg -I mila-vislcg.txt | cg-conv -N > mila-niceline-UD.txt`
 
 The resulting file - in [Niceline CG format](http://beta.visl.sdu.dk/cg3/chunked/streamformats.html#stream-niceline) -
 is compact and easily converted to other formats.

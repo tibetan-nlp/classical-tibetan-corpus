@@ -1,7 +1,5 @@
-# 1. GETTING STARTED 
-
 # Sentence delimiters
-DELIMITERS = "<།>"; 
+DELIMITERS = punc; 
 
 # Remove auxiliaries unless they are the only reading
 REMOVE (".*√x"r);
@@ -11,9 +9,6 @@ APPEND ("ཉན་" v.invar) TARGET ("ཉན་√x" v.invar);
 APPEND ("ཉན་" n.v.invar) TARGET ("ཉན་√x" n.v.invar);
 REMOVE ("ཉན་√x" v.invar);
 REMOVE ("ཉན་√x" n.v.invar);
-
-
-# 2. ADDING UNIVERSAL POS TAGS
 
 # Universal POS lists
 LIST ADJ_list = adj num.ord;
@@ -113,16 +108,20 @@ ADD (Tense=Past) (v.past);
 ADD (Tense=Past,Pres) (v.past.v.pres);
 ADD (Tense=Pres) (v.pres);
 
+# Add sentence boundary after final g
+DELIMIT ("<.*ག>"r) (NOT 1 (ADP) OR (SCONJ));
+
+
+
+# DEPENDENCIES 
+
 # Helpers
 LIST n.xxx = /^n[.](?!v[.]).*$/r;
 LIST v.xxx = v.aux v.cop v.cop.neg v.fut v.imp v.neg v.past v.pres v.invar v.fut.v.past v.fut.v.pres v.past.v.pres;
 LIST n.v.xxx = n.v.aux n.v.cop n.v.cop.neg n.v.fut n.v.imp n.v.neg n.v.past n.v.pres n.v.invar n.v.fut.n.v.past n.v.fut.n.v.pres n.v.past.n.v.pres;
 LIST PostVerbal_PART = cv.fin cv.imp cv.ques;
 SET Head_NOUN = (NOUN) - (n.rel) OR (PRON) - (p.refl) OR (PROPN);
-SET Dependent_DET = (DET) - (d.dem); 
-
-
-# 3. DEPENDENCIES - PARENTS 
+SET Dependent_DET = (DET) - (d.dem);
 
 # Verbs
 SETPARENT (PART neg) TO (1 v.xxx OR n.v.xxx);
@@ -135,9 +134,6 @@ SETPARENT (ADP) OR (SCONJ) TO (-1 (ADV));
 # Nouns 
 SETPARENT (ADP) OR Dependent_DET TO (-1 Head_NOUN);
 SETPARENT (ADP) (-1 Dependent_DET) TO (-2 Head_NOUN);
-
-
-# 4. DEPENDENCIES - RELATIONS
 
 ADD (@advmod) (PART neg) (p (*));
 ADD (@punct) (PUNCT) (p (*));
