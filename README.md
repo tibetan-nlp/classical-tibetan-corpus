@@ -6,10 +6,10 @@ tagged as part of the
 and are being further processed as part of the
 [LIM (Lexicography in Motion) project](https://tibetan-nlp.github.io/lim-annodoc/).
 
-1. མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ། (volume-74)
+1. མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ། (_mdzangs blun_)
 2. མར་པ་ལོ་ཙཱའི་རྣམ་ཐར། (volume-444)
-3. བུ་སྟོན་ཆོས་འབྱུང་། (volume-11842)
-4. མི་ལའི་རྣམ་ཐར། 
+3. བུ་སྟོན་ཆོས་འབྱུང་། (_bu ston chos 'byung_)
+4. མི་ལའི་རྣམ་ཐར། (_mila'i rnam thar_)
 
 It exploits a further processed version of Nathan Hill's
 [Lexicon of Tibetan Verb Stems](https://github.com/tibetan-nlp/lexicon-of-tibetan-verb-stems).
@@ -26,7 +26,7 @@ universal part-of-speech tags and universal features following the guidelines of
 
 ## Vertical TXT
 
-The corpus is available as vertical TXT files (for example, `volume-11854.txt`),
+The corpus is available as vertical TXT files (for example, `mila.txt`),
 with each word occupying its own line. A TAB separates the word form from its
 part-of-speech. At this stage the corpus is not lemmatised, and so the
 part-of-speech is always followed by a dash.
@@ -130,7 +130,7 @@ file advances the break forward until it immediately precedes the following sent
 Subsequent derived formats, including Niceline CG, also follow this practice,
 which makes the texts easier for later tools to process.
 
-## Niceline CG with Universal POS tags 
+## Niceline CG with Universal POS tags
 The file `tidc2upos.txt` is a script that uses the
 [Constraint Grammar](http://visl.sdu.dk/constraint_grammar.html) formalism to add
 universal POS tags and universal features to our text corpus.
