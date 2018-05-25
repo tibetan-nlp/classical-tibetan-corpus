@@ -7,9 +7,9 @@ and are being further processed as part of the
 [LIM (Lexicography in Motion) project](https://tibetan-nlp.github.io/lim-annodoc/).
 
 1. མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ། (_mdzangs blun_)
-2. མར་པ་ལོ་ཙཱའི་རྣམ་ཐར། (volume-444)
+2. མར་པ་ལོ་ཙཱའི་རྣམ་ཐར། (_mar pa lo cA'i rnam thar_)
 3. བུ་སྟོན་ཆོས་འབྱུང་། (_bu ston chos 'byung_)
-4. མི་ལའི་རྣམ་ཐར། (_mila'i rnam thar_)
+4. མི་ལའི་རྣམ་ཐར། (_mi la'i rnam thar_)
 
 It exploits a further processed version of Nathan Hill's
 [Lexicon of Tibetan Verb Stems](https://github.com/tibetan-nlp/lexicon-of-tibetan-verb-stems).
