@@ -1,0 +1,57 @@
+T1	VERB 0 5	བདེ་བ
+A1a	VerbForm T1 Vnoun
+T2	ADP 5 7	ར་
+A2a	Case T2 Ter
+N2	Reference T2 Nonverbs:0051	དུ་√case
+T3	VERB 7 14	གཤེགས་པ
+A3a	VerbForm T3 Vnoun
+N3	Reference T3 Hill:1759	གཤེགས་
+T4	ADP 14 17	འི་
+A4a	Case T4 Gen
+N4	Reference T4 Nonverbs:0012	གྱི་√case
+T5	VERB 17 23	བསྟན་བ
+A5a	Tense T5 Fut
+A5b	VerbForm T5 Vnoun
+N5	Reference T5 Hill:0746	སྟོན་
+T6	ADP 23 26	འི་
+A6a	Case T6 Gen
+N6	Reference T6 Nonverbs:0012	གྱི་√case
+T7	NOUN 26 39	གསལ་བྱེད་ཆོས་
+A7a	Number T7 Sing
+T8	ADP 39 43	ཀྱི་
+A8a	Case T8 Gen
+N8	Reference T8 Nonverbs:0012	གྱི་√case
+T9	NOUN 43 61	འབྱུང་གནས་གསུང་རབ་
+A9a	Number T9 Sing
+T10	ADJ 61 70	རིན་པོ་ཆེ
+T11	ADP 70 73	འི་
+A11a	Case T11 Gen
+N11	Reference T11 Nonverbs:0012	གྱི་√case
+T12	NOUN 73 78	མཛོད་
+A12a	Number T12 Sing
+T13	VERB 78 82	ཅེས་
+A13a	Mood T13 Qot
+T14	VERB 82 86	བྱ་བ
+A14a	Tense T14 Fut
+A14b	VerbForm T14 Vnoun
+N14	Reference T14 Hill:1168	བྱེད་
+T15	PUNCT 86 87	།
+N15	Reference T15 Nonverbs:0529	།
+T17	NOUN 88 101	བཅོམ་ལྡན་འདས་
+A17a	Number T17 Sing
+T18	PROPN 101 113	ཤཱཀྱ་སེང་གེ་
+T19	ADP 113 115	ལ་
+A19a	Case T19 All
+N19	Reference T19 Nonverbs:0028	ལ་√case
+T20	NOUN 115 119	ཕྱག་
+A20a	Number T20 Sing
+T21	VERB 119 123	འཚལ་
+A21a	Tense T21 Fut/Pres
+#21l	AnnotatorNotes T21	[འཚལ་√1][འཚལ་√2] 
+T22	PART 123 125	ལོ
+A22a	Mood T22 Ind
+N22	Reference T22 Nonverbs:0099	འོ་√cv
+T23	PUNCT 125 126	།
+N23	Reference T23 Nonverbs:0529	།
+T25	PUNCT 127 128	།
+N25	Reference T25 Nonverbs:0529	།
