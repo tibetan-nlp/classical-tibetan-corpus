@@ -1,0 +1,660 @@
+T25111	PRON 0 5	ཁྱོད་
+A25111a	PronType T25111 Prs
+N25111	Reference T25111 Nonverbs:0221	ཁྱོད་√p
+T25112	PRON 5 8	རང་
+A25112a	Reflex T25112 Yes
+N25112	Reference T25112 Nonverbs:0230	རང་√p
+T25113	NOUN 8 19	མྱོང་འགྱུར་
+A25113a	Number T25113 Sing
+T25114	ADP 19 23	གྱི་
+A25114a	Case T25114 Gen
+N25114	Reference T25114 Nonverbs:0012	གྱི་√case
+T25115	NOUN 23 29	ལས་ངན་
+A25115a	Number T25115 Sing
+T25116	VERB 29 34	འཛད་པ
+A25116a	Tense T25116 Fut/Pres
+A25116b	VerbForm T25116 Vnoun
+N25116	Reference T25116 Hill:1470	འཛད་
+T25117	ADP 34 37	འི་
+A25117a	Case T25117 Gen
+N25117	Reference T25117 Nonverbs:0012	གྱི་√case
+T25118	NOUN 37 41	ཐབས་
+A25118a	Number T25118 Sing
+T25119	ADP 41 44	སུ་
+A25119a	Case T25119 Ter
+N25119	Reference T25119 Nonverbs:0051	དུ་√case
+T25120	NOUN 44 47	ནད་
+A25120a	Number T25120 Sing
+T25121	NOUN 47 57	དཀོན་མཆོག་
+A25121a	Number T25121 Sing
+T25122	ADP 57 60	གི་
+A25122a	Case T25122 Gen
+N25122	Reference T25122 Nonverbs:0012	གྱི་√case
+T25123	NOUN 60 68	ཐུགས་རྗེ
+A25123a	Number T25123 Sing
+T25124	ADP 68 70	ར་
+A25124a	Case T25124 Ter
+N25124	Reference T25124 Nonverbs:0051	དུ་√case
+T25125	VERB 70 76	ཤེས་པ་
+A25125a	VerbForm T25125 Vnoun
+N25125	Reference T25125 Hill:1743	ཤེས་
+T25126	VERB 76 81	གྱིས་
+A25126a	Mood T25126 Imp
+N25126	Reference T25126 Hill:0260	བགྱིད་
+T25127	SCONJ 81 83	ལ་
+A25127a	Case T25127 All
+N25127	Reference T25127 Nonverbs:0064	ལ་√cv
+T25128	NOUN 83 91	སེམས་ཅན་
+A25128a	Number T25128 Sing
+T25129	ADP 91 93	ལ་
+A25129a	Case T25129 All
+N25129	Reference T25129 Nonverbs:0028	ལ་√case
+T25130	NOUN 93 107	བྱམས་སྙིང་རྗེ་
+A25130a	Number T25130 Sing
+T25131	ADP 107 110	དང་
+A25131a	Case T25131 Com
+N25131	Reference T25131 Nonverbs:0031	དང་√case
+T25132	NOUN 110 118	ཉམས་ལེན་
+A25132a	Number T25132 Sing
+T25133	ADP 118 122	གྱི་
+A25133a	Case T25133 Gen
+N25133	Reference T25133 Nonverbs:0012	གྱི་√case
+T25134	VERB 122 128	དྲན་པ་
+A25134a	Tense T25134 Past/Pres
+A25134b	VerbForm T25134 Vnoun
+N25134	Reference T25134 Hill:0839	དྲན་
+T25135	PART 128 130	མ་
+A25135a	Polarity T25135 Neg
+N25135	Reference T25135 Nonverbs:0339	མ་√neg
+T25136	VERB 130 134	བྲལ་
+A25136a	Tense T25136 Past
+N25136	Reference T25136 Hill:1261	འབྲལ་
+T25137	VERB 134 140	བགྱིས་
+A25137a	Tense T25137 Past
+N25137	Reference T25137 Hill:0260	བགྱིད་
+T25138	VERB 140 147	གསུངས་པ
+A25138a	Tense T25138 Past
+A25138b	VerbForm T25138 Vnoun
+#25138l	AnnotatorNotes T25138	[གསུང་√1][གསུང་√2]
+T25139	ADP 147 149	ས་
+A25139a	Case T25139 Agn
+N25139	Reference T25139 Nonverbs:0026	གྱིས་√case
+T25140	ADP 149 152	ནས་
+A25140a	Case T25140 Ela
+N25140	Reference T25140 Nonverbs:0037	ནས་√case
+T25141	NOUN 152 157	ཐུགས་
+A25141a	Number T25141 Sing
+T25142	VERB 157 163	བརྩེ་བ
+A25142a	VerbForm T25142 Vnoun
+#25142l	AnnotatorNotes T25142	[བརྩེ་√1][བརྩེ་√2]
+T25143	ADP 163 165	ས་
+A25143a	Case T25143 Agn
+N25143	Reference T25143 Nonverbs:0026	གྱིས་√case
+T25144	NOUN 165 170	རྗེས་
+A25144a	NounType T25144 Rel
+T25145	ADP 170 173	སུ་
+A25145a	Case T25145 Ter
+N25145	Reference T25145 Nonverbs:0051	དུ་√case
+T25146	VERB 173 179	བཟུང་བ
+A25146a	Tense T25146 Past
+A25146b	VerbForm T25146 Vnoun
+#25146l	AnnotatorNotes T25146	[འཛིན་][གཟུང་]
+T25147	ADP 179 182	འི་
+A25147a	Case T25147 Gen
+N25147	Reference T25147 Nonverbs:0012	གྱི་√case
+T25148	NOUN 182 184	ཚེ
+A25148a	NounType T25148 Rel
+T25149	PUNCT 184 185	།
+N25149	Reference T25149 Nonverbs:0529	།
+T25151	PROPN 186 190	མར་པ
+T25152	ADP 190 192	ས་
+A25152a	Case T25152 Agn
+N25152	Reference T25152 Nonverbs:0026	གྱིས་√case
+T25153	PRON 192 196	བདག་
+A25153a	PronType T25153 Prs
+N25153	Reference T25153 Nonverbs:0231	བདག་√p
+T25154	VERB 196 199	ཤི་
+A25154a	Tense T25154 Past
+N25154	Reference T25154 Hill:0521	འཆི་
+T25155	SCONJ 199 203	རུང་
+A25155a	Case T25155 Rung
+N25155	Reference T25155 Nonverbs:0159	རུང་√cv
+T25156	VERB 203 208	གསོན་
+N25156	Reference T25156 Hill:1864	གསོན་√1
+T25157	SCONJ 208 212	རུང་
+A25157a	Case T25157 Rung
+N25157	Reference T25157 Nonverbs:0159	རུང་√cv
+T25158	NOUN 212 222	དཀོན་མཆོག་
+A25158a	Number T25158 Sing
+T25159	ADP 222 225	གི་
+A25159a	Case T25159 Gen
+N25159	Reference T25159 Nonverbs:0012	གྱི་√case
+T25160	NOUN 225 233	ཐུགས་རྗེ
+A25160a	Number T25160 Sing
+T25161	ADP 233 235	ར་
+A25161a	Case T25161 Ter
+N25161	Reference T25161 Nonverbs:0051	དུ་√case
+T25162	VERB 235 239	ཤེས་
+N25162	Reference T25162 Hill:1743	ཤེས་
+T25163	PRON 239 241	ང་
+A25163a	PronType T25163 Prs
+N25163	Reference T25163 Nonverbs:0201	ང་√p
+T25164	ADP 241 244	ལས་
+A25164a	Case T25164 Abl
+N25164	Reference T25164 Nonverbs:0014	ལས་√case
+T25165	DET 244 248	གཞན་
+N25165	Reference T25165 Nonverbs:0271	གཞན་√d
+T25166	PART 248 250	མ་
+A25166a	Polarity T25166 Neg
+N25166	Reference T25166 Nonverbs:0339	མ་√neg
+T25167	VERB 250 256	མཆིས་པ
+A25167a	Tense T25167 Past
+A25167b	VerbForm T25167 Vnoun
+N25167	Reference T25167 Hill:0498	མཆི་
+T25168	ADP 256 257	ས
+A25168a	Case T25168 Agn
+N25168	Reference T25168 Nonverbs:0026	གྱིས་√case
+T25169	PUNCT 257 258	།
+N25169	Reference T25169 Nonverbs:0529	།
+T25171	NOUN 259 266	འགྲོ་བ་
+A25171a	Number T25171 Sing
+T25172	DET 266 270	ཀུན་
+A25172a	Number T25172 Plur
+N25172	Reference T25172 Nonverbs:0308	ཀུན་√d
+T25173	ADP 270 272	ལ་
+A25173a	Case T25173 All
+N25173	Reference T25173 Nonverbs:0028	ལ་√case
+T25174	PRON 272 276	བདག་
+A25174a	PronType T25174 Prs
+N25174	Reference T25174 Nonverbs:0231	བདག་√p
+T25175	NOUN 276 278	ལྟ
+A25175a	NounType T25175 Rel
+T25176	ADP 278 280	ར་
+A25176a	Case T25176 Ter
+N25176	Reference T25176 Nonverbs:0051	དུ་√case
+T25177	NOUN 280 288	ཐུགས་རྗེ
+A25177a	Number T25177 Sing
+T25178	ADP 288 290	ས་
+A25178a	Case T25178 Agn
+N25178	Reference T25178 Nonverbs:0026	གྱིས་√case
+T25179	VERB 290 295	གཟུང་
+A25179a	Tense T25179 Fut
+#25179l	AnnotatorNotes T25179	[འཛིན་][གཟུང་]
+T25180	SCONJ 295 298	དུ་
+A25180a	Case T25180 Ter
+N25180	Reference T25180 Nonverbs:0173	དུ་√cv
+T25181	VERB 298 302	གསོལ
+N25181	Reference T25181 Hill:1869	གསོལ་
+T25182	PUNCT 302 303	།
+N25182	Reference T25182 Nonverbs:0529	།
+T25184	VERB 304 308	ཞེས་
+A25184a	Mood T25184 Qot
+T25185	VERB 308 313	ཞུས་པ
+A25185a	Tense T25185 Past
+A25185b	VerbForm T25185 Vnoun
+#25185l	AnnotatorNotes T25185	[འཇུ་√3][ཞུ་√1]
+T25186	ADP 313 314	ས
+A25186a	Case T25186 Agn
+N25186	Reference T25186 Nonverbs:0026	གྱིས་√case
+T25187	PUNCT 314 315	།
+N25187	Reference T25187 Nonverbs:0529	།
+T25189	PROPN 316 324	ནཱ་རོ་པ་
+T25190	VERB 324 329	མཉེས་
+N25190	Reference T25190 Hill:0623	མཉེས་
+T25191	PART 329 331	སོ
+A25191a	Mood T25191 Ind
+N25191	Reference T25191 Nonverbs:0099	འོ་√cv
+T25192	PUNCT 331 332	།
+N25192	Reference T25192 Nonverbs:0529	།
+T25194	PUNCT 333 334	།
+N25194	Reference T25194 Nonverbs:0529	།
+T25196	VERB 335 342	བསྙུང་བ
+A25196a	VerbForm T25196 Vnoun
+T25197	ADP 342 345	འི་
+A25197a	Case T25197 Gen
+N25197	Reference T25197 Nonverbs:0012	གྱི་√case
+T25198	NOUN 345 348	བར་
+A25198a	NounType T25198 Rel
+T25199	ADP 348 350	ལ་
+A25199a	Case T25199 All
+N25199	Reference T25199 Nonverbs:0028	ལ་√case
+T25200	NOUN 350 355	ཐུགས་
+A25200a	Number T25200 Sing
+T25201	VERB 355 359	ཉེ་བ
+A25201a	VerbForm T25201 Vnoun
+N25201	Reference T25201 Hill:0605	ཉེ་
+T25202	ADP 359 362	འི་
+A25202a	Case T25202 Gen
+N25202	Reference T25202 Nonverbs:0012	གྱི་√case
+T25203	NOUN 362 371	མཆེད་ལྕམ་
+A25203a	Number T25203 Sing
+T25204	DET 371 376	རྣམས་
+A25204a	Number T25204 Plur
+N25204	Reference T25204 Nonverbs:0305	རྣམས་√d
+T25205	ADP 376 381	ཀྱིས་
+A25205a	Case T25205 Agn
+N25205	Reference T25205 Nonverbs:0026	གྱིས་√case
+T25206	PART 381 385	ཀྱང་
+N25206	Reference T25206 Nonverbs:0352	འང་√cl
+T25207	NOUN 385 403	ཐུགས་དམ་སྲུང་འཁོར་
+A25207a	Number T25207 Sing
+T25208	VERB 403 407	མཛད་
+N25208	Reference T25208 Hill:1465	མཛད་
+T25209	SCONJ 407 411	ཅིང་
+A25209a	Case T25209 Impf
+N25209	Reference T25209 Nonverbs:0121	ཅིང་√cv
+T25210	ADV 411 414	ཡང་
+A25210a	PronType T25210 Dem
+N25210	Reference T25210 Nonverbs:0424	འང་
+T25211	ADV 414 417	ཡང་
+A25211a	PronType T25211 Dem
+N25211	Reference T25211 Nonverbs:0424	འང་
+T25212	VERB 417 422	བྱོན་
+A25212a	Tense T25212 Past
+N25212	Reference T25212 Hill:1253	འབྱོན་√1
+T25213	SCONJ 422 425	ནས་
+A25213a	Case T25213 Ela
+N25213	Reference T25213 Nonverbs:0074	ནས་√cv
+T25214	PRON 425 428	གང་
+A25214a	PronType T25214 Int
+N25214	Reference T25214 Nonverbs:0184	གང་√p
+T25215	VERB 428 431	ཕན་
+N25215	Reference T25215 Hill:1081	ཕན་
+T25216	ADP 431 435	གྱི་
+A25216a	Case T25216 Gen
+N25216	Reference T25216 Nonverbs:0012	གྱི་√case
+T25217	NOUN 435 444	སྨན་དཔྱད་
+A25217a	Number T25217 Sing
+T25218	ADP 444 447	དང་
+A25218a	Case T25218 Com
+N25218	Reference T25218 Nonverbs:0031	དང་√case
+T25219	PUNCT 447 448	།
+N25219	Reference T25219 Nonverbs:0529	།
+T25221	NOUN 449 456	རིམ་གྲོ
+A25221a	Number T25221 Sing
+T25222	PUNCT 456 457	།
+N25222	Reference T25222 Nonverbs:0529	།
+T25224	NOUN 458 477	དཀོན་མཆོག་གསོལ་གདབ་
+A25224a	Number T25224 Sing
+T25225	DET 477 482	རྣམས་
+A25225a	Number T25225 Plur
+N25225	Reference T25225 Nonverbs:0305	རྣམས་√d
+T25226	VERB 482 488	བྱས་པ་
+A25226a	Tense T25226 Past
+A25226b	VerbForm T25226 Vnoun
+N25226	Reference T25226 Hill:1168	བྱེད་
+T25227	VERB 488 492	དྲག་
+N25227	Reference T25227 Hill:0837	དྲག་
+T25228	VERB 492 500	གསུངས་པ་
+A25228a	Tense T25228 Past
+A25228b	VerbForm T25228 Vnoun
+#25228l	AnnotatorNotes T25228	[གསུང་√1][གསུང་√2]
+T25229	ADP 500 501	ལ
+A25229a	Case T25229 All
+N25229	Reference T25229 Nonverbs:0028	ལ་√case
+T25230	PUNCT 501 502	།
+N25230	Reference T25230 Nonverbs:0529	།
+T25232	NOUN 503 511	རིམ་གྲོ་
+A25232a	Number T25232 Sing
+T25233	VERB 511 518	བྱེད་པ་
+A25233a	Tense T25233 Pres
+A25233b	VerbForm T25233 Vnoun
+N25233	Reference T25233 Hill:1168	བྱེད་
+T25234	ADP 518 520	ལ་
+A25234a	Case T25234 All
+N25234	Reference T25234 Nonverbs:0028	ལ་√case
+T25235	NOUN 520 527	ཡོ་བྱད་
+A25235a	Number T25235 Sing
+T25236	DET 527 534	ཐམས་ཅད་
+A25236a	Number T25236 Plur
+N25236	Reference T25236 Nonverbs:0300	ཐམས་ཅད་√d
+T25237	NOUN 534 539	བླ་མ་
+A25237a	Number T25237 Sing
+N25237	Reference T25237 Nonverbs:0569	བླ་མ་
+T25238	ADP 539 541	ལ་
+A25238a	Case T25238 All
+N25238	Reference T25238 Nonverbs:0028	ལ་√case
+T25239	VERB 541 549	དམིགས་པ་
+A25239a	VerbForm T25239 Vnoun
+#25239l	AnnotatorNotes T25239	[དམིགས་√1][དམིགས་√2]
+T25240	PART 549 551	མ་
+A25240a	Polarity T25240 Neg
+N25240	Reference T25240 Nonverbs:0339	མ་√neg
+T25241	VERB 551 557	གཏོགས་
+A25241a	Tense T25241 Past
+#25241l	AnnotatorNotes T25241	[གཏོག་√1][གཏོགས་]
+T25242	PRON 557 558	ང
+A25242a	PronType T25242 Prs
+N25242	Reference T25242 Nonverbs:0201	ང་√p
+T25243	ADP 558 560	ས་
+A25243a	Case T25243 Agn
+N25243	Reference T25243 Nonverbs:0026	གྱིས་√case
+T25244	PRON 560 564	བདག་
+A25244a	Reflex T25244 Yes
+N25244	Reference T25244 Nonverbs:0231	བདག་√p
+T25245	ADP 564 567	ཏུ་
+A25245a	Case T25245 Ter
+N25245	Reference T25245 Nonverbs:0051	དུ་√case
+T25246	VERB 567 574	བཟུང་བ་
+A25246a	Tense T25246 Past
+A25246b	VerbForm T25246 Vnoun
+#25246l	AnnotatorNotes T25246	[འཛིན་][གཟུང་]
+T25247	NUM 574 579	གཅིག་
+A25247a	NumType T25247 Card
+A25247b	NumForm T25247 Word
+T25248	PART 579 583	ཀྱང་
+N25248	Reference T25248 Nonverbs:0352	འང་√cl
+T25249	VERB 583 586	མེད
+A25249a	Polarity T25249 Neg
+T25250	PUNCT 586 587	།
+N25250	Reference T25250 Nonverbs:0529	།
+T25252	NOUN 588 592	བླ་མ
+A25252a	Number T25252 Sing
+N25252	Reference T25252 Nonverbs:0569	བླ་མ་
+T25253	ADP 592 595	འི་
+A25253a	Case T25253 Gen
+N25253	Reference T25253 Nonverbs:0012	གྱི་√case
+T25254	NOUN 595 603	ཕྱག་རྫས་
+A25254a	Number T25254 Sing
+T25255	PRON 603 604	ང
+A25255a	PronType T25255 Prs
+N25255	Reference T25255 Nonverbs:0201	ང་√p
+T25256	ADP 604 607	འི་
+A25256a	Case T25256 Gen
+N25256	Reference T25256 Nonverbs:0012	གྱི་√case
+T25257	NOUN 607 614	རིམ་གྲོ
+A25257a	Number T25257 Sing
+T25258	ADP 614 616	ར་
+A25258a	Case T25258 Ter
+N25258	Reference T25258 Nonverbs:0051	དུ་√case
+T25259	VERB 616 621	བཏགས་
+A25259a	Tense T25259 Past
+#25259l	AnnotatorNotes T25259	[གཏོག་√2][འཐག་√1][འདོག་][འདོགས་]
+T25260	SCONJ 621 623	ན་
+A25260a	Case T25260 Loc
+N25260	Reference T25260 Nonverbs:0123	ན་√cv
+T25261	VERB 623 628	ཉེས་པ
+A25261a	VerbForm T25261 Vnoun
+N25261	Reference T25261 Hill:0607	ཉེས་
+T25262	ADP 628 630	ར་
+A25262a	Case T25262 Ter
+N25262	Reference T25262 Nonverbs:0051	དུ་√case
+T25263	VERB 630 637	འགྱུར་བ
+A25263a	Tense T25263 Fut/Pres
+A25263b	VerbForm T25263 Vnoun
+N25263	Reference T25263 Hill:0304	འགྱུར་
+T25264	ADP 637 639	ས་
+A25264a	Case T25264 Agn
+N25264	Reference T25264 Nonverbs:0026	གྱིས་√case
+T25265	PART 639 642	མི་
+A25265a	Polarity T25265 Neg
+N25265	Reference T25265 Nonverbs:0337	མི་√neg
+T25266	VERB 642 646	བྱེད
+A25266a	Tense T25266 Pres
+N25266	Reference T25266 Hill:1168	བྱེད་
+T25267	PUNCT 646 647	།
+N25267	Reference T25267 Nonverbs:0529	།
+T25269	NOUN 648 657	སྨན་དཔྱད་
+A25269a	Number T25269 Sing
+T25270	PROPN 657 661	བོད་
+T25271	ADP 661 665	ཀྱི་
+A25271a	Case T25271 Gen
+N25271	Reference T25271 Nonverbs:0012	གྱི་√case
+T25272	NOUN 665 673	སེམས་ཅན་
+A25272a	Number T25272 Sing
+T25273	DET 673 678	རྣམས་
+A25273a	Number T25273 Plur
+N25273	Reference T25273 Nonverbs:0305	རྣམས་√d
+T25274	ADP 678 682	ཀྱི་
+A25274a	Case T25274 Gen
+N25274	Reference T25274 Nonverbs:0012	གྱི་√case
+T25275	NOUN 682 691	བསོད་ནམས་
+A25275a	Number T25275 Sing
+T25276	ADP 691 696	ཀྱིས་
+A25276a	Case T25276 Agn
+N25276	Reference T25276 Nonverbs:0026	གྱིས་√case
+T25277	PART 696 698	མ་
+A25277a	Polarity T25277 Neg
+N25277	Reference T25277 Nonverbs:0339	མ་√neg
+T25278	VERB 698 702	ཐུབ་
+A25278a	Tense T25278 Past
+#25278l	AnnotatorNotes T25278	[ཐུབ་√2][ཐུབ་√3]
+T25279	SCONJ 702 704	ན་
+A25279a	Case T25279 Loc
+N25279	Reference T25279 Nonverbs:0123	ན་√cv
+T25280	PRON 704 706	ང་
+A25280a	PronType T25280 Prs
+N25280	Reference T25280 Nonverbs:0201	ང་√p
+T25281	VERB 706 710	འཆི་
+A25281a	Tense T25281 Fut/Pres
+N25281	Reference T25281 Hill:0521	འཆི་
+T25282	SCONJ 710 714	སྟེ་
+A25282a	Case T25282 Sem
+N25282	Reference T25282 Nonverbs:0165	ཏེ་√cv
+T25283	VERB 714 718	ཡོང་
+A25283a	Tense T25283 Fut/Pres
+N25283	Reference T25283 Hill:1630	ཡོང་
+T25284	PUNCT 718 719	།
+N25284	Reference T25284 Nonverbs:0529	།
+T25286	VERB 720 724	ཐུབ་
+#25286l	AnnotatorNotes T25286	[ཐུབ་√2][ཐུབ་√3]
+T25287	SCONJ 724 726	ན་
+A25287a	Case T25287 Loc
+N25287	Reference T25287 Nonverbs:0123	ན་√cv
+T25288	NOUN 726 735	སྨན་དཔྱད་
+A25288a	Number T25288 Sing
+T25289	VERB 735 739	མེད་
+A25289a	Polarity T25289 Neg
+T25290	SCONJ 739 743	རུང་
+A25290a	Case T25290 Rung
+N25290	Reference T25290 Nonverbs:0159	རུང་√cv
+T25291	NOUN 743 746	ནད་
+A25291a	Number T25291 Sing
+T25292	ADP 746 749	ལས་
+A25292a	Case T25292 Abl
+N25292	Reference T25292 Nonverbs:0014	ལས་√case
+T25293	VERB 749 754	གྲོལ་
+N25293	Reference T25293 Hill:0229	གྲོལ་
+T25294	SCONJ 754 757	ཏེ་
+A25294a	Case T25294 Sem
+N25294	Reference T25294 Nonverbs:0165	ཏེ་√cv
+T25295	VERB 757 762	འོང་བ
+A25295a	Tense T25295 Fut/Pres
+A25295b	VerbForm T25295 Vnoun
+N25295	Reference T25295 Hill:1609	འོང་
+T25296	ADP 762 764	ས་
+A25296a	Case T25296 Agn
+N25296	Reference T25296 Nonverbs:0026	གྱིས་√case
+T25297	PART 764 767	མི་
+A25297a	Polarity T25297 Neg
+N25297	Reference T25297 Nonverbs:0337	མི་√neg
+T25298	VERB 767 771	བྱེད
+A25298a	Tense T25298 Pres
+N25298	Reference T25298 Hill:1168	བྱེད་
+T25299	PUNCT 771 772	།
+N25299	Reference T25299 Nonverbs:0529	།
+T25301	NOUN 773 792	དཀོན་མཆོག་གསོལ་གདབ་
+A25301a	Number T25301 Sing
+T25302	PROPN 792 803	དཔལ་ནཱ་རོ་པ
+T25303	ADP 803 805	ས་
+A25303a	Case T25303 Agn
+N25303	Reference T25303 Nonverbs:0026	གྱིས་√case
+T25304	VERB 805 811	བརྩེ་བ
+A25304a	VerbForm T25304 Vnoun
+#25304l	AnnotatorNotes T25304	[བརྩེ་√1][བརྩེ་√2]
+T25305	ADP 811 813	ས་
+A25305a	Case T25305 Agn
+N25305	Reference T25305 Nonverbs:0026	གྱིས་√case
+T25306	VERB 813 821	སྐྱོང་བ་
+A25306a	VerbForm T25306 Vnoun
+N25306	Reference T25306 Hill:0080	སྐྱོང་√1
+T25307	ADP 821 824	ལས་
+A25307a	Case T25307 Abl
+N25307	Reference T25307 Nonverbs:0014	ལས་√case
+T25308	VERB 824 830	ལྷག་པ་
+A25308a	VerbForm T25308 Vnoun
+N25308	Reference T25308 Hill:1902	ལྷག་
+T25309	DET 830 834	ཞིག་
+A25309a	PronType T25309 Ind
+N25309	Reference T25309 Nonverbs:0296	ཅིག་√d
+T25310	VERB 834 843	འོང་རྒྱུ་
+A25310a	Tense T25310 Fut/Pres
+A25310b	VerbForm T25310 Vnoun
+T25311	VERB 843 847	མེད་
+A25311a	Polarity T25311 Neg
+T25312	SCONJ 847 851	ཅིང་
+A25312a	Case T25312 Impf
+N25312	Reference T25312 Nonverbs:0121	ཅིང་√cv
+T25313	PUNCT 851 852	།
+N25313	Reference T25313 Nonverbs:0529	།
+T25315	NOUN 853 858	བླ་མ་
+A25315a	Number T25315 Sing
+N25315	Reference T25315 Nonverbs:0569	བླ་མ་
+T25316	ADP 858 860	ལ་
+A25316a	Case T25316 All
+N25316	Reference T25316 Nonverbs:0028	ལ་√case
+T25317	PART 860 863	ནི་
+N25317	Reference T25317 Nonverbs:0343	ནི་√cl
+T25318	NOUN 863 869	རྒྱུན་
+A25318a	Number T25318 Sing
+T25319	ADP 869 872	དུ་
+A25319a	Case T25319 Ter
+N25319	Reference T25319 Nonverbs:0051	དུ་√case
+T25320	VERB 872 879	གསོལ་བ་
+A25320a	Tense T25320 Fut/Pres
+A25320b	VerbForm T25320 Vnoun
+N25320	Reference T25320 Hill:1869	གསོལ་
+T25321	VERB 879 885	འདེབས་
+A25321a	Tense T25321 Pres
+N25321	Reference T25321 Hill:0887	འདེབས་
+T25322	SCONJ 885 889	ཤིང་
+A25322a	Case T25322 Impf
+N25322	Reference T25322 Nonverbs:0121	ཅིང་√cv
+T25323	VERB 889 892	ཡོད
+N25323	Reference T25323 Hill:1632	ཡོད་
+T25324	PUNCT 892 893	།
+N25324	Reference T25324 Nonverbs:0529	།
+T25326	NOUN 894 904	ཆོས་སྐྱོང་
+A25326a	Number T25326 Sing
+T25327	DET 904 909	རྣམས་
+A25327a	Number T25327 Plur
+N25327	Reference T25327 Nonverbs:0305	རྣམས་√d
+T25328	VERB 909 916	བསྟན་པ་
+A25328a	Tense T25328 Past
+A25328b	VerbForm T25328 Vnoun
+N25328	Reference T25328 Hill:0746	སྟོན་
+T25329	VERB 916 921	སྲུང་
+A25329a	Tense T25329 Fut/Pres
+N25329	Reference T25329 Hill:1813	སྲུང་
+T25330	PART 921 924	མི་
+A25330a	Polarity T25330 Neg
+N25330	Reference T25330 Nonverbs:0337	མི་√neg
+T25331	VERB 924 930	བསྲུང་
+A25331a	Tense T25331 Fut
+N25331	Reference T25331 Hill:1813	སྲུང་
+T25332	SCONJ 930 932	ལ་
+A25332a	Case T25332 All
+N25332	Reference T25332 Nonverbs:0064	ལ་√cv
+T25333	VERB 932 935	རག་
+N25333	Reference T25333 Hill:1658	རག་
+T25334	VERB 935 938	ལས་
+N25334	Reference T25334 Hill:1707	ལས་
+T25335	VERB 938 943	གསུངས
+A25335a	Tense T25335 Past
+#25335l	AnnotatorNotes T25335	[གསུང་√1][གསུང་√2]
+T25336	PUNCT 943 944	།
+N25336	Reference T25336 Nonverbs:0529	།
+T25338	NOUN 945 954	སྨན་དཔྱད་
+A25338a	Number T25338 Sing
+T25339	SCONJ 954 957	དང་
+A25339a	Case T25339 Com
+N25339	Reference T25339 Nonverbs:0067	དང་√cv
+T25340	NOUN 957 965	རིམ་གྲོ་
+A25340a	Number T25340 Sing
+T25341	PRON 965 968	ཅི་
+A25341a	PronType T25341 Int
+N25341	Reference T25341 Nonverbs:0186	ཅི་√p
+T25342	PART 968 971	ཡང་
+N25342	Reference T25342 Nonverbs:0352	འང་√cl
+T25343	PART 971 973	མ་
+A25343a	Polarity T25343 Neg
+N25343	Reference T25343 Nonverbs:0339	མ་√neg
+T25344	VERB 973 977	བྱས་
+A25344a	Tense T25344 Past
+N25344	Reference T25344 Hill:1168	བྱེད་
+T25345	SCONJ 977 981	རུང་
+A25345a	Case T25345 Rung
+N25345	Reference T25345 Nonverbs:0159	རུང་√cv
+T25346	PUNCT 981 982	།
+N25346	Reference T25346 Nonverbs:0529	།
+R1	arg1 Arg1:T25116 Arg2:T25115	
+R2	aux Arg1:T25125 Arg2:T25126	
+R3	obl-arg Arg1:T25125 Arg2:T25123	
+R4	arg2 Arg1:T25125 Arg2:T25120	
+R5	arg2 Arg1:T25136 Arg2:T25134	
+R6	aux Arg1:T25136 Arg2:T25137	
+N1	Reference T25138 Hill:1850	གསུང་√1
+R7	argcl Arg1:T25138 Arg2:T25136	
+R8	obl-arg Arg1:T25134 Arg2:T25128	
+N2	Reference T25142 Hill:1399	བརྩེ་√1
+R9	arg2-hon Arg1:T25142 Arg2:T25141	
+N3	Reference T25146 Hill:1478	འཛིན་
+R10	obl-adv Arg1:T25146 Arg2:T25144	
+R11	arg1 Arg1:T25154 Arg2:T25153	
+R12	obl-arg Arg1:T25162 Arg2:T25160	
+R13	arg2 Arg1:T25167 Arg2:T25165	
+N4	Reference T25179 Hill:1478	འཛིན་
+R14	argcl Arg1:T25181 Arg2:T25179	
+R15	obl-arg Arg1:T25179 Arg2:T25171	
+R16	obl-adv Arg1:T25179 Arg2:T25177	
+N5	Reference T25185 Hill:1509	ཞུ་√1
+R17	arg1 Arg1:T25190 Arg2:T25189	
+R18	arg2-hon Arg1:T25201 Arg2:T25200	
+R19	arg1 Arg1:T25208 Arg2:T25203	
+R20	arg2-lvc Arg1:T25208 Arg2:T25207	
+R21	arg2-lvc Arg1:T25226 Arg2:T25224	
+N6	Reference T25228 Hill:1850	གསུང་√1
+R22	argcl Arg1:T25228 Arg2:T25227	
+R23	arg1 Arg1:T25227 Arg2:T25226	
+R24	arg2-lvc Arg1:T25233 Arg2:T25232	
+N7	Reference T25239 Hill:1335	དམིགས་√1
+R25	arg2 Arg1:T25239 Arg2:T25235	
+R26	obl-arg Arg1:T25239 Arg2:T25237	
+N8	Reference T25241 Hill:0694	གཏོགས་
+R27	arg1 Arg1:T25241 Arg2:T25239	
+N9	Reference T25246 Hill:1478	འཛིན་
+R28	arg1 Arg1:T25246 Arg2:T25242	
+R29	obl-arg Arg1:T25246 Arg2:T25244	
+N10	Reference T25249 Hill:1315	མེད་√1
+R30	arg2 Arg1:T25249 Arg2:T25246	
+N11	Reference T25259 Hill:0890	འདོགས་
+R31	arg2 Arg1:T25259 Arg2:T25254	
+R32	obl-arg Arg1:T25259 Arg2:T25257	
+R33	aux Arg1:T25261 Arg2:T25263	
+N12	Reference T25278 Hill:0769	ཐུབ་√2
+R34	arg1 Arg1:T25278 Arg2:T25275	
+R35	arg1 Arg1:T25281 Arg2:T25280	
+R36	aux Arg1:T25281 Arg2:T25283	
+N13	Reference T25286 Hill:0769	ཐུབ་√2
+R37	arg2 Arg1:T25289 Arg2:T25288	
+N14	Reference T25289 Hill:1315	མེད་√1
+R38	obl-arg Arg1:T25293 Arg2:T25291	
+R39	aux Arg1:T25293 Arg2:T25295	
+N15	Reference T25304 Hill:1399	བརྩེ་√1
+R40	arg1 Arg1:T25304 Arg2:T25302	
+R41	arg1 Arg1:T25306 Arg2:T25304	
+N16	Reference T25311 Hill:1315	མེད་√1
+R42	arg1 Arg1:T25310 Arg2:T25308	
+R43	obl-arg Arg1:T25308 Arg2:T25306	
+R44	aux Arg1:T25310 Arg2:T25311	
+R45	obl-arg Arg1:T25321 Arg2:T25315	
+R46	arg2 Arg1:T25321 Arg2:T25320	
+R47	obl-adv Arg1:T25321 Arg2:T25318	
+R48	aux Arg1:T25321 Arg2:T25323	
+R49	arg1 Arg1:T25329 Arg2:T25326	
+R50	arg2 Arg1:T25329 Arg2:T25328	
+N17	Reference T25335 Hill:1850	གསུང་√1
+R51	aux-lvc Arg1:T25333 Arg2:T25334	
+R52	argcl Arg1:T25335 Arg2:T25333	
+R53	obl-arg Arg1:T25333 Arg2:T25331	
+R54	arg2-lvc Arg1:T25344 Arg2:T25340	

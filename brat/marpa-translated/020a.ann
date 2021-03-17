@@ -1,0 +1,673 @@
+T11086	NOUN 0 10	དམིགས་ཡུལ་
+A11086a	Number T11086 Sing
+T11087	VERB 10 15	ལྟ་བ་
+A11087a	Tense T11087 Pres
+A11087b	VerbForm T11087 Vnoun
+#11087l	AnnotatorNotes T11087	[ལྟ་√1][ལྟ་√2]
+T11088	PART 15 17	མ་
+A11088a	Polarity T11088 Neg
+N11088	Reference T11088 Nonverbs:0339	མ་√neg
+T11089	VERB 17 22	མཆིས་
+A11089a	Tense T11089 Past
+N11089	Reference T11089 Hill:0498	མཆི་
+T11090	SCONJ 22 23	ན
+A11090a	Case T11090 Loc
+N11090	Reference T11090 Nonverbs:0123	ན་√cv
+T11091	PUNCT 23 24	།
+N11091	Reference T11091 Nonverbs:0529	།
+T11093	PUNCT 25 26	།
+N11093	Reference T11093 Nonverbs:0529	།
+T11095	NOUN 27 34	དམ་ཆོས་
+A11095a	Number T11095 Sing
+T11096	VERB 34 40	གནང་བ་
+A11096a	VerbForm T11096 Vnoun
+N11096	Reference T11096 Hill:0996	གནང་
+T11097	ADJ 40 48	དོན་མེད་
+T11098	AUX 48 51	ཡིན
+N11098	Reference T11098 Hill:1619	ཡིན་
+T11099	PUNCT 51 52	།
+N11099	Reference T11099 Nonverbs:0529	།
+T11101	PUNCT 53 54	།
+N11101	Reference T11101 Nonverbs:0529	།
+T11103	NOUN 55 62	སྦུན་པ་
+A11103a	Number T11103 Sing
+T11104	ADJ 62 74	འབྲས་བུ་མེད་
+T11105	ADP 74 77	དང་
+A11105a	Case T11105 Com
+N11105	Reference T11105 Nonverbs:0031	དང་√case
+T11106	VERB 77 82	མཚུངས
+N11106	Reference T11106 Hill:1422	མཚུངས་
+T11107	PUNCT 82 83	།
+N11107	Reference T11107 Nonverbs:0529	།
+T11109	PUNCT 84 85	།
+N11109	Reference T11109 Nonverbs:0529	།
+T11111	DET 86 89	དེ་
+A11111a	PronType T11111 Dem
+N11111	Reference T11111 Nonverbs:0233	དེ་√d
+T11112	NOUN 89 93	སྐད་
+A11112a	NounType T11112 Rel
+T11113	PROPN 93 98	མར་པ་
+T11114	NOUN 98 103	ལོཙྪ་
+A11114a	Number T11114 Sing
+T11115	VERB 103 106	ཟེར
+#11115l	AnnotatorNotes T11115	[ཟེར་√1][ཟེར་√2]
+T11116	PUNCT 106 107	།
+N11116	Reference T11116 Nonverbs:0529	།
+T11118	PRON 108 113	ཁྱེད་
+A11118a	PronType T11118 Prs
+N11118	Reference T11118 Nonverbs:0227	ཁྱེད་√p
+T11119	VERB 113 120	མཁྱེན་པ
+A11119a	Tense T11119 Past/Pres
+A11119b	VerbForm T11119 Vnoun
+N11119	Reference T11119 Hill:0124	མཁྱེན་
+T11120	ADP 120 123	འི་
+A11120a	Case T11120 Gen
+N11120	Reference T11120 Nonverbs:0012	གྱི་√case
+T11121	NOUN 123 127	དོན་
+A11121a	Number T11121 Sing
+T11122	ADP 127 129	ལ་
+A11122a	Case T11122 All
+N11122	Reference T11122 Nonverbs:0028	ལ་√case
+T11123	ADJ 129 139	ཐུགས་རྒྱས་
+T11124	DET 139 143	རྣམས
+A11124a	Number T11124 Plur
+N11124	Reference T11124 Nonverbs:0305	རྣམས་√d
+T11125	PUNCT 143 144	།
+N11125	Reference T11125 Nonverbs:0529	།
+T11127	PUNCT 145 146	།
+N11127	Reference T11127 Nonverbs:0529	།
+T11129	NOUN 147 151	དོན་
+A11129a	Number T11129 Sing
+T11130	VERB 151 156	གོལ་བ
+A11130a	Tense T11130 Fut/Pres
+A11130b	VerbForm T11130 Vnoun
+N11130	Reference T11130 Hill:0210	གོལ་
+T11131	ADP 156 158	ར་
+A11131a	Case T11131 Ter
+N11131	Reference T11131 Nonverbs:0051	དུ་√case
+T11132	VERB 158 162	གདའ་
+N11132	Reference T11132 Hill:0844	གདའ་
+T11133	SCONJ 162 164	ན་
+A11133a	Case T11133 Loc
+N11133	Reference T11133 Nonverbs:0123	ན་√cv
+T11134	VERB 164 170	བཟོད་པ
+A11134a	VerbForm T11134 Vnoun
+N11134	Reference T11134 Hill:1604	བཟོད་
+T11135	ADP 170 172	ར་
+A11135a	Case T11135 Ter
+N11135	Reference T11135 Nonverbs:0051	དུ་√case
+T11136	VERB 172 176	གསོལ
+N11136	Reference T11136 Hill:1869	གསོལ་
+T11137	PUNCT 176 177	།
+N11137	Reference T11137 Nonverbs:0529	།
+T11139	PUNCT 178 179	།
+N11139	Reference T11139 Nonverbs:0529	།
+T11141	VERB 180 186	ཞེས་པ་
+A11141a	Mood T11141 Qot
+T11142	DET 186 189	དེ་
+A11142a	PronType T11142 Dem
+N11142	Reference T11142 Nonverbs:0233	དེ་√d
+T11143	VERB 189 196	གསུངས་པ
+A11143a	Tense T11143 Past
+A11143b	VerbForm T11143 Vnoun
+#11143l	AnnotatorNotes T11143	[གསུང་√1][གསུང་√2]
+T11144	ADP 196 197	ས
+A11144a	Case T11144 Agn
+N11144	Reference T11144 Nonverbs:0026	གྱིས་√case
+T11145	PUNCT 197 198	།
+N11145	Reference T11145 Nonverbs:0529	།
+T11147	NOUN 199 205	བླ་མའ་
+A11147a	Number T11147 Sing
+N11147	Reference T11147 Nonverbs:0569	བླ་མ་
+T11148	NOUN 205 213	བལ་པོ་བ་
+A11148a	Number T11148 Sing
+T11149	ADP 213 216	དང་
+A11149a	Case T11149 Com
+N11149	Reference T11149 Nonverbs:0031	དང་√case
+T11150	PUNCT 216 217	།
+N11150	Reference T11150 Nonverbs:0529	།
+T11152	NOUN 218 224	གྲོགས་
+A11152a	Number T11152 Sing
+T11153	PROPN 224 229	ཧ་དུ་
+T11154	ADJ 229 236	དཀར་པོ་
+T11155	ADP 236 238	ལ་
+A11155a	Case T11155 All
+N11155	Reference T11155 Nonverbs:0028	ལ་√case
+T11156	VERB 238 245	སོགས་པ་
+A11156a	VerbForm T11156 Vnoun
+N11156	Reference T11156 Hill:1796	སོགས་
+T11157	DET 245 250	རྣམས་
+A11157a	Number T11157 Plur
+N11157	Reference T11157 Nonverbs:0305	རྣམས་√d
+T11158	VERB 250 257	དགྱེས་པ
+A11158a	VerbForm T11158 Vnoun
+N11158	Reference T11158 Hill:0253	དགྱེས་
+T11159	ADP 257 259	ར་
+A11159a	Case T11159 Ter
+N11159	Reference T11159 Nonverbs:0051	དུ་√case
+T11160	VERB 259 261	གད
+T11161	PART 261 263	འོ
+A11161a	Mood T11161 Ind
+N11161	Reference T11161 Nonverbs:0099	འོ་√cv
+T11162	PUNCT 263 264	།
+N11162	Reference T11162 Nonverbs:0529	།
+T11164	PUNCT 265 266	།
+N11164	Reference T11164 Nonverbs:0529	།
+T11166	DET 267 270	དེ་
+A11166a	PronType T11166 Dem
+N11166	Reference T11166 Nonverbs:0233	དེ་√d
+T11167	ADP 270 273	ནས་
+A11167a	Case T11167 Ela
+N11167	Reference T11167 Nonverbs:0037	ནས་√case
+T11168	PROPN 273 278	མར་པ་
+T11169	PROPN 278 282	བོད་
+T11170	ADP 282 284	ལ་
+A11170a	Case T11170 All
+N11170	Reference T11170 Nonverbs:0028	ལ་√case
+T11171	VERB 284 287	ཆས་
+N11171	Reference T11171 Hill:0481	ཆ་
+T11172	VERB 287 294	བྱོན་པ་
+A11172a	Tense T11172 Past
+A11172b	VerbForm T11172 Vnoun
+N11172	Reference T11172 Hill:1253	འབྱོན་√1
+T11173	ADP 294 296	ལས
+A11173a	Case T11173 Abl
+N11173	Reference T11173 Nonverbs:0014	ལས་√case
+T11174	PUNCT 296 297	།
+N11174	Reference T11174 Nonverbs:0529	།
+T11176	PROPN 298 308	ལི་ཤོ་ཀ་ར་
+T11177	VERB 308 312	ཞེས་
+A11177a	Mood T11177 Qot
+T11178	VERB 312 317	བྱ་བ་
+A11178a	Tense T11178 Fut
+A11178b	VerbForm T11178 Vnoun
+N11178	Reference T11178 Hill:1168	བྱེད་
+T11179	PROPN 317 324	བལ་བོད་
+T11180	NOUN 324 329	མཚམས་
+A11180a	Number T11180 Sing
+T11181	ADP 329 333	ཀྱི་
+A11181a	Case T11181 Gen
+N11181	Reference T11181 Nonverbs:0012	གྱི་√case
+T11182	NOUN 333 343	གྲོང་ཁྱེར་
+A11182a	Number T11182 Sing
+T11183	NOUN 343 349	ཤོ་གམ་
+A11183a	Number T11183 Sing
+T11184	ADJ 349 355	མང་པོ་
+T11185	VERB 355 361	ལེན་པ་
+A11185a	Tense T11185 Pres
+A11185b	VerbForm T11185 Vnoun
+N11185	Reference T11185 Hill:1716	ལེན་
+T11186	DET 361 365	ཞིག་
+A11186a	PronType T11186 Ind
+N11186	Reference T11186 Nonverbs:0296	ཅིག་√d
+T11187	VERB 365 371	ཡོད་པ་
+A11187a	VerbForm T11187 Vnoun
+N11187	Reference T11187 Hill:1632	ཡོད་
+T11188	DET 371 373	དེ
+A11188a	PronType T11188 Dem
+N11188	Reference T11188 Nonverbs:0233	དེ་√d
+T11189	ADP 373 375	ར་
+A11189a	Case T11189 Ter
+N11189	Reference T11189 Nonverbs:0051	དུ་√case
+T11190	NOUN 375 378	ཞག་
+A11190a	Number T11190 Sing
+T11191	DET 378 381	ཤས་
+A11191a	Number T11191 Plur
+N11191	Reference T11191 Nonverbs:0310	ཤས་√d
+T11192	VERB 381 387	བཞུགས་
+N11192	Reference T11192 Hill:1549	བཞུགས་
+T11193	VERB 387 392	དགོས་
+A11193a	VerbType T11193 Aux
+N11193	Reference T11193 Hill:0248	དགོས་
+T11194	VERB 392 399	བྱུང་བ་
+A11194a	Tense T11194 Past
+A11194b	VerbForm T11194 Vnoun
+N11194	Reference T11194 Hill:1243	འབྱུང་
+T11195	ADP 399 402	ལས་
+A11195a	Case T11195 Abl
+N11195	Reference T11195 Nonverbs:0014	ལས་√case
+T11197	ADJ 406 409	ཐ་མ
+N11197	Reference T11197 Nonverbs:0492	ཐ་མ་
+T11198	ADP 409 412	འི་
+A11198a	Case T11198 Gen
+N11198	Reference T11198 Nonverbs:0012	གྱི་√case
+T11199	NOUN 412 419	རྨི་ལམ་
+A11199a	Number T11199 Sing
+T11200	ADP 419 422	དུ་
+A11200a	Case T11200 Ter
+N11200	Reference T11200 Nonverbs:0051	དུ་√case
+T11201	NOUN 422 430	མཁའ་འགྲོ
+A11201a	Number T11201 Sing
+T11202	ADP 430 432	ས་
+A11202a	Case T11202 Agn
+N11202	Reference T11202 Nonverbs:0026	གྱིས་√case
+T11203	NOUN 432 439	འདོ་ལི་
+A11203a	Number T11203 Sing
+T11204	ADP 439 441	ལ་
+A11204a	Case T11204 All
+N11204	Reference T11204 Nonverbs:0028	ལ་√case
+T11205	VERB 441 446	བཏེག་
+A11205a	Tense T11205 Past
+#11205l	AnnotatorNotes T11205	[ཐེག་√2][འདེགས་]
+T11206	SCONJ 446 449	ནས་
+A11206a	Case T11206 Ela
+N11206	Reference T11206 Nonverbs:0074	ནས་√cv
+T11207	NOUN 449 459	ལྷོ་ཕྱོགས་
+A11207a	Number T11207 Sing
+T11208	NOUN 459 463	དཔལ་
+A11208a	Number T11208 Sing
+T11209	ADP 463 467	གྱི་
+A11209a	Case T11209 Gen
+N11209	Reference T11209 Nonverbs:0012	གྱི་√case
+T11210	NOUN 467 470	རི་
+A11210a	Number T11210 Sing
+T11211	ADP 470 472	ལ་
+A11211a	Case T11211 All
+N11211	Reference T11211 Nonverbs:0028	ལ་√case
+T11212	VERB 472 478	བྱོན་པ
+A11212a	Tense T11212 Past
+A11212b	VerbForm T11212 Vnoun
+N11212	Reference T11212 Hill:1253	འབྱོན་√1
+T11213	ADP 478 479	ས
+A11213a	Case T11213 Agn
+N11213	Reference T11213 Nonverbs:0026	གྱིས་√case
+T11214	PUNCT 479 480	།
+N11214	Reference T11214 Nonverbs:0529	།
+T11216	NOUN 481 488	བྲམ་ཟེ་
+A11216a	Number T11216 Sing
+T11217	ADJ 488 494	ཆེན་པོ
+T11218	PROPN 494 500	ས་ར་ཧ་
+T11219	ADP 500 503	དང་
+A11219a	Case T11219 Com
+N11219	Reference T11219 Nonverbs:0031	དང་√case
+T11220	VERB 503 507	མཇལ་
+N11220	Reference T11220 Hill:0544	མཇལ་
+T11221	SCONJ 507 510	ཏེ་
+A11221a	Case T11221 Sem
+N11221	Reference T11221 Nonverbs:0165	ཏེ་√cv
+T11222	NOUN 510 521	ལུས་ངག་ཡིད་
+A11222a	Number T11222 Sing
+T11223	NUM 521 526	གསུམ་
+A11223a	NumType T11223 Card
+A11223b	NumForm T11223 Word
+T11224	NOUN 526 531	བྱིན་
+A11224a	Number T11224 Sing
+T11225	ADP 531 536	གྱིས་
+A11225a	Case T11225 Agn
+N11225	Reference T11225 Nonverbs:0026	གྱིས་√case
+T11226	VERB 536 543	བརླབས་པ
+A11226a	Tense T11226 Past
+A11226b	VerbForm T11226 Vnoun
+N11226	Reference T11226 Hill:1695	རློབ་
+T11227	ADP 543 544	ས
+A11227a	Case T11227 Agn
+N11227	Reference T11227 Nonverbs:0026	གྱིས་√case
+T11228	PUNCT 544 545	།
+N11228	Reference T11228 Nonverbs:0529	།
+T11230	NOUN 546 554	སྙིང་པོ་
+A11230a	Number T11230 Sing
+T11231	NOUN 554 558	དོན་
+A11231a	Number T11231 Sing
+T11232	ADP 558 562	གྱི་
+A11232a	Case T11232 Gen
+N11232	Reference T11232 Nonverbs:0012	གྱི་√case
+T11233	NOUN 562 566	ཆོས་
+A11233a	Number T11233 Sing
+T11234	NOUN 566 574	ཕྱག་རྒྱ་
+A11234a	Number T11234 Sing
+T11235	ADJ 574 580	ཆེན་པོ
+T11236	ADP 580 583	འི་
+A11236a	Case T11236 Gen
+N11236	Reference T11236 Nonverbs:0012	གྱི་√case
+T11237	NOUN 583 591	བརྡ་དོན་
+A11237a	Number T11237 Sing
+T11238	DET 591 596	རྣམས་
+A11238a	Number T11238 Plur
+N11238	Reference T11238 Nonverbs:0305	རྣམས་√d
+T11239	VERB 596 601	གནང་བ
+A11239a	VerbForm T11239 Vnoun
+N11239	Reference T11239 Hill:0996	གནང་
+T11240	ADP 601 603	ས་
+A11240a	Case T11240 Agn
+N11240	Reference T11240 Nonverbs:0026	གྱིས་√case
+T11241	NOUN 603 607	སྐུ་
+A11241a	Number T11241 Sing
+T11242	ADP 607 609	ལ་
+A11242a	Case T11242 All
+N11242	Reference T11242 Nonverbs:0028	ལ་√case
+T11243	ADJ 609 616	ཟག་མེད་
+T11244	ADP 616 620	ཀྱི་
+A11244a	Case T11244 Gen
+N11244	Reference T11244 Nonverbs:0012	གྱི་√case
+T11245	VERB 620 626	བདེ་བ་
+A11245a	VerbForm T11245 Vnoun
+T11246	ADP 626 629	དང་
+A11246a	Case T11246 Com
+N11246	Reference T11246 Nonverbs:0031	དང་√case
+T11247	NOUN 629 634	ཐུགས་
+A11247a	Number T11247 Sing
+T11248	ADP 634 636	ལ་
+A11248a	Case T11248 All
+N11248	Reference T11248 Nonverbs:0028	ལ་√case
+T11249	VERB 636 641	ཕྱིན་
+A11249a	Tense T11249 Past
+#11249l	AnnotatorNotes T11249	[འགྲོ་][ཕྱིན་]
+T11250	PRON 641 644	ཅི་
+A11250a	PronType T11250 Int
+N11250	Reference T11250 Nonverbs:0186	ཅི་√p
+T11251	PART 644 646	མ་
+A11251a	Polarity T11251 Neg
+N11251	Reference T11251 Nonverbs:0339	མ་√neg
+T11252	VERB 646 651	ལོག་པ
+A11252a	Tense T11252 Past
+A11252b	VerbForm T11252 Vnoun
+#11252l	AnnotatorNotes T11252	[ལྡོག་][ལོག་]
+T11253	ADP 651 654	འི་
+A11253a	Case T11253 Gen
+N11253	Reference T11253 Nonverbs:0012	གྱི་√case
+T11254	VERB 654 662	རྟོགས་པ་
+A11254a	VerbForm T11254 Vnoun
+N11254	Reference T11254 Hill:0710	རྟོགས་
+T11255	VERB 662 666	ཤར་བ
+A11255a	Tense T11255 Past
+A11255b	VerbForm T11255 Vnoun
+N11255	Reference T11255 Hill:0519	འཆར་
+T11256	ADP 666 668	ས་
+A11256a	Case T11256 Agn
+N11256	Reference T11256 Nonverbs:0026	གྱིས་√case
+T11257	NOUN 668 677	དགའ་སྤྲོ་
+A11257a	Number T11257 Sing
+T11258	VERB 677 681	དཔག་
+A11258a	Tense T11258 Fut
+N11258	Reference T11258 Hill:1037	དཔོག་
+T11259	SCONJ 681 684	ཏུ་
+A11259a	Case T11259 Ter
+N11259	Reference T11259 Nonverbs:0173	དུ་√cv
+T11260	VERB 684 690	མེད་པ་
+A11260a	Polarity T11260 Neg
+A11260b	VerbForm T11260 Vnoun
+T11261	DET 690 694	ཞིག་
+A11261a	PronType T11261 Ind
+N11261	Reference T11261 Nonverbs:0296	ཅིག་√d
+T11262	VERB 694 701	རྨིས་པ་
+A11262a	Tense T11262 Past
+A11262b	VerbForm T11262 Vnoun
+N11262	Reference T11262 Hill:1348	རྨི་
+T11263	ADP 701 703	ལས
+A11263a	Case T11263 Abl
+N11263	Reference T11263 Nonverbs:0014	ལས་√case
+T11264	PUNCT 703 704	།
+N11264	Reference T11264 Nonverbs:0529	།
+T11266	NOUN 705 709	མནལ་
+A11266a	Number T11266 Sing
+T11267	VERB 709 712	སད་
+A11267a	Tense T11267 Past/Pres
+#11267l	AnnotatorNotes T11267	[སད་√1][སད་√2]
+T11268	SCONJ 712 715	ནས་
+A11268a	Case T11268 Ela
+N11268	Reference T11268 Nonverbs:0074	ནས་√cv
+T11269	PART 715 719	ཀྱང་
+N11269	Reference T11269 Nonverbs:0352	འང་√cl
+T11270	NOUN 719 724	གསུང་
+A11270a	Number T11270 Sing
+T11271	DET 724 729	རྣམས་
+A11271a	Number T11271 Plur
+N11271	Reference T11271 Nonverbs:0305	རྣམས་√d
+T11272	PART 729 731	མ་
+A11272a	Polarity T11272 Neg
+N11272	Reference T11272 Nonverbs:0339	མ་√neg
+T11273	VERB 731 738	བརྗེད་པ
+A11273a	Tense T11273 Past
+A11273b	VerbForm T11273 Vnoun
+#11273l	AnnotatorNotes T11273	[རྗེད་][བརྗེད་]
+T11274	ADP 738 740	ར་
+A11274a	Case T11274 Ter
+N11274	Reference T11274 Nonverbs:0051	དུ་√case
+T11275	VERB 740 745	འདུག་
+N11275	Reference T11275 Hill:0875	འདུག་
+T11276	SCONJ 745 748	སྟེ
+A11276a	Case T11276 Sem
+N11276	Reference T11276 Nonverbs:0165	ཏེ་√cv
+T11277	PUNCT 748 749	།
+N11277	Reference T11277 Nonverbs:0529	།
+T11279	PROPN 750 761	གླང་པོ་མཁར་
+T11280	ADP 761 764	དུ་
+A11280a	Case T11280 Ter
+N11280	Reference T11280 Nonverbs:0051	དུ་√case
+T11281	NOUN 764 769	ཟླ་བ་
+A11281a	Number T11281 Sing
+T11282	NUM 769 774	གཉིས་
+A11282a	NumType T11282 Card
+A11282b	NumForm T11282 Word
+T11283	DET 774 777	ཙམ་
+A11283a	PronType T11283 Tsam
+N11283	Reference T11283 Nonverbs:0333	ཙམ་√d
+T11284	NOUN 777 781	ཆོས་
+A11284a	Number T11284 Sing
+T11285	VERB 781 787	གསུངས་
+A11285a	Tense T11285 Past
+#11285l	AnnotatorNotes T11285	[གསུང་√1][གསུང་√2]
+T11286	SCONJ 787 791	ཞིང་
+A11286a	Case T11286 Impf
+N11286	Reference T11286 Nonverbs:0121	ཅིང་√cv
+T11287	VERB 791 798	བཞུགས་པ
+A11287a	VerbForm T11287 Vnoun
+N11287	Reference T11287 Hill:1549	བཞུགས་
+T11288	ADP 798 799	ས
+A11288a	Case T11288 Agn
+N11288	Reference T11288 Nonverbs:0026	གྱིས་√case
+T11289	PUNCT 799 800	།
+N11289	Reference T11289 Nonverbs:0529	།
+T11291	PROPN 801 813	གཙང་གྱེར་ཕུ་
+T11292	ADP 813 816	འི་
+A11292a	Case T11292 Gen
+N11292	Reference T11292 Nonverbs:0012	གྱི་√case
+T11293	PROPN 816 825	ཀློག་སྐྱ་
+T11294	NOUN 825 832	ཇོ་སྲས་
+A11294a	Number T11294 Sing
+T11295	NOUN 832 836	སྐུ་
+A11295a	Number T11295 Sing
+T11296	VERB 836 842	གཤེགས་
+A11296a	Tense T11296 Past/Pres
+N11296	Reference T11296 Hill:1759	གཤེགས་
+T11297	SCONJ 842 845	ནས་
+A11297a	Case T11297 Ela
+N11297	Reference T11297 Nonverbs:0074	ནས་√cv
+T11298	NOUN 845 851	གདན་ས་
+A11298a	Number T11298 Sing
+T11299	VERB 851 857	འཛིན་པ
+A11299a	Tense T11299 Pres
+A11299b	VerbForm T11299 Vnoun
+N11299	Reference T11299 Hill:1478	འཛིན་
+T11300	ADP 857 860	འི་
+A11300a	Case T11300 Gen
+N11300	Reference T11300 Nonverbs:0012	གྱི་√case
+T11301	NOUN 860 867	སྲས་པོ་
+A11301a	Number T11301 Sing
+T11302	VERB 867 871	ཆེ་བ
+A11302a	Tense T11302 Pres
+A11302b	VerbForm T11302 Vnoun
+N11302	Reference T11302 Hill:0492	ཆེ་
+T11303	ADP 871 873	ས་
+A11303a	Case T11303 Agn
+N11303	Reference T11303 Nonverbs:0026	གྱིས་√case
+T11304	VERB 873 877	གསན་
+#11304l	AnnotatorNotes T11304	[གཟོན་][གསན་]
+T11305	SCONJ 877 880	ཏེ་
+A11305a	Case T11305 Sem
+N11305	Reference T11305 Nonverbs:0165	ཏེ་√cv
+T11306	PROPN 880 892	སྐྱིད་གྲོངས་
+T11307	ADP 892 895	དུ་
+A11307a	Case T11307 Ter
+N11307	Reference T11307 Nonverbs:0051	དུ་√case
+T11308	NOUN 895 900	སྤྱན་
+A11308a	Number T11308 Sing
+T11309	VERB 900 909	འདྲེན་མི་
+A11309a	Tense T11309 Pres
+A11309b	VerbForm T11309 Vnoun
+T11310	VERB 909 914	བཏབ་པ
+A11310a	Tense T11310 Past
+A11310b	VerbForm T11310 Vnoun
+N11310	Reference T11310 Hill:0887	འདེབས་
+T11311	ADP 914 916	ར་
+A11311a	Case T11311 Ter
+N11311	Reference T11311 Nonverbs:0051	དུ་√case
+T11312	VERB 916 923	འབྱོན་པ
+A11312a	Tense T11312 Pres
+A11312b	VerbForm T11312 Vnoun
+#11312l	AnnotatorNotes T11312	[འབྱོན་√1][འབྱོན་√2]
+T11313	ADP 923 925	ར་
+A11313a	Case T11313 Ter
+N11313	Reference T11313 Nonverbs:0051	དུ་√case
+T11314	NOUN 925 928	ཞལ་
+A11314a	Number T11314 Sing
+T11315	ADP 928 933	གྱིས་
+A11315a	Case T11315 Agn
+N11315	Reference T11315 Nonverbs:0026	གྱིས་√case
+T11316	VERB 933 937	བཞེས
+#11316l	AnnotatorNotes T11316	[བཞེས་√1][བཞེས་√2]
+T11317	PUNCT 937 938	།
+N11317	Reference T11317 Nonverbs:0529	།
+T11319	NOUN 939 943	དུས་
+A11319a	Number T11319 Sing
+N11319	Reference T11319 Nonverbs:0461	དུས་
+T11320	VERB 943 947	བཏབ་
+A11320a	Tense T11320 Past
+N11320	Reference T11320 Hill:0887	འདེབས་
+T11321	SCONJ 947 950	ནས་
+A11321a	Case T11321 Ela
+N11321	Reference T11321 Nonverbs:0074	ནས་√cv
+T11322	VERB 950 955	བཏང་བ
+A11322a	Tense T11322 Past
+A11322b	VerbForm T11322 Vnoun
+#11322l	AnnotatorNotes T11322	[གཏོང་√1][གཏོང་√2]
+T11323	ADP 955 957	ས་
+A11323a	Case T11323 Agn
+N11323	Reference T11323 Nonverbs:0026	གྱིས་√case
+T11324	PROPN 957 965	དཔལ་ཁུད་
+T11325	ADP 965 969	ཀྱི་
+A11325a	Case T11325 Gen
+N11325	Reference T11325 Nonverbs:0012	གྱི་√case
+T11326	PROPN 969 985	ལྷ་མཚོ་སྲིན་མཚོ་
+T11327	ADP 985 988	ནས་
+A11327a	Case T11327 Ela
+N11327	Reference T11327 Nonverbs:0037	ནས་√case
+T11328	NOUN 988 992	བསུ་
+A11328a	Number T11328 Sing
+T11329	ADP 992 995	དང་
+A11329a	Case T11329 Com
+N11329	Reference T11329 Nonverbs:0031	དང་√case
+T11330	VERB 995 998	བཅས
+N11330	Reference T11330 Hill:0472	བཅས་
+T11331	PUNCT 998 999	།
+N11331	Reference T11331 Nonverbs:0529	།
+T11333	PROPN 1000 1008	རྒྱེར་ཕུ
+T11334	ADP 1008 1010	ར་
+A11334a	Case T11334 Ter
+N11334	Reference T11334 Nonverbs:0051	དུ་√case
+T11335	NOUN 1010 1014	གདན་
+A11335a	Number T11335 Sing
+T11336	VERB 1014 1020	ཕེབས་པ
+A11336a	VerbForm T11336 Vnoun
+N11336	Reference T11336 Hill:1086	ཕེབས་
+T11337	ADP 1020 1022	ས་
+A11337a	Case T11337 Agn
+N11337	Reference T11337 Nonverbs:0026	གྱིས་√case
+T11338	NOUN 1022 1029	སྣ་ལེན་
+A11338a	Number T11338 Sing
+T11339	ADJ 1029 1036	བཟང་པོ་
+T11340	VERB 1036 1039	བྱས
+A11340a	Tense T11340 Past
+N11340	Reference T11340 Hill:1168	བྱེད་
+T11341	PUNCT 1039 1040	།
+N11341	Reference T11341 Nonverbs:0529	།
+T11343	NOUN 1041 1046	ཟླ་བ་
+A11343a	Number T11343 Sing
+T11344	NUM 1046 1051	གཅིག་
+A11344a	NumType T11344 Card
+A11344b	NumForm T11344 Word
+T11345	ADP 1051 1054	གི་
+A11345a	Case T11345 Gen
+N11345	Reference T11345 Nonverbs:0012	གྱི་√case
+T11346	NOUN 1054 1057	བར་
+A11346a	NounType T11346 Rel
+T11347	ADP 1057 1060	དུ་
+A11347a	Case T11347 Ter
+N11347	Reference T11347 Nonverbs:0051	དུ་√case
+T11348	NOUN 1060 1068	ཆོས་གྲྭ་
+A11348a	Number T11348 Sing
+T11349	ADJ 1068 1075	ཆེན་པོ་
+T11350	VERB 1075 1080	བཙུགས
+A11350a	Tense T11350 Past
+#11350l	AnnotatorNotes T11350	[གཙུག་][འཛུགས་][ཟུག་]
+T11351	PUNCT 1080 1081	།
+N11351	Reference T11351 Nonverbs:0529	།
+N1	Reference T11143 Hill:1850	གསུང་√1
+R1	arg1 Arg1:T11158 Arg2:T11152	
+R2	aux Arg1:T11158 Arg2:T11160	
+N2	Reference T11160 Hill:0844	གདའ་
+R3	arg1 Arg1:T11171 Arg2:T11168	
+R4	obl Arg1:T11171 Arg2:T11169	
+R5	aux-lvc Arg1:T11171 Arg2:T11172	
+R6	arg2 Arg1:T11178 Arg2:T11176	
+R7	arg2 Arg1:T11185 Arg2:T11183	
+R8	arg2 Arg1:T11187 Arg2:T11182	
+R9	obl Arg1:T11192 Arg2:T11188	
+R10	aux Arg1:T11192 Arg2:T11193	
+R11	aux Arg1:T11193 Arg2:T11194	
+N3	Reference T11205 Hill:0883	འདེགས་
+R12	arg1 Arg1:T11205 Arg2:T11201	
+R13	obl Arg1:T11205 Arg2:T11203	
+R14	obl Arg1:T11212 Arg2:T11210	
+R15	obl-arg Arg1:T11220 Arg2:T11216	
+R16	obl-arg Arg1:T11226 Arg2:T11224	
+R17	arg2 Arg1:T11226 Arg2:T11222	
+R18	arg2 Arg1:T11239 Arg2:T11237	
+N4	Reference T11249 Hill:1092	ཕྱིན་
+N5	Reference T11252 Hill:1719	ལོག་
+R19	arg1 Arg1:T11255 Arg2:T11254	
+R20	obl Arg1:T11260 Arg2:T11258	
+R21	arg2 Arg1:T11262 Arg2:T11257	
+N6	Reference T11260 Hill:1315	མེད་√1
+N7	Reference T11267 Hill:1782	སད་√1
+R22	arg2-lvc Arg1:T11267 Arg2:T11266	
+N8	Reference T11273 Hill:0593	བརྗེད་
+R23	arg2 Arg1:T11273 Arg2:T11270	
+R24	aux Arg1:T11273 Arg2:T11275	
+N9	Reference T11285 Hill:1850	གསུང་√1
+R25	arg2 Arg1:T11285 Arg2:T11284	
+R26	obl Arg1:T11287 Arg2:T11279	
+R27	arg2-hon Arg1:T11296 Arg2:T11295	
+R28	arg1 Arg1:T11296 Arg2:T11294	
+R29	arg2-lvc Arg1:T11299 Arg2:T11298	
+R30	arg1 Arg1:T11302 Arg2:T11301	
+N10	Reference T11304 Hill:1841	གསན་
+R31	arg2-lvc Arg1:T11309 Arg2:T11308	
+R32	obl Arg1:T11309 Arg2:T11306	
+#1	AnnotatorNotes T11309	r. V + N
+N11	Reference T11309 Hill:0916	འདྲེན་
+N12	Reference T11312 Hill:1253	འབྱོན་√1
+R33	arg2 Arg1:T11310 Arg2:T11309	
+N13	Reference T11316 Hill:1555	བཞེས་√1
+R34	obl-arg Arg1:T11316 Arg2:T11314	
+R35	arg2-lvc Arg1:T11320 Arg2:T11319	
+N14	Reference T11322 Hill:0695	གཏོང་√1
+R36	obl-arg Arg1:T11330 Arg2:T11328	
+R37	obl Arg1:T11336 Arg2:T11333	
+R38	arg2-lvc Arg1:T11336 Arg2:T11335	
+R39	arg2-lvc Arg1:T11340 Arg2:T11338	
+N15	Reference T11350 Hill:1481	འཛུགས་
+R40	arg2 Arg1:T11350 Arg2:T11348	
+N16	Reference T11087 Hill:0715	ལྟ་√1
+R41	arg2 Arg1:T11087 Arg2:T11086	
+R42	arg2 Arg1:T11089 Arg2:T11087	
+R43	arg2 Arg1:T11096 Arg2:T11095	
+R44	cop Arg1:T11097 Arg2:T11098	
+R45	obl-arg Arg1:T11106 Arg2:T11104	
+N17	Reference T11115 Hill:1572	ཟེར་√1
+R46	arg1 Arg1:T11115 Arg2:T11113	
+R47	arg2 Arg1:T11115 Arg2:T11112	
+R48	arg2 Arg1:T11130 Arg2:T11129	
+R49	aux Arg1:T11130 Arg2:T11132	
+R50	argcl Arg1:T11136 Arg2:T11134	
+T1	NOTAG 402 406	ཐུབ་

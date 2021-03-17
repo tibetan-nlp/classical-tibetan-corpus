@@ -1,0 +1,876 @@
+T84779	NOUN 0 8	འགྲེལ་པ་
+A84779a	Number T84779 Sing
+T84780	ADP 8 10	ན་
+A84780a	Case T84780 Loc
+N84780	Reference T84780 Nonverbs:0039	ན་√case
+T84781	VERB 10 14	ཡོད་
+N84781	Reference T84781 Hill:1632	ཡོད་
+T84782	VERB 14 20	རྫུ་བ་
+A84782a	Tense T84782 Pres
+A84782b	VerbForm T84782 Vnoun
+N84782	Reference T84782 Hill:1499	རྫུ་
+T84783	VERB 20 26	བྱས་པ་
+A84783a	Tense T84783 Past
+A84783b	VerbForm T84783 Vnoun
+N84783	Reference T84783 Hill:1168	བྱེད་
+T84784	ADP 26 27	ལ
+A84784a	Case T84784 All
+N84784	Reference T84784 Nonverbs:0028	ལ་√case
+T84785	PUNCT 27 28	།
+N84785	Reference T84785 Nonverbs:0529	།
+T84787	NOUN 29 38	མཁས་མཆོག་
+A84787a	Number T84787 Sing
+T84788	PROPN 38 46	བུ་སྟོན་
+T84789	ADP 46 51	གྱིས་
+A84789a	Case T84789 Agn
+N84789	Reference T84789 Nonverbs:0026	གྱིས་√case
+T84790	NOUN 51 55	ལྷན་
+A84790a	Number T84790 Sing
+T84791	DET 55 59	ཅིག་
+A84791a	PronType T84791 Ind
+N84791	Reference T84791 Nonverbs:0296	ཅིག་√d
+T84792	VERB 59 65	སྐྱེས་
+A84792a	Tense T84792 Past
+N84792	Reference T84792 Hill:0071	སྐྱེ་
+T84793	VERB 65 70	གྲུབ་
+A84793a	Tense T84793 Past
+N84793	Reference T84793 Hill:0321	འགྲུབ་
+T84794	ADP 70 74	ཀྱི་
+A84794a	Case T84794 Gen
+N84794	Reference T84794 Nonverbs:0012	གྱི་√case
+T84795	NOUN 74 81	འགྲེལ་པ
+A84795a	Number T84795 Sing
+T84796	ADP 81 84	འི་
+A84796a	Case T84796 Gen
+N84796	Reference T84796 Nonverbs:0012	གྱི་√case
+T84797	NOUN 84 93	ལོ་རྒྱུས་
+A84797a	Number T84797 Sing
+T84798	PRON 93 96	གང་
+A84798a	PronType T84798 Int
+N84798	Reference T84798 Nonverbs:0184	གང་√p
+T84799	VERB 96 100	ཡོད་
+N84799	Reference T84799 Hill:1632	ཡོད་
+T84800	VERB 100 107	རྫོགས་པ
+A84800a	VerbForm T84800 Vnoun
+N84800	Reference T84800 Hill:1502	རྫོགས་
+T84801	ADP 107 109	ར་
+A84801a	Case T84801 Ter
+N84801	Reference T84801 Nonverbs:0051	དུ་√case
+T84802	NOUN 109 113	ལུང་
+A84802a	Number T84802 Sing
+T84803	VERB 113 118	དྲངས་
+A84803a	Tense T84803 Past
+N84803	Reference T84803 Hill:0916	འདྲེན་
+T84804	SCONJ 118 121	ནས་
+A84804a	Case T84804 Ela
+N84804	Reference T84804 Nonverbs:0074	ནས་√cv
+T84805	NOUN 121 125	ལྷན་
+A84805a	Number T84805 Sing
+T84806	DET 125 129	ཅིག་
+A84806a	PronType T84806 Ind
+N84806	Reference T84806 Nonverbs:0296	ཅིག་√d
+T84807	NOUN 129 144	སྐྱེས་གྲུབ་ཉིད་
+A84807a	Number T84807 Sing
+T84808	ADP 144 148	ཀྱི་
+A84808a	Case T84808 Gen
+N84808	Reference T84808 Nonverbs:0012	གྱི་√case
+T84809	NOUN 148 157	ལོ་རྒྱུས་
+A84809a	Number T84809 Sing
+T84810	AUX 157 161	ཡིན་
+N84810	Reference T84810 Hill:1619	ཡིན་
+T84811	SCONJ 161 164	གྱི
+A84811a	Case T84811 Gen
+N84811	Reference T84811 Nonverbs:0107	གྱི་√cv
+T84812	PUNCT 164 165	།
+N84812	Reference T84812 Nonverbs:0529	།
+T84814	NOUN 166 175	གསང་སྔགས་
+A84814a	Number T84814 Sing
+T84815	DET 175 179	སྤྱི
+A84815a	Number T84815 Plur
+N84815	Reference T84815 Nonverbs:0315	སྤྱི་√d
+T84816	ADP 179 182	འི་
+A84816a	Case T84816 Gen
+N84816	Reference T84816 Nonverbs:0012	གྱི་√case
+T84817	NOUN 182 193	བྱུང་ཚུལ་མ་
+A84817a	Number T84817 Sing
+T84818	AUX 193 197	ཡིན་
+N84818	Reference T84818 Hill:1619	ཡིན་
+T84819	PART 197 200	ནོ་
+A84819a	Mood T84819 Ind
+N84819	Reference T84819 Nonverbs:0099	འོ་√cv
+T84820	VERB 200 204	ཞེས་
+A84820a	Mood T84820 Qot
+T84821	VERB 204 209	རིགས་
+N84821	Reference T84821 Hill:1664	རིགས་
+T84822	SCONJ 209 213	ཤིང་
+A84822a	Case T84822 Impf
+N84822	Reference T84822 Nonverbs:0121	ཅིང་√cv
+T84823	VERB 213 218	འཐད་པ
+A84823a	VerbForm T84823 Vnoun
+N84823	Reference T84823 Hill:0792	འཐད་
+T84824	ADP 218 220	ར་
+A84824a	Case T84824 Ter
+N84824	Reference T84824 Nonverbs:0051	དུ་√case
+T84825	VERB 220 228	གསུངས་པ་
+A84825a	Tense T84825 Past
+A84825b	VerbForm T84825 Vnoun
+#84825l	AnnotatorNotes T84825	[གསུང་√1][གསུང་√2] 
+T84826	ADP 228 230	ལས
+A84826a	Case T84826 Abl
+N84826	Reference T84826 Nonverbs:0014	ལས་√case
+T84827	PUNCT 230 231	།
+N84827	Reference T84827 Nonverbs:0529	།
+T84829	PROPN 232 237	འགོས་
+T84830	NOUN 237 240	ལོ་
+A84830a	Number T84830 Sing
+T84831	ADJ 240 248	གཞོན་ནུ་
+T84832	NOUN 248 252	དཔལ་
+A84832a	Number T84832 Sing
+T84833	ADP 252 257	གྱིས་
+A84833a	Case T84833 Agn
+N84833	Reference T84833 Nonverbs:0026	གྱིས་√case
+T84834	DET 257 260	དེ་
+A84834a	PronType T84834 Dem
+N84834	Reference T84834 Nonverbs:0233	དེ་√d
+T84835	VERB 260 266	གཟིགས་
+#84835l	AnnotatorNotes T84835	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3] 
+T84836	NOUN 266 271	བཞིན་
+A84836a	NounType T84836 Rel
+T84837	ADP 271 274	དུ་
+A84837a	Case T84837 Ter
+N84837	Reference T84837 Nonverbs:0051	དུ་√case
+T84838	NOUN 274 278	གཏམ་
+A84838a	Number T84838 Sing
+T84839	VERB 278 285	རྙིང་པ་
+A84839a	Tense T84839 Fut/Pres
+A84839b	VerbForm T84839 Vnoun
+N84839	Reference T84839 Hill:0627	རྙིང་
+T84840	ADP 285 287	ལ་
+A84840a	Case T84840 All
+N84840	Reference T84840 Nonverbs:0028	ལ་√case
+T84841	NOUN 287 294	རོ་ལངས་
+A84841a	Number T84841 Sing
+T84842	VERB 294 298	མཛད་
+N84842	Reference T84842 Hill:1465	མཛད་
+T84843	SCONJ 298 301	དེ་
+A84843a	Case T84843 Sem
+N84843	Reference T84843 Nonverbs:0165	ཏེ་√cv
+T84844	NOUN 301 305	ལྷན་
+A84844a	Number T84844 Sing
+T84845	DET 305 309	ཅིག་
+A84845a	PronType T84845 Ind
+N84845	Reference T84845 Nonverbs:0296	ཅིག་√d
+T84846	VERB 309 315	སྐྱེས་
+A84846a	Tense T84846 Past
+N84846	Reference T84846 Hill:0071	སྐྱེ་
+T84847	VERB 315 320	གྲུབ་
+A84847a	Tense T84847 Past
+N84847	Reference T84847 Hill:0321	འགྲུབ་
+T84848	ADP 320 324	ཀྱི་
+A84848a	Case T84848 Gen
+N84848	Reference T84848 Nonverbs:0012	གྱི་√case
+T84849	NOUN 324 328	གཏམ་
+A84849a	Number T84849 Sing
+T84850	DET 328 332	འདི་
+A84850a	PronType T84850 Dem
+N84850	Reference T84850 Nonverbs:0235	འདི་√d
+T84851	VERB 332 338	ལེགས་པ
+A84851a	VerbForm T84851 Vnoun
+T84852	ADP 338 340	ར་
+A84852a	Case T84852 Ter
+N84852	Reference T84852 Nonverbs:0051	དུ་√case
+T84853	VERB 340 344	བཤད་
+A84853a	Tense T84853 Past
+#84853l	AnnotatorNotes T84853	[འཆད་√2][ཤད་] 
+T84854	SCONJ 344 346	ནས
+A84854a	Case T84854 Ela
+N84854	Reference T84854 Nonverbs:0074	ནས་√cv
+T84855	PUNCT 346 347	།
+N84855	Reference T84855 Nonverbs:0529	།
+T84857	DET 348 350	དེ
+A84857a	PronType T84857 Dem
+N84857	Reference T84857 Nonverbs:0233	དེ་√d
+T84858	ADP 350 353	འི་
+A84858a	Case T84858 Gen
+N84858	Reference T84858 Nonverbs:0012	གྱི་√case
+T84859	NOUN 353 356	ནང་
+A84859a	NounType T84859 Rel
+N84859	Reference T84859 Nonverbs:0454	ནང་
+T84860	ADP 356 359	གི་
+A84860a	Case T84860 Gen
+N84860	Reference T84860 Nonverbs:0012	གྱི་√case
+T84861	NOUN 359 365	ཞིང་པ་
+A84861a	Number T84861 Sing
+T84862	NOUN 365 390	པདྨའི་རྡོ་རྗེ་དེ་པདྨ་བཛྲ་
+A84862a	Number T84862 Sing
+T84863	ADJ 390 397	ཆེན་པོ་
+T84864	ADP 397 400	དང་
+A84864a	Case T84864 Com
+N84864	Reference T84864 Nonverbs:0031	དང་√case
+T84865	NUM 400 405	གཅིག་
+A84865a	NumType T84865 Card
+A84865b	NumForm T84865 Word
+T84866	ADP 405 408	ཏུ་
+A84866a	Case T84866 Ter
+N84866	Reference T84866 Nonverbs:0051	དུ་√case
+T84867	VERB 408 413	རུང་བ
+A84867a	VerbForm T84867 Vnoun
+N84867	Reference T84867 Hill:1669	རུང་
+T84868	ADP 413 414	ས
+A84868a	Case T84868 Agn
+N84868	Reference T84868 Nonverbs:0026	གྱིས་√case
+T84869	PUNCT 414 415	།
+N84869	Reference T84869 Nonverbs:0529	།
+T84871	DET 416 419	དེ་
+A84871a	PronType T84871 Dem
+N84871	Reference T84871 Nonverbs:0233	དེ་√d
+T84872	ADP 419 422	ནས་
+A84872a	Case T84872 Ela
+N84872	Reference T84872 Nonverbs:0037	ནས་√case
+T84873	VERB 422 428	བརྩམས་
+A84873a	Tense T84873 Past
+N84873	Reference T84873 Hill:1393	རྩོམ་
+T84874	SCONJ 428 431	ཏེ་
+A84874a	Case T84874 Sem
+N84874	Reference T84874 Nonverbs:0165	ཏེ་√cv
+T84875	VERB 431 438	གྲུབ་པ་
+A84875a	Tense T84875 Past
+A84875b	VerbForm T84875 Vnoun
+N84875	Reference T84875 Hill:0321	འགྲུབ་
+T84876	NOUN 438 442	སྡེ་
+A84876a	Number T84876 Sing
+T84877	NUM 442 447	བདུན་
+A84877a	NumType T84877 Card
+A84877b	NumForm T84877 Word
+T84878	VERB 447 456	བྱུང་ཚུལ་
+A84878a	Tense T84878 Past
+A84878b	VerbForm T84878 Vnoun
+T84879	DET 456 461	སོགས་
+N84879	Reference T84879 Nonverbs:0267	སོགས་√d
+T84880	ADP 461 464	དང་
+A84880a	Case T84880 Com
+N84880	Reference T84880 Nonverbs:0031	དང་√case
+T84881	VERB 464 469	སྦྱར་
+A84881a	Tense T84881 Fut/Past
+N84881	Reference T84881 Hill:1297	སྦྱོར་
+T84882	SCONJ 469 471	ན་
+A84882a	Case T84882 Loc
+N84882	Reference T84882 Nonverbs:0123	ན་√cv
+T84883	NOUN 471 476	སྔགས་
+A84883a	Number T84883 Sing
+T84884	ADP 476 480	ཀྱི་
+A84884a	Case T84884 Gen
+N84884	Reference T84884 Nonverbs:0012	གྱི་√case
+T84885	VERB 480 489	བྱུང་ཚུལ་
+A84885a	Tense T84885 Past
+A84885b	VerbForm T84885 Vnoun
+T84886	ADJ 489 499	ངོ་མཚར་ཅན་
+T84887	VERB 499 503	ཡོད་
+N84887	Reference T84887 Hill:1632	ཡོད་
+T84888	VERB 503 510	གསུང་པ་
+A84888a	Tense T84888 Fut/Pres
+A84888b	VerbForm T84888 Vnoun
+#84888l	AnnotatorNotes T84888	[གསུང་√1][གསུང་√2] 
+T84889	PART 510 513	ནི་
+N84889	Reference T84889 Nonverbs:0343	ནི་√cl
+T84890	VERB 513 519	བརྗོད་
+A84890a	Tense T84890 Fut/Past
+#84890l	AnnotatorNotes T84890	[རྗོད་√1][རྗོད་√2] 
+T84891	NOUN 519 524	འདོད་
+A84891a	Number T84891 Sing
+T84892	DET 524 527	ཙམ་
+A84892a	PronType T84892 Tsam
+N84892	Reference T84892 Nonverbs:0333	ཙམ་√d
+T84893	SCONJ 527 530	སྟེ
+A84893a	Case T84893 Sem
+N84893	Reference T84893 Nonverbs:0165	ཏེ་√cv
+T84894	PUNCT 530 531	།
+N84894	Reference T84894 Nonverbs:0529	།
+T84896	NOUN 532 536	ལྷན་
+A84896a	Number T84896 Sing
+T84897	DET 536 540	ཅིག་
+A84897a	PronType T84897 Ind
+N84897	Reference T84897 Nonverbs:0296	ཅིག་√d
+T84898	VERB 540 546	སྐྱེས་
+A84898a	Tense T84898 Past
+N84898	Reference T84898 Hill:0071	སྐྱེ་
+T84899	PROPN 546 551	གྲུབ་
+T84900	ADP 551 554	དང་
+A84900a	Case T84900 Com
+N84900	Reference T84900 Nonverbs:0031	དང་√case
+T84901	PUNCT 554 555	།
+N84901	Reference T84901 Nonverbs:0529	།
+T84903	VERB 556 563	གྲུབ་པ་
+A84903a	Tense T84903 Past
+A84903b	VerbForm T84903 Vnoun
+N84903	Reference T84903 Hill:0321	འགྲུབ་
+T84904	PROPN 563 572	སྡེ་བདུན་
+T84905	PART 572 575	ཡང་
+N84905	Reference T84905 Nonverbs:0352	འང་√cl
+T84906	NOUN 575 584	གསང་སྔགས་
+A84906a	Number T84906 Sing
+T84907	X 584 586	པ་
+T84908	DET 586 590	འགའ་
+A84908a	Number T84908 Plur
+N84908	Reference T84908 Nonverbs:0319	འགའ་√d
+T84909	DET 590 594	ཞིག་
+A84909a	PronType T84909 Ind
+N84909	Reference T84909 Nonverbs:0296	ཅིག་√d
+T84910	NOUN 594 600	ཁོ་ནས་
+A84910a	Number T84910 Sing
+T84911	NOUN 600 604	ཉམས་
+A84911a	Number T84911 Sing
+T84912	ADP 604 607	སུ་
+A84912a	Case T84912 Ter
+N84912	Reference T84912 Nonverbs:0051	དུ་√case
+T84913	VERB 607 612	བླངས་
+A84913a	Tense T84913 Past
+N84913	Reference T84913 Hill:1716	ལེན་
+T84914	VERB 612 615	མོད
+A84914a	VerbType T84914 Aux
+T84915	PUNCT 615 616	།
+N84915	Reference T84915 Nonverbs:0529	།
+T84917	DET 617 624	ཐམས་ཅད་
+A84917a	Number T84917 Plur
+N84917	Reference T84917 Nonverbs:0300	ཐམས་ཅད་√d
+T84918	ADP 624 626	ལ་
+A84918a	Case T84918 All
+N84918	Reference T84918 Nonverbs:0028	ལ་√case
+T84919	VERB 626 632	ཁྱབ་པ་
+A84919a	VerbForm T84919 Vnoun
+N84919	Reference T84919 Hill:0115	ཁྱབ་
+T84920	PART 632 634	མ་
+A84920a	Polarity T84920 Neg
+N84920	Reference T84920 Nonverbs:0339	མ་√neg
+T84921	AUX 634 639	ཡིན་པ
+A84921a	VerbForm T84921 Vnoun
+T84922	ADP 639 641	ས་
+A84922a	Case T84922 Agn
+N84922	Reference T84922 Nonverbs:0026	གྱིས་√case
+T84923	DET 641 643	དེ
+A84923a	PronType T84923 Dem
+N84923	Reference T84923 Nonverbs:0233	དེ་√d
+T84924	ADP 643 646	འི་
+A84924a	Case T84924 Gen
+N84924	Reference T84924 Nonverbs:0012	གྱི་√case
+T84925	VERB 646 655	བརྒྱུད་པ་
+A84925a	VerbForm T84925 Vnoun
+N84925	Reference T84925 Hill:0400	བརྒྱུད་
+T84926	VERB 655 660	བཤད་པ
+A84926a	Tense T84926 Fut/Past
+A84926b	VerbForm T84926 Vnoun
+#84926l	AnnotatorNotes T84926	[འཆད་√2][ཤད་] 
+T84927	ADP 660 662	ས་
+A84927a	Case T84927 Agn
+N84927	Reference T84927 Nonverbs:0026	གྱིས་√case
+T84928	NOUN 662 667	སྔགས་
+A84928a	Number T84928 Sing
+T84929	DET 667 671	སྤྱི
+A84929a	Number T84929 Plur
+N84929	Reference T84929 Nonverbs:0315	སྤྱི་√d
+T84930	ADP 671 674	འི་
+A84930a	Case T84930 Gen
+N84930	Reference T84930 Nonverbs:0012	གྱི་√case
+T84931	VERB 674 683	བརྒྱུད་པ་
+A84931a	VerbForm T84931 Vnoun
+N84931	Reference T84931 Hill:0400	བརྒྱུད་
+T84932	VERB 683 688	བཤད་པ
+A84932a	Tense T84932 Fut/Past
+A84932b	VerbForm T84932 Vnoun
+#84932l	AnnotatorNotes T84932	[འཆད་√2][ཤད་] 
+T84933	ADP 688 690	ར་
+A84933a	Case T84933 Ter
+N84933	Reference T84933 Nonverbs:0051	དུ་√case
+T84934	PART 690 693	མི་
+A84934a	Polarity T84934 Neg
+N84934	Reference T84934 Nonverbs:0337	མི་√neg
+T84935	VERB 693 698	འགྲོ་
+A84935a	Tense T84935 Fut/Pres
+N84935	Reference T84935 Hill:0331	འགྲོ་
+T84936	SCONJ 698 699	ལ
+A84936a	Case T84936 All
+N84936	Reference T84936 Nonverbs:0064	ལ་√cv
+T84937	PUNCT 699 700	།
+N84937	Reference T84937 Nonverbs:0529	།
+T84939	NOUN 701 705	རྒྱ་
+A84939a	Number T84939 Sing
+N84939	Reference T84939 Nonverbs:0469	རྒྱ་
+T84940	PROPN 705 709	བོད་
+T84941	ADP 709 713	ཀྱི་
+A84941a	Case T84941 Gen
+N84941	Reference T84941 Nonverbs:0012	གྱི་√case
+T84942	NOUN 713 718	སྔགས་
+A84942a	Number T84942 Sing
+T84943	X 718 720	པ་
+T84944	ADJ 720 725	ཕལ་ཆེ
+T84945	ADP 725 727	ར་
+A84945a	Case T84945 Ter
+N84945	Reference T84945 Nonverbs:0051	དུ་√case
+T84946	ADP 727 732	གྱིས་
+A84946a	Case T84946 Agn
+N84946	Reference T84946 Nonverbs:0026	གྱིས་√case
+T84947	NOUN 732 736	ཉམས་
+A84947a	Number T84947 Sing
+T84948	ADP 736 739	སུ་
+A84948a	Case T84948 Ter
+N84948	Reference T84948 Nonverbs:0051	དུ་√case
+T84949	VERB 739 744	ལེན་པ
+A84949a	Tense T84949 Pres
+A84949b	VerbForm T84949 Vnoun
+N84949	Reference T84949 Hill:1716	ལེན་
+T84950	ADP 744 747	འི་
+A84950a	Case T84950 Gen
+N84950	Reference T84950 Nonverbs:0012	གྱི་√case
+T84951	NOUN 747 758	ཆོས་བརྒྱུད་
+A84951a	Number T84951 Sing
+T84952	PRON 758 764	སོ་སོ་
+A84952a	PronType T84952 Ind
+N84952	Reference T84952 Nonverbs:0176	སོ་སོ་√p
+T84953	NOUN 764 766	བ་
+A84953a	Number T84953 Sing
+T84954	ADJ 766 769	གང་
+T84955	ADP 769 772	གི་
+A84955a	Case T84955 Gen
+N84955	Reference T84955 Nonverbs:0012	གྱི་√case
+T84956	ADV 772 775	ཡང་
+A84956a	PronType T84956 Dem
+N84956	Reference T84956 Nonverbs:0424	འང་
+T84957	VERB 775 784	བརྒྱུད་པ་
+A84957a	VerbForm T84957 Vnoun
+N84957	Reference T84957 Hill:0400	བརྒྱུད་
+T84958	ADP 784 786	ལ་
+A84958a	Case T84958 All
+N84958	Reference T84958 Nonverbs:0028	ལ་√case
+T84959	VERB 786 795	འདྲེན་མི་
+A84959a	Tense T84959 Pres
+A84959b	VerbForm T84959 Vnoun
+T84960	VERB 795 801	དགོས་པ
+A84960a	VerbForm T84960 Vnoun
+A84960b	VerbType T84960 Aux
+T84961	ADP 801 804	འི་
+A84961a	Case T84961 Gen
+N84961	Reference T84961 Nonverbs:0012	གྱི་√case
+T84962	NOUN 804 809	སྔགས་
+A84962a	Number T84962 Sing
+T84963	DET 809 813	སྤྱི
+A84963a	Number T84963 Plur
+N84963	Reference T84963 Nonverbs:0315	སྤྱི་√d
+T84964	ADP 813 816	འི་
+A84964a	Case T84964 Gen
+N84964	Reference T84964 Nonverbs:0012	གྱི་√case
+T84965	VERB 816 825	བྱུང་ཚུལ་
+A84965a	Tense T84965 Past
+A84965b	VerbForm T84965 Vnoun
+T84966	ADJ 825 835	ངོ་མཚར་ཅན་
+T84967	DET 835 839	ཞིག་
+A84967a	PronType T84967 Ind
+N84967	Reference T84967 Nonverbs:0296	ཅིག་√d
+T84968	PRON 839 841	ཅི
+A84968a	PronType T84968 Int
+N84968	Reference T84968 Nonverbs:0186	ཅི་√p
+T84969	ADP 841 843	ས་
+A84969a	Case T84969 Agn
+N84969	Reference T84969 Nonverbs:0026	གྱིས་√case
+T84970	PART 843 847	ཀྱང་
+N84970	Reference T84970 Nonverbs:0352	འང་√cl
+T84971	VERB 847 854	འབྱུང་བ
+A84971a	Tense T84971 Fut/Pres
+A84971b	VerbForm T84971 Vnoun
+N84971	Reference T84971 Hill:1243	འབྱུང་
+T84972	ADP 854 856	ར་
+A84972a	Case T84972 Ter
+N84972	Reference T84972 Nonverbs:0051	དུ་√case
+T84973	VERB 856 860	གདའ་
+N84973	Reference T84973 Hill:0844	གདའ་
+T84974	PART 860 863	འོ་
+A84974a	Mood T84974 Ind
+N84974	Reference T84974 Nonverbs:0099	འོ་√cv
+T84975	VERB 863 867	ཞེས་
+A84975a	Mood T84975 Qot
+T84976	NOUN 867 876	ཀྱལ་ཀ་ཡང་
+A84976a	Number T84976 Sing
+T84977	VERB 876 878	ཞུ
+A84977a	Tense T84977 Past
+#84977l	AnnotatorNotes T84977	[འཇུ་√2][ཞུ་√2] 
+T84978	PART 878 880	འོ
+A84978a	Mood T84978 Ind
+N84978	Reference T84978 Nonverbs:0099	འོ་√cv
+T84979	PUNCT 880 881	།
+N84979	Reference T84979 Nonverbs:0529	།
+T84981	PUNCT 882 883	།
+N84981	Reference T84981 Nonverbs:0529	།
+T84983	DET 884 887	དེ་
+A84983a	PronType T84983 Dem
+N84983	Reference T84983 Nonverbs:0233	དེ་√d
+T84984	ADP 887 889	ལ་
+A84984a	Case T84984 All
+N84984	Reference T84984 Nonverbs:0028	ལ་√case
+T84985	VERB 889 895	བརྟེན་
+A84985a	Tense T84985 Past
+N84985	Reference T84985 Hill:0708	རྟེན་
+T84986	SCONJ 895 898	ནས་
+A84986a	Case T84986 Ela
+N84986	Reference T84986 Nonverbs:0074	ནས་√cv
+T84987	VERB 898 903	རྟོག་
+A84987a	Tense T84987 Past/Pres
+N84987	Reference T84987 Hill:0710	རྟོགས་
+T84988	VERB 903 907	བཟོ་
+A84988a	Tense T84988 Fut/Pres
+N84988	Reference T84988 Hill:1603	བཟོ་
+T84989	ADJ 907 913	གཙོ་བོ
+T84990	ADP 913 915	ར་
+A84990a	Case T84990 Ter
+N84990	Reference T84990 Nonverbs:0051	དུ་√case
+T84991	VERB 915 922	བྱེད་པ་
+A84991a	Tense T84991 Pres
+A84991b	VerbForm T84991 Vnoun
+N84991	Reference T84991 Hill:1168	བྱེད་
+T84992	DET 922 926	འགའ་
+A84992a	Number T84992 Plur
+N84992	Reference T84992 Nonverbs:0319	འགའ་√d
+T84993	DET 926 930	ཞིག་
+A84993a	PronType T84993 Ind
+N84993	Reference T84993 Nonverbs:0296	ཅིག་√d
+T84994	PART 930 934	ཀྱང་
+N84994	Reference T84994 Nonverbs:0352	འང་√cl
+T84995	DET 934 937	དེ་
+A84995a	PronType T84995 Dem
+N84995	Reference T84995 Nonverbs:0233	དེ་√d
+T84996	DET 937 941	ཉིད་
+A84996a	PronType T84996 Emp
+N84996	Reference T84996 Nonverbs:0286	ཉིད་√d
+T84997	VERB 941 949	བསྡུས་པ་
+A84997a	Tense T84997 Past
+A84997b	VerbForm T84997 Vnoun
+N84997	Reference T84997 Hill:0960	སྡུད་
+T84998	ADP 949 952	དང་
+A84998a	Case T84998 Com
+N84998	Reference T84998 Nonverbs:0031	དང་√case
+T84999	PUNCT 952 953	།
+N84999	Reference T84999 Nonverbs:0529	།
+T85001	NOUN 954 962	རྡོ་རྗེ་
+A85001a	Number T85001 Sing
+T85002	NOUN 962 969	རྩེ་མོ་
+A85002a	Number T85002 Sing
+T85003	ADP 969 972	ལས་
+A85003a	Case T85003 Abl
+N85003	Reference T85003 Nonverbs:0014	ལས་√case
+T85004	VERB 972 978	བྱུང་བ
+A85004a	Tense T85004 Past
+A85004b	VerbForm T85004 Vnoun
+N85004	Reference T85004 Hill:1243	འབྱུང་
+T85005	ADP 978 981	འི་
+A85005a	Case T85005 Gen
+N85005	Reference T85005 Nonverbs:0012	གྱི་√case
+T85006	NOUN 981 988	ཁྲོ་བོ་
+A85006a	Number T85006 Sing
+T85007	NOUN 988 992	ཁམས་
+A85007a	Number T85007 Sing
+T85008	NUM 992 997	གསུམ་
+A85008a	NumType T85008 Card
+A85008b	NumForm T85008 Word
+T85009	NOUN 997 1016	རྣམ་རྒྱལ་སྤྲུལ་བཤད་
+A85009a	Number T85009 Sing
+T85010	ADP 1016 1020	ཀྱི་
+A85010a	Case T85010 Gen
+N85010	Reference T85010 Nonverbs:0012	གྱི་√case
+T85011	NOUN 1020 1029	ལོ་རྒྱུས་
+A85011a	Number T85011 Sing
+T85012	PART 1029 1031	མ་
+A85012a	Polarity T85012 Neg
+N85012	Reference T85012 Nonverbs:0339	མ་√neg
+T85013	VERB 1031 1034	དག་
+T85014	SCONJ 1034 1038	ཅིང་
+A85014a	Case T85014 Impf
+N85014	Reference T85014 Nonverbs:0121	ཅིང་√cv
+T85015	PART 1038 1040	མ་
+A85015a	Polarity T85015 Neg
+N85015	Reference T85015 Nonverbs:0339	མ་√neg
+T85016	VERB 1040 1045	ཚང་བ་
+A85016a	Tense T85016 Past
+A85016b	VerbForm T85016 Vnoun
+N85016	Reference T85016 Hill:1404	ཚང་
+T85017	DET 1045 1049	འགའ་
+A85017a	Number T85017 Plur
+N85017	Reference T85017 Nonverbs:0319	འགའ་√d
+T85018	DET 1049 1052	རེ་
+N85018	Reference T85018 Nonverbs:0265	རེ་√d
+T85019	VERB 1052 1057	བྲིས་
+A85019a	Tense T85019 Past
+N85019	Reference T85019 Hill:1262	འབྲི་√1
+T85020	SCONJ 1057 1060	ནས་
+A85020a	Case T85020 Ela
+N85020	Reference T85020 Nonverbs:0074	ནས་√cv
+T85021	NOUN 1060 1065	སྔགས་
+A85021a	Number T85021 Sing
+T85022	NOUN 1065 1069	ཚུལ་
+A85022a	Number T85022 Sing
+T85023	ADJ 1069 1074	དང་པོ
+A85023a	NumType T85023 Ord
+N85023	Reference T85023 Nonverbs:0533	དང་པོ་
+T85024	ADP 1074 1076	ར་
+A85024a	Case T85024 Ter
+N85024	Reference T85024 Nonverbs:0051	དུ་√case
+T85025	VERB 1076 1083	གསུངས་པ
+A85025a	Tense T85025 Past
+A85025b	VerbForm T85025 Vnoun
+#85025l	AnnotatorNotes T85025	[གསུང་√1][གསུང་√2] 
+T85026	ADP 1083 1086	འི་
+A85026a	Case T85026 Gen
+N85026	Reference T85026 Nonverbs:0012	གྱི་√case
+T85027	NOUN 1086 1091	ལུགས་
+A85027a	Number T85027 Sing
+T85028	ADP 1091 1094	སུ་
+A85028a	Case T85028 Ter
+N85028	Reference T85028 Nonverbs:0051	དུ་√case
+T85029	VERB 1094 1097	བྱས
+A85029a	Tense T85029 Past
+N85029	Reference T85029 Hill:1168	བྱེད་
+T85030	PUNCT 1097 1098	།
+N85030	Reference T85030 Nonverbs:0529	།
+T85032	NOUN 1099 1103	ལྷན་
+A85032a	Number T85032 Sing
+T85033	DET 1103 1107	ཅིག་
+A85033a	PronType T85033 Ind
+N85033	Reference T85033 Nonverbs:0296	ཅིག་√d
+T85034	VERB 1107 1113	སྐྱེས་
+A85034a	Tense T85034 Past
+N85034	Reference T85034 Hill:0071	སྐྱེ་
+T85035	VERB 1113 1118	གྲུབ་
+A85035a	Tense T85035 Past
+N85035	Reference T85035 Hill:0321	འགྲུབ་
+T85036	ADP 1118 1122	ཀྱི་
+A85036a	Case T85036 Gen
+N85036	Reference T85036 Nonverbs:0012	གྱི་√case
+T85037	NOUN 1122 1129	འགྲེལ་པ
+A85037a	Number T85037 Sing
+T85038	ADP 1129 1132	འི་
+A85038a	Case T85038 Gen
+N85038	Reference T85038 Nonverbs:0012	གྱི་√case
+T85039	NOUN 1132 1141	ལོ་རྒྱུས་
+A85039a	Number T85039 Sing
+T85040	DET 1141 1144	དེ་
+A85040a	PronType T85040 Dem
+N85040	Reference T85040 Nonverbs:0233	དེ་√d
+T85041	ADP 1144 1146	ལ་
+A85041a	Case T85041 All
+N85041	Reference T85041 Nonverbs:0028	ལ་√case
+T85042	NOUN 1146 1150	གཞི་
+A85042a	Number T85042 Sing
+T85043	VERB 1150 1154	བྱས་
+A85043a	Tense T85043 Past
+N85043	Reference T85043 Hill:1168	བྱེད་
+T85044	SCONJ 1154 1157	ནས་
+A85044a	Case T85044 Ela
+N85044	Reference T85044 Nonverbs:0074	ནས་√cv
+T85045	NOUN 1157 1165	རྒྱལ་པོ་
+A85045a	Number T85045 Sing
+T85046	NOUN 1165 1171	དཔའ་བོ
+A85046a	Number T85046 Sing
+T85047	ADP 1171 1174	འི་
+A85047a	Case T85047 Gen
+N85047	Reference T85047 Nonverbs:0012	གྱི་√case
+T85048	NOUN 1174 1187	རྡོ་རྗེ་ཨཱཪྱ་
+A85048a	Number T85048 Sing
+T85049	DET 1187 1190	དེ་
+A85049a	PronType T85049 Dem
+N85049	Reference T85049 Nonverbs:0233	དེ་√d
+T85050	NOUN 1190 1194	ཝའི་
+A85050a	Number T85050 Sing
+T85051	NOUN 1194 1199	བླ་མ་
+A85051a	Number T85051 Sing
+N85051	Reference T85051 Nonverbs:0569	བླ་མ་
+T85052	AUX 1199 1204	ཡིན་པ
+A85052a	VerbForm T85052 Vnoun
+T85053	ADP 1204 1206	ར་
+A85053a	Case T85053 Ter
+N85053	Reference T85053 Nonverbs:0051	དུ་√case
+T85054	VERB 1206 1213	རློམ་པ་
+A85054a	VerbForm T85054 Vnoun
+N85054	Reference T85054 Hill:1698	རློམ་√3
+T85055	ADP 1213 1216	དང་
+A85055a	Case T85055 Com
+N85055	Reference T85055 Nonverbs:0031	དང་√case
+T85056	PUNCT 1216 1217	།
+N85056	Reference T85056 Nonverbs:0529	།
+T85058	NOUN 1218 1224	བུ་མོ་
+A85058a	Number T85058 Sing
+T85059	VERB 1224 1229	བདེ་བ
+A85059a	VerbForm T85059 Vnoun
+T85060	ADP 1229 1232	འི་
+A85060a	Case T85060 Gen
+N85060	Reference T85060 Nonverbs:0012	གྱི་√case
+T85061	NOUN 1232 1241	རོལ་པ་མོ་
+A85061a	Number T85061 Sing
+T85062	PART 1241 1244	ནི་
+N85062	Reference T85062 Nonverbs:0343	ནི་√cl
+T85063	NOUN 1244 1248	ཀླུ་
+A85063a	Number T85063 Sing
+T85064	ADP 1248 1251	ལས་
+A85064a	Case T85064 Abl
+N85064	Reference T85064 Nonverbs:0014	ལས་√case
+T85065	VERB 1251 1257	གྱུར་པ
+A85065a	Tense T85065 Past
+A85065b	VerbForm T85065 Vnoun
+N85065	Reference T85065 Hill:0304	འགྱུར་
+T85066	ADP 1257 1260	འི་
+A85066a	Case T85066 Gen
+N85066	Reference T85066 Nonverbs:0012	གྱི་√case
+T85067	NOUN 1260 1272	རྣལ་འབྱོར་མ་
+A85067a	Number T85067 Sing
+T85068	ADP 1272 1275	དང་
+A85068a	Case T85068 Com
+N85068	Reference T85068 Nonverbs:0031	དང་√case
+T85069	NOUN 1275 1281	གཅིག་པ
+A85069a	Number T85069 Sing
+N85069	Reference T85069 Nonverbs:0535	གཅིག་པ་
+T85070	ADP 1281 1283	ར་
+A85070a	Case T85070 Ter
+N85070	Reference T85070 Nonverbs:0051	དུ་√case
+T85071	VERB 1283 1289	རློམ་པ
+A85071a	VerbForm T85071 Vnoun
+N85071	Reference T85071 Hill:1698	རློམ་√3
+T85072	ADP 1289 1291	ས་
+A85072a	Case T85072 Agn
+N85072	Reference T85072 Nonverbs:0026	གྱིས་√case
+T85073	NOUN 1291 1306	འཕགས་སྐོར་སོགས་
+A85073a	Number T85073 Sing
+T85074	ADP 1306 1310	ཀྱི་
+A85074a	Case T85074 Gen
+N85074	Reference T85074 Nonverbs:0012	གྱི་√case
+T85075	VERB 1310 1319	བརྒྱུད་པ་
+A85075a	VerbForm T85075 Vnoun
+N85075	Reference T85075 Hill:0400	བརྒྱུད་
+T85076	NOUN 1319 1324	འདེད་
+A85076a	Number T85076 Sing
+T85077	VERB 1324 1331	རྒྱུ་བ་
+A85077a	VerbForm T85077 Vnoun
+N85077	Reference T85077 Hill:0348	རྒྱུ་
+T85078	ADP 1331 1334	དང་
+A85078a	Case T85078 Com
+N85078	Reference T85078 Nonverbs:0031	དང་√case
+T85079	PUNCT 1334 1335	།
+N85079	Reference T85079 Nonverbs:0529	།
+T85081	NOUN 1336 1347	མཁའ་འགྲོ་མ་
+A85081a	Number T85081 Sing
+T85082	PROPN 1347 1359	སྐལ་བ་བཟང་མོ
+T85083	PART 1359 1362	འམ་
+A85083a	Polarity T85083 Xor
+N85083	Reference T85083 Nonverbs:0158	འམ་√cv
+T85084	NOUN 1362 1378	བློ་གྲོས་བཟང་མོ་
+A85084a	Number T85084 Sing
+T85085	ADP 1378 1381	དང་
+A85085a	Case T85085 Com
+N85085	Reference T85085 Nonverbs:0031	དང་√case
+T85086	NOUN 1381 1387	གཅིག་པ
+A85086a	Number T85086 Sing
+N85086	Reference T85086 Nonverbs:0535	གཅིག་པ་
+T85087	ADP 1387 1389	ར་
+A85087a	Case T85087 Ter
+N85087	Reference T85087 Nonverbs:0051	དུ་√case
+T85088	NOUN 1389 1394	རྫུ་བ
+A85088a	Number T85088 Sing
+T85089	ADP 1394 1396	ས་
+A85089a	Case T85089 Agn
+N85089	Reference T85089 Nonverbs:0026	གྱིས་√case
+T85090	NOUN 1396 1404	གདམས་ངག་
+A85090a	Number T85090 Sing
+T85091	NOUN 1404 1408	བཀའ་
+A85091a	Number T85091 Sing
+N85091	Reference T85091 Nonverbs:0586	བཀའ་
+T85092	NUM 1408 1411	བཞི
+A85092a	NumType T85092 Card
+A85092b	NumForm T85092 Word
+T85093	ADP 1411 1414	འི་
+A85093a	Case T85093 Gen
+N85093	Reference T85093 Nonverbs:0012	གྱི་√case
+T85094	VERB 1414 1423	བརྒྱུད་པ་
+A85094a	VerbForm T85094 Vnoun
+N85094	Reference T85094 Hill:0400	བརྒྱུད་
+T85095	VERB 1423 1429	འདེད་པ
+A85095a	Tense T85095 Fut/Pres
+A85095b	VerbForm T85095 Vnoun
+#85095l	AnnotatorNotes T85095	[འདེད་√1][འདེད་√2] 
+T85096	ADP 1429 1431	ར་
+A85096a	Case T85096 Ter
+N85096	Reference T85096 Nonverbs:0051	དུ་√case
+T85097	VERB 1431 1437	སྨྲ་བ་
+A85097a	Tense T85097 Fut/Pres
+A85097b	VerbForm T85097 Vnoun
+N85097	Reference T85097 Hill:1369	སྨྲ་
+T85098	DET 1437 1442	སོགས་
+N85098	Reference T85098 Nonverbs:0267	སོགས་√d
+T85099	NOUN 1442 1450	སྙིང་པོ་
+A85099a	Number T85099 Sing
+T85100	VERB 1450 1456	མེད་པ་
+A85100a	Polarity T85100 Neg
+A85100b	VerbForm T85100 Vnoun
+T85101	DET 1456 1462	ཤ་སྟག་
+N85101	Reference T85101 Nonverbs:0270	ཤ་སྟག་√d
+T85102	VERB 1462 1471	སྒྲོགས་པ་
+A85102a	Tense T85102 Pres
+A85102b	VerbForm T85102 Vnoun
+T85103	PART 1471 1474	ཡང་
+N85103	Reference T85103 Nonverbs:0352	འང་√cl
+T85104	VERB 1474 1479	མཐོང་
+N85104	Reference T85104 Hill:0788	མཐོང་
+T85105	PUNCT 1479 1480	།
+N85105	Reference T85105 Nonverbs:0529	།
+T85107	ADJ 1481 1489	དཔལ་ལྡན་
+T85108	NOUN 1489 1500	འབྲས་སྤུངས་
+A85108a	Number T85108 Sing
+T85109	ADP 1500 1503	སུ་
+A85109a	Case T85109 Ter
+N85109	Reference T85109 Nonverbs:0051	དུ་√case
+T85110	NOUN 1503 1508	སྔགས་
+A85110a	Number T85110 Sing
+T85111	ADP 1508 1512	ཀྱི་
+A85111a	Case T85111 Gen
+N85111	Reference T85111 Nonverbs:0012	གྱི་√case
+T85112	NOUN 1512 1518	ཐེག་པ་
+A85112a	Number T85112 Sing
+T85113	VERB 1518 1525	གསུངས་པ
+A85113a	Tense T85113 Past
+A85113b	VerbForm T85113 Vnoun
+#85113l	AnnotatorNotes T85113	[གསུང་√1][གསུང་√2] 
+T85114	ADP 1525 1528	འི་
+A85114a	Case T85114 Gen
+N85114	Reference T85114 Nonverbs:0012	གྱི་√case
+T85115	NOUN 1528 1532	གནས་
+A85115a	Number T85115 Sing
+T85116	ADP 1532 1534	ལ་
+A85116a	Case T85116 All
+N85116	Reference T85116 Nonverbs:0028	ལ་√case
+T85117	PART 1534 1537	ཡང་
+N85117	Reference T85117 Nonverbs:0352	འང་√cl
+T85118	NOUN 1537 1543	མཁས་པ་
+A85118a	Number T85118 Sing
+T85119	DET 1543 1548	རྣམས་
+A85119a	Number T85119 Plur
+N85119	Reference T85119 Nonverbs:0305	རྣམས་√d
+T85120	ADP 1548 1550	ལ་
+A85120a	Case T85120 All
+N85120	Reference T85120 Nonverbs:0028	ལ་√case
+T85121	DET 1550 1555	ཡོངས་
+A85121a	Number T85121 Plur
+N85121	Reference T85121 Nonverbs:0301	ཡོངས་√d
+T85122	ADP 1555 1558	སུ་
+A85122a	Case T85122 Ter
+N85122	Reference T85122 Nonverbs:0051	དུ་√case
+T85123	VERB 1558 1565	གྲགས་པ་
+A85123a	VerbForm T85123 Vnoun
+N85123	Reference T85123 Hill:0219	གྲགས་√1
+T85124	ADP 1565 1568	ལས་
+A85124a	Case T85124 Abl
+N85124	Reference T85124 Nonverbs:0014	ལས་√case
+T85125	NOUN 1568 1571	ཕྱི
+A85125a	NounType T85125 Rel
+N85125	Reference T85125 Nonverbs:0437	ཕྱི་
+T85126	ADP 1571 1573	ར་
+A85126a	Case T85126 Ter
+N85126	Reference T85126 Nonverbs:0051	དུ་√case
+T85127	VERB 1573 1578	ལྡོག་
+N85127	Reference T85127 Hill:0950	ལྡོག་
+T85128	SCONJ 1578 1581	སྟེ
+A85128a	Case T85128 Sem
+N85128	Reference T85128 Nonverbs:0165	ཏེ་√cv

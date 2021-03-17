@@ -1,0 +1,733 @@
+T19590	VERB 0 4	ཞུས་
+A19590a	Tense T19590 Past
+#19590l	AnnotatorNotes T19590	[འཇུ་√3][ཞུ་√1]
+T19591	SCONJ 4 7	སུ་
+A19591a	Case T19591 Ter
+N19591	Reference T19591 Nonverbs:0173	དུ་√cv
+T19592	VERB 7 13	ཚོར་བ་
+A19592a	Tense T19592 Fut/Pres
+A19592b	VerbForm T19592 Vnoun
+N19592	Reference T19592 Hill:1418	ཚོར་
+T19593	PART 13 16	མི་
+A19593a	Polarity T19593 Neg
+N19593	Reference T19593 Nonverbs:0337	མི་√neg
+T19594	VERB 16 22	འདུག་པ
+A19594a	Tense T19594 Fut/Pres
+A19594b	VerbForm T19594 Vnoun
+N19594	Reference T19594 Hill:0875	འདུག་
+T19595	ADP 22 24	ས་
+A19595a	Case T19595 Agn
+N19595	Reference T19595 Nonverbs:0026	གྱིས་√case
+T19596	NOUN 24 28	དཔེ་
+A19596a	Number T19596 Sing
+T19597	DET 28 33	རྣམས་
+A19597a	Number T19597 Plur
+N19597	Reference T19597 Nonverbs:0305	རྣམས་√d
+T19598	VERB 33 37	བལྟ་
+A19598a	Tense T19598 Fut
+N19598	Reference T19598 Hill:0715	ལྟ་√1
+T19599	VERB 37 42	གསུང་
+T19600	PUNCT 42 43	།
+N19600	Reference T19600 Nonverbs:0529	།
+T19602	NOUN 44 54	དཔོན་སློབ་
+A19602a	Number T19602 Sing
+T19603	NUM 54 59	གཉིས་
+A19603a	NumType T19603 Card
+A19603b	NumForm T19603 Word
+T19604	DET 59 60	ཀ
+N19604	Reference T19604 Nonverbs:0261	ཀ་√d
+T19605	ADP 60 62	ས་
+A19605a	Case T19605 Agn
+N19605	Reference T19605 Nonverbs:0026	གྱིས་√case
+T19606	NOUN 62 70	རྒྱ་དཔེ་
+A19606a	Number T19606 Sing
+T19607	DET 70 75	རྣམས་
+A19607a	Number T19607 Plur
+N19607	Reference T19607 Nonverbs:0305	རྣམས་√d
+T19608	VERB 75 82	གཟིགས་པ
+A19608a	VerbForm T19608 Vnoun
+#19608l	AnnotatorNotes T19608	[གཟིགས་√1][གཟིགས་√2][གཟིགས་√3]
+T19609	ADP 82 84	ས་
+A19609a	Case T19609 Agn
+N19609	Reference T19609 Nonverbs:0026	གྱིས་√case
+T19610	VERB 84 89	འཕོ་བ
+A19610a	VerbForm T19610 Vnoun
+N19610	Reference T19610 Hill:1116	འཕོ་
+T19611	ADP 89 92	འི་
+A19611a	Case T19611 Gen
+N19611	Reference T19611 Nonverbs:0012	གྱི་√case
+T19612	NOUN 92 98	ཡིག་ཆ་
+A19612a	Number T19612 Sing
+T19613	DET 98 101	མང་
+N19613	Reference T19613 Nonverbs:0268	མང་√d
+T19614	DET 101 104	དག་
+A19614a	Number T19614 Plur
+N19614	Reference T19614 Nonverbs:0307	དག་√d
+T19615	VERB 104 109	འདུག་
+N19615	Reference T19615 Hill:0875	འདུག་
+T19616	SCONJ 109 112	སྟེ
+A19616a	Case T19616 Sem
+N19616	Reference T19616 Nonverbs:0165	ཏེ་√cv
+T19617	PUNCT 112 113	།
+N19617	Reference T19617 Nonverbs:0529	།
+T19619	NOUN 114 124	གྲོང་འཇུག་
+A19619a	Number T19619 Sing
+T19620	ADP 124 127	གི་
+A19620a	Case T19620 Gen
+N19620	Reference T19620 Nonverbs:0012	གྱི་√case
+T19621	NOUN 127 131	དཔེ་
+A19621a	Number T19621 Sing
+T19622	PART 131 133	མ་
+A19622a	Polarity T19622 Neg
+N19622	Reference T19622 Nonverbs:0339	མ་√neg
+T19623	VERB 133 138	རྙེད་
+A19623a	Tense T19623 Past
+N19623	Reference T19623 Hill:0631	རྙེད་
+T19624	SCONJ 138 141	ནས་
+A19624a	Case T19624 Ela
+N19624	Reference T19624 Nonverbs:0074	ནས་√cv
+T19625	PROPN 141 148	དབུ་རུ་
+T19626	NOUN 148 158	བྱང་ཕྱོགས་
+A19626a	Number T19626 Sing
+T19627	ADP 158 161	སུ་
+A19627a	Case T19627 Ter
+N19627	Reference T19627 Nonverbs:0051	དུ་√case
+T19628	VERB 161 167	བྱུང་བ
+A19628a	Tense T19628 Past
+A19628b	VerbForm T19628 Vnoun
+N19628	Reference T19628 Hill:1243	འབྱུང་
+T19629	ADP 167 170	འི་
+A19629a	Case T19629 Gen
+N19629	Reference T19629 Nonverbs:0012	གྱི་√case
+T19630	NOUN 170 180	བརྡ་འགྲོལ་
+A19630a	Number T19630 Sing
+T19631	DET 180 183	དེ་
+A19631a	PronType T19631 Dem
+N19631	Reference T19631 Nonverbs:0233	དེ་√d
+T19632	DET 183 188	རྣམས་
+A19632a	Number T19632 Plur
+N19632	Reference T19632 Nonverbs:0305	རྣམས་√d
+T19633	PART 188 192	ཀྱང་
+N19633	Reference T19633 Nonverbs:0352	འང་√cl
+T19634	DET 192 196	འདི་
+A19634a	PronType T19634 Dem
+N19634	Reference T19634 Nonverbs:0235	འདི་√d
+T19635	VERB 196 201	ཞུ་བ་
+A19635a	Tense T19635 Fut/Pres
+A19635b	VerbForm T19635 Vnoun
+#19635l	AnnotatorNotes T19635	[ཞུ་√1][ཞུ་√2]
+T19636	ADP 201 203	ལ་
+A19636a	Case T19636 All
+N19636	Reference T19636 Nonverbs:0028	ལ་√case
+T19637	VERB 203 210	བསྐུལ་བ
+A19637a	Tense T19637 Fut
+A19637b	VerbForm T19637 Vnoun
+N19637	Reference T19637 Hill:0047	སྐུལ་
+T19638	ADP 210 212	ར་
+A19638a	Case T19638 Ter
+N19638	Reference T19638 Nonverbs:0051	དུ་√case
+T19639	VERB 212 216	འདུག
+N19639	Reference T19639 Hill:0875	འདུག་
+T19640	DET 216 220	གཞན་
+N19640	Reference T19640 Nonverbs:0271	གཞན་√d
+T19641	PART 220 223	ཡང་
+N19641	Reference T19641 Nonverbs:0352	འང་√cl
+T19642	NOUN 223 234	སྙན་བརྒྱུད་
+A19642a	Number T19642 Sing
+T19643	ADP 234 236	ལ་
+A19643a	Case T19643 All
+N19643	Reference T19643 Nonverbs:0028	ལ་√case
+T19644	VERB 236 242	སོགས་པ
+A19644a	VerbForm T19644 Vnoun
+N19644	Reference T19644 Hill:1796	སོགས་
+T19645	ADP 242 245	འི་
+A19645a	Case T19645 Gen
+N19645	Reference T19645 Nonverbs:0012	གྱི་√case
+T19646	NOUN 245 253	གདམས་ངག་
+A19646a	Number T19646 Sing
+T19647	PRON 253 256	ཅི་
+A19647a	PronType T19647 Int
+N19647	Reference T19647 Nonverbs:0186	ཅི་√p
+T19648	VERB 256 260	འདྲ་
+N19648	Reference T19648 Hill:0898	འདྲ་√2
+T19649	VERB 260 265	ཡོད་པ
+A19649a	VerbForm T19649 Vnoun
+N19649	Reference T19649 Hill:1632	ཡོད་
+T19650	ADP 265 267	ར་
+A19650a	Case T19650 Ter
+N19650	Reference T19650 Nonverbs:0051	དུ་√case
+T19651	PART 267 270	མི་
+A19651a	Polarity T19651 Neg
+N19651	Reference T19651 Nonverbs:0337	མི་√neg
+T19652	VERB 270 276	ཤེས་པ་
+A19652a	VerbForm T19652 Vnoun
+A19652b	VerbType T19652 Aux
+T19653	VERB 276 282	འདུག་པ
+A19653a	VerbForm T19653 Vnoun
+N19653	Reference T19653 Hill:0875	འདུག་
+T19654	ADP 282 283	ས
+A19654a	Case T19654 Agn
+N19654	Reference T19654 Nonverbs:0026	གྱིས་√case
+T19655	PUNCT 283 284	།
+N19655	Reference T19655 Nonverbs:0529	།
+T19657	PRON 285 287	ང་
+A19657a	PronType T19657 Prs
+N19657	Reference T19657 Nonverbs:0201	ང་√p
+T19658	PROPN 287 294	རྒྱ་གར་
+T19659	ADP 294 296	ལ་
+A19659a	Case T19659 All
+N19659	Reference T19659 Nonverbs:0028	ལ་√case
+T19660	VERB 296 301	མྱུར་
+A19660a	Tense T19660 Pres
+N19660	Reference T19660 Hill:1325	མྱུར་
+T19661	SCONJ 301 304	དུ་
+A19661a	Case T19661 Ter
+N19661	Reference T19661 Nonverbs:0173	དུ་√cv
+T19662	VERB 304 309	འགྲོ་
+A19662a	Tense T19662 Fut/Pres
+N19662	Reference T19662 Hill:0331	འགྲོ་
+T19663	VERB 309 316	གསུང་པ་
+A19663a	Tense T19663 Fut/Pres
+A19663b	VerbForm T19663 Vnoun
+#19663l	AnnotatorNotes T19663	[གསུང་√1][གསུང་√2]
+T19664	ADP 316 317	ལ
+A19664a	Case T19664 All
+N19664	Reference T19664 Nonverbs:0028	ལ་√case
+T19665	PUNCT 317 318	།
+N19665	Reference T19665 Nonverbs:0529	།
+T19667	NOUN 319 323	ཡུམ་
+A19667a	Number T19667 Sing
+T19668	PROPN 323 333	བདག་མེད་མ་
+T19669	NOUN 333 341	བུ་སློབ་
+A19669a	Number T19669 Sing
+T19670	ADP 341 344	དང་
+A19670a	Case T19670 Com
+N19670	Reference T19670 Nonverbs:0031	དང་√case
+T19671	VERB 344 350	བཅས་པ་
+A19671a	VerbForm T19671 Vnoun
+N19671	Reference T19671 Hill:0472	བཅས་
+T19672	DET 350 355	རྣམས་
+A19672a	Number T19672 Plur
+N19672	Reference T19672 Nonverbs:0305	རྣམས་√d
+T19673	ADP 355 360	ཀྱིས་
+A19673a	Case T19673 Agn
+N19673	Reference T19673 Nonverbs:0026	གྱིས་√case
+T19674	NOUN 360 366	སྐུ་ན་
+A19674a	Number T19674 Sing
+T19675	VERB 366 375	བསྒྲེས་པ་
+A19675a	Tense T19675 Past
+A19675b	VerbForm T19675 Vnoun
+N19675	Reference T19675 Hill:0388	སྒྲེ་
+T19676	DET 375 380	སོགས་
+N19676	Reference T19676 Nonverbs:0267	སོགས་√d
+T19677	NOUN 380 389	རྒྱུ་མཚན་
+A19677a	Number T19677 Sing
+T19678	DET 389 393	དུ་མ
+A19678a	Number T19678 Plur
+N19678	Reference T19678 Nonverbs:0311	དུ་མ་√d
+T19679	ADP 393 396	འི་
+A19679a	Case T19679 Gen
+N19679	Reference T19679 Nonverbs:0012	གྱི་√case
+T19680	NOUN 396 400	སྒོ་
+A19680a	NounType T19680 Rel
+T19681	ADP 400 403	ནས་
+A19681a	Case T19681 Ela
+N19681	Reference T19681 Nonverbs:0037	ནས་√case
+T19682	NOUN 403 414	བཤོལ་འདེབས་
+A19682a	Number T19682 Sing
+T19683	ADP 414 418	ཀྱི་
+A19683a	Case T19683 Gen
+N19683	Reference T19683 Nonverbs:0012	གྱི་√case
+T19684	VERB 418 423	ཞུ་བ་
+A19684a	Tense T19684 Fut/Pres
+A19684b	VerbForm T19684 Vnoun
+#19684l	AnnotatorNotes T19684	[ཞུ་√1][ཞུ་√2]
+T19685	ADJ 423 429	ནན་ཅན་
+T19686	VERB 429 434	ཕུལ་བ
+A19686a	Tense T19686 Past
+A19686b	VerbForm T19686 Vnoun
+N19686	Reference T19686 Hill:1224	འབུལ་
+T19687	PUNCT 434 435	།
+N19687	Reference T19687 Nonverbs:0529	།
+T19689	PRON 436 441	ཁྱེད་
+A19689a	PronType T19689 Prs
+N19689	Reference T19689 Nonverbs:0227	ཁྱེད་√p
+T19690	DET 441 446	རྣམས་
+A19690a	Number T19690 Plur
+N19690	Reference T19690 Nonverbs:0305	རྣམས་√d
+T19691	PRON 446 449	ཅི་
+A19691a	PronType T19691 Int
+N19691	Reference T19691 Nonverbs:0186	ཅི་√p
+T19692	VERB 449 453	ཟེར་
+#19692l	AnnotatorNotes T19692	[ཟེར་√1][ཟེར་√2]
+T19693	SCONJ 453 457	རུང་
+A19693a	Case T19693 Rung
+N19693	Reference T19693 Nonverbs:0159	རུང་√cv
+T19694	PUNCT 457 458	།
+N19694	Reference T19694 Nonverbs:0529	།
+T19696	PRON 459 460	ང
+A19696a	PronType T19696 Prs
+N19696	Reference T19696 Nonverbs:0201	ང་√p
+T19697	ADP 460 462	ས་
+A19697a	Case T19697 Agn
+N19697	Reference T19697 Nonverbs:0026	གྱིས་√case
+T19698	ADV 462 468	ད་དུང་
+A19698a	AdvType T19698 Tim
+N19698	Reference T19698 Nonverbs:0429	ད་དུང་
+T19699	PROPN 468 479	དཔལ་ནཱ་རོ་པ
+T19700	ADP 479 482	འི་
+A19700a	Case T19700 Gen
+N19700	Reference T19700 Nonverbs:0012	གྱི་√case
+T19701	NOUN 482 487	དྲུང་
+A19701a	NounType T19701 Rel
+T19702	ADP 487 490	དུ་
+A19702a	Case T19702 Ter
+N19702	Reference T19702 Nonverbs:0051	དུ་√case
+T19703	NOUN 490 493	ལན་
+A19703a	Number T19703 Sing
+T19704	DET 493 497	ཅིག་
+A19704a	PronType T19704 Ind
+N19704	Reference T19704 Nonverbs:0296	ཅིག་√d
+T19705	VERB 497 501	མཇལ་
+A19705a	Tense T19705 Fut/Pres
+N19705	Reference T19705 Hill:0544	མཇལ་
+T19706	SCONJ 501 504	དུ་
+A19706a	Case T19706 Ter
+N19706	Reference T19706 Nonverbs:0173	དུ་√cv
+T19707	VERB 504 509	ཡོང་བ
+A19707a	VerbForm T19707 Vnoun
+N19707	Reference T19707 Hill:1630	ཡོང་
+T19708	ADP 509 512	འི་
+A19708a	Case T19708 Gen
+N19708	Reference T19708 Nonverbs:0012	གྱི་√case
+T19709	NOUN 512 519	དམ་བཅའ་
+A19709a	Number T19709 Sing
+N19709	Reference T19709 Nonverbs:0592	དམ་བཅའ་
+T19710	VERB 519 523	ཕུལ་
+A19710a	Tense T19710 Past
+N19710	Reference T19710 Hill:1224	འབུལ་
+T19711	SCONJ 523 527	ཞིང་
+A19711a	Case T19711 Impf
+N19711	Reference T19711 Nonverbs:0121	ཅིང་√cv
+T19712	PUNCT 527 528	།
+N19712	Reference T19712 Nonverbs:0529	།
+T19714	PROPN 529 534	ནཱ་རོ
+T19715	ADP 534 537	འི་
+A19715a	Case T19715 Gen
+N19715	Reference T19715 Nonverbs:0012	གྱི་√case
+T19716	NOUN 537 540	ཞལ་
+A19716a	Number T19716 Sing
+T19717	ADP 540 543	ནས་
+A19717a	Case T19717 Ela
+N19717	Reference T19717 Nonverbs:0037	ནས་√case
+T19718	PART 543 547	ཀྱང་
+N19718	Reference T19718 Nonverbs:0352	འང་√cl
+T19719	DET 547 550	དེ་
+A19719a	PronType T19719 Dem
+N19719	Reference T19719 Nonverbs:0233	དེ་√d
+T19720	NOUN 550 555	བཞིན་
+A19720a	NounType T19720 Rel
+T19721	VERB 555 559	ཤོག་
+A19721a	Mood T19721 Imp
+#19721l	AnnotatorNotes T19721	[འཆགས་][འོང་][གཤེགས་]
+T19722	VERB 559 566	གསུངས་བ
+A19722a	Tense T19722 Past
+A19722b	VerbForm T19722 Vnoun
+#19722l	AnnotatorNotes T19722	[གསུང་√1][གསུང་√2]
+T19723	ADP 566 569	འི་
+A19723a	Case T19723 Gen
+N19723	Reference T19723 Nonverbs:0012	གྱི་√case
+T19724	NOUN 569 574	ཞལ་ཏ་
+A19724a	Number T19724 Sing
+T19725	VERB 574 579	ཡོད་པ
+A19725a	VerbForm T19725 Vnoun
+N19725	Reference T19725 Hill:1632	ཡོད་
+T19726	ADP 579 580	ས
+A19726a	Case T19726 Agn
+N19726	Reference T19726 Nonverbs:0026	གྱིས་√case
+T19727	PUNCT 580 581	།
+N19727	Reference T19727 Nonverbs:0529	།
+T19729	PRON 582 584	ང་
+A19729a	PronType T19729 Prs
+N19729	Reference T19729 Nonverbs:0201	ང་√p
+T19730	PRON 584 587	ཅི་
+A19730a	PronType T19730 Int
+N19730	Reference T19730 Nonverbs:0186	ཅི་√p
+T19731	ADP 587 589	ལ་
+A19731a	Case T19731 All
+N19731	Reference T19731 Nonverbs:0028	ལ་√case
+T19732	VERB 589 593	ཐུག་
+#19732l	AnnotatorNotes T19732	[ཐུག་√1][ཐུག་√2]
+T19733	SCONJ 593 597	རུང་
+A19733a	Case T19733 Rung
+N19733	Reference T19733 Nonverbs:0159	རུང་√cv
+T19734	PROPN 597 604	རྒྱ་གར་
+T19735	ADP 604 606	ལ་
+A19735a	Case T19735 All
+N19735	Reference T19735 Nonverbs:0028	ལ་√case
+T19736	VERB 606 611	འགྲོ་
+A19736a	Tense T19736 Fut/Pres
+N19736	Reference T19736 Hill:0331	འགྲོ་
+T19737	VERB 611 617	གསུངས་
+A19737a	Tense T19737 Past
+#19737l	AnnotatorNotes T19737	[གསུང་√1][གསུང་√2]
+T19738	PART 617 620	མི་
+A19738a	Polarity T19738 Neg
+N19738	Reference T19738 Nonverbs:0337	མི་√neg
+T19739	VERB 620 625	གསན་པ
+A19739a	Tense T19739 Pres
+A19739b	VerbForm T19739 Vnoun
+#19739l	AnnotatorNotes T19739	[གཟོན་][གསན་]
+T19740	ADP 625 627	ར་
+A19740a	Case T19740 Ter
+N19740	Reference T19740 Nonverbs:0051	དུ་√case
+T19741	VERB 627 633	འདུག་པ
+A19741a	VerbForm T19741 Vnoun
+N19741	Reference T19741 Hill:0875	འདུག་
+T19742	ADP 633 635	ས་
+A19742a	Case T19742 Agn
+N19742	Reference T19742 Nonverbs:0026	གྱིས་√case
+T19743	DET 635 639	གཞན་
+N19743	Reference T19743 Nonverbs:0271	གཞན་√d
+T19744	VERB 639 646	བྱ་ཐབས་
+A19744a	Tense T19744 Fut
+A19744b	VerbForm T19744 Vnoun
+T19745	PART 646 649	ནི་
+N19745	Reference T19745 Nonverbs:0343	ནི་√cl
+T19746	PART 649 651	མ་
+A19746a	Polarity T19746 Neg
+N19746	Reference T19746 Nonverbs:0339	མ་√neg
+T19747	VERB 651 656	བྱུང་
+A19747a	Tense T19747 Past
+N19747	Reference T19747 Hill:1243	འབྱུང་
+T19748	PUNCT 656 657	།
+N19748	Reference T19748 Nonverbs:0529	།
+T19750	NOUN 658 663	གསེར་
+A19750a	Number T19750 Coll
+T19751	ADP 663 665	ལ་
+A19751a	Case T19751 All
+N19751	Reference T19751 Nonverbs:0028	ལ་√case
+T19752	DET 665 670	སོགས་
+N19752	Reference T19752 Nonverbs:0267	སོགས་√d
+T19753	PROPN 670 677	རྒྱ་གར་
+T19754	ADP 677 679	ལ་
+A19754a	Case T19754 All
+N19754	Reference T19754 Nonverbs:0028	ལ་√case
+T19755	VERB 679 686	འབྱོན་པ
+A19755a	Tense T19755 Pres
+A19755b	VerbForm T19755 Vnoun
+#19755l	AnnotatorNotes T19755	[འབྱོན་√1][འབྱོན་√2]
+T19756	ADP 686 689	འི་
+A19756a	Case T19756 Gen
+N19756	Reference T19756 Nonverbs:0012	གྱི་√case
+T19757	NOUN 689 697	ཕྱག་རྫས་
+A19757a	Number T19757 Sing
+T19758	DET 697 702	རྣམས་
+A19758a	Number T19758 Plur
+N19758	Reference T19758 Nonverbs:0305	རྣམས་√d
+T19759	VERB 702 708	སྦས་པ་
+A19759a	Tense T19759 Past
+A19759b	VerbForm T19759 Vnoun
+N19759	Reference T19759 Hill:1286	སྦེད་
+T19760	ADP 708 710	ལས
+A19760a	Case T19760 Abl
+N19760	Reference T19760 Nonverbs:0014	ལས་√case
+T19761	PUNCT 710 711	།
+N19761	Reference T19761 Nonverbs:0529	།
+T19763	PRON 712 714	ང་
+A19763a	PronType T19763 Prs
+N19763	Reference T19763 Nonverbs:0201	ང་√p
+T19764	NOUN 714 724	སྟོབས་ནུས་
+A19764a	Number T19764 Sing
+T19765	PART 724 726	མ་
+A19765a	Polarity T19765 Neg
+N19765	Reference T19765 Nonverbs:0339	མ་√neg
+T19766	VERB 726 730	ཐོན་
+A19766a	Tense T19766 Past
+#19766l	AnnotatorNotes T19766	[འཐོན་√1][འཐོན་√2]
+T19767	SCONJ 730 732	ན་
+A19767a	Case T19767 Loc
+N19767	Reference T19767 Nonverbs:0123	ན་√cv
+T19768	VERB 732 739	བྱ་ཐབས་
+A19768a	Tense T19768 Fut
+A19768b	VerbForm T19768 Vnoun
+T19769	VERB 739 742	མེད
+A19769a	Polarity T19769 Neg
+T19770	PUNCT 742 743	།
+N19770	Reference T19770 Nonverbs:0529	།
+T19772	VERB 744 748	ཐོན་
+A19772a	Tense T19772 Fut/Past
+T19773	NOUN 748 753	བཞིན་
+A19773a	NounType T19773 Rel
+T19774	NOUN 753 757	བླ་མ
+A19774a	Number T19774 Sing
+N19774	Reference T19774 Nonverbs:0569	བླ་མ་
+T19775	ADP 757 760	འི་
+A19775a	Case T19775 Gen
+N19775	Reference T19775 Nonverbs:0012	གྱི་√case
+T19776	NOUN 760 765	དྲུང་
+A19776a	NounType T19776 Rel
+T19777	ADP 765 768	དུ་
+A19777a	Case T19777 Ter
+N19777	Reference T19777 Nonverbs:0051	དུ་√case
+T19778	NOUN 768 777	དམ་བཅས་པ་
+A19778a	Number T19778 Sing
+T19779	VERB 777 783	ཉམས་པ་
+A19779a	VerbForm T19779 Vnoun
+N19779	Reference T19779 Hill:0598	ཉམས་
+T19780	ADP 783 786	ལས་
+A19780a	Case T19780 Abl
+N19780	Reference T19780 Nonverbs:0014	ལས་√case
+T19781	VERB 786 791	ཤི་བ་
+A19781a	Tense T19781 Past
+A19781b	VerbForm T19781 Vnoun
+N19781	Reference T19781 Hill:0521	འཆི་
+T19782	VERB 791 795	དགའ་
+N19782	Reference T19782 Hill:0239	དགའ་
+T19783	VERB 795 800	གསུངས
+A19783a	Tense T19783 Past
+#19783l	AnnotatorNotes T19783	[གསུང་√1][གསུང་√2]
+T19784	PUNCT 800 801	།
+N19784	Reference T19784 Nonverbs:0529	།
+T19786	NOUN 802 812	ཐུགས་རྒྱལ་
+A19786a	Number T19786 Sing
+T19787	VERB 812 819	བཞེངས་པ
+A19787a	Tense T19787 Past
+A19787b	VerbForm T19787 Vnoun
+#19787l	AnnotatorNotes T19787	[བཞེང་√1][བཞེང་√2]
+T19788	ADP 819 822	འི་
+A19788a	Case T19788 Gen
+N19788	Reference T19788 Nonverbs:0012	གྱི་√case
+T19789	NOUN 822 825	ངང་
+A19789a	NounType T19789 Rel
+T19790	ADP 825 827	ལ་
+A19790a	Case T19790 All
+N19790	Reference T19790 Nonverbs:0028	ལ་√case
+T19791	VERB 827 833	གཟིམས་
+N19791	Reference T19791 Hill:1594	གཟིམ་
+T19792	VERB 833 838	བཞུགས
+N19792	Reference T19792 Hill:1549	བཞུགས་
+T19793	PUNCT 838 839	།
+N19793	Reference T19793 Nonverbs:0529	།
+T19795	ADV 840 844	ནང་པ
+A19795a	AdvType T19795 Tim
+N19795	Reference T19795 Nonverbs:0432	ནང་པ་
+T19796	ADP 844 846	ར་
+A19796a	Case T19796 Ter
+N19796	Reference T19796 Nonverbs:0051	དུ་√case
+T19797	NOUN 846 855	གཟིམས་མལ་
+A19797a	Number T19797 Sing
+T19798	ADJ 855 866	བུ་གུ་ཧ་རེ་
+T19799	VERB 866 872	གཤེགས་
+N19799	Reference T19799 Hill:1759	གཤེགས་
+T19800	VERB 872 878	འདུག་པ
+A19800a	VerbForm T19800 Vnoun
+N19800	Reference T19800 Hill:0875	འདུག་
+T19801	ADP 878 879	ས
+A19801a	Case T19801 Agn
+N19801	Reference T19801 Nonverbs:0026	གྱིས་√case
+T19802	PUNCT 879 880	།
+N19802	Reference T19802 Nonverbs:0529	།
+T19804	NOUN 881 887	གྲྭ་པ་
+A19804a	Number T19804 Sing
+T19805	DET 887 891	ཀུན་
+A19805a	Number T19805 Plur
+N19805	Reference T19805 Nonverbs:0308	ཀུན་√d
+T19806	NOUN 891 897	ཕྱོགས་
+A19806a	Number T19806 Sing
+T19807	NUM 897 900	བཅུ
+A19807a	NumType T19807 Card
+A19807b	NumForm T19807 Word
+T19808	ADP 900 902	ར་
+A19808a	Case T19808 Ter
+N19808	Reference T19808 Nonverbs:0051	དུ་√case
+T19809	NOUN 902 904	ཁ་
+A19809a	Number T19809 Sing
+T19810	VERB 904 909	བཀྲམ་
+A19810a	Tense T19810 Past
+N19810	Reference T19810 Hill:0327	འགྲེམ་√1
+T19811	SCONJ 909 913	སྟེ་
+A19811a	Case T19811 Sem
+N19811	Reference T19811 Nonverbs:0165	ཏེ་√cv
+T19812	VERB 913 917	ཚོལ་
+A19812a	Tense T19812 Fut/Pres
+T19813	SCONJ 917 920	དུ་
+A19813a	Case T19813 Ter
+N19813	Reference T19813 Nonverbs:0173	དུ་√cv
+T19814	VERB 920 928	རྒྱུགས་པ
+A19814a	VerbForm T19814 Vnoun
+T19815	ADP 928 929	ས
+A19815a	Case T19815 Agn
+N19815	Reference T19815 Nonverbs:0026	གྱིས་√case
+T19816	PUNCT 929 930	།
+N19816	Reference T19816 Nonverbs:0529	།
+T19818	NOUN 931 940	རྗེ་བཙུན་
+A19818a	Number T19818 Sing
+T19819	PROPN 940 944	མི་ལ
+T19820	ADP 944 946	ས་
+A19820a	Case T19820 Agn
+N19820	Reference T19820 Nonverbs:0026	གྱིས་√case
+T19821	NOUN 946 953	ཆག་ཕྱི་
+A19821a	Number T19821 Sing
+T19822	VERB 953 956	ཟིན
+N19822	Reference T19822 Hill:1564	ཟིན་
+T19823	PUNCT 956 957	།
+N19823	Reference T19823 Nonverbs:0529	།
+T19825	DET 958 960	དེ
+A19825a	PronType T19825 Dem
+N19825	Reference T19825 Nonverbs:0233	དེ་√d
+T19826	ADP 960 963	འི་
+A19826a	Case T19826 Gen
+N19826	Reference T19826 Nonverbs:0012	གྱི་√case
+T19827	NOUN 963 964	ས
+A19827a	NounType T19827 Rel
+T19828	ADP 964 966	ར་
+A19828a	Case T19828 Ter
+N19828	Reference T19828 Nonverbs:0051	དུ་√case
+T19829	DET 966 970	གཞན་
+N19829	Reference T19829 Nonverbs:0271	གཞན་√d
+T19830	AUX 970 974	ལགས་
+T19831	PART 974 978	ཀྱང་
+N19831	Reference T19831 Nonverbs:0352	འང་√cl
+T19832	VERB 978 986	སླེབས་པ་
+A19832a	Tense T19832 Past
+A19832b	VerbForm T19832 Vnoun
+N19832	Reference T19832 Hill:1833	སླེབ་√1
+T19833	DET 986 991	རྣམས་
+A19833a	Number T19833 Plur
+N19833	Reference T19833 Nonverbs:0305	རྣམས་√d
+T19834	ADP 991 996	ཀྱིས་
+A19834a	Case T19834 Agn
+N19834	Reference T19834 Nonverbs:0026	གྱིས་√case
+T19835	VERB 996 1001	ཞུ་བ་
+A19835a	Tense T19835 Fut/Pres
+A19835b	VerbForm T19835 Vnoun
+#19835l	AnnotatorNotes T19835	[ཞུ་√1][ཞུ་√2]
+T19836	VERB 1001 1006	ཕུལ་བ
+A19836a	Tense T19836 Past
+A19836b	VerbForm T19836 Vnoun
+N19836	Reference T19836 Hill:1224	འབུལ་
+T19837	ADP 1006 1007	ས
+A19837a	Case T19837 Agn
+N19837	Reference T19837 Nonverbs:0026	གྱིས་√case
+T19838	PUNCT 1007 1008	།
+N19838	Reference T19838 Nonverbs:0529	།
+T19840	PRON 1009 1011	ང་
+A19840a	PronType T19840 Prs
+N19840	Reference T19840 Nonverbs:0201	ང་√p
+T19841	VERB 1011 1018	འབུལ་བ་
+A19841a	Tense T19841 Pres
+A19841b	VerbForm T19841 Vnoun
+N19841	Reference T19841 Hill:1224	འབུལ་
+T19842	VERB 1018 1022	མེད་
+A19842a	Polarity T19842 Neg
+T19843	SCONJ 1022 1026	རུང་
+A19843a	Case T19843 Rung
+N19843	Reference T19843 Nonverbs:0159	རུང་√cv
+T19844	NOUN 1026 1029	དམ་
+A19844a	Number T19844 Sing
+T19845	PART 1029 1031	མ་
+A19845a	Polarity T19845 Neg
+N19845	Reference T19845 Nonverbs:0339	མ་√neg
+T19846	VERB 1031 1037	ཉམས་པ་
+A19846a	Tense T19846 Past
+A19846b	VerbForm T19846 Vnoun
+N19846	Reference T19846 Hill:0598	ཉམས་
+T19847	VERB 1037 1041	བྱེད
+A19847a	Tense T19847 Pres
+N19847	Reference T19847 Hill:1168	བྱེད་
+T19848	PUNCT 1041 1042	།
+N19848	Reference T19848 Nonverbs:0529	།
+T19850	PUNCT 1043 1044	།
+N19850	Reference T19850 Nonverbs:0529	།
+N1	Reference T19590 Hill:1509	ཞུ་√1
+R1	argcl Arg1:T19592 Arg2:T19590	
+R2	aux Arg1:T19592 Arg2:T19594	
+R3	arg2 Arg1:T19598 Arg2:T19596	
+R4	argcl Arg1:T19599 Arg2:T19598	
+N2	Reference T19599 Hill:1850	གསུང་√1
+N3	Reference T19608 Hill:1590	གཟིགས་√1
+R5	arg1 Arg1:T19608 Arg2:T19602	
+R6	arg2 Arg1:T19608 Arg2:T19606	
+R7	arg2 Arg1:T19615 Arg2:T19612	
+R8	arg2 Arg1:T19623 Arg2:T19621	
+R9	obl Arg1:T19628 Arg2:T19626	
+N4	Reference T19635 Hill:1509	ཞུ་√1
+R10	arg2 Arg1:T19635 Arg2:T19630	
+R11	obl-arg Arg1:T19637 Arg2:T19635	
+R12	aux Arg1:T19637 Arg2:T19639	
+R13	arg2 Arg1:T19649 Arg2:T19646	
+R14	arg2 Arg1:T19648 Arg2:T19647	
+R15	argcl Arg1:T19652 Arg2:T19649	
+R16	aux Arg1:T19652 Arg2:T19653	
+N5	Reference T19663 Hill:1850	གསུང་√1
+R17	arg1 Arg1:T19662 Arg2:T19657	
+R18	obl Arg1:T19662 Arg2:T19658	
+R19	obl-adv Arg1:T19662 Arg2:T19660	
+R20	argcl Arg1:T19663 Arg2:T19662	
+R21	arg1 Arg1:T19671 Arg2:T19667	
+R22	obl-arg Arg1:T19671 Arg2:T19669	
+R23	arg1 Arg1:T19675 Arg2:T19671	
+R24	arg2 Arg1:T19675 Arg2:T19674	
+N6	Reference T19684 Hill:1509	ཞུ་√1
+R25	arg2 Arg1:T19686 Arg2:T19684	
+N7	Reference T19692 Hill:1572	ཟེར་√1
+R26	arg1 Arg1:T19692 Arg2:T19689	
+R27	arg2 Arg1:T19692 Arg2:T19691	
+R28	argcl Arg1:T19707 Arg2:T19705	
+R29	obl-arg Arg1:T19705 Arg2:T19701	
+R30	arg2-lvc Arg1:T19710 Arg2:T19709	
+R31	arg1 Arg1:T19710 Arg2:T19696	
+N8	Reference T19721 Hill:1759	གཤེགས་
+N9	Reference T19722 Hill:1850	གསུང་√1
+R32	argcl Arg1:T19722 Arg2:T19721	
+R33	arg2 Arg1:T19725 Arg2:T19724	
+N10	Reference T19732 Hill:0767	ཐུག་√2
+R34	obl-arg Arg1:T19732 Arg2:T19730	
+R35	arg1 Arg1:T19736 Arg2:T19729	
+R36	obl Arg1:T19736 Arg2:T19734	
+N11	Reference T19737 Hill:1850	གསུང་√1
+R37	argcl Arg1:T19737 Arg2:T19736	
+N12	Reference T19739 Hill:1841	གསན་
+R38	aux Arg1:T19739 Arg2:T19741	
+#1	AnnotatorNotes T19744	r. V + N
+N13	Reference T19744 Hill:1168	བྱེད་
+R39	arg2 Arg1:T19747 Arg2:T19744	
+N14	Reference T19755 Hill:1253	འབྱོན་√1
+R40	obl Arg1:T19755 Arg2:T19753	
+R41	arg2 Arg1:T19759 Arg2:T19757	
+N15	Reference T19768 Hill:1168	བྱེད་
+#2	AnnotatorNotes T19768	r. V + N
+R42	arg2 Arg1:T19769 Arg2:T19768	
+N16	Reference T19766 Hill:0815	འཐོན་√2
+R43	arg1 Arg1:T19766 Arg2:T19763	
+R44	arg2-lvc Arg1:T19766 Arg2:T19764	
+N17	Reference T19772 Hill:0815	འཐོན་√1
+R45	arg1 Arg1:T19779 Arg2:T19778	
+N18	Reference T19783 Hill:1850	གསུང་√1
+R46	arg2 Arg1:T19782 Arg2:T19781	
+R47	argcl Arg1:T19783 Arg2:T19782	
+N19	Reference T19787 Hill:1552	བཞེང་√1
+R48	arg2-lvc Arg1:T19787 Arg2:T19786	
+R49	aux-lvc Arg1:T19791 Arg2:T19792	
+R50	obl Arg1:T19791 Arg2:T19789	
+R51	aux Arg1:T19799 Arg2:T19800	
+R52	arg1 Arg1:T19799 Arg2:T19797	
+R53	obl-adv Arg1:T19799 Arg2:T19798	
+R54	arg2-lvc Arg1:T19810 Arg2:T19809	
+R55	arg1 Arg1:T19810 Arg2:T19804	
+R56	obl Arg1:T19810 Arg2:T19806	
+N20	Reference T19812 Hill:1462	འཚོལ་
+N21	Reference T19814 Hill:0349	རྒྱུག་√1
+R57	argcl Arg1:T19814 Arg2:T19812	
+R58	arg1 Arg1:T19822 Arg2:T19818	
+R59	arg1 Arg1:T19822 Arg2:T19821	
+R60	obl Arg1:T19832 Arg2:T19827	
+R61	cop Arg1:T19829 Arg2:T19830	
+N22	Reference T19835 Hill:1509	ཞུ་√1
+R62	arg2 Arg1:T19836 Arg2:T19835	
+R63	arg1 Arg1:T19836 Arg2:T19832	
+R64	arg2 Arg1:T19842 Arg2:T19841	
+R65	arg1 Arg1:T19846 Arg2:T19844	
+R66	argcl Arg1:T19847 Arg2:T19846	
+R67	arg1 Arg1:T19847 Arg2:T19840	

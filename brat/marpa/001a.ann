@@ -1,0 +1,38 @@
+T1	NOUN 0 11	སྒྲ་བསྒྱུར་
+A1a	Number T1 Sing
+T2	PROPN 11 16	མར་པ་
+T3	NOUN 16 21	ལོ་ཙྪ
+A3a	Number T3 Sing
+T4	ADP 21 24	འི་
+A4a	Case T4 Gen
+N4	Reference T4 Nonverbs:0012	གྱི་√case
+T5	NOUN 24 29	རྣམ་པ
+A5a	Number T5 Sing
+T6	ADP 29 31	ར་
+A6a	Case T6 Ter
+N6	Reference T6 Nonverbs:0051	དུ་√case
+T7	VERB 31 36	ཐར་པ་
+A7a	Tense T7 Past/Pres
+A7b	VerbForm T7 Vnoun
+N7	Reference T7 Hill:0760	ཐར་
+T8	VERB 36 43	མཐོང་བ་
+A8a	VerbForm T8 Vnoun
+N8	Reference T8 Hill:0788	མཐོང་
+T9	ADJ 43 51	དོན་ཡོད་
+T10	VERB 51 57	བཞུགས་
+N10	Reference T10 Hill:1549	བཞུགས་
+T11	PART 57 59	སོ
+A11a	Mood T11 Ind
+N11	Reference T11 Nonverbs:0099	འོ་√cv
+T12	PUNCT 59 60	།
+N12	Reference T12 Nonverbs:0529	།
+T14	PUNCT 61 62	།
+N14	Reference T14 Nonverbs:0529	།
+T16	X 63 68	ན་མོ་
+T17	X 68 74	གུ་རུ་
+T18	X 74 79	དེ་ཝ་
+T19	X 79 87	ཌཱ་ཀི་ནི
+T20	PUNCT 87 88	།
+N20	Reference T20 Nonverbs:0529	།
+R1	obl-adv Arg1:T7 Arg2:T5	
+R2	arg1 Arg1:T10 Arg2:T8	
