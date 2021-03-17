@@ -1,0 +1,723 @@
+T4409	DET 0 4	སྤྱི
+A4409a	Number T4409 Plur
+N4409	Reference T4409 Nonverbs:0315	སྤྱི་√d
+T4410	ADP 4 7	འི་
+A4410a	Case T4410 Gen
+N4410	Reference T4410 Nonverbs:0012	གྱི་√case
+T4411	NOUN 7 24	མཚན་ཉིད་འདུས་བྱས་
+A4411a	Number T4411 Sing
+T4412	DET 24 31	ཐམས་ཅད་
+A4412a	Number T4412 Plur
+N4412	Reference T4412 Nonverbs:0300	ཐམས་ཅད་√d
+T4413	PART 31 34	མི་
+A4413a	Polarity T4413 Neg
+N4413	Reference T4413 Nonverbs:0337	མི་√neg
+T4414	VERB 34 37	རྟག
+A4414a	Tense T4414 Pres
+#4414l	AnnotatorNotes T4414	[རྟག་][རྟོག་] 
+T4415	PUNCT 37 38	།
+N4415	Reference T4415 Nonverbs:0529	།
+T4417	NOUN 39 46	ཟག་བཅས་
+A4417a	Number T4417 Sing
+T4418	DET 46 53	ཐམས་ཅད་
+A4418a	Number T4418 Plur
+N4418	Reference T4418 Nonverbs:0300	ཐམས་ཅད་√d
+T4419	VERB 53 58	སྡུག་
+N4419	Reference T4419 Hill:0959	སྡུག་
+T4420	VERB 58 62	བསྔལ
+A4420a	Tense T4420 Fut/Past
+N4420	Reference T4420 Hill:0440	སྔལ་
+T4421	PUNCT 62 63	།
+N4421	Reference T4421 Nonverbs:0529	།
+T4423	NOUN 64 68	ཆོས་
+A4423a	Number T4423 Sing
+T4424	DET 68 75	ཐམས་ཅད་
+A4424a	Number T4424 Plur
+N4424	Reference T4424 Nonverbs:0300	ཐམས་ཅད་√d
+T4425	NOUN 75 79	བདག་
+A4425a	Number T4425 Sing
+T4426	VERB 79 82	མེད
+A4426a	Polarity T4426 Neg
+T4427	PUNCT 82 83	།
+N4427	Reference T4427 Nonverbs:0529	།
+T4429	NOUN 84 90	མྱ་ངན་
+A4429a	Number T4429 Sing
+T4430	ADP 90 93	ལས་
+A4430a	Case T4430 Abl
+N4430	Reference T4430 Nonverbs:0014	ལས་√case
+T4431	VERB 93 99	འདས་པ་
+A4431a	Tense T4431 Past
+A4431b	VerbForm T4431 Vnoun
+#4431l	AnnotatorNotes T4431	[འདའ་][ཟླ་] 
+T4432	DET 99 106	ཐམས་ཅད་
+A4432a	Number T4432 Plur
+N4432	Reference T4432 Nonverbs:0300	ཐམས་ཅད་√d
+T4433	VERB 106 111	ཞི་བ་
+A4433a	VerbForm T4433 Vnoun
+N4433	Reference T4433 Hill:1508	ཞི་
+T4434	VERB 111 116	ཞེས་པ
+A4434a	Mood T4434 Qot
+T4435	ADP 116 119	འི་
+A4435a	Case T4435 Gen
+N4435	Reference T4435 Nonverbs:0012	གྱི་√case
+T4436	DET 119 123	སྤྱི
+A4436a	Number T4436 Plur
+N4436	Reference T4436 Nonverbs:0315	སྤྱི་√d
+T4437	ADP 123 126	འི་
+A4437a	Case T4437 Gen
+N4437	Reference T4437 Nonverbs:0012	གྱི་√case
+T4438	NOUN 126 134	མཚན་ཉིད་
+A4438a	Number T4438 Sing
+T4439	VERB 134 140	འཛིན་པ
+A4439a	Tense T4439 Pres
+A4439b	VerbForm T4439 Vnoun
+N4439	Reference T4439 Hill:1478	འཛིན་
+T4440	ADP 140 142	ས་
+A4440a	Case T4440 Agn
+N4440	Reference T4440 Nonverbs:0026	གྱིས་√case
+T4441	PART 142 144	སོ
+A4441a	Mood T4441 Ind
+N4441	Reference T4441 Nonverbs:0099	འོ་√cv
+T4442	PUNCT 144 145	།
+N4442	Reference T4442 Nonverbs:0529	།
+T4444	PUNCT 146 147	།
+N4444	Reference T4444 Nonverbs:0529	།
+T4446	NOUN 148 152	ཡིད་
+A4446a	Number T4446 Sing
+T4447	ADP 152 156	ཀྱི་
+A4447a	Case T4447 Gen
+N4447	Reference T4447 Nonverbs:0012	གྱི་√case
+T4448	NOUN 156 160	ཡུལ་
+A4448a	Number T4448 Sing
+T4449	PART 160 163	ནི་
+N4449	Reference T4449 Nonverbs:0343	ནི་√cl
+T4450	PRON 163 166	རང་
+A4450a	Reflex T4450 Yes
+N4450	Reference T4450 Nonverbs:0230	རང་√p
+T4451	ADP 166 169	གི་
+A4451a	Case T4451 Gen
+N4451	Reference T4451 Nonverbs:0012	གྱི་√case
+T4452	NOUN 169 177	མཚན་ཉིད་
+A4452a	Number T4452 Sing
+T4453	VERB 177 183	འཛིན་པ
+A4453a	Tense T4453 Pres
+A4453b	VerbForm T4453 Vnoun
+N4453	Reference T4453 Hill:1478	འཛིན་
+T4454	PART 183 185	འམ
+A4454a	Polarity T4454 Xor
+N4454	Reference T4454 Nonverbs:0158	འམ་√cv
+T4455	PUNCT 185 186	།
+N4455	Reference T4455 Nonverbs:0529	།
+T4457	NOUN 187 191	ཡིད་
+A4457a	Number T4457 Sing
+T4458	VERB 191 197	འཛིན་པ
+A4458a	Tense T4458 Pres
+A4458b	VerbForm T4458 Vnoun
+N4458	Reference T4458 Hill:1478	འཛིན་
+T4459	ADP 197 199	ས་
+A4459a	Case T4459 Agn
+N4459	Reference T4459 Nonverbs:0026	གྱིས་√case
+T4460	NOUN 199 203	ཆོས་
+A4460a	Number T4460 Sing
+T4461	PART 203 205	སོ
+A4461a	Mood T4461 Ind
+N4461	Reference T4461 Nonverbs:0099	འོ་√cv
+T4462	PUNCT 205 206	།
+N4462	Reference T4462 Nonverbs:0529	།
+T4464	PUNCT 207 208	།
+N4464	Reference T4464 Nonverbs:0529	།
+T4466	NOUN 209 212	ཚེ་
+A4466a	Number T4466 Sing
+T4467	PART 212 215	ནི་
+N4467	Reference T4467 Nonverbs:0343	ནི་√cl
+T4468	NOUN 215 219	ལུས་
+A4468a	Number T4468 Sing
+T4469	VERB 219 225	འཛིན་པ
+A4469a	Tense T4469 Pres
+A4469b	VerbForm T4469 Vnoun
+N4469	Reference T4469 Hill:1478	འཛིན་
+T4470	PART 225 228	འམ་
+A4470a	Polarity T4470 Xor
+N4470	Reference T4470 Nonverbs:0158	འམ་√cv
+T4471	NOUN 228 238	རིགས་མཐུན་
+A4471a	Number T4471 Sing
+T4472	VERB 238 244	འཛིན་པ
+A4472a	Tense T4472 Pres
+A4472b	VerbForm T4472 Vnoun
+N4472	Reference T4472 Hill:1478	འཛིན་
+T4473	ADP 244 246	ས་
+A4473a	Case T4473 Agn
+N4473	Reference T4473 Nonverbs:0026	གྱིས་√case
+T4474	NOUN 246 250	ཆོས་
+A4474a	Number T4474 Sing
+T4475	PART 250 252	སོ
+A4475a	Mood T4475 Ind
+N4475	Reference T4475 Nonverbs:0099	འོ་√cv
+T4476	PUNCT 252 253	།
+N4476	Reference T4476 Nonverbs:0529	།
+T4478	PUNCT 254 255	།
+N4478	Reference T4478 Nonverbs:0529	།
+T4480	NOUN 256 264	གསུང་རབ་
+A4480a	Number T4480 Sing
+T4481	PART 264 266	ནི
+N4481	Reference T4481 Nonverbs:0343	ནི་√cl
+T4482	PUNCT 266 267	།
+N4482	Reference T4482 Nonverbs:0529	།
+T4484	PROPN 268 282	རྣམ་བཤད་རིགས་པ
+T4485	ADP 282 283	ར
+A4485a	Case T4485 Ter
+N4485	Reference T4485 Nonverbs:0051	དུ་√case
+T4486	PUNCT 283 284	།
+N4486	Reference T4486 Nonverbs:0529	།
+T4488	NOUN 285 289	ཆོས་
+A4488a	Number T4488 Sing
+T4489	PART 289 292	ནི་
+N4489	Reference T4489 Nonverbs:0343	ནི་√cl
+T4490	NOUN 292 296	མདོ་
+A4490a	Number T4490 Sing
+T4491	ADP 296 298	ལ་
+A4491a	Case T4491 All
+N4491	Reference T4491 Nonverbs:0028	ལ་√case
+T4492	VERB 298 305	སོགས་པ་
+A4492a	VerbForm T4492 Vnoun
+N4492	Reference T4492 Hill:1796	སོགས་
+T4493	SCONJ 305 308	སྟེ
+A4493a	Case T4493 Sem
+N4493	Reference T4493 Nonverbs:0165	ཏེ་√cv
+T4494	PUNCT 308 309	།
+N4494	Reference T4494 Nonverbs:0529	།
+T4496	VERB 310 317	རིགས་པ་
+A4496a	VerbForm T4496 Vnoun
+N4496	Reference T4496 Hill:1664	རིགས་
+T4497	NOUN 317 323	སྟོན་པ
+A4497a	Number T4497 Sing
+T4498	ADP 323 326	འི་
+A4498a	Case T4498 Gen
+N4498	Reference T4498 Nonverbs:0012	གྱི་√case
+T4499	NOUN 326 330	དོན་
+A4499a	Number T4499 Sing
+T4500	ADP 330 333	དང་
+A4500a	Case T4500 Com
+N4500	Reference T4500 Nonverbs:0031	དང་√case
+T4501	NOUN 333 337	དོན་
+A4501a	Number T4501 Sing
+T4502	VERB 337 342	ཕྱིན་
+A4502a	Tense T4502 Past
+#4502l	AnnotatorNotes T4502	[འགྲོ་][ཕྱིན་] 
+T4503	PRON 342 345	ཅི་
+A4503a	PronType T4503 Int
+N4503	Reference T4503 Nonverbs:0186	ཅི་√p
+T4504	PART 345 347	མ་
+A4504a	Polarity T4504 Neg
+N4504	Reference T4504 Nonverbs:0339	མ་√neg
+T4505	VERB 347 352	ལོག་པ
+A4505a	Tense T4505 Past
+A4505b	VerbForm T4505 Vnoun
+#4505l	AnnotatorNotes T4505	[ལྡོག་][ལོག་] 
+T4506	ADP 352 354	ར་
+A4506a	Case T4506 Ter
+N4506	Reference T4506 Nonverbs:0051	དུ་√case
+T4507	VERB 354 359	ངེས་པ
+A4507a	VerbForm T4507 Vnoun
+N4507	Reference T4507 Hill:0410	ངེས་
+T4508	ADP 359 361	ར་
+A4508a	Case T4508 Ter
+N4508	Reference T4508 Nonverbs:0051	དུ་√case
+T4509	VERB 361 367	འཛིན་པ
+A4509a	Tense T4509 Pres
+A4509b	VerbForm T4509 Vnoun
+N4509	Reference T4509 Hill:1478	འཛིན་
+T4510	ADP 367 370	འི་
+A4510a	Case T4510 Gen
+N4510	Reference T4510 Nonverbs:0012	གྱི་√case
+T4511	NOUN 370 374	དོན་
+A4511a	Number T4511 Sing
+T4512	ADP 374 379	གྱིས་
+A4512a	Case T4512 Agn
+N4512	Reference T4512 Nonverbs:0026	གྱིས་√case
+T4513	PART 379 381	སོ
+A4513a	Mood T4513 Ind
+N4513	Reference T4513 Nonverbs:0099	འོ་√cv
+T4514	PUNCT 381 382	།
+N4514	Reference T4514 Nonverbs:0529	།
+T4516	PUNCT 383 384	།
+N4516	Reference T4516 Nonverbs:0529	།
+T4518	VERB 385 389	ཞེས་
+A4518a	Mood T4518 Qot
+T4519	PART 389 391	སོ
+A4519a	Mood T4519 Ind
+N4519	Reference T4519 Nonverbs:0099	འོ་√cv
+T4520	PUNCT 391 392	།
+N4520	Reference T4520 Nonverbs:0529	།
+T4522	PUNCT 393 394	།
+N4522	Reference T4522 Nonverbs:0529	།
+T4524	NOUN 395 407	འབྱུང་འགྱུར་
+A4524a	Number T4524 Sing
+T4525	VERB 407 414	འཛིན་པ་
+A4525a	Tense T4525 Pres
+A4525b	VerbForm T4525 Vnoun
+N4525	Reference T4525 Hill:1478	འཛིན་
+T4526	ADP 414 417	དང་
+A4526a	Case T4526 Com
+N4526	Reference T4526 Nonverbs:0031	དང་√case
+T4527	VERB 417 422	ངེས་པ
+A4527a	VerbForm T4527 Vnoun
+N4527	Reference T4527 Hill:0410	ངེས་
+T4528	ADP 422 424	ར་
+A4528a	Case T4528 Ter
+N4528	Reference T4528 Nonverbs:0051	དུ་√case
+T4529	VERB 424 427	བྱ་
+A4529a	Tense T4529 Fut
+N4529	Reference T4529 Hill:1168	བྱེད་
+T4530	VERB 427 433	དགོས་པ
+A4530a	VerbForm T4530 Vnoun
+A4530b	VerbType T4530 Aux
+T4531	ADP 433 436	འི་
+A4531a	Case T4531 Gen
+N4531	Reference T4531 Nonverbs:0012	གྱི་√case
+T4532	VERB 436 441	བྱ་བ་
+A4532a	Tense T4532 Fut
+A4532b	VerbForm T4532 Vnoun
+N4532	Reference T4532 Hill:1168	བྱེད་
+T4533	VERB 441 447	བྱེད་པ
+A4533a	Tense T4533 Pres
+A4533b	VerbForm T4533 Vnoun
+N4533	Reference T4533 Hill:1168	བྱེད་
+T4534	ADP 447 449	ས་
+A4534a	Case T4534 Agn
+N4534	Reference T4534 Nonverbs:0026	གྱིས་√case
+T4535	VERB 449 456	འཛིན་པ་
+A4535a	Tense T4535 Pres
+A4535b	VerbForm T4535 Vnoun
+N4535	Reference T4535 Hill:1478	འཛིན་
+T4536	ADP 456 459	དང་
+A4536a	Case T4536 Com
+N4536	Reference T4536 Nonverbs:0031	དང་√case
+T4537	PUNCT 459 460	།
+N4537	Reference T4537 Nonverbs:0529	།
+T4539	NOUN 461 465	ཡུལ་
+A4539a	Number T4539 Sing
+T4540	ADP 465 468	དང་
+A4540a	Case T4540 Com
+N4540	Reference T4540 Nonverbs:0031	དང་√case
+T4541	NOUN 468 473	རིགས་
+A4541a	Number T4541 Sing
+T4542	ADP 473 477	ཀྱི་
+A4542a	Case T4542 Gen
+N4542	Reference T4542 Nonverbs:0012	གྱི་√case
+T4543	VERB 477 485	སྤྱོད་པ་
+A4543a	Tense T4543 Pres
+A4543b	VerbForm T4543 Vnoun
+N4543	Reference T4543 Hill:1067	སྤྱོད་
+T4544	VERB 485 491	འཛིན་པ
+A4544a	Tense T4544 Pres
+A4544b	VerbForm T4544 Vnoun
+N4544	Reference T4544 Hill:1478	འཛིན་
+T4545	ADP 491 493	ས་
+A4545a	Case T4545 Agn
+N4545	Reference T4545 Nonverbs:0026	གྱིས་√case
+T4546	NOUN 493 501	ཡུལ་ཆོས་
+A4546a	Number T4546 Sing
+T4547	ADP 501 503	ལ་
+A4547a	Case T4547 All
+N4547	Reference T4547 Nonverbs:0028	ལ་√case
+T4548	VERB 503 509	སོགས་པ
+A4548a	VerbForm T4548 Vnoun
+N4548	Reference T4548 Hill:1796	སོགས་
+T4549	PART 509 511	འོ
+A4549a	Mood T4549 Ind
+N4549	Reference T4549 Nonverbs:0099	འོ་√cv
+T4550	PUNCT 511 512	།
+N4550	Reference T4550 Nonverbs:0529	།
+T4552	PUNCT 513 514	།
+N4552	Reference T4552 Nonverbs:0529	།
+T4554	NOUN 515 518	ལམ་
+A4554a	Number T4554 Sing
+T4555	ADP 518 521	དང་
+A4555a	Case T4555 Com
+N4555	Reference T4555 Nonverbs:0031	དང་√case
+T4556	NOUN 521 527	མྱ་ངན་
+A4556a	Number T4556 Sing
+T4557	ADP 527 530	ལས་
+A4557a	Case T4557 Abl
+N4557	Reference T4557 Nonverbs:0014	ལས་√case
+T4558	VERB 530 536	འདས་པ་
+A4558a	Tense T4558 Past
+A4558b	VerbForm T4558 Vnoun
+#4558l	AnnotatorNotes T4558	[འདའ་][ཟླ་] 
+T4559	ADP 536 539	དང་
+A4559a	Case T4559 Com
+N4559	Reference T4559 Nonverbs:0031	དང་√case
+T4560	NOUN 539 548	བསོད་ནམས་
+A4560a	Number T4560 Sing
+T4561	NUM 548 553	གསུམ་
+A4561a	NumType T4561 Card
+A4561b	NumForm T4561 Word
+T4562	PART 553 555	ནི
+N4562	Reference T4562 Nonverbs:0343	ནི་√cl
+T4563	PUNCT 555 556	།
+N4563	Reference T4563 Nonverbs:0529	།
+T4565	VERB 557 564	ལྟུང་བ་
+A4565a	VerbForm T4565 Vnoun
+N4565	Reference T4565 Hill:0719	ལྟུང་
+T4566	ADP 564 567	ལས་
+A4566a	Case T4566 Abl
+N4566	Reference T4566 Nonverbs:0014	ལས་√case
+T4567	VERB 567 573	འཛིན་པ
+A4567a	Tense T4567 Pres
+A4567b	VerbForm T4567 Vnoun
+N4567	Reference T4567 Hill:1478	འཛིན་
+T4568	ADP 573 575	ས་
+A4568a	Case T4568 Agn
+N4568	Reference T4568 Nonverbs:0026	གྱིས་√case
+T4569	NOUN 575 579	ཆོས་
+A4569a	Number T4569 Sing
+T4570	AUX 579 583	ཡིན་
+N4570	Reference T4570 Hill:1619	ཡིན་
+T4571	SCONJ 583 584	ལ
+A4571a	Case T4571 All
+N4571	Reference T4571 Nonverbs:0064	ལ་√cv
+T4572	PUNCT 584 585	།
+N4572	Reference T4572 Nonverbs:0529	།
+T4574	DET 586 589	དེ་
+A4574a	PronType T4574 Dem
+N4574	Reference T4574 Nonverbs:0233	དེ་√d
+T4575	ADP 589 591	ལ་
+A4575a	Case T4575 All
+N4575	Reference T4575 Nonverbs:0028	ལ་√case
+T4576	NOUN 591 598	ངན་འགྲོ
+A4576a	Number T4576 Sing
+T4577	ADP 598 600	ར་
+A4577a	Case T4577 Ter
+N4577	Reference T4577 Nonverbs:0051	དུ་√case
+T4578	VERB 600 607	ལྟུང་བ་
+A4578a	VerbForm T4578 Vnoun
+N4578	Reference T4578 Hill:0719	ལྟུང་
+T4579	ADP 607 610	ལས་
+A4579a	Case T4579 Abl
+N4579	Reference T4579 Nonverbs:0014	ལས་√case
+T4580	VERB 610 617	འཛིན་པ་
+A4580a	Tense T4580 Pres
+A4580b	VerbForm T4580 Vnoun
+N4580	Reference T4580 Hill:1478	འཛིན་
+T4581	ADP 617 620	དང་
+A4581a	Case T4581 Com
+N4581	Reference T4581 Nonverbs:0031	དང་√case
+T4582	PUNCT 620 621	།
+N4582	Reference T4582 Nonverbs:0529	།
+T4584	NOUN 622 628	འཁོར་བ
+A4584a	Number T4584 Sing
+T4585	ADP 628 630	ར་
+A4585a	Case T4585 Ter
+N4585	Reference T4585 Nonverbs:0051	དུ་√case
+T4586	VERB 630 637	ལྟུང་བ་
+A4586a	VerbForm T4586 Vnoun
+N4586	Reference T4586 Hill:0719	ལྟུང་
+T4587	ADP 637 640	ལས་
+A4587a	Case T4587 Abl
+N4587	Reference T4587 Nonverbs:0014	ལས་√case
+T4588	VERB 640 647	འཛིན་པ་
+A4588a	Tense T4588 Pres
+A4588b	VerbForm T4588 Vnoun
+N4588	Reference T4588 Hill:1478	འཛིན་
+T4589	NUM 647 652	གཉིས་
+A4589a	NumType T4589 Card
+A4589b	NumForm T4589 Word
+T4590	PART 652 654	སོ
+A4590a	Mood T4590 Ind
+N4590	Reference T4590 Nonverbs:0099	འོ་√cv
+T4591	PUNCT 654 655	།
+N4591	Reference T4591 Nonverbs:0529	།
+T4593	PUNCT 656 657	།
+N4593	Reference T4593 Nonverbs:0529	།
+T4595	ADJ 658 664	དང་པོ་
+A4595a	NumType T4595 Ord
+N4595	Reference T4595 Nonverbs:0533	དང་པོ་
+T4596	PART 664 666	ནི
+N4596	Reference T4596 Nonverbs:0343	ནི་√cl
+T4597	PUNCT 666 667	།
+N4597	Reference T4597 Nonverbs:0529	།
+T4599	NOUN 668 672	ཆེད་
+A4599a	NounType T4599 Rel
+T4600	ADP 672 675	དུ་
+A4600a	Case T4600 Ter
+N4600	Reference T4600 Nonverbs:0051	དུ་√case
+T4601	VERB 675 682	བརྗོད་པ
+A4601a	Tense T4601 Fut/Past
+A4601b	VerbForm T4601 Vnoun
+#4601l	AnnotatorNotes T4601	[རྗོད་√1][རྗོད་√2] 
+T4602	ADP 682 685	འི་
+A4602a	Case T4602 Gen
+N4602	Reference T4602 Nonverbs:0012	གྱི་√case
+T4603	NOUN 685 690	ཚོམས་
+A4603a	Number T4603 Sing
+T4604	ADP 690 692	ལས
+A4604a	Case T4604 Abl
+N4604	Reference T4604 Nonverbs:0014	ལས་√case
+T4605	PUNCT 692 693	།
+N4605	Reference T4605 Nonverbs:0529	།
+T4607	NOUN 694 704	འཇིག་རྟེན་
+A4607a	Number T4607 Sing
+T4608	DET 704 708	འདི་
+A4608a	PronType T4608 Dem
+N4608	Reference T4608 Nonverbs:0235	འདི་√d
+T4609	ADP 708 711	དང་
+A4609a	Case T4609 Com
+N4609	Reference T4609 Nonverbs:0031	དང་√case
+T4610	NOUN 711 717	ཕ་རོལ་
+A4610a	Number T4610 Sing
+T4611	ADP 717 719	ཏུ
+A4611a	Case T4611 Ter
+N4611	Reference T4611 Nonverbs:0051	དུ་√case
+T4612	PUNCT 719 720	།
+N4612	Reference T4612 Nonverbs:0529	།
+T4614	PUNCT 721 722	།
+N4614	Reference T4614 Nonverbs:0529	།
+T4616	NOUN 723 735	ཆོས་སྤྱོད་པ་
+A4616a	Number T4616 Sing
+T4617	PART 735 738	ནི་
+N4617	Reference T4617 Nonverbs:0343	ནི་√cl
+T4618	VERB 738 743	བདེ་བ
+A4618a	VerbForm T4618 Vnoun
+T4619	ADP 743 745	ར་
+A4619a	Case T4619 Ter
+N4619	Reference T4619 Nonverbs:0051	དུ་√case
+T4620	VERB 745 747	ཉལ
+N4620	Reference T4620 Hill:0600	ཉལ་
+T4621	PUNCT 747 748	།
+N4621	Reference T4621 Nonverbs:0529	།
+T4623	PUNCT 749 750	།
+N4623	Reference T4623 Nonverbs:0529	།
+T4625	VERB 751 757	ཞེས་པ་
+A4625a	Mood T4625 Qot
+T4626	NOUN 757 763	ལྟ་བུ་
+A4626a	NounType T4626 Rel
+T4627	NOUN 763 771	ལས་འབྲས་
+A4627a	Number T4627 Sing
+T4628	ADP 771 773	ལ་
+A4628a	Case T4628 All
+N4628	Reference T4628 Nonverbs:0028	ལ་√case
+T4629	NOUN 773 777	ཡིད་
+A4629a	Number T4629 Sing
+T4630	VERB 777 782	ཆེས་པ
+A4630a	VerbForm T4630 Vnoun
+N4630	Reference T4630 Hill:0493	ཆེས་
+T4631	ADP 782 785	འི་
+A4631a	Case T4631 Gen
+N4631	Reference T4631 Nonverbs:0012	གྱི་√case
+T4632	VERB 785 789	དད་པ
+A4632a	VerbForm T4632 Vnoun
+N4632	Reference T4632 Hill:0821	དད་
+T4633	ADP 789 790	ས
+A4633a	Case T4633 Agn
+N4633	Reference T4633 Nonverbs:0026	གྱིས་√case
+T4634	PUNCT 790 791	།
+N4634	Reference T4634 Nonverbs:0529	།
+T4636	NOUN 792 803	འཇིག་རྟེན་པ
+A4636a	Number T4636 Sing
+T4637	ADP 803 806	འི་
+A4637a	Case T4637 Gen
+N4637	Reference T4637 Nonverbs:0012	གྱི་√case
+T4638	ADJ 806 813	ཡང་དག་པ
+T4639	ADP 813 816	འི་
+A4639a	Case T4639 Gen
+N4639	Reference T4639 Nonverbs:0012	གྱི་√case
+T4640	VERB 816 821	ལྟ་བ་
+A4640a	Tense T4640 Pres
+A4640b	VerbForm T4640 Vnoun
+#4640l	AnnotatorNotes T4640	[ལྟ་√1][ལྟ་√2] 
+T4641	ADP 821 823	ལ་
+A4641a	Case T4641 All
+N4641	Reference T4641 Nonverbs:0028	ལ་√case
+T4642	VERB 823 829	བརྟེན་
+A4642a	Tense T4642 Past
+N4642	Reference T4642 Hill:0708	རྟེན་
+T4643	SCONJ 829 831	ནས
+A4643a	Case T4643 Ela
+N4643	Reference T4643 Nonverbs:0074	ནས་√cv
+T4644	PUNCT 831 832	།
+N4644	Reference T4644 Nonverbs:0529	།
+T4646	VERB 833 839	དགེ་བ་
+A4646a	VerbForm T4646 Vnoun
+T4647	NUM 839 843	བཅུ་
+A4647a	NumType T4647 Card
+A4647b	NumForm T4647 Word
+T4648	VERB 843 850	སྤྱོད་བ
+A4648a	Tense T4648 Pres
+A4648b	VerbForm T4648 Vnoun
+N4648	Reference T4648 Hill:1067	སྤྱོད་
+T4649	PART 850 852	འམ
+A4649a	Polarity T4649 Xor
+N4649	Reference T4649 Nonverbs:0158	འམ་√cv
+T4650	PUNCT 852 853	།
+N4650	Reference T4650 Nonverbs:0529	།
+T4652	NOUN 854 865	འཇིག་རྟེན་པ
+A4652a	Number T4652 Sing
+T4653	ADP 865 868	འི་
+A4653a	Case T4653 Gen
+N4653	Reference T4653 Nonverbs:0012	གྱི་√case
+T4654	NOUN 868 876	བསམ་གཏན་
+A4654a	Number T4654 Sing
+T4655	ADJ 876 886	གཟུགས་མེད་
+T4656	ADP 886 890	ཀྱི་
+A4656a	Case T4656 Gen
+N4656	Reference T4656 Nonverbs:0012	གྱི་√case
+T4657	NOUN 890 902	ཏིང་ངེ་འཛིན་
+A4657a	Number T4657 Sing
+T4658	VERB 902 911	བསྒོམས་པ་
+A4658a	Tense T4658 Past
+A4658b	VerbForm T4658 Vnoun
+N4658	Reference T4658 Hill:0371	སྒོམ་
+T4659	NOUN 911 916	ལྟ་བུ
+A4659a	NounType T4659 Rel
+T4660	PUNCT 916 917	།
+N4660	Reference T4660 Nonverbs:0529	།
+T4662	DET 918 921	དེ་
+A4662a	PronType T4662 Dem
+N4662	Reference T4662 Nonverbs:0233	དེ་√d
+T4663	DET 921 924	དག་
+A4663a	Number T4663 Plur
+N4663	Reference T4663 Nonverbs:0307	དག་√d
+T4664	ADP 924 928	གིས་
+A4664a	Case T4664 Agn
+N4664	Reference T4664 Nonverbs:0026	གྱིས་√case
+T4665	NOUN 928 935	ངན་སོང་
+A4665a	Number T4665 Sing
+T4666	ADP 935 938	དུ་
+A4666a	Case T4666 Ter
+N4666	Reference T4666 Nonverbs:0051	དུ་√case
+T4667	VERB 938 945	ལྟུང་བ་
+A4667a	VerbForm T4667 Vnoun
+N4667	Reference T4667 Hill:0719	ལྟུང་
+T4668	ADP 945 948	ལས་
+A4668a	Case T4668 Abl
+N4668	Reference T4668 Nonverbs:0014	ལས་√case
+T4669	VERB 948 954	འཛིན་པ
+A4669a	Tense T4669 Pres
+A4669b	VerbForm T4669 Vnoun
+N4669	Reference T4669 Hill:1478	འཛིན་
+T4670	ADP 954 957	འི་
+A4670a	Case T4670 Gen
+N4670	Reference T4670 Nonverbs:0012	གྱི་√case
+T4671	NOUN 957 960	ཕྱི
+A4671a	NounType T4671 Rel
+N4671	Reference T4671 Nonverbs:0437	ཕྱི་
+T4672	ADP 960 962	ར་
+A4672a	Case T4672 Ter
+N4672	Reference T4672 Nonverbs:0051	དུ་√case
+T4673	NOUN 962 966	ཆོས་
+A4673a	Number T4673 Sing
+T4674	VERB 966 970	ཞེས་
+A4674a	Mood T4674 Qot
+T4675	VERB 970 973	བྱ་
+A4675a	Tense T4675 Fut
+N4675	Reference T4675 Hill:1168	བྱེད་
+T4676	SCONJ 973 974	ལ
+A4676a	Case T4676 All
+N4676	Reference T4676 Nonverbs:0064	ལ་√cv
+T4677	PUNCT 974 975	།
+N4677	Reference T4677 Nonverbs:0529	།
+T4679	NOUN 976 987	ཕྱི་རོ་ལ་པ་
+A4679a	Number T4679 Sing
+T4680	PRON 987 989	ཁ་
+A4680a	PronType T4680 Ind
+N4680	Reference T4680 Nonverbs:0174	ཁ་√p
+T4681	DET 989 993	ཅིག་
+A4681a	PronType T4681 Ind
+N4681	Reference T4681 Nonverbs:0296	ཅིག་√d
+T4682	ADP 993 994	ལ
+A4682a	Case T4682 All
+N4682	Reference T4682 Nonverbs:0028	ལ་√case
+T4683	PART 994 997	འང་
+N4683	Reference T4683 Nonverbs:0352	འང་√cl
+T4684	VERB 997 1001	ཡོད་
+N4684	Reference T4684 Hill:1632	ཡོད་
+T4685	PART 1001 1003	དོ
+A4685a	Mood T4685 Ind
+N4685	Reference T4685 Nonverbs:0099	འོ་√cv
+T4686	PUNCT 1003 1004	།
+N4686	Reference T4686 Nonverbs:0529	།
+T4688	PUNCT 1005 1006	།
+N4688	Reference T4688 Nonverbs:0529	།
+T4690	NOUN 1007 1013	འཁོར་བ
+A4690a	Number T4690 Sing
+T4691	ADP 1013 1015	ར་
+A4691a	Case T4691 Ter
+N4691	Reference T4691 Nonverbs:0051	དུ་√case
+T4692	VERB 1015 1022	ལྟུང་བ་
+A4692a	VerbForm T4692 Vnoun
+N4692	Reference T4692 Hill:0719	ལྟུང་
+T4693	ADP 1022 1025	ལས་
+A4693a	Case T4693 Abl
+N4693	Reference T4693 Nonverbs:0014	ལས་√case
+T4694	VERB 1025 1032	འཛིན་པ་
+A4694a	Tense T4694 Pres
+A4694b	VerbForm T4694 Vnoun
+N4694	Reference T4694 Hill:1478	འཛིན་
+T4695	PART 1032 1034	ནི
+N4695	Reference T4695 Nonverbs:0343	ནི་√cl
+T4696	PUNCT 1034 1035	།
+N4696	Reference T4696 Nonverbs:0529	།
+T4698	ADV 1036 1040	ནང་པ
+A4698a	AdvType T4698 Tim
+N4698	Reference T4698 Nonverbs:0432	ནང་པ་
+T4699	ADP 1040 1043	འི་
+A4699a	Case T4699 Gen
+N4699	Reference T4699 Nonverbs:0012	གྱི་√case
+T4700	NOUN 1043 1049	སྐྱབས་
+A4700a	Number T4700 Sing
+T4701	VERB 1049 1053	གནས་
+N4701	Reference T4701 Hill:0997	གནས་
+T4702	SCONJ 1053 1055	ཏེ
+A4702a	Case T4702 Sem
+N4702	Reference T4702 Nonverbs:0165	ཏེ་√cv
+T4703	PUNCT 1055 1056	།
+N4703	Reference T4703 Nonverbs:0529	།
+T4705	NOUN 1057 1066	འདོད་ཆགས་
+A4705a	Number T4705 Sing
+T4706	ADP 1066 1069	དང་
+A4706a	Case T4706 Com
+N4706	Reference T4706 Nonverbs:0031	དང་√case
+T4707	VERB 1069 1075	བྲལ་བ་
+A4707a	Tense T4707 Fut
+A4707b	VerbForm T4707 Vnoun
+N4707	Reference T4707 Hill:1261	འབྲལ་
+T4708	DET 1075 1080	རྣམས་
+A4708a	Number T4708 Plur
+N4708	Reference T4708 Nonverbs:0305	རྣམས་√d
+T4709	ADP 1080 1084	ཀྱི་
+A4709a	Case T4709 Gen
+N4709	Reference T4709 Nonverbs:0012	གྱི་√case
+T4710	NOUN 1084 1093	མཆོག་ཆོས་
+A4710a	Number T4710 Sing
+T4711	VERB 1093 1099	ཞེས་པ་
+A4711a	Mood T4711 Qot
+T4712	NOUN 1099 1107	མྱང་འདས་
+A4712a	Number T4712 Sing
+T4713	ADP 1107 1110	དང་
+A4713a	Case T4713 Com
+N4713	Reference T4713 Nonverbs:0031	དང་√case
+T4714	PUNCT 1110 1111	།
+N4714	Reference T4714 Nonverbs:0529	།
+T4716	DET 1112 1115	དེ་
+A4716a	PronType T4716 Dem
+N4716	Reference T4716 Nonverbs:0233	དེ་√d
+T4717	NOUN 1115 1124	ཐོབ་བྱེད་
+A4717a	Number T4717 Sing
+T4718	NOUN 1124 1132	ལམ་བདེན་
+A4718a	Number T4718 Sing
+T4719	NOUN 1132 1137	འཁོར་
+A4719a	Number T4719 Sing
+T4720	ADP 1137 1140	དང་
+A4720a	Case T4720 Com
+N4720	Reference T4720 Nonverbs:0031	དང་√case
+T4721	VERB 1140 1145	བཅས་པ
+A4721a	VerbForm T4721 Vnoun
+N4721	Reference T4721 Hill:0472	བཅས་
+T4722	PART 1145 1147	འོ
+A4722a	Mood T4722 Ind
+N4722	Reference T4722 Nonverbs:0099	འོ་√cv
+T4723	PUNCT 1147 1148	།
+N4723	Reference T4723 Nonverbs:0529	།
+T4725	PUNCT 1149 1150	།
+N4725	Reference T4725 Nonverbs:0529	།

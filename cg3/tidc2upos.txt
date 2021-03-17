@@ -1,0 +1,145 @@
+# Sentence delimiters
+DELIMITERS = punc; 
+
+# Remove auxiliaries unless they are the only reading
+REMOVE (".*√x"r);
+
+# Correct invariant nyan, which should not be an auxiliary
+APPEND ("ཉན་" v.invar) TARGET ("ཉན་√x" v.invar);
+APPEND ("ཉན་" n.v.invar) TARGET ("ཉན་√x" n.v.invar);
+REMOVE ("ཉན་√x" v.invar);
+REMOVE ("ཉན་√x" n.v.invar);
+
+# Universal POS lists
+LIST ADJ_list = adj num.ord;
+LIST ADP_list = /^case[.].*$/r;
+LIST ADV_list = adv.dir adv.intense adv.mim adv.proclausal adv.temp;
+LIST AUX_list = n.v.cop v.cop v.cop.neg;
+LIST DET_list = d.dem d.det d.emph d.indef d.plural d.tsam;
+LIST INTJ_list = interj;
+LIST NOUN_list = n.count n.mass n.rel;
+LIST NUM_list = num.card numeral;
+LIST PART_list = cl.focus cv.fin cv.imp cv.ques neg;
+LIST PRON_list = p.indef p.interrog p.pers p.refl;
+LIST PROPN_list = n.prop;
+LIST PUNCT_list = punc;
+LIST SCONJ_list = cv.abl cv.agn cv.all cv.are cv.ass cv.cont cv.ela cv.gen cv.impf cv.loc cv.odd cv.rung cv.sem cv.term;
+LIST VERB_list = cl.quot n.v.aux n.v.fut n.v.fut.n.v.past n.v.fut.n.v.pres n.v.imp n.v.invar n.v.neg n.v.past n.v.past.n.v.pres n.v.pres v.aux v.fut v.fut.v.past v.fut.v.pres v.imp v.invar v.neg v.past v.past.v.pres v.pres;
+LIST X_list = skt;
+
+# Insert universal POS tags
+ADD (ADJ) ADJ_list;
+ADD (ADP) ADP_list;
+ADD (ADV) ADV_list;
+ADD (AUX) AUX_list;
+ADD (DET) DET_list;
+ADD (INTJ) INTJ_list;
+ADD (NOUN) NOUN_list;
+ADD (NUM) NUM_list;
+ADD (PART) PART_list;
+ADD (PRON) PRON_list;
+ADD (PROPN) PROPN_list;
+ADD (PUNCT) PUNCT_list;
+ADD (SCONJ) SCONJ_list;
+ADD (VERB) VERB_list;
+ADD (X) X_list;
+
+# Insert universal features
+ADD (AdvType=Dir) (adv.dir);
+ADD (AdvType=Intens) (adv.intense);
+ADD (AdvType=Mim) (adv.mim);
+ADD (PronType=Dem) (adv.proclausal);
+ADD (AdvType=Tim) (adv.temp);
+ADD (Case=Abl) (case.abl) OR (cv.abl);
+ADD (Case=Agn) (case.agn) OR (cv.agn);
+ADD (Case=All) (case.all) OR (cv.all);
+ADD (Case=Com) (case.ass) OR (cv.ass);
+ADD (Case=Cmp) (case.comp);
+ADD (Case=Ela) (case.ela) OR (cv.ela);
+ADD (Case=Gen) (case.gen) OR (cv.gen);
+ADD (Case=Loc) (case.loc) OR (cv.loc);
+ADD (Case=Qot) (case.nare);
+ADD (Case=Ter) (case.term) OR (cv.term);
+ADD (Mood=Qot) (cl.quot);
+ADD (Case=Are) (cv.are);
+ADD (Case=Cont) (cv.cont);
+ADD (Mood=Ind) (cv.fin);
+ADD (Mood=Imp) (cv.imp);
+ADD (Case=Impf) (cv.impf);
+ADD (Case=Odd) (cv.odd);
+ADD (Polarity=Xor) (cv.ques);
+ADD (Case=Rung) (cv.rung);
+ADD (Case=Sem) (cv.sem);
+ADD (PronType=Dem) (d.dem);
+ADD (PronType=Emp) (d.emph);
+ADD (PronType=Ind) (d.indef);
+ADD (Number=Plur) (d.plural);
+ADD (PronType=Tsam) (d.tsam);
+ADD (Number=Sing) (n.count);
+ADD (Number=Coll) (n.mass);
+ADD (NounType=Rel) (n.rel);
+ADD (VerbForm=Vnoun|VerbType=Aux) (n.v.aux);
+ADD (VerbForm=Vnoun) (n.v.cop);
+ADD (Tense=Fut|VerbForm=Vnoun) (n.v.fut);
+ADD (Tense=Fut,Past|VerbForm=Vnoun) (n.v.fut.n.v.past);
+ADD (Tense=Fut,Pres|VerbForm=Vnoun) (n.v.fut.n.v.pres);
+ADD (Mood=Imp|VerbForm=Vnoun) (n.v.imp);
+ADD (VerbForm=Vnoun) (n.v.invar);
+ADD (Polarity=Neg|VerbForm=Vnoun) (n.v.neg);
+ADD (Tense=Past|VerbForm=Vnoun) (n.v.past);
+ADD (Tense=Past,Pres|VerbForm=Vnoun) (n.v.past.n.v.pres);
+ADD (Tense=Pres|VerbForm=Vnoun) (n.v.pres);
+ADD (Polarity=Neg) (neg);
+ADD (NumType=Card|NumForm=Word) (num.card);
+ADD (NumType=Ord) (num.ord);
+ADD (NumType=Card|NumForm=Digit) (numeral);
+ADD (PronType=Ind) (p.indef);
+ADD (PronType=Int) (p.interrog);
+ADD (PronType=Prs) (p.pers);
+ADD (Reflex=Yes) (p.refl)
+ADD (VerbType=Aux) (v.aux);
+ADD (Polarity=Neg) (v.cop.neg);
+ADD (Tense=Fut) (v.fut);
+ADD (Tense=Fut,Past) (v.fut.v.past);
+ADD (Tense=Fut,Pres) (v.fut.v.pres);
+ADD (Mood=Imp) (v.imp);
+ADD (Polarity=Neg) (v.neg);
+ADD (Tense=Past) (v.past);
+ADD (Tense=Past,Pres) (v.past.v.pres);
+ADD (Tense=Pres) (v.pres);
+
+# Add sentence boundary after final g
+DELIMIT ("<.*ག>"r) (NOT 1 (ADP) OR (SCONJ));
+
+
+
+# DEPENDENCIES 
+
+# Helpers
+LIST n.xxx = /^n[.](?!v[.]).*$/r;
+LIST v.xxx = v.aux v.cop v.cop.neg v.fut v.imp v.neg v.past v.pres v.invar v.fut.v.past v.fut.v.pres v.past.v.pres;
+LIST n.v.xxx = n.v.aux n.v.cop n.v.cop.neg n.v.fut n.v.imp n.v.neg n.v.past n.v.pres n.v.invar n.v.fut.n.v.past n.v.fut.n.v.pres n.v.past.n.v.pres;
+LIST PostVerbal_PART = cv.fin cv.imp cv.ques;
+SET Head_NOUN = (NOUN) - (n.rel) OR (PRON) - (p.refl) OR (PROPN);
+SET Dependent_DET = (DET) - (d.dem);
+
+# Verbs
+SETPARENT (PART neg) TO (1 v.xxx OR n.v.xxx);
+SETPARENT (PUNCT) OR (SCONJ) OR PostVerbal_PART TO (-1 (VERB));
+SETPARENT (PUNCT) (-1 (SCONJ) OR PostVerbal_PART) TO (-2 (VERB));
+
+# Adverbs
+SETPARENT (ADP) OR (SCONJ) TO (-1 (ADV));
+
+# Nouns 
+SETPARENT (ADP) OR Dependent_DET TO (-1 Head_NOUN);
+SETPARENT (ADP) (-1 Dependent_DET) TO (-2 Head_NOUN);
+
+ADD (@advmod) (PART neg) (p (*));
+ADD (@punct) (PUNCT) (p (*));
+ADD (@mark) (SCONJ) (-1 (VERB)) (p (*));
+ADD (@discourse) PostVerbal_PART (p (*));
+ADD (@case) (SCONJ) (-1 (ADV)) (p (*));
+ADD (@case) (ADP) (p (*)); 
+ADD (@det) Dependent_DET (p (*));
+

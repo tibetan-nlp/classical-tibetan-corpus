@@ -1,0 +1,766 @@
+T55163	PRON 0 1	ང
+A55163a	PronType T55163 Prs
+N55163	Reference T55163 Nonverbs:0201	ང་√p
+T55164	ADP 1 3	ས་
+A55164a	Case T55164 Agn
+N55164	Reference T55164 Nonverbs:0026	གྱིས་√case
+T55165	PRON 3 8	ཁྱེད་
+A55165a	PronType T55165 Prs
+N55165	Reference T55165 Nonverbs:0227	ཁྱེད་√p
+T55166	DET 8 13	རྣམས་
+A55166a	Number T55166 Plur
+N55166	Reference T55166 Nonverbs:0305	རྣམས་√d
+T55167	ADP 13 15	ལ་
+A55167a	Case T55167 All
+N55167	Reference T55167 Nonverbs:0028	ལ་√case
+T55168	VERB 15 20	བཤད་པ
+A55168a	Tense T55168 Fut/Past
+A55168b	VerbForm T55168 Vnoun
+#55168l	AnnotatorNotes T55168	[འཆད་√2][ཤད་] 
+T55169	ADP 20 23	འི་
+A55169a	Case T55169 Gen
+N55169	Reference T55169 Nonverbs:0012	གྱི་√case
+T55170	NOUN 23 27	ཆོས་
+A55170a	Number T55170 Sing
+T55171	DET 27 32	རྣམས་
+A55171a	Number T55171 Plur
+N55171	Reference T55171 Nonverbs:0305	རྣམས་√d
+T55172	VERB 32 36	ཆུད་
+A55172a	Mood T55172 Imp
+N55172	Reference T55172 Hill:0488	ཆུད་
+T55173	PART 36 38	མ་
+A55173a	Polarity T55173 Neg
+N55173	Reference T55173 Nonverbs:0339	མ་√neg
+T55174	VERB 38 44	གསོན་པ
+A55174a	Tense T55174 Past
+A55174b	VerbForm T55174 Vnoun
+N55174	Reference T55174 Hill:1864	གསོན་√1
+T55175	ADP 44 46	ར་
+A55175a	Case T55175 Ter
+N55175	Reference T55175 Nonverbs:0051	དུ་√case
+T55176	NOUN 46 50	ཉམས་
+A55176a	Number T55176 Sing
+T55177	ADP 50 53	སུ་
+A55177a	Case T55177 Ter
+N55177	Reference T55177 Nonverbs:0051	དུ་√case
+T55178	PRON 53 56	ཅི་
+A55178a	PronType T55178 Int
+N55178	Reference T55178 Nonverbs:0186	ཅི་√p
+T55179	VERB 56 61	ལོངས་
+A55179a	Mood T55179 Imp
+#55179l	AnnotatorNotes T55179	[ལང་√1][ལང་√2][ལེན་] 
+T55180	VERB 61 66	གྱིས་
+A55180a	Mood T55180 Imp
+N55180	Reference T55180 Hill:0260	བགྱིད་
+T55181	PART 66 69	ཤིག
+A55181a	Mood T55181 Imp
+N55181	Reference T55181 Nonverbs:0115	ཅིག་√cv
+T55182	DET 70 73	དེ་
+A55182a	PronType T55182 Dem
+N55182	Reference T55182 Nonverbs:0233	དེ་√d
+T55183	NOUN 73 75	ལྟ
+A55183a	NounType T55183 Rel
+T55184	ADP 75 77	ར་
+A55184a	Case T55184 Ter
+N55184	Reference T55184 Nonverbs:0051	དུ་√case
+T55185	VERB 77 81	བྱས་
+A55185a	Tense T55185 Past
+N55185	Reference T55185 Hill:1168	བྱེད་
+T55186	SCONJ 81 83	ན་
+A55186a	Case T55186 Loc
+N55186	Reference T55186 Nonverbs:0123	ན་√cv
+T55187	PRON 83 85	ང་
+A55187a	PronType T55187 Prs
+N55187	Reference T55187 Nonverbs:0201	ང་√p
+T55188	PRON 85 88	གང་
+A55188a	PronType T55188 Int
+N55188	Reference T55188 Nonverbs:0184	གང་√p
+T55189	ADP 88 91	དུ་
+A55189a	Case T55189 Ter
+N55189	Reference T55189 Nonverbs:0051	དུ་√case
+T55190	VERB 91 95	སངས་
+#55190l	AnnotatorNotes T55190	[སངས་√1][སངས་√2] 
+T55191	VERB 95 100	རྒྱ་བ
+A55191a	Tense T55191 Fut/Pres
+A55191b	VerbForm T55191 Vnoun
+N55191	Reference T55191 Hill:0339	རྒྱ་√1
+T55192	ADP 100 103	འི་
+A55192a	Case T55192 Gen
+N55192	Reference T55192 Nonverbs:0012	གྱི་√case
+T55193	NOUN 103 112	སངས་རྒྱས་
+A55193a	Number T55193 Sing
+T55194	ADP 112 116	ཀྱི་
+A55194a	Case T55194 Gen
+N55194	Reference T55194 Nonverbs:0012	གྱི་√case
+T55195	NOUN 116 120	ཞིང་
+A55195a	Number T55195 Sing
+T55196	DET 120 122	དེ
+A55196a	PronType T55196 Dem
+N55196	Reference T55196 Nonverbs:0233	དེ་√d
+T55197	ADP 122 123	ར
+A55197a	Case T55197 Ter
+N55197	Reference T55197 Nonverbs:0051	དུ་√case
+T55198	PUNCT 123 124	།
+N55198	Reference T55198 Nonverbs:0529	།
+T55200	PRON 125 130	ཁྱེད་
+A55200a	PronType T55200 Prs
+N55200	Reference T55200 Nonverbs:0227	ཁྱེད་√p
+T55201	DET 130 135	རྣམས་
+A55201a	Number T55201 Plur
+N55201	Reference T55201 Nonverbs:0305	རྣམས་√d
+T55202	NOUN 135 140	འཁོར་
+A55202a	Number T55202 Sing
+T55203	ADP 140 144	གྱི་
+A55203a	Case T55203 Gen
+N55203	Reference T55203 Nonverbs:0012	གྱི་√case
+T55204	NOUN 144 149	ཐོག་མ
+A55204a	NounType T55204 Rel
+N55204	Reference T55204 Nonverbs:0438	ཐོག་མ་
+T55205	ADP 149 151	ར་
+A55205a	Case T55205 Ter
+N55205	Reference T55205 Nonverbs:0051	དུ་√case
+T55206	VERB 151 158	སྐྱེ་བ་
+A55206a	Tense T55206 Fut/Pres
+A55206b	VerbForm T55206 Vnoun
+N55206	Reference T55206 Hill:0071	སྐྱེ་
+T55207	AUX 158 162	ཡིན་
+N55207	Reference T55207 Hill:1619	ཡིན་
+T55208	PART 162 165	ནོ་
+A55208a	Mood T55208 Ind
+N55208	Reference T55208 Nonverbs:0099	འོ་√cv
+T55209	VERB 165 170	དགའ་བ
+A55209a	VerbForm T55209 Vnoun
+N55209	Reference T55209 Nonverbs:0595	དགའ་
+T55210	ADP 170 172	ར་
+A55210a	Case T55210 Ter
+N55210	Reference T55210 Nonverbs:0051	དུ་√case
+T55211	VERB 172 177	གྱིས་
+A55211a	Mood T55211 Imp
+N55211	Reference T55211 Hill:0260	བགྱིད་
+T55212	PART 177 181	ཤིག་
+A55212a	Mood T55212 Imp
+N55212	Reference T55212 Nonverbs:0115	ཅིག་√cv
+T55213	VERB 181 185	ཅེས་
+A55213a	Mood T55213 Qot
+N55213	Reference T55213 Nonverbs:0366	ཅེས་√cl
+T55214	VERB 185 192	གསུངས་པ
+A55214a	Tense T55214 Past
+A55214b	VerbForm T55214 Vnoun
+#55214l	AnnotatorNotes T55214	[གསུང་√1][གསུང་√2] 
+T55215	ADP 192 193	ས
+A55215a	Case T55215 Agn
+N55215	Reference T55215 Nonverbs:0026	གྱིས་√case
+T55216	PUNCT 193 194	།
+N55216	Reference T55216 Nonverbs:0529	།
+T55218	PROPN 195 202	གཉའ་ནམ་
+T55219	ADP 202 205	གི་
+A55219a	Case T55219 Gen
+N55219	Reference T55219 Nonverbs:0012	གྱི་√case
+T55220	NOUN 205 209	ཉ་མ་
+A55220a	Number T55220 Sing
+T55221	DET 209 214	རྣམས་
+A55221a	Number T55221 Plur
+N55221	Reference T55221 Nonverbs:0305	རྣམས་√d
+T55222	ADP 214 219	ཀྱིས་
+A55222a	Case T55222 Agn
+N55222	Reference T55222 Nonverbs:0026	གྱིས་√case
+T55223	NOUN 219 228	རྫེ་བཙུན་
+A55223a	Number T55223 Sing
+T55224	ADP 228 232	གྱི་
+A55224a	Case T55224 Gen
+N55224	Reference T55224 Nonverbs:0012	གྱི་√case
+T55225	NOUN 232 237	གསུང་
+A55225a	Number T55225 Sing
+T55226	NOUN 237 242	རིགས་
+A55226a	Number T55226 Sing
+T55227	DET 242 245	འདི
+A55227a	PronType T55227 Dem
+N55227	Reference T55227 Nonverbs:0235	འདི་√d
+T55228	ADP 245 247	ས་
+A55228a	Case T55228 Agn
+N55228	Reference T55228 Nonverbs:0026	གྱིས་√case
+T55229	DET 247 251	གཞན་
+N55229	Reference T55229 Nonverbs:0271	གཞན་√d
+T55230	NOUN 251 255	དོན་
+A55230a	Number T55230 Sing
+T55231	ADP 255 257	ལ་
+A55231a	Case T55231 All
+N55231	Reference T55231 Nonverbs:0028	ལ་√case
+T55232	VERB 257 262	ཐེགས་
+N55232	Reference T55232 Hill:0774	ཐེག་√2
+T55233	VERB 262 270	དགོངས་པ་
+A55233a	VerbForm T55233 Vnoun
+N55233	Reference T55233 Hill:0246	དགོངས་
+T55234	PART 270 273	ནི་
+N55234	Reference T55234 Nonverbs:0343	ནི་√cl
+T55235	AUX 273 277	མིན་
+A55235a	Polarity T55235 Neg
+N55235	Reference T55235 Hill:1312	མིན་
+T55236	VERB 277 281	ཡོང་
+A55236a	Tense T55236 Fut/Pres
+N55236	Reference T55236 Hill:1630	ཡོང་
+T55237	PUNCT 281 282	།
+N55237	Reference T55237 Nonverbs:0529	།
+T55239	DET 283 286	དེ་
+A55239a	PronType T55239 Dem
+N55239	Reference T55239 Nonverbs:0233	དེ་√d
+T55240	NOUN 286 288	ལྟ
+A55240a	NounType T55240 Rel
+T55241	ADP 288 290	ར་
+A55241a	Case T55241 Ter
+N55241	Reference T55241 Nonverbs:0051	དུ་√case
+T55242	AUX 290 294	ལགས་
+T55243	SCONJ 294 296	ན་
+A55243a	Case T55243 Loc
+N55243	Reference T55243 Nonverbs:0123	ན་√cv
+T55244	NOUN 296 306	མཁའ་སྤྱོད་
+A55244a	Number T55244 Sing
+T55245	ADP 306 308	ལ་
+A55245a	Case T55245 All
+N55245	Reference T55245 Nonverbs:0028	ལ་√case
+T55246	PROPN 308 315	གཉའ་ནམ་
+T55247	ADP 315 318	ནས་
+A55247a	Case T55247 Ela
+N55247	Reference T55247 Nonverbs:0037	ནས་√case
+T55248	VERB 318 324	འབྱོན་
+A55248a	Tense T55248 Fut/Pres
+#55248l	AnnotatorNotes T55248	[འབྱོན་√1][འབྱོན་√2] 
+T55249	VERB 324 328	དགོས
+A55249a	VerbType T55249 Aux
+N55249	Reference T55249 Hill:0248	དགོས་
+T55250	PUNCT 328 329	།
+N55250	Reference T55250 Nonverbs:0529	།
+T55252	DET 330 333	དེ་
+A55252a	PronType T55252 Dem
+N55252	Reference T55252 Nonverbs:0233	དེ་√d
+T55253	NOUN 333 335	ལྟ
+A55253a	NounType T55253 Rel
+T55254	ADP 335 337	ར་
+A55254a	Case T55254 Ter
+N55254	Reference T55254 Nonverbs:0051	དུ་√case
+T55255	AUX 337 341	མིན་
+A55255a	Polarity T55255 Neg
+N55255	Reference T55255 Hill:1312	མིན་
+T55256	SCONJ 341 345	རུང་
+A55256a	Case T55256 Rung
+N55256	Reference T55256 Nonverbs:0159	རུང་√cv
+T55257	NOUN 345 348	ལན་
+A55257a	Number T55257 Sing
+T55258	NUM 348 353	གཅིག་
+A55258a	NumType T55258 Card
+A55258b	NumForm T55258 Word
+T55259	PRON 353 355	ཅི
+A55259a	PronType T55259 Int
+N55259	Reference T55259 Nonverbs:0186	ཅི་√p
+T55260	ADP 355 357	ས་
+A55260a	Case T55260 Agn
+N55260	Reference T55260 Nonverbs:0026	གྱིས་√case
+T55261	PART 357 361	ཀྱང་
+N55261	Reference T55261 Nonverbs:0352	འང་√cl
+T55262	VERB 361 367	འབྱོན་
+A55262a	Tense T55262 Fut/Pres
+#55262l	AnnotatorNotes T55262	[འབྱོན་√1][འབྱོན་√2] 
+T55263	VERB 367 372	དགོས་
+A55263a	VerbType T55263 Aux
+N55263	Reference T55263 Hill:0248	དགོས་
+T55264	VERB 372 376	ཞེས་
+A55264a	Mood T55264 Qot
+N55264	Reference T55264 Nonverbs:0366	ཅེས་√cl
+T55265	VERB 376 380	དད་པ
+A55265a	VerbForm T55265 Vnoun
+N55265	Reference T55265 Hill:0821	དད་
+T55266	ADP 380 383	འི་
+A55266a	Case T55266 Gen
+N55266	Reference T55266 Nonverbs:0012	གྱི་√case
+T55267	NOUN 383 393	གདུང་ཤུགས་
+A55267a	Number T55267 Sing
+T55268	ADP 393 397	ཀྱི་
+A55268a	Case T55268 Gen
+N55268	Reference T55268 Nonverbs:0012	གྱི་√case
+T55269	NOUN 397 401	སྒོ་
+A55269a	NounType T55269 Rel
+T55270	ADP 401 404	ནས་
+A55270a	Case T55270 Ela
+N55270	Reference T55270 Nonverbs:0037	ནས་√case
+T55271	NOUN 404 408	ཞབས་
+A55271a	Number T55271 Sing
+T55272	ADP 408 410	ལ་
+A55272a	Case T55272 All
+N55272	Reference T55272 Nonverbs:0028	ལ་√case
+T55273	VERB 410 415	འཇུས་
+A55273a	Tense T55273 Past
+N55273	Reference T55273 Hill:0563	འཇུ་√1
+T55274	SCONJ 415 417	ཏེ
+A55274a	Case T55274 Sem
+N55274	Reference T55274 Nonverbs:0165	ཏེ་√cv
+T55275	PUNCT 417 418	།
+N55275	Reference T55275 Nonverbs:0529	།
+T55277	VERB 419 422	ངུ་
+A55277a	Tense T55277 Fut/Pres
+N55277	Reference T55277 Hill:0407	ངུ་
+T55278	SCONJ 422 426	ཞིང་
+A55278a	Case T55278 Impf
+N55278	Reference T55278 Nonverbs:0121	ཅིང་√cv
+T55279	NOUN 426 436	སྨྲེ་སྔགས་
+A55279a	Number T55279 Sing
+T55280	ADJ 436 442	མང་པོ་
+T55281	VERB 442 447	བཏོན་
+A55281a	Tense T55281 Past
+N55281	Reference T55281 Hill:0893	འདོན་
+T55282	SCONJ 447 450	ནས་
+A55282a	Case T55282 Ela
+N55282	Reference T55282 Nonverbs:0074	ནས་√cv
+T55283	VERB 450 457	གསོལ་བ་
+A55283a	Tense T55283 Fut/Pres
+A55283b	VerbForm T55283 Vnoun
+N55283	Reference T55283 Hill:1869	གསོལ་
+T55284	NOUN 457 460	ནན་
+A55284a	Number T55284 Sing
+T55285	VERB 460 462	ཆེ
+A55285a	Tense T55285 Pres
+N55285	Reference T55285 Hill:0492	ཆེ་
+T55286	SCONJ 462 464	ར་
+A55286a	Case T55286 Ter
+N55286	Reference T55286 Nonverbs:0173	དུ་√cv
+T55287	VERB 464 467	བཏབ
+A55287a	Tense T55287 Past
+N55287	Reference T55287 Hill:0887	འདེབས་
+T55288	PUNCT 467 468	།
+N55288	Reference T55288 Nonverbs:0529	།
+T55290	DET 469 472	དེ་
+A55290a	PronType T55290 Dem
+N55290	Reference T55290 Nonverbs:0233	དེ་√d
+T55291	NOUN 472 477	བཞིན་
+A55291a	NounType T55291 Rel
+T55292	ADP 477 480	དུ་
+A55292a	Case T55292 Ter
+N55292	Reference T55292 Nonverbs:0051	དུ་√case
+T55293	NOUN 480 489	དིང་རི་བ་
+A55293a	Number T55293 Sing
+T55294	DET 489 494	སོགས་
+N55294	Reference T55294 Nonverbs:0267	སོགས་√d
+T55295	NOUN 494 498	ཉ་མ་
+A55295a	Number T55295 Sing
+T55296	DET 498 502	གཞན་
+N55296	Reference T55296 Nonverbs:0271	གཞན་√d
+T55297	DET 502 507	རྣམས་
+A55297a	Number T55297 Plur
+N55297	Reference T55297 Nonverbs:0305	རྣམས་√d
+T55298	ADP 507 512	ཀྱིས་
+A55298a	Case T55298 Agn
+N55298	Reference T55298 Nonverbs:0026	གྱིས་√case
+T55299	PART 512 516	ཀྱང་
+N55299	Reference T55299 Nonverbs:0352	འང་√cl
+T55300	PRON 516 519	རང་
+A55300a	Reflex T55300 Yes
+N55300	Reference T55300 Nonverbs:0230	རང་√p
+T55301	PRON 519 522	རང་
+A55301a	Reflex T55301 Yes
+N55301	Reference T55301 Nonverbs:0230	རང་√p
+T55302	ADP 522 525	གི་
+A55302a	Case T55302 Gen
+N55302	Reference T55302 Nonverbs:0012	གྱི་√case
+T55303	NOUN 525 535	ཡུལ་ཕྱོགས་
+A55303a	Number T55303 Sing
+T55304	ADP 535 538	སུ་
+A55304a	Case T55304 Ter
+N55304	Reference T55304 Nonverbs:0051	དུ་√case
+T55305	VERB 538 544	འབྱོན་
+A55305a	Tense T55305 Fut/Pres
+#55305l	AnnotatorNotes T55305	[འབྱོན་√1][འབྱོན་√2] 
+T55306	VERB 544 549	དགོས་
+A55306a	VerbType T55306 Aux
+N55306	Reference T55306 Hill:0248	དགོས་
+T55307	VERB 549 553	ཟེར་
+#55307l	AnnotatorNotes T55307	[ཟེར་√1][ཟེར་√2] 
+T55308	VERB 553 560	གསོལ་བ་
+A55308a	Tense T55308 Fut/Pres
+A55308b	VerbForm T55308 Vnoun
+N55308	Reference T55308 Hill:1869	གསོལ་
+T55309	ADJ 560 567	དྲག་པོ་
+T55310	VERB 567 573	བཏབ་པ་
+A55310a	Tense T55310 Past
+A55310b	VerbForm T55310 Vnoun
+N55310	Reference T55310 Hill:0887	འདེབས་
+T55311	ADP 573 575	ལས
+A55311a	Case T55311 Abl
+N55311	Reference T55311 Nonverbs:0014	ལས་√case
+T55312	PUNCT 575 576	།
+N55312	Reference T55312 Nonverbs:0529	།
+T55314	NOUN 577 586	རྗེ་བཙུན་
+A55314a	Number T55314 Sing
+T55315	ADP 586 590	གྱི་
+A55315a	Case T55315 Gen
+N55315	Reference T55315 Nonverbs:0012	གྱི་√case
+T55316	NOUN 590 593	ཞལ་
+A55316a	Number T55316 Sing
+T55317	ADP 593 595	ནས
+A55317a	Case T55317 Ela
+N55317	Reference T55317 Nonverbs:0037	ནས་√case
+T55318	PUNCT 595 596	།
+N55318	Reference T55318 Nonverbs:0529	།
+T55320	PRON 597 599	ང་
+A55320a	PronType T55320 Prs
+N55320	Reference T55320 Nonverbs:0201	ང་√p
+T55321	NOUN 599 606	མི་རྒན་
+A55321a	Number T55321 Sing
+T55322	PROPN 606 613	གཉའ་ནམ་
+T55323	ADP 613 616	དང་
+A55323a	Case T55323 Com
+N55323	Reference T55323 Nonverbs:0031	དང་√case
+T55324	PROPN 616 622	དིང་རི
+T55325	ADP 622 625	འི་
+A55325a	Case T55325 Gen
+N55325	Reference T55325 Nonverbs:0012	གྱི་√case
+T55326	NOUN 625 631	ཕྱོགས་
+A55326a	NounType T55326 Rel
+T55327	ADP 631 634	སུ་
+A55327a	Case T55327 Ter
+N55327	Reference T55327 Nonverbs:0051	དུ་√case
+T55328	PART 634 637	མི་
+A55328a	Polarity T55328 Neg
+N55328	Reference T55328 Nonverbs:0337	མི་√neg
+T55329	VERB 637 641	འགྲོ
+A55329a	Tense T55329 Fut/Pres
+N55329	Reference T55329 Hill:0331	འགྲོ་
+T55330	PUNCT 641 642	།
+N55330	Reference T55330 Nonverbs:0529	།
+T55332	PROPN 643 648	བྲིན་
+T55333	ADP 648 651	དང་
+A55333a	Case T55333 Com
+N55333	Reference T55333 Nonverbs:0031	དང་√case
+T55334	PROPN 651 657	ཆུ་བར་
+T55335	ADP 657 661	གྱི་
+A55335a	Case T55335 Gen
+N55335	Reference T55335 Nonverbs:0012	གྱི་√case
+T55336	NOUN 661 667	ཕྱོགས་
+A55336a	NounType T55336 Rel
+T55337	ADP 667 670	སུ་
+A55337a	Case T55337 Ter
+N55337	Reference T55337 Nonverbs:0051	དུ་√case
+T55338	VERB 670 676	འཆི་བ་
+A55338a	Tense T55338 Fut/Pres
+A55338b	VerbForm T55338 Vnoun
+N55338	Reference T55338 Hill:0521	འཆི་
+T55339	VERB 676 681	སྒུག་
+A55339a	Tense T55339 Pres
+N55339	Reference T55339 Hill:0362	སྒུག་
+T55340	SCONJ 681 685	ཅིང་
+A55340a	Case T55340 Impf
+N55340	Reference T55340 Nonverbs:0121	ཅིང་√cv
+T55341	VERB 685 692	སྡོད་པ་
+A55341a	Tense T55341 Fut/Pres
+A55341b	VerbForm T55341 Vnoun
+N55341	Reference T55341 Hill:0967	སྡོད་
+T55342	AUX 692 695	ཡིན
+N55342	Reference T55342 Hill:1619	ཡིན་
+T55343	PUNCT 695 696	།
+N55343	Reference T55343 Nonverbs:0529	།
+T55345	PRON 697 702	ཁྱེད་
+A55345a	PronType T55345 Prs
+N55345	Reference T55345 Nonverbs:0227	ཁྱེད་√p
+T55346	PRON 702 705	རང་
+A55346a	Reflex T55346 Yes
+N55346	Reference T55346 Nonverbs:0230	རང་√p
+T55347	DET 705 710	རྣམས་
+A55347a	Number T55347 Plur
+N55347	Reference T55347 Nonverbs:0305	རྣམས་√d
+T55348	NOUN 710 718	སྨོན་ལམ་
+A55348a	Number T55348 Sing
+T55349	ADJ 718 725	བཟང་པོ་
+T55350	VERB 725 729	ཐོབ་
+A55350a	Mood T55350 Imp
+#55350l	AnnotatorNotes T55350	[སྟོབ་][འཐོབ་][འདེབས་] 
+T55351	SCONJ 729 731	ལ་
+A55351a	Case T55351 All
+N55351	Reference T55351 Nonverbs:0064	ལ་√cv
+T55352	VERB 731 735	སོང་
+A55352a	Mood T55352 Imp
+#55352l	AnnotatorNotes T55352	[འགྲོ་][སོང་] 
+T55353	PRON 735 737	ང་
+A55353a	PronType T55353 Prs
+N55353	Reference T55353 Nonverbs:0201	ང་√p
+T55354	ADP 737 740	དང་
+A55354a	Case T55354 Com
+N55354	Reference T55354 Nonverbs:0031	དང་√case
+T55355	NOUN 740 755	དག་པ་མཁའ་སྤྱོད་
+A55355a	Number T55355 Sing
+T55356	ADP 755 758	དུ་
+A55356a	Case T55356 Ter
+N55356	Reference T55356 Nonverbs:0051	དུ་√case
+T55357	VERB 758 764	ཕྲད་པ་
+A55357a	Tense T55357 Fut/Past
+A55357b	VerbForm T55357 Vnoun
+N55357	Reference T55357 Hill:1140	འཕྲད་
+T55358	AUX 764 768	ཡིན་
+N55358	Reference T55358 Hill:1619	ཡིན་
+T55359	VERB 768 774	གསུང་པ
+A55359a	Tense T55359 Fut/Pres
+A55359b	VerbForm T55359 Vnoun
+#55359l	AnnotatorNotes T55359	[གསུང་√1][གསུང་√2] 
+T55360	ADP 774 775	ས
+A55360a	Case T55360 Agn
+N55360	Reference T55360 Nonverbs:0026	གྱིས་√case
+T55361	PUNCT 775 776	།
+N55361	Reference T55361 Nonverbs:0529	།
+T55363	ADV 777 780	འོ་
+A55363a	PronType T55363 Dem
+N55363	Reference T55363 Nonverbs:0419	འོ་
+T55364	ADP 780 782	ན་
+A55364a	Case T55364 Loc
+N55364	Reference T55364 Nonverbs:0039	ན་√case
+T55365	NOUN 782 791	རྗེ་བཙུན་
+A55365a	Number T55365 Sing
+T55366	ADV 791 793	ད་
+A55366a	AdvType T55366 Tim
+N55366	Reference T55366 Nonverbs:0493	ད་
+T55367	PART 793 796	མི་
+A55367a	Polarity T55367 Neg
+N55367	Reference T55367 Nonverbs:0337	མི་√neg
+T55368	VERB 796 801	ཕེབས་
+A55368a	Tense T55368 Fut/Pres
+N55368	Reference T55368 Hill:1086	ཕེབས་
+T55369	SCONJ 801 805	རུང་
+A55369a	Case T55369 Rung
+N55369	Reference T55369 Nonverbs:0159	རུང་√cv
+T55370	PUNCT 805 806	།
+N55370	Reference T55370 Nonverbs:0529	།
+T55372	ADV 807 809	སྔ
+A55372a	AdvType T55372 Tim
+N55372	Reference T55372 Nonverbs:0459	སྔ་
+T55373	ADP 809 811	ར་
+A55373a	Case T55373 Ter
+N55373	Reference T55373 Nonverbs:0051	དུ་√case
+T55374	VERB 811 817	ཕེབས་པ
+A55374a	VerbForm T55374 Vnoun
+N55374	Reference T55374 Hill:1086	ཕེབས་
+T55375	ADP 817 820	འི་
+A55375a	Case T55375 Gen
+N55375	Reference T55375 Nonverbs:0012	གྱི་√case
+T55376	NOUN 820 830	ཡུལ་ཕྱོགས་
+A55376a	Number T55376 Sing
+T55377	NOUN 830 838	བཀྲ་ཤིས་
+A55377a	Number T55377 Sing
+T55378	ADP 838 840	ལ་
+A55378a	Case T55378 All
+N55378	Reference T55378 Nonverbs:0028	ལ་√case
+T55379	NOUN 840 848	ས་ཕྱོགས་
+A55379a	Number T55379 Sing
+T55380	NOUN 848 853	བྱིན་
+A55380a	Number T55380 Sing
+T55381	VERB 853 858	ཆགས་པ
+A55381a	VerbForm T55381 Vnoun
+#55381l	AnnotatorNotes T55381	[ཆགས་√1][ཆགས་√2] 
+T55382	PUNCT 858 859	།
+N55382	Reference T55382 Nonverbs:0529	།
+T55384	NOUN 860 869	རྗེ་བཙུན་
+A55384a	Number T55384 Sing
+T55385	PRON 869 872	རང་
+A55385a	Reflex T55385 Yes
+N55385	Reference T55385 Nonverbs:0230	རང་√p
+T55386	ADP 872 875	གི་
+A55386a	Case T55386 Gen
+N55386	Reference T55386 Nonverbs:0012	གྱི་√case
+T55387	NOUN 875 878	ཞལ་
+A55387a	Number T55387 Sing
+T55388	VERB 878 885	མཐོང་བ་
+A55388a	VerbForm T55388 Vnoun
+N55388	Reference T55388 Hill:0788	མཐོང་
+T55389	ADP 885 888	དང་
+A55389a	Case T55389 Com
+N55389	Reference T55389 Nonverbs:0031	དང་√case
+T55390	PUNCT 888 889	།
+N55390	Reference T55390 Nonverbs:0529	།
+T55392	NOUN 890 895	གསུང་
+A55392a	Number T55392 Sing
+T55393	ADP 895 898	དང་
+A55393a	Case T55393 Com
+N55393	Reference T55393 Nonverbs:0031	དང་√case
+T55394	NOUN 898 902	མཚན་
+A55394a	Number T55394 Sing
+N55394	Reference T55394 Nonverbs:0445	མཚན་
+T55395	VERB 902 908	ཐོས་པ་
+A55395a	VerbForm T55395 Vnoun
+N55395	Reference T55395 Hill:0783	ཐོས་
+T55396	ADP 908 910	ལ་
+A55396a	Case T55396 All
+N55396	Reference T55396 Nonverbs:0028	ལ་√case
+T55397	VERB 910 915	སོགས་
+N55397	Reference T55397 Hill:1796	སོགས་
+T55398	SCONJ 915 918	ཏེ་
+A55398a	Case T55398 Sem
+N55398	Reference T55398 Nonverbs:0165	ཏེ་√cv
+T55399	VERB 918 926	འབྲེལ་བ་
+A55399a	Tense T55399 Fut/Pres
+A55399b	VerbForm T55399 Vnoun
+N55399	Reference T55399 Hill:1273	འབྲེལ་
+T55400	VERB 926 933	ཡོད་ཚད་
+A55400a	VerbForm T55400 Vnoun
+T55401	ADP 933 938	ཀྱིས་
+A55401a	Case T55401 Agn
+N55401	Reference T55401 Nonverbs:0026	གྱིས་√case
+T55402	NOUN 938 942	ཐོག་
+A55402a	Number T55402 Sing
+T55403	VERB 942 947	དྲངས་
+A55403a	Tense T55403 Past
+N55403	Reference T55403 Hill:0916	འདྲེན་
+T55404	NOUN 947 955	སེམས་ཅན་
+A55404a	Number T55404 Sing
+T55405	DET 955 962	ཐམས་ཅད་
+A55405a	Number T55405 Plur
+N55405	Reference T55405 Nonverbs:0300	ཐམས་ཅད་√d
+T55406	ADP 962 964	ལ་
+A55406a	Case T55406 All
+N55406	Reference T55406 Nonverbs:0028	ལ་√case
+T55407	NOUN 964 972	སྨོན་ལམ་
+A55407a	Number T55407 Sing
+T55408	ADJ 972 979	བཟང་པོ་
+T55409	NOUN 979 988	རྗེ་བཙུན་
+A55409a	Number T55409 Sing
+T55410	ADP 988 993	གྱིས་
+A55410a	Case T55410 Agn
+N55410	Reference T55410 Nonverbs:0026	གྱིས་√case
+T55411	VERB 993 998	གནང་བ
+A55411a	VerbForm T55411 Vnoun
+N55411	Reference T55411 Hill:0996	གནང་
+T55412	ADP 998 1000	ར་
+A55412a	Case T55412 Ter
+N55412	Reference T55412 Nonverbs:0051	དུ་√case
+T55413	VERB 1000 1003	ཞུ་
+A55413a	Tense T55413 Fut/Pres
+#55413l	AnnotatorNotes T55413	[ཞུ་√1][ཞུ་√2] 
+T55414	VERB 1003 1008	ཞུས་པ
+A55414a	Tense T55414 Past
+A55414b	VerbForm T55414 Vnoun
+#55414l	AnnotatorNotes T55414	[འཇུ་√3][ཞུ་√1] 
+T55415	ADP 1008 1009	ས
+A55415a	Case T55415 Agn
+N55415	Reference T55415 Nonverbs:0026	གྱིས་√case
+T55416	PUNCT 1009 1010	།
+N55416	Reference T55416 Nonverbs:0529	།
+T55418	NOUN 1011 1020	རྗེ་བཙུན་
+A55418a	Number T55418 Sing
+T55419	ADP 1020 1024	གྱི་
+A55419a	Case T55419 Gen
+N55419	Reference T55419 Nonverbs:0012	གྱི་√case
+T55420	NOUN 1024 1027	ཞལ་
+A55420a	Number T55420 Sing
+T55421	ADP 1027 1029	ནས
+A55421a	Case T55421 Ela
+N55421	Reference T55421 Nonverbs:0037	ནས་√case
+T55422	PUNCT 1029 1030	།
+N55422	Reference T55422 Nonverbs:0529	།
+T55424	ADV 1031 1034	འོ་
+A55424a	PronType T55424 Dem
+N55424	Reference T55424 Nonverbs:0419	འོ་
+T55425	ADP 1034 1036	ན་
+A55425a	Case T55425 Loc
+N55425	Reference T55425 Nonverbs:0039	ན་√case
+T55426	PRON 1036 1041	ཁྱེད་
+A55426a	PronType T55426 Prs
+N55426	Reference T55426 Nonverbs:0227	ཁྱེད་√p
+T55427	DET 1041 1046	རྣམས་
+A55427a	Number T55427 Plur
+N55427	Reference T55427 Nonverbs:0305	རྣམས་√d
+T55428	ADP 1046 1051	ཀྱིས་
+A55428a	Case T55428 Agn
+N55428	Reference T55428 Nonverbs:0026	གྱིས་√case
+T55429	PRON 1051 1053	ང་
+A55429a	PronType T55429 Prs
+N55429	Reference T55429 Nonverbs:0201	ང་√p
+T55430	ADP 1053 1055	ལ་
+A55430a	Case T55430 All
+N55430	Reference T55430 Nonverbs:0028	ལ་√case
+T55431	VERB 1055 1059	དད་པ
+A55431a	VerbForm T55431 Vnoun
+N55431	Reference T55431 Hill:0821	དད་
+T55432	ADP 1059 1062	འི་
+A55432a	Case T55432 Gen
+N55432	Reference T55432 Nonverbs:0012	གྱི་√case
+T55433	NOUN 1062 1066	སྒོ་
+A55433a	NounType T55433 Rel
+T55434	ADP 1066 1069	ནས་
+A55434a	Case T55434 Ela
+N55434	Reference T55434 Nonverbs:0037	ནས་√case
+T55435	NOUN 1069 1076	བརྒྱགས་
+A55435a	Number T55435 Sing
+T55436	VERB 1076 1083	སྦྱངས་པ
+A55436a	Tense T55436 Past
+A55436b	VerbForm T55436 Vnoun
+N55436	Reference T55436 Hill:1296	སྦྱོང་
+T55437	ADP 1083 1085	ས་
+A55437a	Case T55437 Agn
+N55437	Reference T55437 Nonverbs:0026	གྱིས་√case
+T55438	NOUN 1085 1094	བཀའ་དྲིན་
+A55438a	Number T55438 Sing
+T55439	VERB 1094 1096	ཆེ
+A55439a	Tense T55439 Pres
+N55439	Reference T55439 Hill:0492	ཆེ་
+T55440	PUNCT 1096 1097	།
+N55440	Reference T55440 Nonverbs:0529	།
+T55442	PRON 1098 1099	ང
+A55442a	PronType T55442 Prs
+N55442	Reference T55442 Nonverbs:0201	ང་√p
+T55443	ADP 1099 1101	ས་
+A55443a	Case T55443 Agn
+N55443	Reference T55443 Nonverbs:0026	གྱིས་√case
+T55444	PART 1101 1105	ཀྱང་
+N55444	Reference T55444 Nonverbs:0352	འང་√cl
+T55445	NOUN 1105 1110	སེམས་
+A55445a	Number T55445 Sing
+T55446	VERB 1110 1117	བསྐྱེད་
+A55446a	Tense T55446 Fut/Past
+N55446	Reference T55446 Hill:0074	སྐྱེད་
+T55447	ADJ 1117 1123	བཟང་པོ
+T55448	ADP 1123 1125	ས་
+A55448a	Case T55448 Agn
+N55448	Reference T55448 Nonverbs:0026	གྱིས་√case
+T55449	PRON 1125 1130	ཁྱེད་
+A55449a	PronType T55449 Prs
+N55449	Reference T55449 Nonverbs:0227	ཁྱེད་√p
+T55450	DET 1130 1135	རྣམས་
+A55450a	Number T55450 Plur
+N55450	Reference T55450 Nonverbs:0305	རྣམས་√d
+T55451	ADP 1135 1137	ལ་
+A55451a	Case T55451 All
+N55451	Reference T55451 Nonverbs:0028	ལ་√case
+T55452	NOUN 1137 1141	ཆོས་
+A55452a	Number T55452 Sing
+T55453	VERB 1141 1146	བཤད་པ
+A55453a	Tense T55453 Fut/Past
+A55453b	VerbForm T55453 Vnoun
+#55453l	AnnotatorNotes T55453	[འཆད་√2][ཤད་] 
+T55454	ADP 1146 1148	ས་
+A55454a	Case T55454 Agn
+N55454	Reference T55454 Nonverbs:0026	གྱིས་√case
+T55455	NOUN 1148 1157	བཀའ་དྲིན་
+A55455a	Number T55455 Sing
+T55456	VERB 1157 1162	ཆེ་བ་
+A55456a	Tense T55456 Pres
+A55456b	VerbForm T55456 Vnoun
+N55456	Reference T55456 Hill:0492	ཆེ་
+T55457	AUX 1162 1165	ཡིན
+N55457	Reference T55457 Hill:1619	ཡིན་
+T55458	PUNCT 1165 1166	།
+N55458	Reference T55458 Nonverbs:0529	།
+T55460	PRON 1167 1169	ང་
+A55460a	PronType T55460 Prs
+N55460	Reference T55460 Nonverbs:0201	ང་√p
+T55461	NOUN 1169 1178	བདེན་ཚིག་
+A55461a	Number T55461 Sing
+T55462	VERB 1178 1184	གྲུབ་པ
+A55462a	Tense T55462 Past
+A55462b	VerbForm T55462 Vnoun
+N55462	Reference T55462 Hill:0321	འགྲུབ་
+T55463	ADP 1184 1187	འི་
+A55463a	Case T55463 Gen
+N55463	Reference T55463 Nonverbs:0012	གྱི་√case
+T55464	NOUN 1187 1199	རྣལ་འབྱོར་པ་
+A55464a	Number T55464 Sing
+T55465	AUX 1199 1204	ཡིན་པ
+A55465a	VerbForm T55465 Vnoun
+T55466	ADP 1204 1205	ས
+A55466a	Case T55466 Agn
+N55466	Reference T55466 Nonverbs:0026	གྱིས་√case
+T55467	PUNCT 1205 1206	།
+N55467	Reference T55467 Nonverbs:0529	།
