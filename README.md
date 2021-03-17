@@ -5,9 +5,9 @@ This repository contains a small number of Classical Tibetan texts that were lin
 1. མར་པ་ལོ་ཙཱའི་རྣམ་ཐར། (_mar pa lo cA'i rnam thar_)
 1. བུ་སྟོན་ཆོས་འབྱུང་། (_bu ston chos 'byung_)
 1. མི་ལའི་རྣམ་ཐར། (_mi la'i rnam thar_)
-1. Taranatha
+1. ཏཱ་ར་ནཱ་ཐ (_tA ra nA tha_)
 
-With the exception of Taranatha, which was machine-tagged between 2017-2020, the above texts were part-of-speech tagged by human beings as part of the [TIDC (Tibetan in Digital Communication) project](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/) (2012-2015).
+With the exception of ཏཱ་ར་ནཱ་ཐ, which was machine-tagged between 2017-2020, the above texts were part-of-speech tagged by human beings as part of the [TIDC (Tibetan in Digital Communication) project](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/) (2012-2015).
 
 The tagset was then simplified in approximate conformance with the [Universal POS tags](https://universaldependencies.org/u/pos/all.html) scheme. No information was lost in this process, since many tagging details were encoded as [Universal features](https://universaldependencies.org/u/feat/index.html). For details on this process, see the cg3 grammar _tid2upos_.
 
