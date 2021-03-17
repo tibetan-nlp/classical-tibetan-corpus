@@ -1,4 +1,4 @@
-# Background
+# Classical Tibetan Corpus
 This repository contains a small number of Classical Tibetan texts that were linguistically analyzed and annotated by human beings:
 
 1. མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ། (_mdzangs blun_)
