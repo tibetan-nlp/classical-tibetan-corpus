@@ -5,6 +5,7 @@ This repository contains a small number of Classical Tibetan texts that were lin
 1. མར་པ་ལོ་ཙཱའི་རྣམ་ཐར། (_mar pa lo cA'i rnam thar_)
 1. བུ་སྟོན་ཆོས་འབྱུང་། (_bu ston chos 'byung_)
 1. མི་ལའི་རྣམ་ཐར། (_mi la'i rnam thar_)
+1. Taranatha
 
 First, the texts were part-of-speech tagged as part of the [TIDC (Tibetan in Digital Communication) project](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/) (2012-2015).
 
