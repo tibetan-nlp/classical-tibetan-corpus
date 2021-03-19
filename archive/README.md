@@ -1,4 +1,6 @@
-# Background
+# LEGACY 
+
+THE FOLLOWING TEXT NEEDS A NEW HOME.
 
 This repo makes available four texts that were part-of-speech
 tagged as part of the
