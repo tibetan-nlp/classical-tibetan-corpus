@@ -9,7 +9,7 @@ This repository contains a small number of Classical Tibetan texts that were lin
 
 With the exception of ཏཱ་ར་ནཱ་ཐ, which was machine-tagged between 2017-2020, the above texts were part-of-speech tagged by human beings as part of the [TIDC (Tibetan in Digital Communication) project](https://www.soas.ac.uk/cia/tibetanstudies/tibetan-in-digital-communications/) (2012-2015).
 
-The tagset was then simplified in approximate conformance with the [Universal POS tags](https://universaldependencies.org/u/pos/all.html) scheme. No information was lost in this process, since many tagging details were encoded as [Universal features](https://universaldependencies.org/u/feat/index.html). For details on this process, see the cg3 grammar ```tidc2upos```.
+The tagset was then simplified in approximate conformance with the [Universal POS tags](https://universaldependencies.org/u/pos/all.html) scheme. No information was lost in this process, since many tagging details were encoded as [Universal features](https://universaldependencies.org/u/feat/index.html). For details on this process, see the cg3 grammar ```tidc2upos``` in the `tibcg3` repository.
 
 The texts were then converted into [BRAT standoff format](https://brat.nlplab.org/) so that they could be further analyzed using the _brat rapid annotation tool_. Between 2017-2020, the work focused on annotating the argument structure of Tibetan verbs, using a modified version of the [Universal Dependencies](https://universaldependencies.org/u/dep/all.html) scheme.
 
