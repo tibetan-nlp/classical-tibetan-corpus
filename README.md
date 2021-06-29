@@ -18,3 +18,30 @@ At the conclusion of annotation, the BRAT files were exported to [CoNLL-U format
 English translations of the texts མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ།, མར་པ་ལོ་ཙཱའི་རྣམ་ཐར།, and བུ་སྟོན་ཆོས་འབྱུང་། were obtained, and these translations were aligned at sentence or page-level to the Tibetan texts. In the case of མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ། and མར་པ་ལོ་ཙཱའི་རྣམ་ཐར།, there are two CoNLL-U files each: those with the _-translated_ suffix are translation-aligned at the page-level (making CoNLL-U sentences very long), and untranslated pages are excluded. For these two texts, the files without the _-translated_ suffix lack translation alignments and use _shunits_, i.e. _shad_-delimited units, as CoNLL-U sentences.
 
 You may cite this work by referencing the repository and its authors: Edward Garrett, Nathan Hill, Samyo Rode, Nikolai Solmsdorf, and Sonam Wangyal. We thank the AHRC for its funding of the projects _Tibetan in Digital Communication_ (2012-2015, PI Ulrich Pagel) and _Lexicography in Motion_ (2017-2020, PI Ulrich Pagel).
+
+Here is some metadata about the collection.
+
+| Key | Value |
+| ------------- | ------------- |
+| Text ID | mdzangs_blun |
+| Title (eng) | Sutra of the Wise and the Foolish |
+| Title (bod) | མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ་ |
+| Source (eng) | Frye, Stanley (1981). The Sutra of the Wise and the Foolish, Library of Tibetan Works and Archives |
+| Source (bod) | (?) |
+| Date | (?) |
+| Author | Unknown |
+| Translation | Stanley Frye |
+| Tagging | Edward Garrett & Nathan Hill (?) |
+| Annotation | Samyo Rode & Nikolai Solmsdorf |
+| Alignment | Sonam Wangyal |
+| Genre | Religion |
+| Region | Tibet |
+| Language | Tibetan, Classical |
+| Normalization | No |
+| Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
+| Annotator's notes | •	Translated from Chinese into Tibetan ca. 9./10. cent.
+•	Canonical text (sDe dge bka’ ’gyur, mDo sde, Vol. 74,fols. 129a–298a)
+•	Collection of tales of previous births of the Buddha (skt. jātaka)
+•	Reflects structure of translated language (Non-Tibetan origin)
+•	Formulaic, repetitive narrative structure
+•	Regular grammatical structure, uniform verb frames |
