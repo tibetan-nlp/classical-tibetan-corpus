@@ -26,7 +26,7 @@ Here is some metadata about the collection.
 | Text ID | mdzangs_blun |
 | Title (eng) | Sutra of the Wise and the Foolish |
 | Title (bod) | མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ་ |
-| Source (eng) | Frye, Stanley (1981). The Sutra of the Wise and the Foolish, Library of Tibetan Works and Archives |
+| Source (eng) | Frye, Stanley (1981). The Sutra of the Wise and the Foolish, Library of Tibetan Works and Archives. |
 | Source (bod) | (?) |
 | Date | (?) |
 | Author | Unknown |
@@ -38,10 +38,82 @@ Here is some metadata about the collection.
 | Region | Tibet |
 | Language | Tibetan, Classical |
 | Normalization | No |
-| Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
+| Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
 | Annotator's notes | •	Translated from Chinese into Tibetan ca. 9./10. cent.
 •	Canonical text (sDe dge bka’ ’gyur, mDo sde, Vol. 74,fols. 129a–298a)
 •	Collection of tales of previous births of the Buddha (skt. jātaka)
 •	Reflects structure of translated language (Non-Tibetan origin)
 •	Formulaic, repetitive narrative structure
 •	Regular grammatical structure, uniform verb frames |
+
+| Key | Value |
+| ------------- | ------------- |
+| Text ID | mila |
+| Title (eng) | The life of Milarepa |
+| Title (bod) | མི་ལའི་རྣམ་ཐར་ |
+| Source (eng) | Quintman, Andrew (2010). The Life of Milarepa, Penguin Books. |
+| Source (bod) | (?) |
+| Date | (?) |
+| Author | Gtsang smyon Heruka (1452–1507) |
+| Translation | Quintman, Andrew |
+| Tagging | Edward Garrett & Nathan Hill (?) |
+| Annotation | Samyo Rode & Nikolai Solmsdorf |
+| Alignment | Sonam Wangyal |
+| Genre | Biography |
+| Region | Tibet |
+| Language | Tibetan, Classical |
+| Normalization | No |
+| Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
+| Annotator's notes | •	Completed in 1488
+•	Vivid language, resembling Colloquial Tibetan in parts
+•	Prose interspersed with songs and poems
+•	Rich vocabulary
+•	Diverse verb structures, e.g. light verbs, auxiliary verbs |
+
+| Key | Value |
+| ------------- | ------------- |
+| Text ID | marpa |
+| Title (eng) | The life of Marpa the Translator |
+| Title (bod) | མར་པ་ལོ་ཙཱ་བ་རྣམ་ཐར་ |
+| Source (eng) | Trungpa, Chögyam (1982). The Life of Marpa the Translator, Prajna Press. |
+| Source (bod) | (?) |
+| Date | (?) |
+| Author | Gtsang smyon Heruka (1452–1507) |
+| Translation | Nalanda Translation Committee under the direction of Chögyam Trungpa |
+| Tagging | Edward Garrett & Nathan Hill (?) |
+| Annotation | Samyo Rode & Nikolai Solmsdorf |
+| Alignment | Sonam Wangyal |
+| Genre | Biography |
+| Region | Tibet |
+| Language | Tibetan, Classical |
+| Normalization | No |
+| Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
+| Annotator's notes | •	Composed in 1505
+•	Large percentage of text is songs and poems
+•	Vivid language, resembling Colloquial Tibetan in parts
+•	Prose interspersed with songs and poems
+•	Rich vocabulary
+•	Diverse verb structures, e.g. light verbs, auxiliary verbs |
+
+| Key | Value |
+| ------------- | ------------- |
+| Text ID | taranatha |
+| Title (eng) | History of Buddhism in India |
+| Title (bod) | ཙཱ་ར་ནཱ་ཐའི་རྒྱ་གར་ཆོས་འབྱུང་ |
+| Source (eng) | Alaka, Chattopadhaya, Alaka and Chattopadhyaya, Debiprasad (1990). Taranatha's History of Buddhism In India, Motilal Banarsidass. |
+| Source (bod) | (?) |
+| Date | (?) |
+| Author | Tāranātha Kun dga’ snying po (1575–1634) |
+| Translation | Lama Chimpa Chattopadhaya Alaka |
+| Tagging | Marieke Meelen |
+| Annotation | Samyo Rode & Nikolai Solmsdorf |
+| Alignment | No |
+| Genre | History |
+| Region | Tibet |
+| Language | Tibetan, Classical |
+| Normalization | No |
+| Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
+| Annotator's notes | •	Composed in 1608
+•	History of Buddhism in India and Tibet
+•	Mostly prose
+•	Limited vocabulary: Lacking diversified verb structures |
