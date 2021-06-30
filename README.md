@@ -39,36 +39,7 @@ Here is some metadata about the collection.
 | Language | Tibetan, Classical |
 | Normalization | No |
 | Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
-| Annotator's notes | •	Translated from Chinese into Tibetan ca. 9./10. cent.
-•	Canonical text (sDe dge bka’ ’gyur, mDo sde, Vol. 74,fols. 129a–298a)
-•	Collection of tales of previous births of the Buddha (skt. jātaka)
-•	Reflects structure of translated language (Non-Tibetan origin)
-•	Formulaic, repetitive narrative structure
-•	Regular grammatical structure, uniform verb frames |
-
-| Key | Value |
-| ------------- | ------------- |
-| Text ID | mila |
-| Title (eng) | The life of Milarepa |
-| Title (bod) | མི་ལའི་རྣམ་ཐར་ |
-| Source (eng) | Quintman, Andrew (2010). The Life of Milarepa, Penguin Books. |
-| Source (bod) | (?) |
-| Date | (?) |
-| Author | Gtsang smyon Heruka (1452–1507) |
-| Translation | Quintman, Andrew |
-| Tagging | Edward Garrett & Nathan Hill (?) |
-| Annotation | Samyo Rode & Nikolai Solmsdorf |
-| Alignment | Sonam Wangyal |
-| Genre | Biography |
-| Region | Tibet |
-| Language | Tibetan, Classical |
-| Normalization | No |
-| Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
-| Annotator's notes | •	Completed in 1488
-•	Vivid language, resembling Colloquial Tibetan in parts
-•	Prose interspersed with songs and poems
-•	Rich vocabulary
-•	Diverse verb structures, e.g. light verbs, auxiliary verbs |
+| Annotator's notes | Translated from Chinese into Tibetan ca. 9./10. century. Canonical text (sDe dge bka’ ’gyur, mDo sde, Vol. 74,fols. 129a–298a). Collection of tales of previous births of the Buddha (skt. jātaka)that reflects structure of translated language (Non-Tibetan origin).Formulaic, repetitive narrative structure. Regular grammatical structure, uniform verb frames. |
 
 | Key | Value |
 | ------------- | ------------- |
@@ -88,12 +59,47 @@ Here is some metadata about the collection.
 | Language | Tibetan, Classical |
 | Normalization | No |
 | Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
-| Annotator's notes | •	Composed in 1505
-•	Large percentage of text is songs and poems
-•	Vivid language, resembling Colloquial Tibetan in parts
-•	Prose interspersed with songs and poems
-•	Rich vocabulary
-•	Diverse verb structures, e.g. light verbs, auxiliary verbs |
+| Annotator's notes | Composed in 1505. Large percentage of text is songs and poems with vivid language, resembling Colloquial Tibetan in parts. Prose interspersed with songs and poems with rich vocabulary. Diverse verb structures, e.g. light verbs, auxiliary verbs. |
+
+| Key | Value |
+| ------------- | ------------- |
+| Text ID | bu_ston |
+| Title (eng) | History of Buddhism |
+| Title (bod) | བུ་སྟོན་ཆོས་འབྱུང་ |
+| Source (eng) | Obermiller, Eugeny (1931-32). The history of Buddhism (Chos ḥbyung) by Bu-ston, Heidelberg, In Kommission bei O. Harrassowitz. |
+| Source (bod) | (?) |
+| Date | (?) |
+| Author | Bu ston Rin chen grub (1290–1364) |
+| Translation | Obermiller, Eugeny |
+| Tagging | Edward Garrett & Nathan Hill (?) |
+| Annotation | Samyo Rode & Nikolai Solmsdorf |
+| Alignment | No |
+| Genre | History |
+| Region | Tibet |
+| Language | Tibetan, Classical |
+| Normalization | No |
+| Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
+| Annotator's notes | Composed in 1322. History of Buddhism in India and Tibet with a focus on philosophical subjects. Abundant citations from Canonical texts with many lists and enumerations. Verse sections. Few continuous prose sections: Less fruitful for verb-argument-structure. |
+
+| Key | Value |
+| ------------- | ------------- |
+| Text ID | mila |
+| Title (eng) | The life of Milarepa |
+| Title (bod) | མི་ལའི་རྣམ་ཐར་ |
+| Source (eng) | Quintman, Andrew (2010). The Life of Milarepa, Penguin Books. |
+| Source (bod) | (?) |
+| Date | (?) |
+| Author | Gtsang smyon Heruka (1452–1507) |
+| Translation | Quintman, Andrew |
+| Tagging | Edward Garrett & Nathan Hill (?) |
+| Annotation | Samyo Rode & Nikolai Solmsdorf |
+| Alignment | Sonam Wangyal |
+| Genre | Biography |
+| Region | Tibet |
+| Language | Tibetan, Classical |
+| Normalization | No |
+| Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
+| Annotator's notes | Completed in 1488. Vivid language, resembling Colloquial Tibetan in parts. Prose interspersed with songs and poems with rich vocabulary.Diverse verb structures, e.g. light verbs, auxiliary verbs. |
 
 | Key | Value |
 | ------------- | ------------- |
@@ -113,7 +119,4 @@ Here is some metadata about the collection.
 | Language | Tibetan, Classical |
 | Normalization | No |
 | Licensing | Creative Commons Attribution 4.0 International License (CC-BY) |
-| Annotator's notes | •	Composed in 1608
-•	History of Buddhism in India and Tibet
-•	Mostly prose
-•	Limited vocabulary: Lacking diversified verb structures |
+| Annotator's notes | Composed in 1608. History of Buddhism in India and Tibet. Mostly prose. Limited vocabulary: Lacking diversified verb structures. |
